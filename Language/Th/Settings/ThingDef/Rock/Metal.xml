@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="IronOre" sParam="Plant">
+			<ThingName>สายชีพจรแร่เหล็ก</ThingName>
+			<Desc>ภูเขาที่อุดมไปด้วยแร่เหล็ก ที่ซึ่งสามารถขุดหาแร่เหล็กได้จากที่นี่</Desc>
+		</Text>
+		<Text Name="CopperOre" sParam="Plant">
+			<ThingName>สายชีพจรแร่ทองแดงอัคคี</ThingName>
+			<Desc>ภูเขาที่อุดมไปด้วยแร่ทองแดงอัคคี ที่ซึ่งสามารถขุดหาแร่ทองแดงอัคคีได้จากที่นี่</Desc>
+		</Text>
+		<Text Name="SilverOre" sParam="Plant">
+			<ThingName>สายชีพจรแร่ผลึกน้ำแข็ง</ThingName>
+			<Desc>ภูเขาที่อุดมไปด้วยแร่ผลึกน้ำแข็ง ที่ซึ่งสามารถขุดหาแร่ผลึกน้ำแข็งได้จากที่นี่</Desc>
+		</Text>
+		<Text Name="RockLing" sParam="Plant">
+			<ThingName>สายชีพจรหินวิญญาณ</ThingName>
+			<Desc>ภูเขาที่อุดมไปด้วยหินวิญญาณ ที่ซึ่งสามารถขุดหาหินวิญญาณได้จากที่นี่</Desc>
+		</Text>
+	</List>
+</Texts>

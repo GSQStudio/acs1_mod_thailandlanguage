@@ -1,0 +1,67 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="ClothesBase" sParam="Item">
+			<Item.FabaoSuffix>เสื้อผ้า, เกราะ, เสื้อคลุม, เสื้อ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerClothes" sParam="Item">
+			<ThingName>เสื้อบางๆ</ThingName>
+			<Desc>เสื้อผ้าที่ระบายอากาศได้ดีมาก ทว่าช่วยป้องกันความหนาวเย็นได้เพียงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Item_SilkClothes" sParam="Item">
+			<ThingName>เสื้อฤดูร้อน</ThingName>
+			<Desc>เสื้อผ้าที่ให้ความรู้สึกสดชื่นและผ่อนคลาย สวมใส่แล้วรู้สึกเย็นสบาย</Desc>
+		</Text>
+		<Text Name="Item_PracticeClothes" sParam="Item">
+			<ThingName>เสื้อประจำสำนัก</ThingName>
+			<Desc>เครื่องแบบมาตรฐานของสำนักช่วยให้ร่างกายอบอุ่นได้ดี แต่ใส่แล้วค่อนข้างร้อนและอึดอัด</Desc>
+		</Text>
+		<Text Name="Item_FormalClothes" sParam="Item">
+			<ThingName>เสื้อลำลอง</ThingName>
+			<Desc>เสื้อผ้าลำลองในชีวิตประจำวัน ช่วยให้ร่างกายอบอุ่นแต่ระบายอากาศได้ไม่ค่อยดีเท่าไรนัก</Desc>
+		</Text>
+		<Text Name="Item_WinterClothes" sParam="Item">
+			<ThingName>เสื้อฤดูหนาว</ThingName>
+			<Desc>เสื้อผ้าที่หนาและแข็งแรง ช่วยเพิ่มความอบอุ่นให้แก่ร่างกายได้อย่างเต็มที่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes1" sParam="Item">
+			<ThingName>เสื้อคลุมเกล็ดมังกร</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ขึ้นมาจากเกล็ดมังกร มีความสามารถในการยกระดับทักษะเกราะปราณให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes2" sParam="Item">
+			<ThingName>เสื้อคลุมรัตติกาล</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยเส้นดายแฝงไปด้วยปราณหยินอันบริสุทธิ์ มีความสามารถในการยกระดับทักษะปราณเวทให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes3" sParam="Item">
+			<ThingName>เสื้อคลุมประกายเพลิง</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยเส้นดายแฝงไปด้วยปราณหยางอันบริสุทธิ์ มีความสามารถในการยกระดับทักษะอาวุธวิเศษให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes4" sParam="Item">
+			<ThingName>เสื้อคลุมนภาฟ้า</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยวิธีการลับที่ท้าทายสวรรค์เป็นอย่างยิ่ง มีความสามารถในการลดเมล็ดเต๋าให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes5" sParam="Item">
+			<ThingName>เสื้อคลุมอาภรณ์วิหค</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยขนของวิหคสวรรค์ที่มีอานุภาพในการปัดเป่าสิ่งชั่วร้ายทั้งปวง มีความสามารถในการยกระดับสภาวะจิตโดยการขับไล่มารในใจให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes6" sParam="Item">
+			<ThingName>เสื้อคลุมทองคำ</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยเส้นดายแฝงไปด้วยปราณหยางอันบริสุทธิ์ มีความสามารถในการยกระดับทักษะอาวุธวิเศษให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes7" sParam="Item">
+			<ThingName>เสื้อคลุมอาบอัคคี</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยขนของอสูรหนูเพลิงโลกันต์ มีความสามารถในการยกระดับทักษะเกราะปราณและลดความเสียหายธาตุไฟให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes8" sParam="Item">
+			<ThingName>เสื้อคลุมท่องสมุทร</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยวิธีการลับที่ท้าทายสวรรค์เป็นอย่างยิ่ง มีความสามารถในการลดเมล็ดเต๋าให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes9" sParam="Item">
+			<ThingName>เสื้อคลุมเงาวิญญาณ</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยเส้นดายแฝงไปด้วยปราณหยินอันบริสุทธิ์ มีความสามารถในการยกระดับทักษะปราณเวทให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes10" sParam="Item">
+			<ThingName>เสื้อคลุมหยกเมฆา</ThingName>
+			<Desc>เสื้อผ้าวิเศษที่ถูกถักทอขึ้นมาด้วยขนของวิหคสวรรค์ที่มีอานุภาพในการปัดเป่าสิ่งชั่วร้ายทั้งปวง มีความสามารถในการยกระดับสภาวะจิตโดยการขับไล่มารในใจให้แก่ผู้สวมใส่</Desc>
+		</Text>
+	</List>
+</Texts>

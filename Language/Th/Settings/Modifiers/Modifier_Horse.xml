@@ -1,0 +1,52 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Horse_All_0">
+			<DisplayName>โบนัสความเร็วในการบินผจญภัย</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_All_7">
+			<DisplayName>โบนัสปริมาณปราณสูงสุด</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Rabbit_10">
+			<DisplayName>กระต่าย</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Chicken_10">
+			<DisplayName>ไก่</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Wolf_10">
+			<DisplayName>หมาป่า</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Snake_10">
+			<DisplayName>งู</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Boar_10">
+			<DisplayName>หมูป่า</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Bear_10">
+			<DisplayName>หมี</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Frog_10">
+			<DisplayName>กบ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Turtle_10">
+			<DisplayName>เต่า</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Cat_10">
+			<DisplayName>แมว</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Cattle_10">
+			<DisplayName>กระทิง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Tiger_10">
+			<DisplayName>เสือ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Panda_10">
+			<DisplayName>แพนด้า</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_LuShu_0">
+			<DisplayName>ลู่ซู</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Fei_0">
+			<DisplayName>เฟย</DisplayName>
+		</Text>
+	</List>
+</Texts>

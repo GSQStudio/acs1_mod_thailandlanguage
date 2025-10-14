@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="_OnTheWay">
+			<DisplayName>กำลังไป</DisplayName>
+		</Text>
+		<Text Name="_GodOnTheWay">
+			<DisplayName>เทพกำลังไป</DisplayName>
+		</Text>
+		<Text Name="_InMap">
+			<DisplayName>พื้นที่</DisplayName>
+		</Text>
+		<Text Name="_StayFree">
+			<DisplayName>กำลังท่องโลกกว้าง</DisplayName>
+		</Text>
+		<Text Name="Place_OldSchool">
+			<DisplayName>สำนักโบราณ</DisplayName>
+		</Text>
+		<Text Name="_TestMap">
+			<DisplayName>กำลังไป</DisplayName>
+		</Text>
+		<Text Name="_LOSTPALCE">
+			<DisplayName>ดินแดนที่หายสาปสูญ (ว่างเปล่า)</DisplayName>
+		</Text>
+	</List>
+</Texts>

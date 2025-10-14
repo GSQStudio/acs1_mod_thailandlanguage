@@ -1,0 +1,103 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Bed" sParam="Building">
+			<ThingName>เตียง</ThingName>
+			<Desc>เตียงเดี่ยวที่ช่วยให้นอนหลับสบายตลอดคืน</Desc>
+		</Text>
+		<Text Name="DoubleBed" sParam="Building">
+			<ThingName>เตียงคู่</ThingName>
+			<Desc>เตียงคู่เหมาะที่สำหรับคนสองคน</Desc>
+		</Text>
+		<Text Name="SmallTable" sParam="Building">
+			<ThingName>โต๊ะยาว</ThingName>
+			<Desc>โต๊ะกินข้าวทั่วๆ ไป</Desc>
+		</Text>
+		<Text Name="Table" sParam="Building">
+			<ThingName>โต๊ะสี่เหลี่ยม</ThingName>
+			<Desc>โต๊ะแบบดั้งเดิมสำหรับทานอาหารเย็น</Desc>
+		</Text>
+		<Text Name="WaterTank" sParam="Building">
+			<ThingName>โอ่งน้ำ</ThingName>
+			<Desc>ภาชนะสำหรับเก็บน้ำที่สะอาด มันสะดวกต่อการนำน้ำออกมาใช้</Desc>
+		</Text>
+		<Text Name="SmallPool" sParam="Building">
+			<ThingName>สระแห่งโชคชะตา</ThingName>
+			<Desc>สระน้ำที่สร้างจากทองแดงอัคคีและผลึกน้ำแข็งโดยมีเมล็ดแห่งโชคเป็นแกนหลัก มันสามารถปรับปรุงคุณภาพของดินโดยรอบได้อย่างช้าๆ</Desc>
+		</Text>
+		<Text Name="StreetLight" sParam="Building">
+			<ThingName>เสาไฟ</ThingName>
+			<Desc>ไฟประดับที่ส่องในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="StreetLight1" sParam="Building">
+			<ThingName>เสาไฟ</ThingName>
+			<Desc>ไฟประดับที่ส่องในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="StreetLight2" sParam="Building">
+			<ThingName>เสาไฟ</ThingName>
+			<Desc>ไฟประดับที่ส่องในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Lantern" sParam="Building">
+			<ThingName>โคมไฟ</ThingName>
+			<Desc>โคมไฟที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Lantern1" sParam="Building">
+			<ThingName>โคมไฟ</ThingName>
+			<Desc>โคมไฟที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Lantern2" sParam="Building">
+			<ThingName>โคมไฟ (ป้องกัน)</ThingName>
+		</Text>
+		<Text Name="Lantern3" sParam="Building">
+			<ThingName>โคมไฟ</ThingName>
+			<Desc>โคมไฟที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Lantern4" sParam="Building">
+			<ThingName>โคมไฟ</ThingName>
+			<Desc>โคมไฟที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Lantern5" sParam="Building">
+			<ThingName>โคมไฟรุ่งเรือง</ThingName>
+			<Desc>โคมไฟที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Lantern6" sParam="Building">
+			<ThingName>โคมไฟปรองดอง</ThingName>
+			<Desc>โคมไฟที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Lantern_S1" sParam="Building">
+			<ThingName>โคมนกกระสา</ThingName>
+			<Desc>โคมไฟที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Candlestick" sParam="Building">
+			<ThingName>ตะเกียงน้ำมัน</ThingName>
+			<Desc>ไฟที่มักใช้ในอาคารซึ่งส่องในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="TicTacToe" sParam="Building">
+			<ThingName>กระดานโอเอ็ก</ThingName>
+			<Desc>ไม่ต้องใช้วัสดุใดๆ มีเพียงพื้นที่ว่างบนพื้นเพื่อใช้เล่นโอ-เอ็ก</Desc>
+		</Text>
+		<Text Name="GoTable" sParam="Building">
+			<ThingName>กระดานหมากล้อม</ThingName>
+			<Desc>กระดานหมากล้อมที่มีตารางขนาด 19x19 ที่ใช้สำหรับเล่นหมากล้อม</Desc>
+		</Text>
+		<Text Name="GuzhengTable" sParam="Building">
+			<ThingName>พิณ</ThingName>
+			<Desc>พิณที่ใช้บรรเลงเพลงเพื่อผ่อนคลายอารมณ์</Desc>
+		</Text>
+		<Text Name="CalligraphyTable" sParam="Building">
+			<ThingName>โต๊ะวาดยันต์</ThingName>
+			<Desc>โต๊ะที่มีพู่กัน,แท่งหมึก,กระดาษและหินหมึกที่ใช้สำรหับวาดยันต์ นอกจากนี้มันยังสามารถใช้ในการผ่อนคลายจิตใจได้อีกด้วย</Desc>
+		</Text>
+		<Text Name="CageShelf" sParam="Building">
+			<ThingName>กรงนก</ThingName>
+			<Desc>กรงนกที่ทำขึ้นอย่างสวยงามสำหรับผู้ที่เลี้ยงนกและแมลง</Desc>
+		</Text>
+		<Text Name="Building_Tomb" sParam="Building">
+			<ThingName>หลุมศพ</ThingName>
+			<Desc>สถานที่ฝังศพที่เรียบง่ายสำหรับคนตาย</Desc>
+		</Text>
+		<Text Name="Building_BigTomb" sParam="Building">
+			<ThingName>สุสาน</ThingName>
+			<Desc>สถานที่ฝังศพสำหรับคนตาย</Desc>
+		</Text>
+	</List>
+</Texts>

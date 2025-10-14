@@ -1,0 +1,127 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong8_a0">
+			<DisplayName>ปราณรักษา</DisplayName>
+		</Text>
+		<Text Name="Gong8_a6">
+			<DisplayName>บันทึกแห่งจักรพรรดิ์นักรบ</DisplayName>
+		</Text>
+		<Text Name="Gong8_a11">
+			<DisplayName>ชำระจิต</DisplayName>
+		</Text>
+		<Text Name="Gong8_b6">
+			<DisplayName>บัญญัติแห่งเข็มทิศ</DisplayName>
+		</Text>
+		<Text Name="Gong8_b11">
+			<DisplayName>ใจกระจ่าง</DisplayName>
+		</Text>
+		<Text Name="Gong8_c0">
+			<DisplayName>เพ่งจิตฝึกปราณ</DisplayName>
+		</Text>
+		<Text Name="Gong8_c1">
+			<DisplayName>ฝ่ามือดูดปราณ</DisplayName>
+		</Text>
+		<Text Name="Gong8_c2">
+			<DisplayName>เวทเกิดใหม่</DisplayName>
+		</Text>
+		<Text Name="Gong8_c3">
+			<DisplayName>บัญญัติแกนสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c3_1">
+			<DisplayName>กระบี่แกนสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c3_2">
+			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่แกนสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c4">
+			<DisplayName>บัญญัติหยกสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c4_1">
+			<DisplayName>กระบี่หยกสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c4_2">
+			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่หยกสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c5">
+			<DisplayName>บัญญัติไข่มุกสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c5_1">
+			<DisplayName>กระบี่ไข่มุกสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c5_2">
+			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่ไข่มุกสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c6">
+			<DisplayName>บัญญัติรัศมีสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c6_1">
+			<DisplayName>กระบี่รัศมีสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c6_2">
+			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่รัศมีสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c7">
+			<DisplayName>บัญญัติตาชั่งสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c7_1">
+			<DisplayName>กระบี่ตาชั่งสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c7_2">
+			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่ตาชั่งสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c8">
+			<DisplayName>บัญญัติกระจ่างสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c8_1">
+			<DisplayName>กระบี่กระจ่างสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c8_2">
+			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่กระจ่างสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c9">
+			<DisplayName>บัญญัติแสงสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c9_1">
+			<DisplayName>กระบี่แสงสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c9_2">
+			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่แสงสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong8_c11">
+			<DisplayName>ผันเปลี่ยนชะตา</DisplayName>
+		</Text>
+		<Text Name="Gong8_c11_1">
+			<DisplayName>ทลายชะตาฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong8_d0">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong8_d0_1">
+			<DisplayName>เคล็ดวิชากระบี่ทองคำตัดดารา</DisplayName>
+		</Text>
+		<Text Name="Gong8_d1">
+			<DisplayName>เนตรดารา</DisplayName>
+		</Text>
+		<Text Name="Gong8_d6">
+			<DisplayName>เคล็ดวิชากระบี่ทองคำตัดดารา</DisplayName>
+		</Text>
+		<Text Name="Gong8_d6_1">
+			<DisplayName>เคล็ดวิชากระบี่ทองคำตัดดารา</DisplayName>
+		</Text>
+		<Text Name="Gong8_d6_2">
+			<DisplayName>เคล็ดวิชากระบี่ทองคำตัดดารา</DisplayName>
+		</Text>
+		<Text Name="Gong8_d10">
+			<DisplayName>ทำนายวัฏจักรชะตาฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong8_d11">
+			<DisplayName>ท่วงทำนองศักดิ์สิทธิ์</DisplayName>
+		</Text>
+		<Text Name="Gong8_e4">
+			<DisplayName>โอสถเทพวิถีฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong8_e8">
+			<DisplayName>ทักษะหลอมวิถีสวรรค์</DisplayName>
+		</Text>
+	</List>
+</Texts>

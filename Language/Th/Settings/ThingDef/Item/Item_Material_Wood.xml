@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBase" sParam="Item">
+			<Item.FabaoSuffix>ไม้, กิ่ง, แถว, เสาเข็ม</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wood" sParam="Item">
+			<ThingName>ไม้</ThingName>
+			<Desc>ไม้คุณภาพดี เป็นวัสดุที่ใช้ทำงานฝีมือทั่วไป</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWood" sParam="Item">
+			<ThingName>ไม้ทองคำ</ThingName>
+			<Desc>ไม้ทองคำอันล้ำค่าที่มีอายุร้อยปี เป็นวัสดุที่หนักและแข็งแรงมาก</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้ทองคำ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWood" sParam="Item">
+			<ThingName>ไม้หงส์เพลิง</ThingName>
+			<Desc>ไม้ศักดิ์สิทธิ์ที่เหล่าหงส์เพลิงมักจะนำไปใช้สร้างเป็นที่อยู่อาศัย มันมีพื้นผิวเรียบและเนื้อสัมผัสที่แข็งมาก อีกทั้งมันยังมีปราณอันหนาแน่นแฝงอยู่ภายในอีกด้วย มันเป็นวัตถุดิบล้ำค่าที่หาได้ยากเป็นอย่างมาก</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้หงส์</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWood" sParam="Item">
+			<ThingName>ไม้วิญญาณ</ThingName>
+			<Desc>ไม้ที่ถูกหล่อหลอมด้วยปราณเพื่อทำให้มันบริสุทธิ์ มันเป็นวัสดุที่มีเนื้อแข็งและสามารถทนไฟได้ดี</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้วิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,19 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Trade_NoItem">
+			<DisplayName>สินค้าหมด</DisplayName>
+			<Desc>ข้าไม่มีอะไรจะขายแล้ว</Desc>
+			<Selections.0.Display>ข้าต้องการถามอะไรบางอย่าง</Selections.0.Display>
+			<Selections.1.Display>ไม่เป็นไร</Selections.1.Display>
+		</Text>
+		<Text Name="Trade_WalkTrader">
+			<DisplayName>ข้อมูลจากพ่อค้า</DisplayName>
+			<Desc>ท่านอยากรู้ว่ามีของสิ่งใดที่ถูกนำมาประมูลหรือไม่?</Desc>
+			<Selections.0.Display>ใครจะเข้าร่วมงานประมูลบ้าง?</Selections.0.Display>
+		</Text>
+		<Text Name="Trade_WalkTrader_2">
+			<DisplayName>ข้อมูลจากพ่อค้า</DisplayName>
+			<Desc>ข้าเกรงว่าท่านจะไม่มีคุณสมบัติที่จำเป็นในการเข้าไปในโรงประมูล</Desc>
+		</Text>
+	</List>
+</Texts>

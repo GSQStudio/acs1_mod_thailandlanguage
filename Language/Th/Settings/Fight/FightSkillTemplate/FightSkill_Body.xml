@@ -1,0 +1,8 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_FightSkill_Body_AngerFire">
+			<DisplayName>บ้าคลั่ง</DisplayName>
+			<Desc>หวนนึกถึง [b][my_property=BodyPractice_AngerFireNum|{0:F0}][/b] ที่เจ็บปวดที่สุดในชีวิตและเปลี่ยนอารมณ์ด้านลบนั้นเป็นความเกรี้ยวกราดบ้าคลั่ง เป็นเวลา [b][my_property=BodyPractice_AngerFireDuration|{0:F0}][/b] วินาที ยิ่งอารมณ์ด้านลบมีมากเท่าไร พลังก็ยิ่งแข็งแกร่งมากเท่านั้น</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,360 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
+			<DisplayName>กินเจอเหรียญ</DisplayName>
+			<Desc>อาหารทุกชนิดมีโอกาสเล็กน้อยในการเจอเหรียญ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin2">
+			<DisplayName>กินเจอเหรียญ</DisplayName>
+			<Desc>อาหารทุกชนิดมีโอกาสเล็กน้อยในการเจอเหรียญเมื่อบริโภค</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin3">
+			<DisplayName>กินเจอเหรียญ</DisplayName>
+			<Desc>อาหารทุกชนิดมีโอกาสสูงในการเจอเหรียญ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FaBaoSpecialAbility">
+			<DisplayName>อาวุธวิเศษได้รับผลพิเศษ</DisplayName>
+			<Desc>ได้รับเอฟเฟกต์อาวุธวิเศษหายากแบบสุ่มเมื่อสร้างสำเร็จ</Desc>
+			<Effects.0.SpecialAbilities.0.Desc>เพิ่มความเสียหายต่อเป้าหมายธาตุดิน 80%</Effects.0.SpecialAbilities.0.Desc>
+			<Effects.0.SpecialAbilities.1.Desc>ทุกการโจมตีครั้งที่ 15 จะโจมตีร่างกายของผู้ฝึกตนเอง ทะลุเกราะและสร้างความเสียหายเพิ่มเติม</Effects.0.SpecialAbilities.1.Desc>
+			<Effects.0.SpecialAbilities.2.Desc>ทุก 3 ครั้งของการโจมตี จะสร้างเงาร่างหนาม 9 อัน ที่คงอยู่เป็นเวลา 3 วินาที</Effects.0.SpecialAbilities.2.Desc>
+			<Effects.0.SpecialAbilities.3.Desc>พลังพื้นฐานของอาวุธวิเศษเพิ่มขึ้น 1% สำหรับทุกวินาทีที่อาวุธลอยอยู่ในอากาศ เมื่ออาวุธกลับมา ผลจะถูกรีเซ็ต</Effects.0.SpecialAbilities.3.Desc>
+			<Effects.0.SpecialAbilities.4.Desc>ทุกการโจมตี 12 ครั้งบนอาวุธวิเศษเดียวกัน จะทำให้เป้าหมายหมดสภาพชั่วขณะตามระดับของมัน</Effects.0.SpecialAbilities.4.Desc>
+			<Effects.0.SpecialAbilities.5.Desc>สำหรับทุก 1% ของพลังชีวิตที่ลดลง พลังของอาวุธวิเศษเพิ่มขึ้น 5%</Effects.0.SpecialAbilities.5.Desc>
+			<Effects.0.SpecialAbilities.6.Desc>ทุกการสังหารสิ่งมีชีวิตหนึ่ง จะเพิ่มพลังของอาวุธวิเศษ 10% สูงสุด 36 ครั้ง หากไม่ดื่มเลือดเป็นเวลา 1 วัน ผลจะถูกรีเซ็ต</Effects.0.SpecialAbilities.6.Desc>
+			<Effects.0.SpecialAbilities.7.Desc>ทุกการโจมตีครั้งที่ 9 จะร่ายเวทใส่ศัตรูเป้าหมาย</Effects.0.SpecialAbilities.7.Desc>
+			<Effects.0.SpecialAbilities.8.Desc>ทักษะการป้องกันเพิ่มขึ้น 10</Effects.0.SpecialAbilities.8.Desc>
+			<Effects.0.SpecialAbilities.9.Desc>เมื่อผู้ใช้ตาย มันจะแตกสลาย สามารถฝืนชะตาคืนชีพและฟื้นฟูทุกบาดแผล</Effects.0.SpecialAbilities.9.Desc>
+			<Effects.0.SpecialAbilities.10.Desc>ยิ่งผู้ใช้ใกล้ถึงอายุขัยสูงสุดมากเท่าไร อาวุธวิเศษจะทรงพลังมากขึ้นเท่านั้น</Effects.0.SpecialAbilities.10.Desc>
+			<Effects.0.SpecialAbilities.11.Desc>10% ของความเสียหายที่สร้าง จะถูกเติมกลับเข้าสู่ปราณของอาวุธวิเศษ</Effects.0.SpecialAbilities.11.Desc>
+			<Effects.0.SpecialAbilities.12.Desc>ทุกการโจมตี 7 ครั้ง จะสร้างเงาร่างกระบี่ที่คงอยู่เป็นเวลา 7 วินาที</Effects.0.SpecialAbilities.12.Desc>
+			<Effects.0.SpecialAbilities.13.Desc>ทักษะเวทเพิ่มขึ้น 10</Effects.0.SpecialAbilities.13.Desc>
+			<Effects.0.SpecialAbilities.14.Desc>เพิ่มความเสียหายต่อเป้าหมายธาตุไม้ 100%</Effects.0.SpecialAbilities.14.Desc>
+			<Effects.0.SpecialAbilities.15.Desc>เพิ่มความเสียหายต่อเป้าหมายธาตุดิน 100%</Effects.0.SpecialAbilities.15.Desc>
+			<Effects.0.SpecialAbilities.16.Desc>เพิ่มความเสียหายต่อเป้าหมายธาตุไฟ 100%</Effects.0.SpecialAbilities.16.Desc>
+			<Effects.0.SpecialAbilities.17.Desc>เพิ่มความเสียหายต่อเป้าหมายธาตุทอง 100%</Effects.0.SpecialAbilities.17.Desc>
+			<Effects.0.SpecialAbilities.18.Desc>เพิ่มความเสียหายต่อเป้าหมายธาตุน้ำ 100%</Effects.0.SpecialAbilities.18.Desc>
+			<Effects.0.SpecialAbilities.19.Desc>ปกคลุมรอบตัว เน้นการป้องกันและจะไม่โจมตี</Effects.0.SpecialAbilities.19.Desc>
+			<Effects.0.SpecialAbilities.20.Desc>ทุกการใช้ปราณ 10,000 หน่วย ความเสียหายเพิ่มขึ้น 10% สูงสุด 1000% ผลจะถูกรีเซ็ตเมื่อเติมปราณให้อาวุธวิเศษ</Effects.0.SpecialAbilities.20.Desc>
+			<Effects.0.SpecialAbilities.21.Desc>สำหรับแต่ละชนิดของโอสถที่บริโภค พลังเพิ่มขึ้น 5%</Effects.0.SpecialAbilities.21.Desc>
+			<Effects.0.SpecialAbilities.22.Desc>ทุกการโจมตี 2 ครั้ง ลดเวลาคูลดาวน์ของทักษะลง 1 วินาที</Effects.0.SpecialAbilities.22.Desc>
+			<Effects.0.SpecialAbilities.23.Desc>ทักษะการเชี่ยวชาญดาบเพิ่มขึ้น 10 ระดับ</Effects.0.SpecialAbilities.23.Desc>
+			<Effects.0.SpecialAbilities.24.Desc>สร้างความเสียหาย 1.5 เท่าเมื่อต่อสู้กับอาวุธวิเศษอื่น</Effects.0.SpecialAbilities.24.Desc>
+			<Effects.0.SpecialAbilities.25.Desc>เมื่อสร้างความเสียหาย มีโอกาส 10% ที่จะสร้างความเสียหาย 5 เท่า</Effects.0.SpecialAbilities.25.Desc>
+			<Effects.0.SpecialAbilities.26.Desc>สร้างความเสียหาย 1.5 เท่าเมื่อโจมตีร่างกายของศัตรูโดยตรง</Effects.0.SpecialAbilities.26.Desc>
+			<Effects.0.SpecialAbilities.27.Desc>เมื่อโจมตีร่างกายของศัตรูโดยตรง มีโอกาส 1% ที่จะสร้างความเสียหายเพิ่มเติมเท่ากับ 30% ของปราณปัจจุบันของเป้าหมาย</Effects.0.SpecialAbilities.27.Desc>
+			<Effects.0.SpecialAbilities.28.Desc>เพิ่มโบนัสฐานพลังอาวุธวิเศษ 30%</Effects.0.SpecialAbilities.28.Desc>
+			<Effects.0.SpecialAbilities.29.Desc>เพิ่มโบนัสฐานปราณอาวุธวิเศษ 30%</Effects.0.SpecialAbilities.29.Desc>
+			<Effects.0.SpecialAbilities.30.Desc>เพิ่มฐานการต้านทานการกระเด็นของอาวุธวิเศษ 30%</Effects.0.SpecialAbilities.30.Desc>
+			<Effects.0.SpecialAbilities.31.Desc>เพิ่มฐานความเร็วในการเลี้ยวของอาวุธวิเศษ 30%</Effects.0.SpecialAbilities.31.Desc>
+			<Effects.0.SpecialAbilities.32.Desc>เพิ่มฐานอัตราการฟื้นฟูปราณของอาวุธวิเศษ 30%</Effects.0.SpecialAbilities.32.Desc>
+			<Effects.0.SpecialAbilities.33.Desc>เพิ่มฐานการตีกระเด็นของอาวุธวิเศษ 30%</Effects.0.SpecialAbilities.33.Desc>
+			<Effects.0.SpecialAbilities.34.Desc>เพิ่มฐานความเร็วบินของอาวุธวิเศษ 30%</Effects.0.SpecialAbilities.34.Desc>
+			<Effects.0.SpecialAbilities.35.Desc>พลังของการโจมตีด้วยกระบี่ครั้งแรกเพิ่มขึ้น 500% ผลจะถูกรีเซ็ตเมื่อเติมปราณให้อาวุธวิเศษ</Effects.0.SpecialAbilities.35.Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_PlantIgnoreTemp">
+			<DisplayName>พืชไม่สนใจเงื่อนไขอุณหภูมิ  </DisplayName>
+			<Desc>พืชพรรณแห่งนิกายมิหวั่นไหวต่อเงื่อนไขอุณหภูมิในการเติบโต</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion">
+			<Desc>เพิ่มอัตราความสำเร็จในการชักชวนของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion2">
+			<Desc>เพิ่มอัตราความสำเร็จในการชักชวนของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion3">
+			<Desc>เพิ่มอัตราความสำเร็จในการชักชวนของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_PuppetDropHPStop">
+			<Desc>หุ่นเชิดหยุดเสื่อมสภาพ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_1">
+			<Desc>เพิ่มความเร็วฟื้นฟูพลังปราณของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_2">
+			<Desc>เพิ่มความเร็วฟื้นฟูพลังปราณของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_3">
+			<Desc>เพิ่มความเร็วฟื้นฟูพลังปราณของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_4">
+			<Desc>เสริมความเร็วในการบ่มเพาะพลังของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_5">
+			<Desc>เพิ่มความเร็วในการบ่มเพาะพลังของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_6">
+			<Desc>ศิษย์นิกายหิวน้อยลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_7">
+			<Desc>ศิษย์นิกายเหนื่อยน้อยลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_8">
+			<Desc>ศิษย์นิกายกระหายน้ำน้อยลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_9">
+			<Desc>เพิ่มพลังเกราะปราณของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_10">
+			<Desc>เพิ่มพลังเกราะปราณของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_11">
+			<Desc>เพิ่มโอกาสทะลวงคอขวดของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_12">
+			<Desc>เพิ่มโอกาสทะลวงคอขวดของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_13">
+			<Desc>เพิ่มโอกาสทะลวงคอขวดของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_14">
+			<Desc>เพิ่มความสามารถในการอยู่อย่างไม่ต้องกินของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_15">
+			<Desc>พัฒนาความสามารถของศิษย์นิกายในการอดอาหารและน้ำ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_16">
+			<Desc>เสริมความสามารถของศิษย์นิกายในการอดอาหารและน้ำอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_17">
+			<Desc>ลดแต้มญาณของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_18">
+			<Desc>ลดแต้มญาณของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_19">
+			<Desc>ลดแต้มบุญแห่งเต๋าของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_20">
+			<Desc>เพิ่มขีดจำกัดอายุขัยของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_21">
+			<Desc>เพิ่มขีดจำกัดอายุขัยของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_22">
+			<Desc>เพิ่มขีดจำกัดอายุขัยของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_23">
+			<Desc>เพิ่มความเร็วเคลื่อนที่ของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_24">
+			<Desc>เพิ่มความเร็วเคลื่อนที่ของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_25">
+			<Desc>เพิ่มความเร็วเคลื่อนที่ของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_26">
+			<Desc>เสริมความเร็วสร้างรากฐานของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_27">
+			<Desc>เสริมความเร็วสร้างรากฐานของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_28">
+			<Desc>เสริมความเร็วการเรียนรู้ของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_29">
+			<Desc>เสริมความเร็วการเรียนรู้ของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_30">
+			<Desc>เพิ่มความเร็วในการทำงานโดยรวมของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_31">
+			<Desc>เพิ่มความเร็วในการทำงานของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_32">
+			<Desc>เพิ่มความเร็วในการทำงานของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_33">
+			<Desc>เพิ่มค่าฐานสภาวะจิตของศิษย์นิกายเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_34">
+			<Desc>เพิ่มค่าฐานสภาวะจิตของศิษย์นิกาย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_35">
+			<Desc>เพิ่มค่าฐานสภาวะจิตของศิษย์นิกายอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_36">
+			<Desc>ความสามารถรับภาระด้านค่ายกลของศิษย์นิกายเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_37">
+			<Desc>ความสามารถรับภาระด้านค่ายกลของศิษย์นิกายเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_40">
+			<Desc>ระดับทักษะต่อสู้ของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_41">
+			<Desc>ระดับทักษะต่อสู้ของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_42">
+			<Desc>ระดับทักษะต่อสู้ของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_43">
+			<Desc>ระดับทักษะสังคมของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_44">
+			<Desc>ระดับทักษะสังคมของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_45">
+			<Desc>ระดับทักษะสังคมของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_46">
+			<Desc>ระดับทักษะงานฝีมือของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_47">
+			<Desc>ระดับทักษะงานฝีมือของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_48">
+			<Desc>ระดับทักษะศิลปะของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_49">
+			<Desc>ระดับทักษะสัมผัสปราณของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_50">
+			<Desc>ระดับทักษะสัมผัสปราณของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_51">
+			<Desc>ระดับทักษะสัมผัสปราณของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_52">
+			<Desc>ระดับทักษะหลอมสร้างอาวุธวิเศษของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_53">
+			<Desc>ระดับทักษะหลอมสร้างอาวุธวิเศษของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_54">
+			<Desc>ระดับทักษะหลอมสร้างอาวุธวิเศษของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_55">
+			<Desc>ระดับทักษะแพทย์/ปรุงโอสถของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_56">
+			<Desc>ระดับทักษะแพทย์/ปรุงโอสถของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_57">
+			<Desc>ระดับทักษะแพทย์/ปรุงโอสถของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_58">
+			<Desc>ระดับทักษะควบคุมอาวุธวิเศษของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_59">
+			<Desc>ระดับทักษะควบคุมอาวุธวิเศษของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_60">
+			<Desc>ระดับทักษะควบคุมอาวุธวิเศษของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_61">
+			<Desc>ระดับทักษะเวทมนตร์ของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_62">
+			<Desc>ระดับทักษะเวทมนตร์ของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_63">
+			<Desc>ระดับทักษะเวทมนตร์ของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_64">
+			<Desc>ระดับทักษะป้องกันของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_65">
+			<Desc>ระดับทักษะป้องกันของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_66">
+			<Desc>ระดับทักษะป้องกันของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_67">
+			<Desc>ระดับทักษะค่ายกลของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_68">
+			<Desc>ระดับทักษะค่ายกลของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_69">
+			<Desc>ระดับทักษะค่ายกลของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_70">
+			<Desc>ระดับทักษะขุดแร่ของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_71">
+			<Desc>ระดับทักษะขุดแร่ของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_72">
+			<Desc>ระดับทักษะขุดแร่ของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_73">
+			<Desc>ระดับทักษะเกษตรของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_74">
+			<Desc>ระดับทักษะเกษตรของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_75">
+			<Desc>ระดับทักษะเกษตรของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_76">
+			<Desc>ระดับทักษะก่อสร้างของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_77">
+			<Desc>ระดับทักษะก่อสร้างของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_78">
+			<Desc>ระดับทักษะก่อสร้างของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_79">
+			<Desc>ระดับทักษะทำอาหารของศิษย์นิกาย +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_80">
+			<Desc>ระดับทักษะทำอาหารของศิษย์นิกาย +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_81">
+			<Desc>ระดับทักษะทำอาหารของศิษย์นิกาย +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_82">
+			<Desc>เสน่ห์ของศิษย์นิกายเพิ่มขึ้น 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_83">
+			<Desc>เสน่ห์ของศิษย์นิกายเพิ่มขึ้น 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_84">
+			<Desc>เสน่ห์ของศิษย์นิกายเพิ่มขึ้น 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_85">
+			<Desc>ปัญญาของศิษย์นิกายเพิ่มขึ้น 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_86">
+			<Desc>ปัญญาของศิษย์นิกายเพิ่มขึ้น 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_87">
+			<Desc>ปัญญาของศิษย์นิกายเพิ่มขึ้น 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_88">
+			<Desc>โชคของศิษย์นิกายเพิ่มขึ้น 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_89">
+			<Desc>โชคของศิษย์นิกายเพิ่มขึ้น 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_90">
+			<Desc>โชคของศิษย์นิกายเพิ่มขึ้น 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_91">
+			<Desc>ค่าการรับรู้ของศิษย์นิกายเพิ่มขึ้น 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_92">
+			<Desc>ค่าการรับรู้ของศิษย์นิกายเพิ่มขึ้น 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_93">
+			<Desc>ค่าการรับรู้ของศิษย์นิกายเพิ่มขึ้น 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_94">
+			<Desc>ค่าความอึดของศิษย์นิกายเพิ่มขึ้น 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_95">
+			<Desc>ค่าความอึดของศิษย์นิกายเพิ่มขึ้น 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_96">
+			<Desc>ค่าความอึดของศิษย์นิกายเพิ่มขึ้น 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_97">
+			<Desc>ห้าคุณลักษณะของศิษย์นิกายเพิ่มขึ้น 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_38">
+			<Desc>ห้าคุณลักษณะของศิษย์นิกายเพิ่มขึ้น 30%</Desc>
+		</Text>
+	</List>
+</Texts>

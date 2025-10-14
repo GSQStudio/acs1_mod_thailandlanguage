@@ -1,0 +1,64 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BornComa">
+			<DisplayName>สลบ</DisplayName>
+			<Desc>หมดสติไป</Desc>
+		</Text>
+		<Text Name="FightPowerUp">
+			<DisplayName>เพิ่มความแข็งแกร่ง</DisplayName>
+			<Desc>การโจมตีและการป้องกันจะเพิ่มขึ้นตามพื้นฐาน</Desc>
+		</Text>
+		<Text Name="FightPowerUp_DiMu">
+			<DisplayName>พรเจ้าแม่ธรณี</DisplayName>
+			<Desc>เพิ่มความสามารถเป็นอย่างมากใต้อิทธิพลของพรของเจ้าแม่ธรณี</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp">
+			<DisplayName>พลังแห่งสายน้ำ</DisplayName>
+			<Desc>ปราณของมังกรวารีและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp">
+			<DisplayName>พลังแห่งเปลวเพลิง</DisplayName>
+			<Desc>ปราณของหงส์เพลิงและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp">
+			<DisplayName>พลังแห่งหยินหยาง</DisplayName>
+			<Desc>ปราณของมังกรเทียนและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp2">
+			<DisplayName>พลังแห่งสายน้ำ</DisplayName>
+			<Desc>ปราณของมังกรวารีและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp3">
+			<DisplayName>พลังแห่งสายน้ำ</DisplayName>
+			<Desc>ปราณของมังกรวารีและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp4">
+			<DisplayName>พลังแห่งสายน้ำ</DisplayName>
+			<Desc>ปราณของมังกรวารีและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp2">
+			<DisplayName>พลังแห่งเปลวเพลิง</DisplayName>
+			<Desc>ปราณของหงส์เพลิงและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp3">
+			<DisplayName>พลังแห่งเปลวเพลิง</DisplayName>
+			<Desc>ปราณของหงส์เพลิงและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp2">
+			<DisplayName>พลังแห่งหยินหยาง</DisplayName>
+			<Desc>ปราณของมังกรเทียนและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp3">
+			<DisplayName>พลังแห่งหยินหยาง</DisplayName>
+			<Desc>ปราณของมังกรเทียนและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp4">
+			<DisplayName>พลังแห่งหยินหยาง</DisplayName>
+			<Desc>ปราณของมังกรเทียนและพลังโจมตีเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Dan_LingTree">
+			<DisplayName>ปราณสั่นพ้องขั้นสูง</DisplayName>
+			<Desc>การสั่นพ้องปราณระหว่างพฤกษาแสงประทีปสามารถเพิ่มอัตราการฟื้นฟูของปราณได้</Desc>
+		</Text>
+	</List>
+</Texts>

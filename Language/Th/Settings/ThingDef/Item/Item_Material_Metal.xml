@@ -1,0 +1,32 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="MetalBase" sParam="Item">
+			<Item.FabaoSuffix>โลหะ, ประทับ, ศิลาจารึก, หยกคู่, แผ่น, หอคอย, หินใหญ่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_IronRock" sParam="Item">
+			<ThingName>แร่เหล็ก</ThingName>
+			<Desc>แร่โลหะที่พบมากที่สุด เป็นวัสดุที่แข็งมากและง่ายต่อการแปรรูป</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็ก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRock" sParam="Item">
+			<ThingName>แร่ทองแดงอัคคี</ThingName>
+			<Desc>แร่โลหะที่มีพลังแห่งไฟ ใครก็ตามที่เข้าใกล้จะรู้สึกถึงอุณหภูมิที่สูงขึ้นมาอย่างฉับพลัน</Desc>
+			<Item.BeMaterial.NamePrefix>ทองแดงอัคคี</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRock" sParam="Item">
+			<ThingName>แร่ผลึกน้ำแข็ง</ThingName>
+			<Desc>แร่โลหะที่สวยงามซึ่งอุดมไปด้วยพลังไอเย็น มันมีเนื้อสัมผัสที่คล้ายกับแร่เงิน ใครก็ตามที่เข้าใกล้จะรู้สึกถึงอุณหภูมิที่ลดต่ำลงไปอย่างฉับพลัน</Desc>
+			<Item.BeMaterial.NamePrefix>ผลึกน้ำแข็ง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRock" sParam="Item">
+			<ThingName>แร่เหล็กนิลกาฬ</ThingName>
+			<Desc>โลหะหายากที่มีสีเข้ม มันทั้งหนักและแข็งแกร่งเป็นอย่างยิ่ง อีกทั้งมันยังเป็นวัสดุที่สามารถใช้สร้างอาวุธได้อย่างยอดเยี่ยม</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็กนิลกาฬ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssence" sParam="Item">
+			<ThingName>แร่แสงดารา</ThingName>
+			<Desc>แก่นแท้ของอุกกาบาต มันมีคุณสมบัติทางกายภาพที่พิเศษและถือว่ามันเป็นสมบัติที่หาได้อย่างยากยิ่งในโลกแห่งการฝึกตน</Desc>
+			<Item.BeMaterial.NamePrefix>แร่แสงดารา</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

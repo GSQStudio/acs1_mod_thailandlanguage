@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Initialize">
+			<DisplayName>เริ่มต้น</DisplayName>
+		</Text>
+		<Text Name="StayInTrap">
+			<DisplayName>อยู่ในจุดกับดัก</DisplayName>
+			<PDisplayName>เวลาที่อยู่ (วิ)</PDisplayName>
+		</Text>
+		<Text Name="EnterTrap">
+			<DisplayName>เข้าไปในจุดกับดัก</DisplayName>
+		</Text>
+		<Text Name="LeaveTrap">
+			<DisplayName>ออกจากจุดกับดัก</DisplayName>
+		</Text>
+		<Text Name="BeenAttack">
+			<DisplayName>ถูกโจมตี</DisplayName>
+		</Text>
+		<Text Name="BeenDestroy">
+			<DisplayName>ถูกทำลาย</DisplayName>
+		</Text>
+		<Text Name="Dead">
+			<DisplayName>ตาาย</DisplayName>
+		</Text>
+		<Text Name="InSocial">
+			<DisplayName>กำลังโต้ตอบ</DisplayName>
+		</Text>
+		<Text Name="LeaveSocial">
+			<DisplayName>หลังการโต้ตอบ</DisplayName>
+		</Text>
+		<Text Name="NpcEnterWorkSpace">
+			<DisplayName>ตัวละครเข้าสู่จุดสร้าง</DisplayName>
+		</Text>
+		<Text Name="NpcLeaveWorkSpace">
+			<DisplayName>ตัวละครเข้าออกจากจุดสร้าง</DisplayName>
+		</Text>
+		<Text Name="OnStep">
+			<DisplayName>เรียกคืน Logic Frame</DisplayName>
+		</Text>
+		<Text Name="OnRender">
+			<DisplayName>เรียกคืน Rendering Frame</DisplayName>
+		</Text>
+	</List>
+</Texts>

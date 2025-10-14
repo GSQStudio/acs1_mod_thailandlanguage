@@ -1,0 +1,124 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Social_SayHello">
+			<Events.0.Story>เมื่อเห็น [hename] กำลังเดินมา [name] จึงโบกมือทักทาย [hename]</Events.0.Story>
+		</Text>
+		<Text Name="Social_Talk">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็น [hename] ที่กำลังรู้สึกเบื่อๆ [name] จึงชวน [hename] คุยเกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool]</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็น [hename] ที่กำลังรู้สึกเบื่อๆ [name] จึงชวน [hename] คุยเกี่ยวกับเรื่องของ[other=obj]</Events.1.Story>
+			<Events.2.Story>[name] [rand_lable=desc_action,desc_goodmood] เมื่อเห็น [hename] กำลังเดินผ่านมา [IT]จึงชวน [hename] คุยเกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool]</Events.2.Story>
+			<Events.3.Story>[name] กำลังเดินเล่นและพบกับ [hename] ที่กำลัง[desc_badmood] [IT]จึงชวน [hename] คุยเกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool]</Events.3.Story>
+			<Events.4.Story>[name][rand_lable=desc_action,desc_goodmood] เมื่อเห็น [hename] ที่กำลังรู้สึกเบื่อๆ [IT]จึงชวน [hename] คุยเกี่ยวกับเรื่องของ[other=obj]</Events.4.Story>
+		</Text>
+		<Text Name="Social_DeepTalk">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็น [hename] อยู่ใกล้ๆ [name] [rand_lable=desc_action,desc_goodmood] จึงได้ชวยคุยเกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool] ทั้งสองพูดคุยกันอย่างสนุกสนานและได้แลกเปลี่ยนความคิดซึ่งกันและกัน</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็นว่า [name] กำลัง[desc_badmood] [hename] ได้แสดงความรู้สึกเป็นห่วงออกไป เมื่อ [name] สัมผัสได้ความเป็นกังวลนั่นจึงได้ชวน [hename] คุยเกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool] ทั้งสองพูดคุยกันอย่างสนุกสนานและรู้สึกสนิทกันมากขึ้น</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็น [hename] อยู่ใกล้ๆ [name] [rand_lable=desc_action,desc_goodmood] จึงได้ชวยคุยเกี่ยวกับเรื่องของ[other=obj] ทั้งสองพูดคุยกันอย่างสนุกสนานและได้แลกเปลี่ยนความคิดซึ่งกันและกัน</Events.2.Story>
+			<Events.3.Story>[obj_weather]ที่เพิ่งผ่านพ้นไปนั้น ทำให้ [name] รู้สึกคิดถึงเรื่องในอดีต [IT]พบโอกาสและชวน [hename] คุยกันเป็นเวลานาน ทั้งสองพูดคุยกันอย่างสนุกสนานและรู้สึกสนิทกันมากขึ้น</Events.3.Story>
+			<Events.4.Story>จู่ๆ [name] รู้สึกเศร้าอย่างกะทันหันขณะที่กำลัง[obj_action] เมื่อเห็นว่า [hename] กำลังอยู่ว่างๆ [IT]จึงเริ่มชวน [hename] คุย เมื่อบทสนทนาดำเนินต่อไปอย่างลึกซึ้ง ทั้งคู่ก็รู้สึกสนิทกันมากขึ้น</Events.4.Story>
+			<Events.5.Story>ในขณะที่ [name] กำลังรู้สึกรื่นเริงจาก[obj_goodmood] [IT]อดไม่ได้ที่จะชวน [hename] คุยและแบ่งปันเรื่องราวที่ดีๆ นั่น ทั้งสองพูดคุยกันอย่างสนุกสนานและรู้สึกสนิทกันมากขึ้น</Events.5.Story>
+			<Events.6.Story>ในขณะที่ [name] กำลังรู้สึกหงุดหงิดจาก[obj_badmood] [IT]อดไม่ได้ที่จะชวน [hename] คุยปรับทุกข์เกี่ยวกับเรื่องราวแย่ๆ นั้น ทั้งสองพูดคุยกันอย่างสนุกสนานและรู้สึกสนิทกันมากขึ้น</Events.6.Story>
+			<Events.7.Story>[set=1,obj_relation] จู่ๆ [name] ก็ได้นึกถึง [hename] ขึ้นมา [get=1] [IT]พบว่ามันเป็นโอกาสดีที่จะได้พูดคุย [hename] เกี่ยวกับเรื่องราว[get=1]ในอดีต เมื่อบทสนทนาดำเนินต่อไปอย่างลึกซึ้ง ทั้งคู่ก็รู้สึกสนิทกันมากขึ้น</Events.7.Story>
+			<Events.8.Story>[set=1,obj_fabao] [name] รู้สึกสนใจในอาวุธวิเศษประจำสำนัก [get=1] และด้วยเหตุผลบางอย่าง [IT]ก็ได้ชวน [hename] พูดคุยเกี่ยวกับ[get=1]และการตอบสนอง[ITS]ก็ตื่นเต้นอย่างคาดไม่ถึง พวกเขาแอบรู้สึกว่าพวกเขาได้กลายเป็นเพื่อนที่ดีต่อกัน</Events.8.Story>
+			<Events.9.Story>[set=1,obj_dan] ยามเมื่อ[name]ได้พูดคุยกับ [hename] เกี่ยวกับ[get=1]และ [hename] ก็คิดว่า[get=1]นั้นมันมีรสชาติที่ดีกว่า[obj_food] พวกเขาคิดไม่ถึงเลยว่าอีกฝ่ายจะคิดตรงกัน ดังนั้นพวกเขาจึงเริ่มพูดในรายละเอียดมากขึ้นและแอบรู้สึกว่าพวกเขาได้กลายเป็นเพื่อนที่ดีต่อกัน</Events.9.Story>
+			<Events.10.Story>[set=1,obj_dan] [name] รู้สึกสงสัยมาตลอดว่า[get=1]นั้นมันออกฤทธิ์ยังไงกันแน่ และเมื่อ[IT]ได้พูดกับ [hename] เกี่ยวกับเรื่องนี้ก็พบว่าพวกเขาทั้งสองได้สงสัยในสิ่งเดียวกัน ดังนั้นพวกเขาก็คุยรายละเอียดกันมากขึ้นจนลืมไปว่าเวลาผ่านไปนานแค่ไหน</Events.10.Story>
+			<Events.11.Story>[set=1,obj_food] [name] นั้นรู้สึกชื่นชอบ[get=1]เป็นพิเศษและเมื่อคุยกับ [hename] ก็ได้เรียนรู้[rand_string=3,4,5,6,7,8,9,12,15]วิธีทำ[get=1]จาก[ENHIM] [name] ถึงตั้งความหวังเอาไว้ว่าจะเป็นสหายที่กับ [hename] ต่อไป</Events.11.Story>
+			<Events.12.Story>[set=1,obj_friend] ยามเมื่อคุยกับ [hename] [name] ก็ได้พูดถึง[get=1]และก็พบว่า [hename] นั้นรู้เรื่องเกี่ยวกับ[get=1]ดีเป็นอย่างมาก [name] ให้รู้สึกสนใจเรื่องนี้และได้ถามเกี่ยวกับ[get=1]จาก [hename]</Events.12.Story>
+			<Events.13.Story>[set=1,obj_nearthing] จู่ๆ [name] ก็รู้สึกสนใจเกี่ยวกับ[get=1]ที่อยู่ใกล้ๆ เมื่อ[obj_action] [IT]จึงได้ชวน[hename]ที่อยู่ใกล้ๆ พูดคุยเกี่ยวกับมัน อีกทั้ง [hename] ก็ได้รู้สึกสงสัยเกี่ยวกับ[get=1]มาซักระยะหนึ่งแล้ว ดังนั้นพวกเขาทั้งสองจึงได้พูดคุยกันอย่างถูกคอกันเป็นเวลานาน</Events.13.Story>
+			<Events.14.Story>[set=1,obj_equip] [name] ได้พูดคุยเรื่อยเปื่อยกับ [hename] และต่อมาจู่ๆ [hename] ก็ได้รู้สึกสนใจ[get=1]ของ [name] หลังจากนั้น [name] ก็เริ่มพูดคุยกับ [hename] เกี่ยวกับที่มาของ[get=1]และทำให้ [hename] รู้สึกประหลาดใจเป็นอย่างมาก</Events.14.Story>
+			<Events.15.Story>[set=1,rand_lable=obj_gong,obj_esoterica] [set=1,rand_lable=obj_gong,obj_esoterica]เมื่อเร็วๆ นี้ [name] มีปัญหากับการบ่มเพาะ[get=1] และอดไม่ได้ที่จะพูดคุย [hename] เกี่ยวกับเรื่องนี้ ส่วน [hename] เองก็มีปัญหาคลายๆ กันนี้เช่นกัน ดังนั้นพวกเขาทั้งสองจึงเริ่มคุยและแลกเปลี่ยนความคิดกันอย่างสนุกสนานเป็นเวลานาน</Events.15.Story>
+			<Events.16.Story>[set=1,obj_neck] เมื่อเร็วๆ นี้ [name] รู้สึกเป็นกังวลเกี่ยวกับการทะลวงขอบเขต[get=1]และได้พูดคุยปรับทุกข์กับ [hename] [hename] ได้พยายามที่่จะพูดปลอบใจ [name] และในที่สุดก็สามารถทำให้ [name] รู้สึกคลายกังวลไปได้</Events.16.Story>
+			<Events.17.Story>[set=1,obj_damage] เมื่อเร็วๆ นี้ [name] ได้รับบาดเจ็บและ [hename] ก็ได้มาถามอาการ[get=1]ด้วยความเป็นห่วง [name] รู้สึกตื้นตันใจเป็นอย่างมากจึงได้พูดคุยอยู่กับ [hename] เป็นเวลานาน</Events.17.Story>
+			<Events.18.Story>[set=1,obj_secret] [name] ได้พูดคุยถึงความลับเกี่ยวกับ[get=1]ที่เคยได้ยินมากับ [hename] พวกเขาทั้งคู่จึงพบว่าพวกเขานั้นมีทฤษฎีเกี่ยว[get=1]ที่คล้ายๆ กัน ดังนั้นพวกเขาทั้งคู่จึงอดไม่ได้ที่จะพูดคุยเกี่ยวกับเรื่องนี้กันเป็นเวลานาน</Events.18.Story>
+			<Events.19.Story>[set=1,obj_unlockmapplace] [name] ได้พูดคุยเกี่ยวกับเรื่องของ[get=1]ที่เคยได้ยินมากับ [hename] สิ่งนี้ได้กระตุ้นความสนใจของ [hename] และทั้งสองได้พูดคุยเกี่ยวกับธรรมเนียมปฏิบัติของ[get=1]กันอย่างสนุกสนานเป็นเวลานาน</Events.19.Story>
+			<Events.20.Story>[set=1,obj_lockmapplace] [name] บังเอิญได้ยินว่ามีสถานที่เช่น[get=1] จึงได้พูดคุยกับ [hename] เกี่ยวกับเรื่องนี้ ทางด้านของ [hename] เองก็ไม่เคยได้ยินเกี่ยวกับเรื่องนี้มาก่อนและสนใจเรื่องนี้มาก ทั้งสองคนจึงได้พูดคุยเกี่ยวกับ[get=1]กันเป็นเวลานานและรู้สึกว่าพวกเขาทั้งสองสนิทกันมากยิ่งขึ้น</Events.20.Story>
+			<Events.21.Story>[set=1,obj_goodschool] [name] ได้พูดคุยกับ [hename] และได้ยินบางอย่างที่น่าสนใจเกี่ยวกับ[get=1] [hename] ได้เสนอความคิดว่าพวกเขาควรออกเดินทางไปยัง[get=1]ด้วยกัน ทางด้าน [name] เองก็รู้สึกสนใจเกี่ยวกับเรื่องนี้มาก</Events.21.Story>
+			<Events.22.Story>[set=1,obj_badschool] [name] ได้พูดคุยกับ [hename] เกี่ยวกับ[get=1]ที่มีความสัมพันธ์ที่ไม่ดีเท่าไรกับสำนักของพวกเขา ทั้งสองโกรธมากเกี่ยวกับเรื่องนี้และเริ่มพูดคุยถึงเรื่องแย่ๆ ของ[get=1]กันอย่างถูกคอ</Events.22.Story>
+		</Text>
+		<Text Name="Social_Neglect">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็น [hename] กำลังเดินเข้ามา [name] [rand_lable=desc_action,desc_goodmood] และได้โบกมือทักทาย [hename] โดยไม่คาดคิด [hename] กลับเมินการทักทายนั่น นี่จึงทำให้ [name] รู้สึกหงุดหงิดเป็นอย่างมาก</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood] และได้เห็น [hename] กำลังวิ่งผ่านได้ด้วยความรีบร้อน [name] จึงได้โบกมือทักทายออกไป แต่ [hename] กลับจ้องมองกลับมาด้วยสายตาเย็นชา นี่จึงทำให้ [name] รู้สึกหงุดหงิดเป็นอย่างมาก</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood] จึงได้กล่าวคำทักทายกกับ [hename] ที่ยืนอยูใกล้ๆ ทว่าโดยไม่คาดคิด [hename] กลับไม่ต้องการพูดคุยกับ [name] นี่จึงทำให้ [name] รู้สึกอับอายเป็นอย่างมาก</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] กำลัง[desc_badmood]และ [hename] ก็ได้เดินเข้ามาโบกมือทักทาย [name] แต่ [name] กลับไม่รู้สึกอยากพูดคุยกับ [hename]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็นว่า [name] กำลัง[desc_badmood] [hename] ก็ได้เดินเข้ามาโบกมือทักทาย [name] แต่ [name] กลับไม่รู้สึกอยากพูดคุยกับ [hename]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็นว่า [name] กำลัง[desc_badmood] [hename] ได้เดินเข้ามาตบไหล่ของ [name] แต่ [name] กลับไม่รู้สึกอยากพูดคุยกับ [hename]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] และ [hename] ได้เดินผ่านกันโดยบังเอิญ ทว่าทั้งสองฝ่ายต่างเมินซึ่งกันและกัน</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] กำลัง[obj_action] เมื่อเห็น [hename] กำลังเดินผ่านมาจึงได้โบกมือทักทายออกไป ทว่า [hename] กลับทำเพียงชำเลืองมองโดยไม่โต้ตอบใดๆ นี่จึงทำให้ [name] รู้สึกหงุดหงิดเป็นอย่างมาก</Events.7.Story>
+			<Events.8.Story>[set=1,obj_food] [rand_lable=desc_time,desc_place,desc_weather] [name] กำลังกิน[get=1]อยู่เพลินๆ เมื่อเห็น [hename] กำลังเดินเข้ามาจึงได้วาง[get=1]ที่อยู่ในมือลงและได้โบกมือทักทาย [hename] ทว่า [hename] กลับทำเพียงชำเลืองมองโดยไม่โต้ตอบใดๆ นี่จึงทำให้ [name] รู้สึกหงุดหงิดเป็นอย่างมาก</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] กำลังจ้องมองไปยัง[obj_nearthing]ที่อยู่ใกล้ๆ ด้วยความเหม่อลอย เมื่อ [hename] เห็นแบบนั้นจึงได้โบกมือทักทาย ทว่า [name] กลับสะดุ้งตื่นขึ้นมาอย่างกะทันหันและรู้สึกหงุดหงิดเล็กน้อย</Events.9.Story>
+		</Text>
+		<Text Name="Social_Quarrel">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็น [hename] อยู่ใกล้ๆ [name] [rand_lable=desc_action,desc_goodmood] จึงได้ชวน [hename] คุยเกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool] ทว่าในเวลาต่อมาทั้งสองก็ได้ทะเลาะกันเนื่องจากความคิดเห็นที่ไม่ลงรอยกัน</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็นว่า [name] กำลัง[desc_badmood] [hename] ได้แสดงความเป็นห่วงจึงได้ชวน [name] คุยเกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool] ทว่าในเวลาต่อมาทั้งสองก็ได้ทะเลาะกันเนื่องจากความคิดเห็นที่ไม่ลงรอยกัน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] เมื่อเห็น [hename] อยู่ใกล้ๆ [name] [rand_lable=desc_action,desc_goodmood] จึงได้ชวน [hename] คุยเกี่ยวกับเรื่องของ[other=obj] [hename] ทว่าในเวลาต่อมาทั้งสองก็ได้ทะเลาะกันเนื่องจากความคิดเห็นที่ไม่ลงรอยกัน</Events.2.Story>
+			<Events.3.Story>จู่ๆ [name] ก็รู้สึกเศร้าเมื่อในขณะ[obj_action] เมื่อเห็น [hename] นั้นกำลังว่าง [name] ก็ได้พูดเรื่องนี้กับ [ENHIM] อย่างกะทันหัน [hename] คิดว่า [name] นั้นคิดมากเกินไป ดังนั้นบทสนทนาของพวกเขาจึงนำไปสู่การโต้เถียงและจบลงด้วยการทะเลาะกัน</Events.3.Story>
+			<Events.4.Story>[name] ได้กำลังรู้สึกสนุกไปกับ[obj_goodmood] [IT]จึงจากแบ่งปันความรู้สึกนี้กับ [hename] โดยไม่คาดคิด [hename] กลับรู้สึกหงุดหงิดอย่างบอกไม่ถูกเมื่อเห็นท่าทางของ [name] ดังนั้นบทสนทนาของพวกเขาจึงนำไปสู่การโต้เถียงและจบลงด้วยการทะเลาะกัน</Events.4.Story>
+			<Events.5.Story>[name] กำลังหงุดหงิดจาก[obj_badmood] [hename] จึงพยายามพูดให้ [name] ใจเย็นลง ทว่าสุดท้ายแล้วพวกเขาทั้งสองกลับลงเอยด้วยการทะเลาะกัน</Events.5.Story>
+			<Events.6.Story>[set=1,obj_fabao] [name] รู้สึกสนใจในอาวุธวิเศษประจำสำนัก [get=1] และด้วยเหตุผลบางอย่าง [IT]ก็ได้ชวน [hename] พูดคุยเกี่ยวกับ[get=1] แต่ [hename] กลับคิดว่ามันไม่เห็นจะน่าสนใจเลยแม้แต่น้อย ดังนั้นในเวลาต่อมาทั้งสองก็ได้ทะเลาะกันเนื่องจากความคิดเห็นที่ไม่ลงรอยกัน</Events.6.Story>
+			<Events.7.Story>[set=1,obj_dan] ยามเมื่อ[name]ได้พูดคุยกับ [hename] เกี่ยวกับ[get=1]และ [hename] ก็คิดว่า[get=1]นั้นมันมีรสชาติที่ดีกว่า[obj_food] ทว่า [hename] กลับคิดตรงกันข้ามกับ [name] ดังนั้นในเวลาต่อมาทั้งสองก็ได้ทะเลาะกันเนื่องจากความคิดเห็นที่ไม่ลงรอยกัน</Events.7.Story>
+			<Events.8.Story>[set=1,obj_dan] [name] รู้สึกสงสัยมาตลอดว่า[get=1]นั้นมันออกฤทธิ์ยังไงกันแน่ และเมื่อ[IT]ได้พูดกับ [hename] เกี่ยวกับเรื่องนี้ก็กลับถูก [hename] หัวเราะเยาะให้กับความโง่เขลาของ [name] ดังนั้นบทสนทนาของพวกเขาจึงนำไปสู่การโต้เถียงและจบลงด้วยการทะเลาะกัน</Events.8.Story>
+			<Events.9.Story>[set=1,obj_food] [name] นั้นรู้สึกชื่นชอบ[get=1]เป็นพิเศษ และเมื่อ[IT]ได้พูดกับ [hename] เกี่ยวกับเรื่องนี้ก็กลับถูก [hename] หัวเราะเยาะให้กับความไร้รสนิยมของ [name] ดังนั้นบทสนทนาของพวกเขาจึงนำไปสู่การโต้เถียงและจบลงด้วยการทะเลาะกัน</Events.9.Story>
+			<Events.10.Story>[set=1,obj_equip] [name] ได้พูดคุยเรื่อยเปื่อยกับ [hename] และได้พูดคุยถึงที่มาที่ไปของ[get=1] ทว่า [hename] กลับรู้สึกหงุดหงิดและคิดว่า [name] นั้นกำลังโอ้อวดเกินไป ในเวลาต่อมาทั้งสองก็ได้ทะเลาะกันเนื่องจากความคิดเห็นที่ไม่ลงรอยกัน</Events.10.Story>
+			<Events.11.Story>[set=1,obj_secret] [name] ได้พูดคุยถึงความลับเกี่ยวกับ[get=1]ที่เคยได้ยินมากับ [hename] พวกเขาแบ่งปันทฤษฎีของตัวเองเกี่ยวกับ[get=1] แต่ก็มีความคิดเห็นที่ไม่ลงรอยกันจนกระทั่งเกิดการโต้เถียงกันใหญ่โต</Events.11.Story>
+			<Events.12.Story>[set=1,obj_unlockmapplace] [name] ได้พูดคุยเกี่ยวกับเรื่องของ[get=1]ที่เคยได้ยินมากับ [hename] สิ่งนี้ทำให้ [hename] รู้สึกทึ่ง แต่เมื่อพูดถึงผู้คนใน[get=1] พวกเขากลับมีความคิดเห็นที่ต่างกันและเริ่มโต้เถียงกันจนเกิดการทะเลาะกัน</Events.12.Story>
+			<Events.13.Story>[set=1,obj_lockmapplace] [name] บังเอิญได้ยินว่ามีสถานที่เช่น[get=1] เมื่อคุยกับ [hename] เกี่ยวกับเรื่องนี้ [hename] รู้สึกสงสัยและบอกว่า [name] นั้นพูดจาไร้สาระ ดังนั้นบทสนทนาของพวกเขาจึงนำไปสู่การโต้เถียงและจบลงด้วยการทะเลาะกัน</Events.13.Story>
+			<Events.14.Story>[set=1,rand_lable=obj_goodschool,obj_badschool] [set=1,rand_lable=obj_goodschool,obj_badschool][name] ได้พูดคุยเรื่อยเปื่อยกับ [hename] เกี่ยวกับสิ่งที่น่าสนใจใน[get=1] แต่ [hename] พบว่าสิ่งเหล่านี้น่าเบื่อมาก เมื่อได้ยินดังนั้น [name] จึงรู้สึกหงุดหงิดมากและลงเอยด้วยการโต้เถียงครั้งใหญ่</Events.14.Story>
+		</Text>
+		<Text Name="Social_Insult">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood] และได้เดินผ่าน [hename] ไป ทว่า [hename] กลับพูดจาเหน็บแนม [name] นี่จึงทำให้ [name] รู้สึกหงุดหงิดมาก</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood] ทว่ากลับถูก [hename] พูดจาเยาะเย้ย นี่จึงทำให้ [name] รู้สึกหมดความมั่นใจไปในทันที</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] [hename]บังเอิญเดินผ่านมาเห็น [name] ที่กำลัง[desc_badmood] [hename] จึงได้พูดจาเยาะเย้ยออกไป นี่จึงทำให้ [name] เศร้าหนักยิ่งกว่าเดิม</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] กำลัง[desc_badmood]และได้ยินคำดูถูกของ [hename] เกี่ยวอาการบาดเจ็บของ [name] นี่จึงทำให้ [name] รู้สึกหดหู่มากยิ่งขึ้น</Events.3.Story>
+		</Text>
+		<Text Name="Social_Fight">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood] และได้เดินผ่าน [hename] ไป ทว่า [hename] กลับพูดจาเหน็บแนม [name] นี่จึงทำให้พวกเขาทะเลาะกันอย่างรุนแรง</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood] ทว่ากลับถูก [hename] พูดจาเยาะเย้ย นี่จึงทำให้พวกเขาทะเลาะกันอย่างรุนแรง</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] [hename] บังเอิญเดินผ่านมาเห็น [name] ที่กำลัง[desc_badmood] จึงได้พูดจาเยาะเย้ยออกไป นี่จึงทำให้ [name] โกรธเป็นอย่างมากและได้พุ่งเข้าไปโจมตี [hename]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] กำลัง[desc_badmood]และได้ยินคำดูถูกของ [hename] เกี่ยวอาการบาดเจ็บของ [name] นี่จึงทำให้ [name] โกรธเป็นอย่างมากและได้พุ่งเข้าไปต่อย [hename]</Events.3.Story>
+		</Text>
+		<Text Name="Social_DeclarationSucceed">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟังในขณะที่กำลัง[obj_action] [hename] ผงะไปเล็กน้อย แต่สุดท้ายก็ตอบรับคำสารภาพของ [name] อย่างเขินอาย</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood,desc_badmood] ได้บังเอิญเห็น [hename] คนที่ตนเองกำลังแอบชอบได้เดินผ่ามา ดังนั้นจึงได้ตัดสินใจสารภาพความรู้สึกออกไปอย่างกะทันหัน [hename] ผงะไปเล็กน้อย แต่สุดท้ายก็ตอบรับคำสารภาพของ [name] อย่างเขินอาย</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] หลังจากที่ได้เตรียมตัวอยู่นาน ในที่สุด [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟังและ [hename] ก็รู้สึกประทับใจเป็นอย่างมากและตอบรับคำสารภาพรักของ [hename] ไป</Events.2.Story>
+		</Text>
+		<Text Name="Social_DeclarationFailed">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟังได้ฟังในขณะที่กำลัง[obj_action] [hename] รู้ประหลาดใจไม่น้อยและก็ได้กล่าวคำปฏิเสธ [name] อย่างสุภาพ</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood,desc_badmood] ได้บังเอิญเห็น [hename] คนที่ตนเองกำลังแอบชอบได้เดินผ่ามา ดังนั้นจึงได้ตัดสินใจสารภาพความรู้สึกออกไปอย่างกะทันหัน [hename] ได้กล่าวคำปฏิเสธ [name] อย่างไม่ลังเลใจเลยแม้แต่น้อย</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] หลังจากที่ได้เตรียมตัวอยู่นาน ในที่สุด [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟัง [hename] รู้สึกชื่นชมความรักของ [name] แต่ก็ยังคงกล่าวคำปฏิเสธออกไป</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] พยายามซ่อนจดหมายรักไว้ใน[obj_food]ของโปรดของ [hename] [hename] รู้สึกประทับใจในความพยายามของ [name] แต่ก็ยังคงกล่าวคำปฏิเสธออกไป</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] หลังจากที่ได้เตรียมตัวอยู่นาน ในที่สุด [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟัง [hename] ได้ยิ้มออกมาและบอกว่า [name] นั้นไม่คู่ควรกับตนเอง</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] หลังจากที่ได้เตรียมตัวอยู่นาน ในที่สุด [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟัง [hename] หัวเราะลั่นและได้พูดว่าเลิกล้อเล่นได้แล้วก่อนที่จะหันหลังเดินจากไป</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] หลังจากที่ได้เตรียมตัวอยู่นาน ในที่สุด [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟัง [hename] คิดว่า [name] นั้นเป็นคนดีคนหนึ่งแต่ทั้งสองนั้นไม่เหมาะสมกัน ดังนั้นจึงได้กล่าวคำปฏิเสธออกไปอย่างสุภาพ</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] หลังจากที่ได้เตรียมตัวอยู่นาน ในที่สุด [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟัง [hename] มองไปยัง [name] ด้วยความประหลาดใจ ต่อมาก็ได้กล่าวคำปฏิเสธออกไปอย่างสุภาพ</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] หลังจากที่ได้เตรียมตัวอยู่นาน ในที่สุด [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟัง [hename] ขอบคุณ [name] อย่างจริงจังสำหรับทุกสิ่งทุกอย่างแต่เราสองคนนั้นไม่เหมาะสมกัน ดังนั้นจึงได้กล่าวคำปฏิเสธออกไปอย่างสุภาพ</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] หลังจากที่ได้เตรียมตัวอยู่นาน ในที่สุด [name] ก็ได้สารภาพความรู้สึกของ[IT]ออกไปให้ [hename] ได้ฟัง [hename] ได้หวนนึกถึงความทรงจำบางอย่างในอดีต หลังจากนั้นจึงได้กล่าวปฏิเสธออกไปอย่างไม่ลังเลใจเลยแม้แต่น้อย</Events.9.Story>
+		</Text>
+		<Text Name="Social_Amuse">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่ [name] กำลัง[obj_action] ในช่วงเวลานั้น จู่ๆ [IT]ก็นึกถึงอะไรบางอย่างที่ค่อนข้างตลกขึ้นมาได้และได้เล่าให้ [hename] ฟัง นี่จึงทำให้ [hename] หัวเราะออกมาเสียงดัง</Events.0.Story>
+			<Events.1.Story>[name] อยู่ในอารมณ์ขุ่นเคืองเนื่องจาก[obj_badmood] ทว่าเมื่อเห็น [hename] [name] ก็รู้สึกสบายใจอย่างบอกไม่ถูก</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] และ [hename] ได้พูดคุยกระซิบซึ่งกันและในบางจังหวัง [hename] ก็อดไม่ได้ที่จะหัวเราะออกมาเบาๆ</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลัง[obj_action] [name] ได้จับมือของ [hename] และได้พูดคุยกันเป็นการส่วนตัว นี่ทำให้ [name] รู้สึกมีความสุขและพอใจมาก</Events.3.Story>
+			<Events.4.Story>[name] ได้รับบาดเจ็บจาก[obj_damage] แต่ก็ยังพยายามทำให้ [hename] มีความสุขและไม่กังวลใจ [hename] จึงได้แต่หัวเราะทั้งน้ำตาด้วยความรู้สึกสุขและเศร้าในเวลาเดียวกัน</Events.4.Story>
+		</Text>
+		<Text Name="Social_BeDeclarationSucceed">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่ [name] กำลัง[obj_action] [hename] ทันใดนั้น [hename] ก็สารภาพความรู้สึกที่มีต่อ [name] ออกมา [name] ผงะไปเล็กน้อย แต่สุดท้ายก็ตอบรับคำสารภาพของ [name] อย่างเขินอาย</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood] จู่ๆ [hename] ก็สารภาพความรู้สึกที่มีต่อ [name] ออกมา [name] ผงะไปเล็กน้อย แต่สุดท้ายก็ตอบรับคำสารภาพของ [name] อย่างเขินอาย</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] กำลัง[desc_badmood] [hename] ได้เดินเข้ามาปลอบ[IT]ด้วยคำพูดที่อ่อนโยน หลังจากนั้น[he]ก็ได้สารภาพความรู้สึกที่มีต่อ [name] ออกมา [name] ก็รู้สึกประทับใจเป็นอย่างมากและตอบรับคำสารภาพรักของ [hename] มาก</Events.2.Story>
+		</Text>
+		<Text Name="Social_BeDeclarationFailed">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่ [name] กำลัง[obj_action] [hename] ทันใดนั้น [hename] ก็สารภาพความรู้สึกที่มีต่อ [name] ออกมา [name] รู้สึกโกรธเป็นอย่างมากที่จู่ๆ [hename] ก็มารบกวนการ[obj_action]ของ[IT] ดังนั้นจึงได้ไล่ให้ [hename] ออกไปได้ด้วยความโกรธ</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] [rand_lable=desc_action,desc_goodmood] จู่ๆ [hename] ก็สารภาพความรู้สึกที่มีต่อ [name] ออกมา [name] ผงะไปเล็กน้อยและได้กล่าวคำปฏิเสธออกไป</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] กำลัง[desc_badmood] [hename]  ได้เดินเข้ามาปลอบ[IT]ด้วยคำพูดที่อ่อนโยน หลังจากนั้น[he]ก็ได้สารภาพความรู้สึกที่มีต่อ [name] ออกมา [name] รู้สึกประทับใจเป็นอย่างมาก แต่ก็ยังคงกล่าวคำปฏิเสธออกไป</Events.2.Story>
+		</Text>
+		<Text Name="Social_Intimacy">
+			<Events.0.Story>[name] อยู่ในอารมณ์ขุ่นเคืองเนื่องจาก[obj_badmood] แต่การที่ได้อยู่ด้วยกันกับ [hename] ทำให้ [name] รู้สึกสบายใจขึ้นมาอย่างบอกไม่ถูก</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] และ [hename] ได้พูดคุยกระซิบซึ่งกันและในบางจังหวัง [hename] ก็อดไม่ได้ที่จะหัวเราะออกมาเบาๆ</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลัง[obj_action] [name] ได้จับมือของ [hename] และได้พูดคุยกันเป็นการส่วนตัว นี่ทำให้ [name] รู้สึกมีความสุขและพอใจมาก</Events.2.Story>
+		</Text>
+		<Text Name="Social_Tenderness">
+			<Events.0.Story>[name] อยู่ในอารมณ์ขุ่นเคืองเนื่องจาก[obj_badmood] แต่การที่ได้อยู่ด้วยกันกับ [hename] ทำให้ [name] รู้สึกสบายใจขึ้นมาอย่างบอกไม่ถูก</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] และ [hename] ได้พูดคุยกระซิบซึ่งกันและในบางจังหวัง [hename] ก็อดไม่ได้ที่จะหัวเราะออกมาเบาๆ</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลัง[obj_action] [name] ได้จับมือของ [hename] และได้พูดคุยกันเป็นการส่วนตัว นี่ทำให้ [name] รู้สึกมีความสุขและพอใจมาก</Events.2.Story>
+		</Text>
+	</List>
+</Texts>

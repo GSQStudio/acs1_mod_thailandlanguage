@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SimpleFoodBase" sParam="Item">
+			<Item.FabaoSuffix>สมบัติวิญญาณ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cake" sParam="Item">
+			<ThingName>ขนมปัง</ThingName>
+			<Desc>อาหารง่ายๆ ที่ใช้เพื่อบรรเทาความหิว</Desc>
+			<Item.FabaoSuffix>แพนเค้ก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Jerky" sParam="Item">
+			<ThingName>เนื้อตากแห้ง</ThingName>
+			<Desc>อาหารง่ายๆ ที่ใช้เพื่อบรรเทาความหิว</Desc>
+			<Item.FabaoSuffix>ตากแห้ง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PreservedFruit" sParam="Item">
+			<ThingName>ผลอำพันตากแห้งตระกูลหลี่</ThingName>
+			<Desc>[color=#FFA500]ครั้งหนึ่งมีผลไม้รสชาติเหมือนน้ำผึ้ง\nรอจนกระทั่งถึงฤดูกาลของมันมาถึง พวกเราก็จะแขวนตากมันเอาไปที่ชายคาบ้าน\nเหล่าหญิงสาวต่างก็ถูกผลไม้ที่หวานฉ่ำราวกับน้ำผึ้งนั่นดึงดูดสายตาไป \nจะมีอะไรให้ตั้งตามรออีกเมื่อฤดูกาลที่ว่านั้นผ่านพ้นไป\n[/color]ผลอำพันนั้นเก็บรักษาได้ยาก มีเพียงแค่ตระกูลหลี่แห่งจินหลิงเท่านั้นที่สามารถแปรรูปมันให้กลายมาเป็นผลไม้ตากแห้งได้ในขณะที่ยังคงรักษาประสิทธิภาพของมันเอาไว้ด้วยสูตรลับเฉพาะของตระกูล</Desc>
+			<Item.FabaoSuffix>ตากแห้ง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_BoarMeat" sParam="Item">
+			<ThingName>เนื้อหมูป่าอสูร</ThingName>
+			<Desc>เนื้อของหมูป่าอสูรที่ไม่สามารถปรุงได้ด้วยไฟธรรมดาทั่วๆ ไป การกินมันลงไปโดยตรงจะช่วยเติมเต็มพลังกายที่เสียไปเป็นจำนวนมาก</Desc>
+			<Item.FabaoSuffix>ตากแห้ง</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

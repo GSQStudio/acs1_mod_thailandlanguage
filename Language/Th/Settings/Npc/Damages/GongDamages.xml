@@ -1,0 +1,175 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Tower_FuBai">
+			<DisplayName>ความเสื่อมโทรม</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit1">
+			<DisplayName>แผลช้ำ</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit2">
+			<DisplayName>บาดเจ็บเล็กน้อย</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit3">
+			<DisplayName>แผลขนาดเล็ก</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Jin_ThunderDamage">
+			<DisplayName>แผลฟ้าผ่า</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Jin_SwordLight2">
+			<DisplayName>ปราณกระบี่กัดกร่่อน(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Mu_Failure">
+			<DisplayName>อ่อนเพลีย</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Mu_Corrosion">
+			<DisplayName>เปื่อย</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Shui_Frostbite">
+			<DisplayName>น้ำแข็งกัด</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Shui_ColdPoison">
+			<DisplayName>พิษเหมันต์</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Huo_VisceralBurn">
+			<DisplayName>ธาตุไฟแตก</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Huo_BurnOfPain">
+			<DisplayName>แผลไฟไหม้</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Tu_Weathering">
+			<DisplayName>ผุกร่อน</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Tu_Petrifaction2">
+			<DisplayName>กลายเป็นหิน(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="FivePoison">
+			<DisplayName>ลมหายใจพิษทั้งห้า</DisplayName>
+		</Text>
+		<Text Name="SwordBallDamage">
+			<DisplayName>ร่างกายฉีกขาด</DisplayName>
+		</Text>
+		<Text Name="XueGuLianXing">
+			<DisplayName>คำสาปหลอมหัวใจ</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul3_Damage">
+			<DisplayName>สติเสื่อม</DisplayName>
+		</Text>
+		<Text Name="ZaoHuaYuLu_YuanShenJiMie">
+			<DisplayName>วิญญาณถูกจำกัด</DisplayName>
+		</Text>
+		<Text Name="SoulOutOfBrain">
+			<DisplayName>วิญญาณต่อต้านจิต</DisplayName>
+		</Text>
+		<Text Name="LostSoul">
+			<DisplayName>ถูกปิดกั้น</DisplayName>
+		</Text>
+		<Text Name="Damage_GongXinYin_Damage">
+			<DisplayName>วิญญาณแตกร้าว</DisplayName>
+		</Text>
+		<Text Name="Damage_TianDaoBenYuan1">
+			<DisplayName>วิญญาณเสียหาย</DisplayName>
+		</Text>
+		<Text Name="Damage_Kidnap_MiHun">
+			<DisplayName>คาถาอาคม</DisplayName>
+		</Text>
+		<Text Name="Damage_TianDaoBenYuan2">
+			<DisplayName>ปิดกั้นการรับรู้</DisplayName>
+		</Text>
+		<Text Name="Damage_ZhenFaZhenDang">
+			<DisplayName>ผลกระทบค่ายกล</DisplayName>
+		</Text>
+		<Text Name="DiffEnergyInvade">
+			<DisplayName>ปราณแปลกปลอม</DisplayName>
+		</Text>
+		<Text Name="MeridianRupture">
+			<DisplayName>ฉีกขาด</DisplayName>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>เสียหาย</DisplayName>
+		</Text>
+		<Text Name="ElixirFieldShock">
+			<DisplayName>จุดรวมชีพจรปั่นป่วน</DisplayName>
+		</Text>
+		<Text Name="NeiQiWenLuan">
+			<DisplayName>ชี่ภายในปั่นป่วน</DisplayName>
+		</Text>
+		<Text Name="Damage_Boss_LingBoom">
+			<DisplayName>ปราณปั่นป่วน</DisplayName>
+		</Text>
+		<Text Name="Damage_Sys_SuppressGodCall">
+			<DisplayName>ระงับทัณฑ์สวรรค์</DisplayName>
+		</Text>
+		<Text Name="JieNanHuangu">
+			<DisplayName>เจ็บปวดจากการเปลี่ยนกระดูก</DisplayName>
+		</Text>
+		<Text Name="LingSpillsInjury_Sp">
+			<DisplayName>จุดรวมชีพจรเสียหาย</DisplayName>
+		</Text>
+		<Text Name="LingSpillsInjury">
+			<DisplayName>ปราณเกินขีดจำกัด</DisplayName>
+		</Text>
+		<Text Name="SevereInjury">
+			<DisplayName>สูญเสียปราณต้นกำเนิด</DisplayName>
+		</Text>
+		<Text Name="Jin_ThunderDamage">
+			<DisplayName>แผลฟ้าผ่า</DisplayName>
+		</Text>
+		<Text Name="Jin_BoneNail">
+			<DisplayName>กระดูกพรุน</DisplayName>
+		</Text>
+		<Text Name="Jin_SwordLight1">
+			<DisplayName>ปราณกระบี่กัดกร่่อน(เบา)</DisplayName>
+		</Text>
+		<Text Name="Jin_SwordLight2">
+			<DisplayName>ปราณกระบี่กัดกร่่อน(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Mu_VitalityDevour1">
+			<DisplayName>ลมหายใจแห่งความตาย (เบา)</DisplayName>
+		</Text>
+		<Text Name="Mu_VitalityDevour2">
+			<DisplayName>ลมหายใจแห่งความตาย (รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Mu_Failure">
+			<DisplayName>อ่อนเพลีย</DisplayName>
+		</Text>
+		<Text Name="Mu_Corrosion">
+			<DisplayName>เปื่อย</DisplayName>
+		</Text>
+		<Text Name="Mu_Parasitic">
+			<DisplayName>ติดเชื้อปรสิต</DisplayName>
+		</Text>
+		<Text Name="Shui_Frostbite">
+			<DisplayName>น้ำแข็งกัด</DisplayName>
+		</Text>
+		<Text Name="Shui_ColdBlood">
+			<DisplayName>จุดชีพจรน้ำแข็ง</DisplayName>
+		</Text>
+		<Text Name="Shui_ColdPoison">
+			<DisplayName>พิษเหมันต์</DisplayName>
+		</Text>
+		<Text Name="Huo_VisceralBurn">
+			<DisplayName>ธาตุไฟเข้าแทรก</DisplayName>
+		</Text>
+		<Text Name="Huo_BurnOfPain">
+			<DisplayName>ปวดแสบปวดร้อน</DisplayName>
+		</Text>
+		<Text Name="Huo_MarrowDry">
+			<DisplayName>ไขกระดูกเสื่อม</DisplayName>
+		</Text>
+		<Text Name="Huo_HeartBurn">
+			<DisplayName>ธาตุไฟแทรกหัวใจ</DisplayName>
+		</Text>
+		<Text Name="Tu_Weathering">
+			<DisplayName>ผุกร่อน</DisplayName>
+		</Text>
+		<Text Name="Tu_Petrifaction1">
+			<DisplayName>กลายเป็นหิน (เบา)</DisplayName>
+		</Text>
+		<Text Name="Tu_Petrifaction2">
+			<DisplayName>กลายเป็นหิน (รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Tu_BrainClose">
+			<DisplayName>ปิดใจ</DisplayName>
+		</Text>
+	</List>
+</Texts>

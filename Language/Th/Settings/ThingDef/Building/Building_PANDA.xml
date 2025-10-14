@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LsPanda_Carve" sParam="Building">
+			<ThingName>รูปสลักแพนด้าเทวะ</ThingName>
+			<Desc>รูปสลักของแพนด้าเทวะ สามารถใช้คืนชีพหรือเรียกแพนด้าเทวะออกมาได้</Desc>
+		</Text>
+		<Text Name="BambooBed" sParam="Building">
+			<ThingName>เตียงไม้ไผ่</ThingName>
+			<Desc>เตียงเดี่ยวไม้ไผ่แสนสบายที่จะช่วยให้ท่านนอนหลับสบายตลอดคืน</Desc>
+		</Text>
+		<Text Name="Building_BambooScreen1" sParam="Building">
+			<ThingName>ฉากกั้นไม้ไผ่</ThingName>
+		</Text>
+		<Text Name="Building_WaterWheel" sParam="Building">
+			<ThingName>กังหันน้ำ</ThingName>
+		</Text>
+		<Text Name="Building_BambooScreen2" sParam="Building">
+			<ThingName>ฉากกั้นไม้ไผ่</ThingName>
+		</Text>
+		<Text Name="BambooLight" sParam="Building">
+			<ThingName>โคมไฟไม้ไผ่</ThingName>
+			<Desc>ไฟประดับที่ส่องในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+		</Text>
+		<Text Name="Building_BambooPavilion" sParam="Building">
+			<ThingName>ศาลาไม้ไผ่</ThingName>
+		</Text>
+	</List>
+</Texts>

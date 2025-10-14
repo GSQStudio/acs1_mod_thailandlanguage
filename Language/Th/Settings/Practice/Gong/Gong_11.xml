@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_11_Tu">
+			<DisplayName>วิชาบ่มเพาะกลั่นทานตะวัน</DisplayName>
+			<Desc>หนึ่งในห้าวิชาบ่มเพาะกฎธาตุที่แท้จริงของสำนักไท้อี้ ผู้ทีเหมาะสมในการฝึกฝนวิชานี้ควรเป็นสตรีเท่านั้น ใช้พลังที่บริสุทธิ์ที่สุดของหยินจากโลกเพื่อสร้างจิตวิญญาณหยินบริสุทธิ์ หากฝึกฝนโดยบุรุษ พวกเขาจะต้องสูญเสียอวัยวะที่สำคัญที่สุดของบุรุษไป</Desc>
+			<SelectDesc>วิชานี้เหมาะสมแก่สตรีในการฝึกฝน หากฝึกฝนโดยบุรุษ พวกเขาจะต้องสูญเสียอวัยวะที่สำคัญที่สุดของบุรุษไป ผู้ฝึกฝนจะมีทักษะการใช้อาวุธวิเศษที่ทรงพลัง ทว่าจะต้องเผชิญกับทัณฑ์สวรรค์ครั้งแรกอย่างรวดเร็วในตอนที่อยู่แค่ขอบเขตสร้างแก่นลมปราณ เจ้าแน่ใจหรือไม่ว่าต้องการฝึกฝนวิชานี้?</SelectDesc>
+			<Stages.0.DisplayName>หยินแห่งมนุษย์</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>ความบริสุทธิ</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>ความเห็นใจ</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>ความอ่อนไหว</Stages.0.Necks.2.DisplayName>
+			<Stages.1.DisplayName>หยินแห่งโลก</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>ความใจกว้าง</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>การบรรจบ</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>ขึ้นรูปแก่น</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>หยินแห่งสวรรค์</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>ความเมตตา</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>ความจริงใจ</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>ความคลุมเครือ</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>ทำลายความว่างเปล่า</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>ความสมบูรณ์</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>ผสานรวมไข่มุกวิญญาณของสัตว์อสูรที่โตแล้วเข้ากับจิตวิญญาณหยินบริสุทธิ์และทำให้ปราณหยินภายในวิญญาณปฐมกาลสมบูรณ์แบบ</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>การเปลี่ยนแปลง</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>เปลี่ยนแปลงรูปร่างและกระแสของหยินภายในวิญญาณปฐมกาลนับพันนับหมื่นครั้ง ทำการไตร่ตรองถึงชีวิตและความตายเพื่อจุติขึ้นสู่สวรรค์[color=#D06508]\nในการทะลวงขอบเขตในขั้นตอนนี้มันจะเป็นการท้าทายสวรรค์อย่างแท้จริงและจะไม่ได้ค่าโบนัสใดๆ จากขั้นตอนนี้[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>ความกลมกลืน</Stages.3.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

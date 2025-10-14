@@ -1,0 +1,234 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_SunnyDay">
+			<DisplayName>ท้องฟ้าแจ่มใส</DisplayName>
+		</Text>
+		<Text Name="Weather_Overcast">
+			<DisplayName>มีเมฆ</DisplayName>
+		</Text>
+		<Text Name="Weather_LightRain">
+			<DisplayName>ฝนตกปลอยๆ</DisplayName>
+		</Text>
+		<Text Name="Weather_HeavyRain">
+			<DisplayName>ฝนตกหนัก</DisplayName>
+		</Text>
+		<Text Name="Weather_LightSnow">
+			<DisplayName>หิมะตกปลอยๆ</DisplayName>
+		</Text>
+		<Text Name="Weather_HeavySnow">
+			<DisplayName>หิมะตกหนัก</DisplayName>
+		</Text>
+		<Text Name="Weather_DenseFog">
+			<DisplayName>หมอกหนา</DisplayName>
+		</Text>
+		<Text Name="Weather_SpringAir">
+			<DisplayName>กลิ่นอายฤดูใบไม้ผลิ</DisplayName>
+		</Text>
+		<Text Name="Weather_Melancholy">
+			<DisplayName>บรรยากาศมืดมน</DisplayName>
+		</Text>
+		<Text Name="Weather_HarvestAir">
+			<DisplayName>ฤดูเก็บเกี่ยว</DisplayName>
+		</Text>
+		<Text Name="Weather_Impetuous">
+			<DisplayName>บรรยากาศฉุนเฉียว</DisplayName>
+		</Text>
+		<Text Name="Weather_Hail">
+			<DisplayName>ลูกเห็บ</DisplayName>
+		</Text>
+		<Text Name="Weather_MouldRains">
+			<DisplayName>ฤดูฝน</DisplayName>
+		</Text>
+		<Text Name="Weather_Drought">
+			<DisplayName>ฤดูแล้ง</DisplayName>
+		</Text>
+		<Text Name="Weather_Rainstorm">
+			<DisplayName>พายุฝน</DisplayName>
+		</Text>
+		<Text Name="Weather_Fohn">
+			<DisplayName>พายุลมร้อน</DisplayName>
+		</Text>
+		<Text Name="Weather_DustStorm">
+			<DisplayName>พายุทราย</DisplayName>
+		</Text>
+		<Text Name="Weather_LingRarefiedWave">
+			<DisplayName>ปราณแห้งเหือด</DisplayName>
+		</Text>
+		<Text Name="Weather_LingUpWave">
+			<DisplayName>ปราณพวยพุ่ง</DisplayName>
+		</Text>
+		<Text Name="Weather_HeatWave">
+			<DisplayName>คลื่นความร้อน</DisplayName>
+		</Text>
+		<Text Name="Weather_ColdWave">
+			<DisplayName>คลื่นความเย็น</DisplayName>
+		</Text>
+		<Text Name="Weather_HeatWaveInWinter">
+			<DisplayName>ลมอุ่น</DisplayName>
+		</Text>
+		<Text Name="Weather_ColdWaveInSummer">
+			<DisplayName>ลมหนาว</DisplayName>
+		</Text>
+		<Text Name="Weather_PermanentNight">
+			<DisplayName>ราตรีนิรันดร์</DisplayName>
+		</Text>
+		<Text Name="Weather_Miasma">
+			<DisplayName>ละอองพิษ</DisplayName>
+		</Text>
+		<Text Name="Weather_LightningStorm">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+		</Text>
+		<Text Name="Weather_LuShu_SunnyDay">
+			<DisplayName>ท้องฟ้าแจ่มใส</DisplayName>
+		</Text>
+		<Text Name="Weather_Fei_HeavyRain">
+			<DisplayName>ฝนตกหนัก</DisplayName>
+		</Text>
+		<Text Name="Weather_SpringFestival">
+			<DisplayName>เทศกาลฤดูใบไม้ผลิห</DisplayName>
+		</Text>
+		<Text Name="Weather_ZuShiBiHu">
+			<DisplayName>โล่เทวะของปรมาจารย์</DisplayName>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>อาณาเขตธารา</DisplayName>
+			<Desc>เพิ่มความเร็วในการฟื้นฟูปราณและความทนทานเป็นอย่างมากในขณะที่อยู่ในอาณาเขตธารา</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_BeiDouJianJie">
+			<DisplayName>อาณาเขตกระบี่ทองคำ</DisplayName>
+			<Desc>เพิ่มพลังของอาวุธวิเศษเป็นอย่างมากในขณะที่อยู่ในอาณาเขตกระบี่ทองคำ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>อาณาเขตเทพอัคคีเก้าตะวัน</DisplayName>
+			<Desc>เพิ่มพลังของปราณเวทเป็นอย่างมากในขณะที่อยู่ในอาณาเขตเทพอัคคีเก้าตะวัน</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Season_DanQi">
+			<DisplayName>ปราณโอสถพวยพุ่ง</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Wu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณปฐมกาล)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, ลดเมล็ดเต๋า, เพิ่มความเร็วในการเรียนรู้</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Jin">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณทองคำ)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Mu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณพฤกษา)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Shui">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณวารี)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Huo">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณอัคคี)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Tu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณพสุธา)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณแดนแล้ง)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการเก็บไม้และเก็บเกี่ยว</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShui">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณละเอียดอ่อน)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการทำงานประดิษฐ์และการตัดเย็บ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinHuo">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณแห่งการหลอม)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วการขุดแร่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณสั่งสม)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มผลผลิตรการขุดแร่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShui">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณแห่งอุดมสมบูรณ์)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มผลผลิตในการเก็บเกี่ยวของศิษย์ในสำนัก</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuHuo">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณแห่งการแผดเผา)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการตีเหล็กและปรุงอาหา</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณแห่งการผนึกตรึง)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการก่อสร้าง</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiHuo">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณแห่งการมอดดับ)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการบรรเทาภัยพิบัติและอัตราความสำเร็จ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณทะลุขีด)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความสำเร็จในการรักษาและการฟื้นฟูตามธรรมชาติ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_HuoTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณแห่งเถ้าถ่าน)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการรื้อถอนและความเร็วในการทำงานหิน</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuShui">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณต้นกล้าแรกเกิด)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุไม้</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuHuo">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณพฤกษาเติบใหญ่)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มผลผลิตในการหลอมโอสถ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณพสุธาปฐพี)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการฝึกสร้างรากฐาน, ความเร็วในการบ่มเพาะ, และฐานสภาวะจิต</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShuiHuo">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณทองคำบริสุทธิ์)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มโอกาสสำเร็จในการหลอมอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShuiTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณห้วงวารีลึก)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุน้ำ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinHuoTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณโลหะแกร่ง)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุทอง</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShuiHuo">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณประกายเพลิง)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุไฟ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShuiTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณวารีเย็นสงบ)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการหลอมโอสถ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuHuoTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณพสุธามั่นคง)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุดิน</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiHuoTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณตะวันผลาญ)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่, เพิ่มความเร็วในการหลอมอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoJin">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณตัดทองคำ)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoMu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณตัดพฤกษา)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoShui">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณตัดวารี)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoHuo">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณตัดอัคคี)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoTu">
+			<DisplayName>ปราณโอสถพวยพุ่ง (ปราณตัดพสุธา)</DisplayName>
+			<Desc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</Desc>
+		</Text>
+	</List>
+</Texts>

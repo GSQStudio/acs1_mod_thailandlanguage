@@ -1,0 +1,46 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_SnatchBody">
+			<DisplayName>ประทับวิญญาณหยิน</DisplayName>
+		</Text>
+		<Text Name="Gong_LifeBurning">
+			<DisplayName>ผลาญชีพ</DisplayName>
+			<Desc>เพิ่มความสามารถในช่วงระยะเวลาสั้นๆ ทว่าจะสร้างความเสียหายให้กับร่างกายเมื่อหมดเวลา</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood">
+			<DisplayName>อวตารปีศาจสวรรค์</DisplayName>
+			<Desc>สื่อสารกับอสูรสวรรค์และทำให้ร่างกายกลายเป็นอสูรโดยสมบูรณ์ ยกระดับคุณสมบัติทางกายภาพและความเร็วในการบ่มเพาะอย่างมาก ทว่าต่อจากนี้ไป คนๆ นั้นก็จะถูกทั้งเทพเซียนและมนุษย์ดูหมิ่นเหยียดหยาม</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood_LianHun">
+			<DisplayName>กลั่นวิญญาณ</DisplayName>
+			<Desc>จิตวิญญาณต้องทนทุกข์ทรมานอย่างแสนสาหัส</Desc>
+		</Text>
+		<Text Name="Gong_HunTin_Self">
+			<DisplayName>แยกวิญญาณ</DisplayName>
+			<Desc>ด้วยการแยกวิญญาณของวิญญาณปฐมกาลเพื่อใช้ในวิชาแฝงวิญญาณ สติสัมปชัญญะของตัวละครจะได้รับความเสียหาย สติปัญญา, ความเร็วการบ่มเพาะและความเร็วในการได้รับแนวคิดจะลดลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self">
+			<DisplayName>ระเบิดห้วงอารมณ์</DisplayName>
+			<Desc>ใช้วิชาระเบิดห้วงอารมณ์เพื่อรับแนวคิดและพลังการบ่มเพาะจากจิตวิญญาณของสิ่งมีชีวิต อย่างไรก็ตาม การกระทำเช่นนี้จะลดรากฐานของสภาวะจิตและรากฐานอารมณ์ลงไป</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self1">
+			<DisplayName>ระเบิดห้วงอารมณ์</DisplayName>
+			<Desc>ใช้วิชาระเบิดห้วงอารมณ์เพื่อรับแนวคิดและพลังการบ่มเพาะจากจิตวิญญาณของสิ่งมีชีวิต อย่างไรก็ตาม การกระทำเช่นนี้จะลดรากฐานของสภาวะจิตและรากฐานอารมณ์ลงไป</Desc>
+		</Text>
+		<Text Name="Gong_TianMoWu">
+			<DisplayName>เสน่ห์ของปีศาจสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong_SoulKeYin">
+			<DisplayName>ฝังจิตความคิด</DisplayName>
+		</Text>
+		<Text Name="Modifier_GongXinYin_Damage">
+			<DisplayName>คาถาแห่งการสะท้อนกลับ</DisplayName>
+		</Text>
+		<Text Name="WuYinKeShenRestore">
+			<DisplayName>ฟื้นคืนรอยประทับห้าวิญญาณ</DisplayName>
+		</Text>
+		<Text Name="TianMoWuRestore">
+			<DisplayName>ฟื้นคืนการเต้นรำของปีศาจสวรรค์</DisplayName>
+		</Text>
+	</List>
+</Texts>

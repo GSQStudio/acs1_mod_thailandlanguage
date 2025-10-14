@@ -1,0 +1,9 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="TestABC">
+			<DisplayName>ประมูล</DisplayName>
+			<Selections.0.Display>ตำราวิชา</Selections.0.Display>
+			<Selections.1.Display>โอสถ</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

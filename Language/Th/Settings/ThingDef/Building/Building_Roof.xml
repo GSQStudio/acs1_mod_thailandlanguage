@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="CaveRoof" sParam="Building">
+			<ThingName>เพดานถ้ำ</ThingName>
+		</Text>
+		<Text Name="YaoRoof" sParam="Building">
+			<Desc>หลังคาเป็นเพียงการตกแต่งเท่านั้น มันไม่ส่งผลใดๆ ต่อฮวงจุ้ย</Desc>
+			<ThingName>หลังคา</ThingName>
+		</Text>
+		<Text Name="WoodRoof" sParam="Building">
+			<ThingName>หลังคา</ThingName>
+			<Desc>หลังคาเป็นเพียงการตกแต่งเท่านั้น มันไม่ส่งผลใดๆ ต่อฮวงจุ้ย</Desc>
+		</Text>
+		<Text Name="StoneRoof" sParam="Building">
+			<ThingName>หลังคา</ThingName>
+			<Desc>หลังคาเป็นเพียงการตกแต่งเท่านั้น มันไม่ส่งผลใดๆ ต่อฮวงจุ้ย</Desc>
+		</Text>
+		<Text Name="WoodRoof_SpringFestival" sParam="Building">
+			<ThingName>หลังคา (ใบไม้ผลิ)</ThingName>
+			<Desc>หลังคาพิเศษสำหรับฤดูใบไม้ผลิ เป็นเพียงการตกแต่งที่ไม่ส่งผลต่อฮวงจุ้ย</Desc>
+		</Text>
+		<Text Name="StoneRoof_SpringFestival" sParam="Building">
+			<ThingName>หลังคา (เทศกาล)</ThingName>
+			<Desc>หลังคาพิเศษสำหรับงานเทศกาลฤดู เป็นเพียงการตกแต่งที่ไม่ส่งผลต่อฮวงจุ้ย</Desc>
+		</Text>
+	</List>
+</Texts>

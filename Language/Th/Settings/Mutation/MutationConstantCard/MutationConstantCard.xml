@@ -1,0 +1,172 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Card_Debug">
+			<DisplayName>เส้นทางแห่งการสูญเสีย</DisplayName>
+			<Desc>เนื่องด้วยเหตุอันลี้ลับ ความโกลาหลนี้ทิ้งไว้เพียงเศษเสี้ยวแห่งพลัง ไม่อาจส่งผลใดๆ ได้</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
+			<DisplayName>แปรเปลี่ยนอสูร</DisplayName>
+			<Desc>สัตว์ที่สิ้นชีพอาจกลายร่างเป็นอสูรร้าย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ElixirGas">
+			<DisplayName>พลังโอสถก่อเกิดปราณสมบูรณ์</DisplayName>
+			<Desc>เมื่อการหลอมโอสถสำเร็จ พลังแห่งโอสถห้าธาตุในบริเวณนั้นจะเพิ่มพูน ก่อให้เกิดผลลัพธ์ที่แตกต่างกันไปตามสัดส่วน</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_LifeLost">
+			<DisplayName>ชะตาพลิกผันฉับพลัน</DisplayName>
+			<Desc>ภูมิต้านทานต่อโอสถในการกินโอสถจะลดลง แต่ช่วงอายุขัยจะถูกเผาผลาญเร็วกว่าปกติถึงร้อยเท่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_AncientStoneChest">
+			<DisplayName>คำสาปศิลามาร</DisplayName>
+			<Desc>เพิ่มโอกาสขุดพบกล่องหินโบราณอย่างมหาศาล แต่ศิษย์ผู้ขุดจักต้องสิ้นชีพ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_LinQiSurge">
+			<DisplayName>พลังอันยิ่งใหญ่แห่งสวรรค์</DisplayName>
+			<Desc>ทุกครั้งที่สภาพอากาศเปลี่ยนแปลงจะเกิดปรากฏการณ์คลื่นปราณปะทุ ทว่าหากคิดลงมือฝืนเปลี่ยนสภาพอากาศ จำต้องแลกด้วยการเผาผลาญชีพของผู้กระทำ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GoodsExpensiveButSuppliesCheaper">
+			<DisplayName>ผู้คนล้วนแสวงหาผลประโยชน์</DisplayName>
+			<Desc>พ่อค้าจะขายของในราคาต่ำลงครึ่งหนึ่ง แต่ราคาซื้อกลับเพิ่มขึ้นเป็นสองเท่า และภายในรอบการค้าหนึ่ง การซื้อซ้ำจะทำให้ราคาสูงขึ้น ขณะที่การขายซ้ำจะทำให้ราคาถูกลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_FiveElementsRelationChange">
+			<DisplayName>ห้าธาตุพลิกผัน</DisplayName>
+			<Desc>กฎแห่งสะกดข่มและการส่งเสริมของธาตุทั้งห้าถูกพลิกผันเป็นตรงกันข้าม</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_CantDrawFuAndRandomFu">
+			<DisplayName>เส้นทางยันต์ล่มสลาย</DisplayName>
+			<Desc>มิอาจวาดยันต์ได้ตามใจนึก เมื่อวาดยันต์จะให้ผลลัพธ์แบบสุ่ม ทว่าสามารถใช้งานยันต์ได้พร้อมกัน 6 ช่อง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_RefineMustSuccess">
+			<DisplayName>ศาสตราเทพลิขิต</DisplayName>
+			<Desc>การหลอมศาสตราบรรลุผลสำเร็จแน่นอน ทว่าต้องแลกมากับการใช้ทรัพยากรที่มากขึ้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_NpcAvoidDangerAutomatically">
+			<DisplayName>โลกอันกลมกลืน</DisplayName>
+			<Desc>ได้รับความชื่นชอบจากผู้ฝึกตนสูงขึ้น สามารถทะลวงกำแพงแห่งจิตใจได้โดยตรง ทว่าผู้ฝึกตนทั้งหลายจะมีสัมผัสหลีกเลี่ยงอันตรายได้เอง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_RealTime">
+			<DisplayName>ปรับแกนกาลเวลา</DisplayName>
+			<Desc>ระยะเวลาของเหตุการณ์ลับลดลงเหลือหนึ่งในสาม ศิษย์ที่ถูกส่งไปภายนอกจะใช้เวลาตามจริง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_SupplyBox">
+			<DisplayName>เศษซากแห่งมหาพิบัติ</DisplayName>
+			<Desc>ม่านหมอกบนแผนที่ถูกขจัดออกโดยสิ้นเชิง โลกแห่งนี้มิอาจได้รับผลผลิตจากการสังหาร ตัดไม้ เก็บเกี่ยว หรือขุดแร่ ทว่าในแต่ละวันจะมีหีบเสบียงตกลงมายังสำนักจากฟากฟ้า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetGoodBadScoreRandom">
+			<DisplayName>สายสัมพันธ์ทั่วหล้า</DisplayName>
+			<Desc>เมื่อได้รับชื่อเสียงผ่านวิถีต่างๆ ชื่อเสียงที่ได้รับจะสุ่มเป็นบวกหรือลบ และตัวคูณของชื่อเสียงจะสุ่มอยู่ระหว่าง 0.1 ถึง 10 เท่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_UnlockGong">
+			<DisplayName>ผลเต๋าตกอยู่ในเคราะห์ภัย</DisplayName>
+			<Desc>ค่าฝึกรากฐานที่ใช้ในการสร้างรากฐานและค่าฝึกฝนทุกระดับถูกคูณด้วยห้า วิชาบ่มเพาะทั้งหมดถูกเปิดให้ผู้ฝึกตนทุกคน</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Yang">
+			<DisplayName>ดินแดนแห่งหยางสุดขั้ว</DisplayName>
+			<Desc>พลังฮวงจุ้ยของสำนักแตะถึงขีดสุดอย่างถาวร ผลของการรวมปราณเพิ่มขึ้น 100 หน่วย ธาตุไฟและไม้ในทุกพื้นที่ของนิกายจะเพิ่มขึ้น อุณหภูมิพื้นฐานของแผนที่เพิ่มขึ้น 20°</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Yin">
+			<DisplayName>ดินแดนแห่งหยินสุดขั้ว</DisplayName>
+			<Desc>พลังฮวงจุ้ยของสำนักแตะถึงขีดสุดอย่างถาวร ผลของการรวมปราณเพิ่มขึ้น 100 หน่วย ธาตุทองและน้ำในทุกพื้นที่ของนิกายจะเพิ่มขึ้น อุณหภูมิพื้นฐานของแผนที่ลดลง 20°</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_1">
+			<DisplayName>นักล่าอสูร: กระต่าย</DisplayName>
+			<Desc>สังหารกระต่ายจำนวนหนึ่ง ได้รับสมบัติล้ำค่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_2">
+			<DisplayName>นักล่าอสูร: หมาป่า</DisplayName>
+			<Desc>สังหารหมาป่าจำนวนหนึ่ง ได้รับสมบัติล้ำค่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_3">
+			<DisplayName>นักล่าอสูร: หมี</DisplayName>
+			<Desc>สังหารหมีจำนวนหนึ่ง ได้รับสมบัติล้ำค่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_4">
+			<DisplayName>นักล่าอสูร: เต่า</DisplayName>
+			<Desc>สังหารเต่าจำนวนหนึ่ง ได้รับสมบัติล้ำค่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_5">
+			<DisplayName>นักล่าอสูร: พยัคฆ์</DisplayName>
+			<Desc>สังหารพยัคฆ์จำนวนหนึ่ง ได้รับสมบัติล้ำค่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_6">
+			<DisplayName>นักล่าอสูร: วัว</DisplayName>
+			<Desc>สังหารวัวจำนวนหนึ่ง ได้รับสมบัติล้ำค่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_7">
+			<DisplayName>นักล่าอสูร: ไก่</DisplayName>
+			<Desc>สังหารไก่จำนวนหนึ่ง ได้รับสมบัติล้ำค่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_8">
+			<DisplayName>นักล่าอสูร: อสรพิษ</DisplayName>
+			<Desc>สังหารอสรพิษจำนวนหนึ่ง ได้รับสมบัติล้ำค่า</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetItem_1">
+			<DisplayName>บาปแห่งการครอบครอง</DisplayName>
+			<Desc>ได้รับสมบัติหายากจำนวนมาก แต่สำนักทั้งหมดกลับมองเราด้วยความชิงชัง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_OuterDiscipleRoomDemand">
+			<DisplayName>รากฐานเซียนโดยกำเนิด</DisplayName>
+			<Desc>ศิษย์สายนอกสามารถบินได้ แต่ต้องการที่พักอาศัยที่ใหญ่ขึ้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetItem_2">
+			<DisplayName>พรจากสวรรค์</DisplayName>
+			<Desc>พรจากสวรรค์</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Sacrific">
+			<DisplayName>พิธีเซ่นสังเวยอสูร</DisplayName>
+			<Desc>เริ่มพิธีเซ่นสังเวยอสูร</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_FengShuiChange">
+			<DisplayName>สำนักต้านสวรรค์</DisplayName>
+			<Desc>ศิษย์ของสำนักล้วนเป็นอัจฉริยะ ทุกคุณสมบัติ +2 (ขีดจำกัดเพิ่มขึ้น) แต่ถูกสวรรค์ริษยา ทำให้วัตถุศักดิ์สิทธิ์ทั้งปวงกลายเป็นสิ่งอัปมงคล</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_2">
+			<DisplayName>ฤๅษีเร้นกายในหุบเขาลึก</DisplayName>
+			<Desc>ความสามารถในการผจญภัยของศิษย์ในสำนักลดลงอย่างมาก แต่ทักษะการหลอมอาวุธวอเศษ +5 (ขีดจำกัดเพิ่มขึ้น)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_4">
+			<DisplayName>ชำนาญในการเข้าสังคม</DisplayName>
+			<Desc>สภาพจิตใจลดลงอย่างมาก ทักษะสังคม +5 (ขีดจำกัดเพิ่มขึ้น)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_5">
+			<DisplayName>เลี่ยงเบา แสวงหาหนัก</DisplayName>
+			<Desc>ทักษะฝีมือประณีตของศิษย์ในสำนักลดลงอย่างมาก ทักษะก่อสร้าง +10 ทักษะขุดแร่ +10</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_6">
+			<DisplayName>ใช้หมัดและเท้าแทนเหตุผล</DisplayName>
+			<Desc>ทักษะสังคมของศิษย์ในสำนัก -5 ทักษะต่อสู้ +5 (ขีดจำกัดเพิ่มขึ้น)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_7">
+			<DisplayName>ปราณตะกละ</DisplayName>
+			<Desc>ศิษย์ในสำนักหิวและเหนื่อยง่ายขึ้น (สัมผัสปราณ +10)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_8">
+			<DisplayName>อายุยืนยาวและรุ่งเรือง</DisplayName>
+			<Desc>ศิษย์ในสำนักได้รับอายุขัยเพิ่มขึ้น 50 ปี ความทนต่ออุณหภูมิสูงสุดและต่ำสุดลดลง -10/-20</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_9">
+			<DisplayName>เทพจุดประกายปัญญา</DisplayName>
+			<Desc>ขีดจำกัดปราณของศิษย์ในสำนักเพิ่มขึ้น แต่วิบากกรรมสวรรค์จะมาถึงเร็วขึ้น 70%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_10">
+			<DisplayName>ตั้งรับแทนการจู่โจม</DisplayName>
+			<Desc>ทักษะต่อสู้ของศิษย์ในสำนัก -5 ทักษะเกราะปราณ +5 (ขีดจำกัดเพิ่มขึ้น)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_11">
+			<DisplayName>หลงใหลในมนตรา</DisplayName>
+			<Desc>อัตราความเร็วในการฝึกของศิษย์ในสำนักลดลงอย่างมาก แต่ทักษะวิชา +10 (ขีดจำกัดเพิ่มขึ้น)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_12">
+			<DisplayName>หนึ่งก้าวสู่ความเป็นอมตะ</DisplayName>
+			<Desc>ศิษย์ในสำนักได้รับการเร่งความเร็วอย่างมากในการฝึกสร้างรากฐานและบำเพ็ญตนในช่วงเวลาสั้นๆ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_13">
+			<DisplayName>เส้นทางแห่งการสังหาร</DisplayName>
+			<Desc>ศิษย์ในสำนักได้รับผลกระทบอย่างมาก ทำให้ความเร็วในการฝึกสร้างรากฐานและบำเพ็ญตนลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_14">
+			<DisplayName>หลงใหลในศาสตร์แห่งศาสตรา</DisplayName>
+			<Desc>ความเร็วในการเรียนรู้ของศิษย์ในสำนักลดลงอย่างมาก ทักษะหลอมอาวุธวิเศษ +5 (ขีดจำกัดเพิ่มขึ้น)</Desc>
+		</Text>
+	</List>
+</Texts>

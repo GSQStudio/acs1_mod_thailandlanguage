@@ -1,0 +1,13 @@
+talk	notarget	int	string	float	thing
+NotEat_Item_WuDang_HuangJingFen	ข้าจะไม่กินผงแกนดิน				
+NotEat_Item_Dan_WuQiNoHunger2	ข้าจะไม่กินโอสถแทนปราณ				
+NotEat_Item_Dan_SanHuaHuangJing	ข้าจะไม่กินโอสถสามแกน				
+WannaEat_Item_WuDang_HuangJingFen	ข้าต้องการกินผงแกนดิน				
+WannaEat_Item_Dan_WuQiNoHunger2	ข้าต้องการกินโอสถแทนปราณ				
+WannaEat_Item_Dan_SanHuaHuangJing	ข้าต้องการกินโอสถสามแกน				
+DoTalkEat_Item_WuDang_HuangJingFen					ข้ากำลังกินผงแกนดิน
+DoTalkEat_Item_Dan_WuQiNoHunger2					ข้ากำลังกินโอสถแทนปราณ
+DoTalkEat_Item_Dan_SanHuaHuangJing					ข้ากำลังกินโอสถสามแกน
+CantEat_Item_WuDang_HuangJingFen	ข้าไม่สามารถหาผงแกนดินได้				
+CantEat_Item_Dan_WuQiNoHunger2	ข้าไม่สามารถหาโอสถแทนปราณได้				
+CantEat_Item_Dan_SanHuaHuangJing	ข้าไม่สามารถหาโอสถสามแกนได้				

@@ -1,0 +1,34 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_BodyPractice_Boss_BaseValue">
+			<DisplayName>ฝึกร่างหลอมกายา</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_BaseFightValue">
+			<DisplayName>ฝึกร่างหลอมกายาขณะต่อสู้</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Atk">
+			<DisplayName>พลังกร้าว</DisplayName>
+			<Desc>กายาเร้นลับของบุคคลผู้นี้มีศักยภาพพลังที่มหาศาลขนาดที่สามารถทำลายภูเขาและพลิกผืนท้องทะเลได้</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Def">
+			<DisplayName>ทนทาน</DisplayName>
+			<Desc>กายาเร้นลับของบุคคลผู้นี้มีศักยภาพที่มีความทนทานอันไร้ที่เปรียบ ว่ากันว่าเมื่อร่างนี้สมบูรณ์เมื่อใดจะไม่มีสิ่งใดสามารถทำลายคนผู้นั้นได้</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Dodge">
+			<DisplayName>หลบหลีก</DisplayName>
+			<Desc>บุคคลผู้นี้มีความเร็วและความคล่องตัวที่ไม่มีใครสามารถแตะต้องเขาได้</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_CatchFabao">
+			<DisplayName>ช่วงชิง</DisplayName>
+			<Desc>บุคคลผู้นี้มีความไวของมือที่รวดเร็วยิ่งกว่าอาวุธวิเศษใดๆ</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_ArmorPenetration">
+			<DisplayName>เจาะทำลาย</DisplayName>
+			<Desc>บุคคลผู้นี้มีความฉลาดล้ำ พวกเขาสามารถมองเห็นถึงจุดอ่อนและช่องโหว่ของเกราะปราณได้อย่างง่ายดาย และใช้ช่องโหว่นั้นเพื่อโจมตีผ่านเกราะปราณไปได้</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Strong">
+			<DisplayName>แข็งแกร่ง</DisplayName>
+			<Desc>ร่างกายของบุคคลผู้นี้มีความแข็งแรงยิ่ง อีกทั้งจิตใจของพวกเขาก็หนักแน่นมั่นคงและไม่มีความเจ็บปวดใดๆ มาขัดขวางเขาได้</Desc>
+		</Text>
+	</List>
+</Texts>

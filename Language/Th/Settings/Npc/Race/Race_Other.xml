@@ -1,0 +1,38 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>ว่างเปล่า</DisplayName>
+		</Text>
+		<Text Name="Puppet">
+			<DisplayName>หุ่นเชิด</DisplayName>
+			<Desc>เครื่องมือที่มนุษย์สร้างขึ้น มันมีลักษณะที่คล้ายมนุษย์เป็นอย่างมากและมันสามารถขับเคลื่อนด้วยพลังปราณได้</Desc>
+		</Text>
+		<Text Name="NY_Zhuyao">
+			<DisplayName>เทศกาลฤดูใบไม้ผลิหมูอสูร</DisplayName>
+		</Text>
+		<Text Name="NY_Shuyao">
+			<DisplayName>หนูอสูร (เทศกาลฤดูใบไม้ผลิ)</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai">
+			<DisplayName>เทศกาลฤดูใบไม้ผลิสัตว์อสูร</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai2">
+			<DisplayName>เทศกาลฤดูใบไม้ผลิสัตว์อสูร</DisplayName>
+		</Text>
+		<Text Name="BodyPart">
+			<DisplayName>ส่วนลำตัว</DisplayName>
+		</Text>
+		<Text Name="MiniLong">
+			<DisplayName>มังกรน้อย</DisplayName>
+		</Text>
+		<Text Name="MiniFeng">
+			<DisplayName>หงส์น้อย</DisplayName>
+		</Text>
+		<Text Name="SP_Zhulong">
+			<DisplayName>มังกรเทียน (เทศกาลฤดูใบไม้ผลิ)</DisplayName>
+		</Text>
+		<Text Name="Hero1">
+			<DisplayName>วีรบุรุษ</DisplayName>
+		</Text>
+	</List>
+</Texts>

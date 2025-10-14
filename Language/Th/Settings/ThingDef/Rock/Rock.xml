@@ -1,0 +1,24 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBrown" sParam="Plant">
+			<ThingName>ก้อนหินสีน้ำตาล</ThingName>
+			<Desc>ภูเขาหินที่เต็มไปด้วยก้อนหินสีน้ำตาล เนื้อมันของมันร่วนเป็นอย่างมาก ทำให้ยากเป็นอย่างมากในการขุดหาก้อนหินที่สามารถใช้งานได้จากมัน</Desc>
+		</Text>
+		<Text Name="RockGray" sParam="Plant">
+			<ThingName>ก้อนหินสีเทา</ThingName>
+			<Desc>ภูเขาหินที่เต็มไปด้วยก้อนหินสีเทา เนื้อมันของมันค่อนแน่น สามารถขุดมันมาใช้เป็นวัสดุก่อสร้างได้</Desc>
+		</Text>
+		<Text Name="RockMarble" sParam="Plant">
+			<ThingName>ก้อนหินอ่อน</ThingName>
+			<Desc>ภูเขาหินที่เต็มไปด้วยหินอ่อน ที่ซึ่งสามารถขุดหาหินอ่อนได้จากที่นี่</Desc>
+		</Text>
+		<Text Name="RockJade" sParam="Plant">
+			<ThingName>ก้อนหยก</ThingName>
+			<Desc>ภูเขาหินที่เต็มไปด้วยหินหยก ที่ซึ่งสามารถขุดหาหยกได้จากที่นี่</Desc>
+		</Text>
+		<Text Name="RockCinnabar" sParam="Plant">
+			<ThingName>ก้อนปรอทแดง</ThingName>
+			<Desc>ภูเขาหินที่เต็มไปด้วยก้อนปรอทแดง ที่ซึ่งสามารถขุดหาปรอทแดงได้จากที่นี่</Desc>
+		</Text>
+	</List>
+</Texts>

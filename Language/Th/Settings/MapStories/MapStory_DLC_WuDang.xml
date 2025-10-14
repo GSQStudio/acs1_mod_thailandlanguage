@@ -1,0 +1,53 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="System_FightMap_RedWall">
+			<DisplayName>สังเกต</DisplayName>
+			<Desc>[NAME] พยายามเรียนรู้วิธีการสร้างสิ่งปลูกสร้างชิ้นนี้</Desc>
+			<Selections.0.Display>สังเกต</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_DragonIncense">
+			<DisplayName>สังเกต</DisplayName>
+			<Desc>[NAME] พยายามขอพรด้วยธูปมังกร</Desc>
+			<Selections.0.Display>สังเกต</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_DragonIncense">
+			<DisplayName>ขอพร</DisplayName>
+			<Desc>[NAME] พยายามขอพรด้วยธูปมังกร</Desc>
+			<Selections.0.Display>ขอให้จิตแจ่มใส</Selections.0.Display>
+			<Selections.1.Display>ขอให้แข็งแกร่งไวๆ</Selections.1.Display>
+			<Selections.2.Display>ขอให้มีโชคลาภ</Selections.2.Display>
+			<Selections.3.Display>ขอให้รู้แจ้งในเต๋า</Selections.3.Display>
+			<Selections.4.Display>ขอทุกอย่าง</Selections.4.Display>
+			<Selections.5.Display>ยอมแพ้</Selections.5.Display>
+		</Text>
+		<Text Name="Story_Building_TaiZiDian">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งอยู่ที่โต๊ะและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoJianZhen">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งข้างโล่และดาบ และพยายามใช้การรับรู้ในการสื่อสารกับมัน</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoDanLu">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งอยู่ข้างเตาหลอมโอสถ และพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Ls_CallXuanWu">
+			<DisplayName>สัมผัส</DisplayName>
+			<Desc>มีความวาววับสองแบบในหยกวิญญาณนี้ ซึ่งมีลมหายใจของเต่าดำ</Desc>
+			<Selections.0.Display>สัมผัส</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoShiBei">
+			<DisplayName>สัมผัส</DisplayName>
+			<Desc>[NAME] สัมผัสตัวอักษรที่สลักอยู่บนศิลาจารึก</Desc>
+			<Selections.0.Display>สัมผัส</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

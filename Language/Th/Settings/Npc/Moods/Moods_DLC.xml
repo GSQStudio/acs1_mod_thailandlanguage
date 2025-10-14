@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mood_BigFish">
+			<DisplayName>จับปลาตัวใหญ่ได้</DisplayName>
+			<Desc>แค่ได้ปลาตัวใหญ่ก็รู้สึกดีแล้ว</Desc>
+			<StoryDesc>จับได้ปลาตัวโตๆ รู้สึกดีจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Mood_BigBigFish">
+			<DisplayName>จับปลาตัวขนาดยักษ์ได้</DisplayName>
+			<Desc>การจับปลายักษ์ได้นี่รู้สึกยอดเยี่ยมจริงๆ</Desc>
+			<StoryDesc>จับได้ปลาขนาดยักษ์ได้ รู้สึกดีจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Mood_BeFished">
+			<DisplayName>จับ</DisplayName>
+			<Desc>จับได้หลังจากกินเหยื่อ</Desc>
+			<StoryDesc>รู้สึกโกรธเล็กน้อยที่ถูกจับได้</StoryDesc>
+		</Text>
+		<Text Name="Mood_FishSmell">
+			<DisplayName>เหม็นคาว</DisplayName>
+			<Desc>กินปลากระเบนอสูรที่มีกลิ่นเหม็นคาว</Desc>
+			<StoryDesc>กินปลากระเบนอสูรที่มีกลิ่นเหม็นคาว</StoryDesc>
+		</Text>
+		<Text Name="Mood_FishGood">
+			<DisplayName>อร่อย</DisplayName>
+			<Desc>กินปลาแสงจันทร์ที่มีรสอันโอชะ</Desc>
+			<StoryDesc>กินปลาแสงจันทร์ที่มีรสอันโอชะ</StoryDesc>
+		</Text>
+	</List>
+</Texts>

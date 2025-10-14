@@ -1,0 +1,26 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Ginseng" sParam="Plant">
+			<ThingName>โสม</ThingName>
+			<Desc>วัตถุดิบยาหายาก มีความสามารถในการรักษาที่ทรงพลังและสามารถเพิ่มปราณแก่ผู้ที่เพิ่งจะเริ่มต้นการบ่มเพาะได้ดี เจริญเติบโตในอุณหภูมิระหว่าง [temperature]-30[/temperature] ถึง [temperature]40[/temperature] และจะเติบโตเฉพาะในสถานที่ที่มีปราณหนาแน่นเท่านั้น</Desc>
+		</Text>
+		<Text Name="GanodermaLucidum" sParam="Plant">
+			<ThingName>เห็ดหลินจือ</ThingName>
+			<Desc>วัตถุดิบยาหายาก มีความสามารถในการรักษาที่ทรงพลังและสามารถเพิ่มปราณแก่ผู้ที่เพิ่งจะเริ่มต้นการบ่มเพาะได้ดี เจริญเติบโตในอุณหภูมิระหว่าง [temperature]10[/temperature] ถึง [temperature]40[/temperature] และจะเติบโตเฉพาะในสถานที่ที่มีปราณหนาแน่นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Mint" sParam="Plant">
+			<ThingName>หญ้ากระจ่างจิต</ThingName>
+			<Desc>วัตถุดิบที่มีสรรพคุณทางยาทั่วๆ ไป มันมีฤทธิ์ที่เย็นที่ช่วยให้ผลผ่อนคลายและสงบจิตใจได้ดี เติบโตในอุณหภูมิระหว่าง [temperature]-30[/temperature] ถึง [temperature]40[/temperature] และจะเติบโตเฉพาะในสถานที่ที่มีปราณหนาแน่นเท่านั้น</Desc>
+		</Text>
+		<Text Name="MagicHerb" sParam="Plant">
+			<ThingName>หญ้าวิญญาณ</ThingName>
+			<Desc>สมุนไพรที่มีปราณวิญญาณแฝงอยู่ ถือว่าค่อนข้างหาได้ยาก เติบโตในอุณหภูมิระหว่าง [temperature]-30[/temperature] ถึง [temperature]40[/temperature] และจะเติบโตเฉพาะในสถานที่ที่มีปราณหนาแน่นเท่านั้น หญ้าวิญญาณนั้นเติบโตแทบทุกที่บนยอดเขาโอสถที่ตั้งอยู่บนที่ราบตอนกลาง</Desc>
+		</Text>
+		<Text Name="WarmHerb" sParam="Plant">
+			<ThingName>หนอนหิมะอัคคี</ThingName>
+			<Desc>สมุนไพรที่มีลักษณะหลากหลาย มันเติบโตได้เฉพาะในฤดูหนาวและฤดูร้อนเท่านั้น มันมีอีกชื่อเรียกหนึ่งในหมู่ชาวบ้านนั่นก็คือ "หญ้าผันแปร" เมื่อกินเข้าไป มันสามารถปรับปรุงความสามารถในการปรับตัวให้เข้ากับสภาพแวดล้อมที่รุนแรงได้ชั่วคราว</Desc>
+			<StoryBnts.0.Name>เก็บ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเก็บเกี่ยวด้วยคาถา</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,169 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BaseExpect1">
+			<DisplayName>สงบสติจากความหวาดกลัว</DisplayName>
+			<Desc>วิ่งต่อเนื่องมาหลายวันมันเหนื่อยจริงๆ แต่มันก็ยังดีกว่าตาย...</Desc>
+			<StoryDesc>การรอดพ้นจากภัยพิบัติครั้งนั้นได้ถือเป็นโชคดี</StoryDesc>
+		</Text>
+		<Text Name="BaseExpect2">
+			<DisplayName>ห่างไกลจากความวุ่นวาย</DisplayName>
+			<Desc>ถึงแม้จะไม่มีอะไรที่นี่ แต่มันเป็นสถานที่ที่ดีกว่าโลกภายนอกที่มีแต่ความวุ่นวายนั่น</Desc>
+			<StoryDesc>รู้สึกปลอดภัย ห่างไกลจากความวุ่นวาย</StoryDesc>
+		</Text>
+		<Text Name="BaseExpect3">
+			<DisplayName>ชีวิตใหม่</DisplayName>
+			<Desc>ดูเหมือนว่าท่านจะชอบที่นี่มากขึ้น มันไม่มีทั้งสงครามหรือภาษี แม้ว่าความเป็นอยู่จะค่อยข้างลำบากกายแต่กลับสบายใจ นี่อาจเป็นการเริ่มต้นใหม่ที่ทุกคนเต็มไปด้วยความหวัง?</Desc>
+			<StoryDesc>รู้สึกตื่นเต้นและแอบตั้งความหวังไว้กับการเริ่มต้นใหม่นี้</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect1">
+			<DisplayName>บ้านที่น่าสยดสยอง</DisplayName>
+			<Desc>ที่แห่งนี้สามารถเรียกได้ว่าที่อยู่อาศัยของมนุษย์ได้งั้นรึ?</Desc>
+			<StoryDesc>รู้สึกว่าสถานที่นี้ทำให้คนสามารถเป็นบ้าได้ง่ายๆ</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect2">
+			<DisplayName>บ้านสยองขวัญ</DisplayName>
+			<Desc>สถานที่แห่งนี้มันน่ากลัวจนพูดไม่ออกทีเดียว บางทีการนอนบนพื้นหญ้าข้างนอกนั้นยังจะสบายใจซะกว่า</Desc>
+			<StoryDesc>รู้สึกพูดไม่ออกกับสภาพความเป็นอยู่อันโหดร้าย</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect3">
+			<DisplayName>บ้านที่น่ากลัว</DisplayName>
+			<Desc>สถานที่นี้ดีพอแค่ใช้สำหรับบังลมบังฝนเท่านั้น</Desc>
+			<StoryDesc>รู้สึกไม่สบายใจเมื่อต้องทนกับสภาวะที่โหดร้ายเช่นนี้</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect4">
+			<DisplayName>ห้องธรรมดา</DisplayName>
+			<Desc>ห้องนี้ค่อนข้างมาตรฐานในทุกๆ ด้าน</Desc>
+			<StoryDesc>คิดว่าควรจะปรับปรุงห้องนี้ยังไงดี</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect5">
+			<DisplayName>ห้องที่ดีกว่าห้องทั่วๆ ไป</DisplayName>
+			<Desc>ห้องๆ นี้ไม่เลวเลยที่เดียว</Desc>
+			<StoryDesc>รู้สึกว่าห้องนี้ค่อนข้างสบาย</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect6">
+			<DisplayName>ห้องสวยหรู</DisplayName>
+			<Desc>ใครก็ตามที่ออกแบบห้องนี้นั้นช่างเอาใจใส่กับมันจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าห้องนี้น่าอยู่จริงๆ</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect7">
+			<DisplayName>ห้องอันเลิศหรู</DisplayName>
+			<Desc>ดูเหมือนว่าผู้ออกแบบจะทุ่มทุกสิ่งทุกอย่างไปเพื่อออกแบบห้องอันยอดเยี่ยมห้องนี้</Desc>
+			<StoryDesc>รู้สึกว่าห้องนี้มันวิเศษสุดๆ!</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect8">
+			<DisplayName>ต้องการห้องนอน</DisplayName>
+			<Desc>ข้าต้องการห้องนอน!</Desc>
+			<StoryDesc>รู้สึกหงุดหงิดง่ายเมื่อไม่มีห้องที่ไว้ใช้สำหรับพักผ่อน</StoryDesc>
+		</Text>
+		<Text Name="IndependentRoomNeed">
+			<DisplayName>อาศัยร่วมกับศิษย์สายนอก</DisplayName>
+			<Desc>พวกศิษย์สายนอกนั้นค่อนข้างวุ่นวายน่ารําคาญ... ข้าหวังว่าจะได้ย้ายออกจากสภาพความเป็นอยู่นี้ในไม่ช้า</Desc>
+			<StoryDesc>รู้สึกว่าการอยู่ร่วมกับศิษย์สายนอกนั้นน่ารำคาญ</StoryDesc>
+		</Text>
+		<Text Name="LiveWithBadMan">
+			<DisplayName>อยู่ร่วมกันอย่างอึดอัดใจ</DisplayName>
+			<Desc>[TXT] และข้านั้นฝืนทนอยู่ในห้องเดียวกันไม่ได้จริงๆ</Desc>
+			<StoryDesc>การฝืนทนอยู่ในห้องเดียวกันกับคนที่ไม่คุ้นเคยนั้นเป็นเรื่องที่น่าอึดอัดใจ</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect1">
+			<DisplayName>ฮวงจุ้ยอาถรรพ์</DisplayName>
+			<Desc>ฮวงจุ้ยของสถานที่พักอาศัยของข้านั้นย่ำแย่สุดๆ</Desc>
+			<StoryDesc>รู้สึกว่าฮวงจุ้ยที่บกพร่องอาจทำให้คนเป็นบ้าได้</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect2">
+			<DisplayName>ฮวงจุ้ยอับโชค</DisplayName>
+			<Desc>ที่ๆ ข้าอยู่นี่ฮวงจุ้ยไม่ดีเลย ข้าควรอยู่ที่นี่ต่อรึเปล่า?</Desc>
+			<StoryDesc>รู้สึกว่ามีบางอย่างผิดปกติกับฮวงจุ้ยที่นี่และมันทำให้ทุกอย่างแย่ลง</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect3">
+			<DisplayName>ฮวงจุ้ยไม่ดี</DisplayName>
+			<Desc>ฮวงจุ้ยที่นี่แย่มากจนไม่อาจอยู่ในห้องได้อย่างสบายใจ</Desc>
+			<StoryDesc>รู้สึกว่ามีบางอย่างผิดปกติกับฮวงจุ้ยที่นี่จนทำให้รู้สึกอารมณ์เสีย</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect4">
+			<DisplayName>ฮวงจุ้ยดี</DisplayName>
+			<Desc>ฮวงจุ้ยในสถานที่พักของข้านั้นไม่เลวเลยทีเดียว</Desc>
+			<StoryDesc>รู้สึกว่าฮวงจุ้ยดีทำให้จิตใจแจ่มใส</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect5">
+			<DisplayName>ฮวงจุ้ยเป็นมงคล</DisplayName>
+			<Desc>ฮวงจุ้ยในห้องของข้านั้นยอดเยี่ยมมาก ใครก็ตามที่จัดห้องนี้จะรู้ดีความคิดทั้งหมดปลอดโปร่ง</Desc>
+			<StoryDesc>รู้สึกว่าห้องที่มีฮวงจุ้ยดีๆ นั้นเป็นที่ถูกใจของทุกคน</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect9">
+			<DisplayName>ห้องคับแคบ</DisplayName>
+			<Desc>บ้าจริง ห้องๆ นี้มันคับแคบเป็นอย่างมาก!</Desc>
+			<StoryDesc>รู้สึกว่าห้องแคบๆ สามารถทำให้คนรู้สึกเครียดได้</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect10">
+			<DisplayName>ห้องโล่งเกินไป</DisplayName>
+			<Desc>ห้องนี้มีแต่ความว่างเปล่า</Desc>
+			<StoryDesc>รู้สึกว่าควรต้องแต่งเติมห้องโล่งๆ นี่</StoryDesc>
+		</Text>
+		<Text Name="ClosedRoom">
+			<DisplayName>ออกไปไม่ได้</DisplayName>
+			<Desc>ประตูอยู่ไหนวะ!? ข้าออกไปไม่ด้ายยยย!!!</Desc>
+			<StoryDesc>เมื่อรู้ว่าห้องไม่มีประตู ย่อมทำให้ผู้คนรู้สึกโกรธเคือง</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect1">
+			<DisplayName>เสื้อผ้าห่วยๆ</DisplayName>
+			<Desc>ไม่มีเสื้อผ้าที่ดีกว่านี้แล้วจริงๆ เหรอ? (คุณภาพน้อยกว่า 30)</Desc>
+			<StoryDesc>รู้สึกหนักใจที่จะต้องสวมใส่เสื้อผ้าที่ห่วยแตกนี้</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect2">
+			<DisplayName>เสื้อผ้าที่เหมาะสม</DisplayName>
+			<Desc>เสื้อผ้าชุดนี้เหมาะกับข้าจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าการสวมใส่เสื้อผ้าที่เหมาะสมนั้นสามารถทำให้ผู้สวมใส่รู้สึกมีความสุข</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect3">
+			<DisplayName>เสื้อผ้าที่งดงาม</DisplayName>
+			<Desc>เสื้อผ้าชุดนี้ไม่เพียงแค่ใส่สบาย แต่ยังดูดีเป็นอย่างมากเมื่อข้าได้สวมใส่มัน</Desc>
+			<StoryDesc>รู้สึกว่าการใส่เสื้อผ้าดีๆ แบบนี้ช่วยเพิ่มความสดใสให้กับผู้สวมใส่ได้จริงๆ</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect1">
+			<DisplayName>สภาพแวดล้อมที่เลวร้าย</DisplayName>
+			<Desc>สภาพแวดล้อมนี้น่ากลัว แม้แต่ขอทานก็ไม่เต็มใจที่จะอยู่ที่นี่</Desc>
+			<StoryDesc>รู้สึกว่าสภาพแวดล้อมที่เลวร้ายเช่นนี้ทำให้ผู้คนรู้สึกไม่สบายใจและหวาดระแวง</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect2">
+			<DisplayName>สภาพแวดล้อมที่สกปรก</DisplayName>
+			<Desc>ที่นี้มันรกและสกปรกขนาดนี้ได้ยังไงกัน?</Desc>
+			<StoryDesc>รู้สึกว่าสภาพแวดล้อมที่สกปรกเช่นนี้ทำให้รู้สึกเครียดได้จริงๆ</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect3">
+			<DisplayName>ทัศนียภาพธรรมดา</DisplayName>
+			<Desc>ทิวทัศน์ที่นี่ไม่เลวเลยทีเดียว</Desc>
+			<StoryDesc>รู้สึกว่าทิวทัศน์อันแสนธรรมดาๆ เช่นนี้ก็ทำให้รู้ดีไม่น้อย</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect4">
+			<DisplayName>ทัศนียภาพที่สะดุดตา</DisplayName>
+			<Desc>ทิวทัศน์ที่สบายตาเช่นนี้ช่างน่าประทับใจจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่ามันง่ายที่จะหลงใหลไปกัยในทิวทัศน์อันเป็นเอกลักษณ์เช่นนี้</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect5">
+			<DisplayName>ทัศนียภาพที่น่าทึ่ง</DisplayName>
+			<Desc>ทัศนียภาพที่สวยงามเช่นนี้หาได้ยากมากบนโลกนี้</Desc>
+			<StoryDesc>รู้สึกสุขใจยามเมื่อได้ชมทัศนียภาพอันน่าทึ่งเช่นนี้</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect6">
+			<DisplayName>สวรรค์บนดิ่น</DisplayName>
+			<Desc>ที่นี่คือแดนสวรรค์งั้นหรือ?</Desc>
+			<StoryDesc>รู้สึกว่าทัศนียภาพเช่นนี้งดงามราวกับว่าอยู่ในแดนสวรรค์</StoryDesc>
+		</Text>
+		<Text Name="NeedFabao">
+			<DisplayName>ต้องการอาวุธวิเศษ</DisplayName>
+			<Desc>ข้าจะปกป้องตนเองจากผู้ฝึกตนคนอื่นได้อย่างไรหากปราศจากอาวุธวิเศษ?</Desc>
+			<StoryDesc>รู้สึกไม่ปลอดภัยเมื่อไม่มีอาวุธวิเศษอยู่ในมือ</StoryDesc>
+		</Text>
+		<Text Name="NeedWeapon">
+			<DisplayName>ต้องการอาวุธ</DisplayName>
+			<Desc>ข้าต้องการอาวุธเพื่อใช้มันปกป้องตนเอง</Desc>
+			<StoryDesc>รู้สึกไม่ปลอดภัยเมื่อไม่มีอาวุธอยู่ในมือ</StoryDesc>
+		</Text>
+		<Text Name="Jingguai_HappyHuman">
+			<DisplayName>แปลงร่างกลายเป็นมนุษย์</DisplayName>
+			<Desc>นะ-นี่ข้ากลายเป็นมนุษย์แล้วอย่างนั้นรึ? ในที่สุดข้ากลายเป็นมนุษย์แล้ว!!</Desc>
+			<StoryDesc>รู้สึกปลาบปลื้มที่สามารถแปลงร่างเป็นมนุษย์ได้สำเร็จ</StoryDesc>
+		</Text>
+	</List>
+</Texts>

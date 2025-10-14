@@ -1,0 +1,635 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger">
+			<Desc>ดึงดูดกวางลู่ซู่</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger2">
+			<Desc>ดึงดูดฉีเฟย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger3">
+			<Desc>ดึงดูดฝูงภูตน้อยประหลาด</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger4">
+			<Desc>สมบัติวิเศษปรากฏขึ้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger5">
+			<Desc>ขุมทรัพย์ปรากฏขึ้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Lua">
+			<Desc>ดึงดูดมังกรวารีในทันที</Desc>
+			<SpecialDesc>มังกรวารีปรากฏตัวขึ้นอย่างกะทันหันใน[SCHOOL]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Lua2">
+			<Desc>ดึงดูดหงส์เพลิงในทันที</Desc>
+			<SpecialDesc>วิหคเพลิงอันเกรี้ยวกราดปรากฏตัวขึ้นอย่างกะทันหันใน[SCHOOL]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Lua3">
+			<Desc>ดึงดูดจูหลงในทันที</Desc>
+			<SpecialDesc>มังกรเทียนปรากฏตัวขึ้นอย่างกะทันหันใน[SCHOOL]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_DaNengChuShi">
+			<Desc>กระตุ้นข่าวลือของผู้ฝึกตนโบราณสามเรื่องในทันที</Desc>
+			<SpecialDesc>[SCHOOL] ได้ค้นพบข่าวลือเกี่ยวกับผู้ฝึกตนโบราณ...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather">
+			<Desc>สร้างบรรยากาศแห่งรักภายในสำนัก</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+			<DisplayName>อัญเชิญสภาพอากาศ</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather2">
+			<Desc>เรียกสภาพอากาศ: ฤดูฝน</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather3">
+			<Desc>เรียกสภาพอากาศ: ฤดูแล้ง</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather4">
+			<Desc>เรียกสภาพอากาศ: พายุฝน</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather5">
+			<Desc>เรียกสภาพอากาศ: พายุลมร้อน</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather6">
+			<Desc>เรียกสภาพอากาศ: พายุทราย</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather7">
+			<Desc>เรียกสภาพอากาศ: รัตติกาลนิรันดร์</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather8">
+			<Desc>เรียกสภาพอากาศ: ละอองพิษ</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather9">
+			<Desc>เรียกสภาพอากาศ: พายุสายฟ้า</Desc>
+			<SpecialDesc>[TARGET] ปรากฏขึ้นที่[SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger19">
+			<Desc>ดึงดูดผู้ผ่านทาง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger20">
+			<Desc>ดึงดูดมิตรเซียน</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger21">
+			<Desc>ดึงดูดวิญญาณ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger22">
+			<Desc>ดึงดูดอสูรที่เพิ่งบังเกิด</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger23">
+			<Desc>พบการรุกรานจากฝูงอสูร</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger24">
+			<Desc>เผชิญหน้ากับผู้บุกรุกลึกลับ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_RandomCreatureInjured">
+			<Desc>สิ่งมีชีวิตสุ่มในแผนที่ได้รับบาดเจ็บเล็กน้อย</Desc>
+			<SpecialDesc>[TARGET] รู้สึกไม่สบายเล็กน้อย!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_RandomCreatureInjured2">
+			<Desc>สิ่งมีชีวิตสุ่มในแผนที่ได้รับบาดเจ็บสาหัส</Desc>
+			<SpecialDesc>[TARGET] ล้มป่วยอย่างกะทันหัน!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_RandomEnemyDies">
+			<Desc>ตัวละครศัตรูแบบสุ่มบนแผนที่ถึงฆาต</Desc>
+			<SpecialDesc>[TARGET] ล้มลุกไม่ไหวอย่างกระทันหัน!</SpecialDesc>
+			<Effects.0.sParam1>ความโกลาหลแห่งสวรรค์</Effects.0.sParam1>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce">
+			<Desc>กระตุ้นเหตุการณ์ลับในทันที</Desc>
+			<SpecialDesc>[SCHOOL] ได้ยินข่าวลือ: [TARGET]</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce1">
+			<Desc>กระตุ้นเหตุการณ์ลับในทันที</Desc>
+			<SpecialDesc>[SCHOOL] ได้ยินข่าวลือ: [TARGET]</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce2">
+			<Desc>กระตุ้นเหตุการณ์ลับในทันที</Desc>
+			<SpecialDesc>[SCHOOL] ได้ยินข่าวลือ: [TARGET]</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation">
+			<Desc>สำนักหนึ่งรู้สึกชื่นชมสำนักของเรามากยิ่งขึ้น</Desc>
+			<SpecialDesc>[TARGET] มีความชื่นชมเล็กน้อยใน[SCHOOL], ความชื่นชอบเพิ่มขึ้น!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation2">
+			<Desc>สำนักธรรมะสำนักหนึ่งสนิทกับสำนักของเรามากขึ้น</Desc>
+			<SpecialDesc>[TARGET] เข้ากับ [SCHOOL] ได้ดีมากมากขึ้น, ความชื่นชอบเพิ่มขึ้นอย่างมาก!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation3">
+			<Desc>สำนักอธรรมสำนักหนึ่งสนิทกับสำนักของเรามากขึ้น</Desc>
+			<SpecialDesc>[TARGET] เข้ากับ [SCHOOL] ได้ดีมากมากขึ้น, ความชื่นชอบเพิ่มขึ้นอย่างมาก!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation4">
+			<Desc>สำนักฝ่ายธรรมะทั่วหล้าเคารพสำนักเรายิ่งขึ้น</Desc>
+			<SpecialDesc>[TARGET] แสดงความเคารพอย่างเป็นเอกฉันท์ต่อ [SCHOOL], ทำให้ความชื่นชอบเพิ่มขึ้นอย่างมาก!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation5">
+			<Desc>สำนักฝ่ายอธรรมทั่วหล้าเคารพสำนักเรายิ่งขึ้น</Desc>
+			<SpecialDesc>[TARGET] แสดงความเคารพอย่างเป็นเอกฉันท์ต่อ [SCHOOL], ทำให้ความชื่นชอบเพิ่มขึ้นอย่างมาก!</SpecialDesc>
+			<DisplayName>ความโปรดปราณสำนัก</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing">
+			<Desc>สุ่มได้รับหินแร่</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับ [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing2">
+			<Desc>สุ่มได้รับเสบียงอาหาร</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับ [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing3">
+			<Desc>สุ่มได้รับวัสดุก่อสร้าง</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับ [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing4">
+			<Desc>สุ่มได้รับโอสถ</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับ [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing5">
+			<Desc>สุ่มได้รับรากวิญญาณแห่งเบญจธาตุ</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับ [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing6">
+			<Desc>สุ่มได้รับยาวิเศษ</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับ [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing7">
+			<Desc>สุ่มได้รับหินวิญญาณจำนวนมหาศาล</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับหินวิญญาณจำนวนมาก!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing8">
+			<Desc>สุ่มได้รับมณีวิญญาณจำนวนมาก</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับมณีจิตอาฆาตจำนวนมาก!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing9">
+			<Desc>สุ่มได้รับของล้ำค่า</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับ [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolScore">
+			<Desc>ได้รับชื่อเสียงของสำนักเล็กน้อย</Desc>
+			<SpecialDesc>[SCHOOL] ได้รับชื่อเสียงเล็กน้อย!</SpecialDesc>
+			<DisplayName>ชื่อเสียงสำนัก</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolScore2">
+			<Desc>ทำให้ชื่อเสียงของสำนักขจรขจายไปทั่ว</Desc>
+			<SpecialDesc>[SCHOOL] ชื่อเสียงขยายออกไปอย่างกว้างขวาง, ได้รับชื่อเสียงอย่างมาก!</SpecialDesc>
+			<DisplayName>ชื่อเสียงสำนัก</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolScore3">
+			<Desc>ทำให้นามของสำนักดังก้องไปทั่วทั้งสากลจักรวาล</Desc>
+			<SpecialDesc>[SCHOOL] ชื่อเสียงโด่งดังไปทั่วจักรวาล, ได้รับชื่อเสียงอย่างมาก!</SpecialDesc>
+			<DisplayName>ชื่อเสียงสำนัก</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_SexTransformation">
+			<Desc>แปรเปลี่ยนเพศ</Desc>
+			<SpecialDesc>[NPC] เกิดการเปลี่ยนแปลงบางอย่างที่ลึกลับ...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_HealthRecoverAtOnce">
+			<Desc>รักษาบาดแผลทั้งหมดในทันที</Desc>
+			<SpecialDesc>[NPC] รู้สึกถึงความสะดวกสบายที่ไม่เคยรู้สึกมาก่อน, เหมือนกับว่าทุกบาดแผลและอาการเจ็บปวดถูกล้างออกไป</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_RandomDrugToleranceCleared">
+			<Desc>ล้างค่าต้านทานโอสถแบบสุ่มหนึ่งรายการ</Desc>
+			<SpecialDesc>[NPC] รู้สึกถึงการเปลี่ยนแปลงในร่างกาย, ความต้านทานต่อยาบางตัวหายไป</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_UnlockFabaoSlot">
+			<Desc>ปลดล็อกช่องยันต์เพิ่มหนึ่งช่อง</Desc>
+			<SpecialDesc>[NPC] สามารถควบคุมอาวุธวิเศษได้มากขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_1">
+			<Desc>เพิ่มความเร็วในการฟื้นฟูพลังปราณเล็กน้อย</Desc>
+			<SpecialDesc>ความเร็วในการฟื้นฟูพลังปราณของ[NPC]เพิ่มขึ้นเล็กน้อย</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_2">
+			<Desc>เพิ่มความเร็วในการฟื้นฟูพลังปราณของตนเอง</Desc>
+			<SpecialDesc>ความเร็วในการฟื้นฟูพลังปราณของ[NPC]เพิ่มขึ้นปานกลาง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_3">
+			<Desc>เพิ่มความเร็วในการฟื้นฟูพลังปราณอย่างมหาศาล</Desc>
+			<SpecialDesc>ความเร็วในการฟื้นฟูพลังปราณของ[NPC]เพิ่มขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetZhuJiValue">
+			<Desc>ได้รับค่าฝึกพื้นฐานเล็กน้อย</Desc>
+			<SpecialDesc>ค่าฝึกพื้นฐานของ [NPC] เพิ่มขึ้นเล็กน้อย</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetZhuJiValue2">
+			<Desc>ได้รับค่ารากฐานจำนวนมาก</Desc>
+			<SpecialDesc>ค่าฝึกพื้นฐานของ [NPC] เพิ่มขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetStageValue">
+			<Desc>พลังบำเพ็ญเพียรของตนเองเพิ่มขึ้นเล็กน้อย</Desc>
+			<SpecialDesc>การบำเพ็ญของ [NPC] เพิ่มขึ้น, ได้รับการเจริญเติบโตบางอย่าง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetStageValue2">
+			<Desc>พลังบำเพ็ญเพียรของตนเองเพิ่มขึ้นอย่างมาก</Desc>
+			<SpecialDesc>การบำเพ็ญของ [NPC] พุ่งสูงขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_4">
+			<Desc>เพิ่มปราณสูงสุดของตนเอง</Desc>
+			<SpecialDesc>ปราณสูงสุดของ [NPC] เพิ่มขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_5">
+			<Desc>เพิ่มฐานปราณสูงสุดของตนเอง</Desc>
+			<SpecialDesc>ฐานปราณสูงสุดของ [NPC] เพิ่มขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_6">
+			<Desc>เพิ่มความเร็วในการบำเพ็ญตนของตนเอง</Desc>
+			<SpecialDesc>[NPC] ความเร็วในการฝึกฝนพลังปราณเพิ่มขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_7">
+			<Desc>ลดโอกาสหิวโหยของตนเอง</Desc>
+			<SpecialDesc>[NPC] มีความต้านทานความหิวลดลง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_8">
+			<Desc>ลดโอกาสเหนื่อยล้าของตนเอง</Desc>
+			<SpecialDesc>[NPC] มีความต้านทานความเหนื่อยล้าลดลง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_9">
+			<Desc>ลดโอกาสกระหายน้ำของตนเอง</Desc>
+			<SpecialDesc>[NPC] มีความต้านทานความกระหายลดลง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_10">
+			<Desc>เพิ่มพลังเกราะปราณของของตนเอง</Desc>
+			<SpecialDesc>เกราะปราณของ [NPC] เพิ่มขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_11">
+			<Desc>เพิ่มโอกาสทะลวงขอบเขตของตนเอง</Desc>
+			<SpecialDesc>[NPC] มีโอกาสสูงขึ้นที่จะสามารถทะลวงขอบเขตได้</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_12">
+			<Desc>ชะลอการมาถึงของทัณฑ์สวรรค์ของตนเอง</Desc>
+			<SpecialDesc>[NPC] ซ่อนเร้นความลับต่อสวรรค์, ทำให้การมาถึงของทัณฑ์สวรรค์ถูกเลื่อนออกไป</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_13">
+			<Desc>ลดเมล็ดเต๋าของตนเอง</Desc>
+			<SpecialDesc>ลดเมล็ดเต๋าของ[NPC]ลงเล็กน้อย</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_14">
+			<Desc>ลดเมล็ดเต๋าของตนเองอย่างมหาศาล</Desc>
+			<SpecialDesc>ลดเมล็ดเต๋าของ[NPC]ลงอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_15">
+			<Desc>เพิ่มเมล็ดเต๋าของตนเอง</Desc>
+			<SpecialDesc>เพิ่มเมล็ดเต๋าของ[NPC]ขึ้นเล็กน้อย</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_16">
+			<Desc>เพิ่มเมล็ดเต๋าของตนเองอย่างมหาศาล</Desc>
+			<SpecialDesc>เพิ่มเมล็ดเต๋าของ[NPC]ขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_17">
+			<Desc>พัฒนาประสิทธิภาพการเดินลมปราณของตนเองเล็กน้อย</Desc>
+			<SpecialDesc>ความสามารถในการเดินลมปราณของ [NPC] ดีขึ้นเล็กน้อย</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_18">
+			<Desc>เพิ่มประสิทธิภาพการเดินลมปราณของตนเองอย่างมาก</Desc>
+			<SpecialDesc>ความสามารถในการเดินลมปราณของ [NPC] ดีขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_19">
+			<Desc>เสริมความแข็งแกร่งโดยธรรมชาติของร่างกาย</Desc>
+			<SpecialDesc>ความต้านทานทางกายภาพธรรมชาติของ [NPC] แข็งแกร่งขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_20">
+			<Desc>เพิ่มระยะการรับรู้ของตนเอง</Desc>
+			<SpecialDesc>ช่วงการรับรู้ของ [NPC] ขยายออกไป</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_21">
+			<Desc>เพิ่มขีดจำกัดอายุขัยของตนเองอย่างมหาศาล</Desc>
+			<SpecialDesc>ขีดจำกัดอายุของ [NPC] เพิ่มขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_22">
+			<Desc>เพิ่มความเร็วในการเคลื่อนที่ของตนเองอย่างมาก</Desc>
+			<SpecialDesc>การเคลื่อนไหวของ [NPC] เร็วขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_23">
+			<Desc>เพิ่มความเร็วในการสร้างรากฐานของตนเองเล็กน้อย</Desc>
+			<SpecialDesc>ความเร็วในการฝึกฝนฐานของ [NPC] เพิ่มขึ้นเล็กน้อย</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_24">
+			<Desc>เพิ่มความเร็วในการฝึกสร้างรากฐานของตนเอง</Desc>
+			<SpecialDesc>ความเร็วในการฝึกฝนฐานของ [NPC] เพิ่มขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_25">
+			<Desc>เพิ่มความเร็วในการฝึกสร้างรากฐานของตนเองอย่างมาก</Desc>
+			<SpecialDesc>ความเร็วในการฝึกฝนฐานของ [NPC] เพิ่มขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_26">
+			<Desc>เพิ่มความเร็วในการเรียนรู้ของตนเองเล็กน้อย</Desc>
+			<SpecialDesc>ความเร็วในการเรียนรู้ของ [NPC] เพิ่มขึ้นเล็กน้อย</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_27">
+			<Desc>เพิ่มความเร็วในการเรียนรู้ของตนเอง</Desc>
+			<SpecialDesc>ความเร็วในการเรียนรู้ของ [NPC] เพิ่มขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_28">
+			<Desc>เพิ่มความเร็วในการเรียนรู้ของตนเองอย่างมาก</Desc>
+			<SpecialDesc>ความเร็วในการเรียนรู้ของ [NPC] เพิ่มขึ้นอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_29">
+			<Desc>เพิ่มโอกาสเกิดญาณรู้แจ้งของตนเอง</Desc>
+			<SpecialDesc>[NPC] มีโอกาสมากขึ้นที่จะได้รับการตระหนักรู้</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_30">
+			<Desc>เพิ่มประสิทธิภาพการทำงานโดยรวมของตนเอง</Desc>
+			<SpecialDesc>ความสามารถโดยรวมในการทำงานของ [NPC] ได้รับการปรับปรุงอย่างมาก</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_31">
+			<Desc>เพิ่มค่าพื้นฐานของสภาวะจิตใจ</Desc>
+			<SpecialDesc>สถานะจิตใจพื้นฐานของ [NPC] ดีขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_32">
+			<Desc>เพิ่มความสามารถในการแบกรับอาคมของตนเอง</Desc>
+			<SpecialDesc>ความสามารถในการใช้งานค่ายกลของ [NPC] เพิ่มขึ้น</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_40">
+			<Desc>เพิ่มระดับทักษะการต่อสู้ของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการต่อสู้ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_41">
+			<Desc>เพิ่มระดับทักษะการต่อสู้ของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการต่อสู้ +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_42">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการต่อสู้ของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการต่อสู้ +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_43">
+			<Desc>เพิ่มระดับทักษะการเข้าสังคมของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะสังคม +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_44">
+			<Desc>เพิ่มระดับทักษะการเข้าสังคมของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะสังคม +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_45">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการเข้าสังคมของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะสังคม +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_46">
+			<Desc>เพิ่มระดับทักษะงานฝีมือของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะงานฝีมือ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_47">
+			<Desc>เพิ่มระดับทักษะงานฝีมือของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะงานฝีมือ +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_48">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะงานฝีมือของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะงานฝีมือ +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_49">
+			<Desc>เพิ่มระดับทักษะสัมผัสปราณของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะสัมผัสปราณ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_50">
+			<Desc>เพิ่มระดับทักษะสัมผัสปราณของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะสัมผัสปราณ +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_51">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะสัมผัสปราณของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะสัมผัสปราณ +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_52">
+			<Desc>เพิ่มระดับทักษะการหลอมอาวุธวิเศษของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการหลอมสร้างอาวุธวิเศษ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_53">
+			<Desc>เพิ่มระดับทักษะการหลอมอาวุธวิเศษของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการหลอมสร้างอาวุธวิเศษ +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_54">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการหลอมอาวุธวิเศษของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการหลอมสร้างอาวุธวิเศษ +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_55">
+			<Desc>เพิ่มระดับทักษะการปรุงโอสถของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการปรุงยา/หลอมโอสถ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_56">
+			<Desc>เพิ่มระดับทักษะการปรุงโอสถของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการปรุงยา/หลอมโอสถ +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_57">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการปรุงโอสถของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการปรุงยา/หลอมโอสถ +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_58">
+			<Desc>เพิ่มระดับทักษะการใช้สมบัติวิเศษของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะอาวุธวิเศษ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_59">
+			<Desc>เพิ่มระดับทักษะการใช้สมบัติวิเศษของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะอาวุธวิเศษ +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_60">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการใช้สมบัติวิเศษของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะอาวุธวิเศษ +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_61">
+			<Desc>เพิ่มระดับทักษะวิชาเวทของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะเวท +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_62">
+			<Desc>เพิ่มระดับทักษะวิชาเวทของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะเวท +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_63">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะวิชาเวทของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะเวท +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_64">
+			<Desc>เพิ่มระดับทักษะการป้องกันของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการป้องกัน +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_65">
+			<Desc>เพิ่มระดับทักษะการป้องกันของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการป้องกัน +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_66">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการป้องกันของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการป้องกัน +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_67">
+			<Desc>เพิ่มระดับทักษะค่ายกลของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะค่ายกล +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_68">
+			<Desc>เพิ่มระดับทักษะค่ายกลของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะค่ายกล +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_69">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะค่ายกลของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะค่ายกล +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_70">
+			<Desc>เพิ่มระดับทักษะการขุดแร่ของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการขุดแร่ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_71">
+			<Desc>เพิ่มระดับทักษะการขุดแร่ของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการขุดแร่ +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_72">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการขุดแร่ของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการขุดแร่ +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_73">
+			<Desc>เพิ่มระดับทักษะการเพาะปลูกของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการเกษตร +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_74">
+			<Desc>เพิ่มระดับทักษะการเพาะปลูกของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการเกษตร +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_75">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการเพาะปลูกของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการเกษตร +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_76">
+			<Desc>เพิ่มระดับทักษะการก่อสร้างของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการก่อสร้าง +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_77">
+			<Desc>เพิ่มระดับทักษะการก่อสร้างของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการก่อสร้าง +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_78">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการก่อสร้างของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการก่อสร้าง +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_79">
+			<Desc>เพิ่มระดับทักษะการทำอาหารของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการทำอาหาร +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_80">
+			<Desc>เพิ่มระดับทักษะการทำอาหารของตนเอง +2</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการทำอาหาร +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_81">
+			<Desc>เพิ่มขีดจำกัดระดับทักษะการทำอาหารของตนเอง +1</Desc>
+			<SpecialDesc>[NPC] เพิ่มระดับทักษะการทำอาหาร +1 (เพิ่มขีดจำกัด)</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_82">
+			<Desc>เพิ่มเสน่ห์ของตนเอง 10%</Desc>
+			<SpecialDesc>[NPC] เพิ่มเสน่ห์ของตัวเอง +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_83">
+			<Desc>เพิ่มเสน่ห์ของตนเอง 20%</Desc>
+			<SpecialDesc>[NPC] เพิ่มเสน่ห์ของตัวเอง +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_84">
+			<Desc>เพิ่มเสน่ห์ของตนเอง 30%</Desc>
+			<SpecialDesc>[NPC] เพิ่มเสน่ห์ของตัวเอง +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_85">
+			<Desc>เพิ่มปัญญาของตนเอง 10%</Desc>
+			<SpecialDesc>[NPC] เพิ่มสติปัญญาของตัวเอง +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_86">
+			<Desc>เพิ่มปัญญาของตนเอง 20%</Desc>
+			<SpecialDesc>[NPC] เพิ่มสติปัญญาของตัวเอง +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_87">
+			<Desc>เพิ่มปัญญาของตนเอง 30%</Desc>
+			<SpecialDesc>[NPC] เพิ่มสติปัญญาของตัวเอง +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_88">
+			<Desc>เพิ่มโชคของตนเอง 10%</Desc>
+			<SpecialDesc>[NPC] เพิ่มโชคของตัวเอง +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_89">
+			<Desc>เพิ่มโชคของตนเอง 20%</Desc>
+			<SpecialDesc>[NPC] เพิ่มโชคของตัวเอง +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_90">
+			<Desc>เพิ่มโชคของตนเอง 30%</Desc>
+			<SpecialDesc>[NPC] เพิ่มโชคของตัวเอง +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_91">
+			<Desc>เพิ่มค่ารับรู้ของตนเอง 10%</Desc>
+			<SpecialDesc>[NPC] เพิ่มการรับรู้ของตัวเอง +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_92">
+			<Desc>เพิ่มค่ารับรู้ของตนเอง 20%</Desc>
+			<SpecialDesc>[NPC] เพิ่มการรับรู้ของตัวเอง +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_93">
+			<Desc>เพิ่มค่ารับรู้ของตนเอง 30%</Desc>
+			<SpecialDesc>[NPC] เพิ่มการรับรู้ของตัวเอง +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_94">
+			<Desc>เพิ่มความอึดของตนเอง 10%</Desc>
+			<SpecialDesc>[NPC] เพิ่มความอึดของตัวเอง +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_95">
+			<Desc>เพิ่มความอึดของตนเอง 20%</Desc>
+			<SpecialDesc>[NPC] เพิ่มความอึดของตัวเอง +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_96">
+			<Desc>เพิ่มความอึดของตนเอง 30%</Desc>
+			<SpecialDesc>[NPC] เพิ่มความอึดของตัวเอง +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_97">
+			<Desc>เพิ่มค่าคุณลักษณะทั้งห้าของตนเอง 10%</Desc>
+			<SpecialDesc>[NPC] เพิ่มคุณสมบัติทั้งห้าของตัวเอง +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_98">
+			<Desc>พัฒนาความสามารถในการรักษาโรคของตนเอง</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการรักษาของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_99">
+			<Desc>เพิ่มทักษะในการชำแหละเนื้อ</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการเชือดเนื้อของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_100">
+			<Desc>พัฒนาความสามารถในการทำอาหารของตนเอง</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการทำอาหารของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_101">
+			<Desc>พัฒนาความสามารถในการก่อสร้างของตนเอง</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการก่อสร้างของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_102">
+			<Desc>เพิ่มทักษะในการขุดแร่ของตนเอง</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการขุดแร่ของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_103">
+			<Desc>พัฒนาความสามารถในการทำงานใช้แรงของตนเอง</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการทำงานทั่วไปของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_104">
+			<Desc>เพิ่มความทนทานต่อความร้อนสุดขั้ว</Desc>
+			<SpecialDesc>[NPC] เพิ่มความต้านทานความร้อนของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_105">
+			<Desc>เพิ่มความทนทานต่อความหนาวเย็นสุดขั้ว</Desc>
+			<SpecialDesc>[NPC] เพิ่มความต้านทานความเย็นของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_106">
+			<Desc>เสริมความสามารถโดยรวมด้านการหลอมโอสถ</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถด้านแผนการยา/สมุนไพรของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_108">
+			<Desc>เสริมความสามารถโดยรวมด้านการหลอมอาวุธวิเศษ</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการสร้างอาวุธวิเศษของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_110">
+			<Desc>เพิ่มทักษะในงานฝีมือของตนเอง</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการทำงานฝีมือของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_111">
+			<Desc>พัฒนาความสามารถในการเพาะปลูกของตนเอง</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการเกษตรของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_112">
+			<Desc>เสริมความสามารถโดยรวมด้านการผจญภัย</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการผจญภัยของตัวเอง</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_113">
+			<Desc>เสริมความสามารถโดยรวมด้านการหลอมร่าง</Desc>
+			<SpecialDesc>[NPC] ปรับปรุงความสามารถในการหลอมร่างของตัวเอง</SpecialDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="BuildCurb1">
+			<DisplayName>ถูกขัดขวาง</DisplayName>
+			<Desc>ในขณะที่กำลังก่อสร้างสิ่งมหัศจรรย์ มีบางคนได้มาวิจารณ์ถึงฮวงจุ้ยที่นี่</Desc>
+			<Selections.0.Display>ทุบตีพวกมัน</Selections.0.Display>
+			<Selections.1.Display>อภิปลายเรื่องฮวงจุ้ยกับพวกเขา</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb2">
+			<DisplayName>ถูกขัดขวาง</DisplayName>
+			<Desc>ในขณะที่กำลังก่อสร้างสิ่งมหัศจรรย์ มีบางคนได้มาถามว่ากำลังทำอะไรกันอยู่</Desc>
+			<Selections.0.Display>ไม่สนใจพวกเขา</Selections.0.Display>
+			<Selections.1.Display>อธิบายว่ากำลังทำอะไรอยู่</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb3">
+			<DisplayName>ถูกขัดขวาง</DisplayName>
+			<Desc>ในขณะที่กำลังก่อสร้างสิ่งมหัศจรรย์ มีบางคนได้มาแจกจ่ายรางวัล</Desc>
+			<Selections.0.Display>บอกให้พวกเขามาวันหลัง</Selections.0.Display>
+			<Selections.1.Display>รับรางวัล</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

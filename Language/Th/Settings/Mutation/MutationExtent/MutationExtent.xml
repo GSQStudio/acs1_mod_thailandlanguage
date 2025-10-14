@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Extent_Shallow">
+			<DisplayName>ปั่นป่วน</DisplayName>
+			<Desc>ผลกระทบของความโกลาหลจะหายไปหลังจากจำนวนครั้งในการกระตุ้นหมดลง</Desc>
+			<ExpireDesc>{0} ครั้ง</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Middle">
+			<DisplayName>หยิน-หยาง</DisplayName>
+			<Desc>ผลกระทบของความโกลาหลจะจางหายไปหลังจาก 112 วัน</Desc>
+			<ExpireDesc>{0} วัน</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Deep">
+			<DisplayName>คงที่</DisplayName>
+			<Desc>ผลกระทบของความโกลาหลจะคงอยู่ถาวรในโลกนี้</Desc>
+			<ExpireDesc>ถาวร</ExpireDesc>
+		</Text>
+	</List>
+</Texts>

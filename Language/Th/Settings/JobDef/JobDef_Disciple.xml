@@ -1,0 +1,79 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobPracticeFeeling">
+			<DisplayName>ญาณรู้แจ้ง</DisplayName>
+		</Text>
+		<Text Name="JobPractice">
+			<DisplayName>บ่มเพาะ</DisplayName>
+		</Text>
+		<Text Name="JobBrokenNeck">
+			<DisplayName>ทะลวงขอบเขต</DisplayName>
+		</Text>
+		<Text Name="JobPracticeSkill">
+			<DisplayName>ฝึกฝน</DisplayName>
+		</Text>
+		<Text Name="JobReceiveApprentice">
+			<DisplayName>รับเป็นศิษย์</DisplayName>
+		</Text>
+		<Text Name="JobBuildBody">
+			<DisplayName>หลอมร่าง</DisplayName>
+		</Text>
+		<Text Name="JobRobBody">
+			<DisplayName>สิงสู่</DisplayName>
+		</Text>
+		<Text Name="JobAbsorbLing">
+			<DisplayName>ดูดซับปราณ</DisplayName>
+		</Text>
+		<Text Name="JobRefiningFabao">
+			<DisplayName>หลอมอาวุธวิเศษ</DisplayName>
+		</Text>
+		<Text Name="JobPaintCharm">
+			<DisplayName>วาดยันต์</DisplayName>
+		</Text>
+		<Text Name="JobTeachHim">
+			<DisplayName>สอนตำรา</DisplayName>
+		</Text>
+		<Text Name="JobLeave2Explore">
+			<DisplayName>ท่องโลก</DisplayName>
+		</Text>
+		<Text Name="JobMasterHelp">
+			<DisplayName>ป้องกัน</DisplayName>
+		</Text>
+		<Text Name="JobFeelEsoterica">
+			<DisplayName>ศึกษาคัมภีร์</DisplayName>
+		</Text>
+		<Text Name="JobAbsorbGong">
+			<DisplayName>ได้รับประสบการณ์</DisplayName>
+		</Text>
+		<Text Name="JobMelting">
+			<DisplayName>กลั่น</DisplayName>
+		</Text>
+		<Text Name="JobEatPracticeFood">
+			<DisplayName>หยิบโอสถ</DisplayName>
+		</Text>
+		<Text Name="JobJiangdao">
+			<DisplayName>สอนสั่ง</DisplayName>
+		</Text>
+		<Text Name="JobMagicNormal">
+			<DisplayName>ร่ายปาฏิหาริย์</DisplayName>
+		</Text>
+		<Text Name="JobGodPractice">
+			<DisplayName>สมดุล</DisplayName>
+		</Text>
+		<Text Name="JobCangJingGe">
+			<DisplayName>หอคัมภีร์</DisplayName>
+		</Text>
+		<Text Name="JobGodPractice_Renunciation">
+			<DisplayName>สะกดตน</DisplayName>
+		</Text>
+		<Text Name="JobBodyPractice">
+			<DisplayName>หลอมร่าง</DisplayName>
+		</Text>
+		<Text Name="JobToHumanThunder">
+			<DisplayName>ทัณฑ์สวรรค์เปลี่ยนร่าง</DisplayName>
+		</Text>
+		<Text Name="JobBodyTuna">
+			<DisplayName>เดินลมปราณ</DisplayName>
+		</Text>
+	</List>
+</Texts>

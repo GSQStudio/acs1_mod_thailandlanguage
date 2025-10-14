@@ -1,0 +1,108 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Npc_QiXia_1">
+			<LastName>กาน</LastName>
+			<FristName>หมิง</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_2">
+			<LastName>เยว่</LastName>
+			<FristName>ฉิงโฉว</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_3">
+			<LastName>หลิน</LastName>
+			<FristName>ซือหยวน</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_4">
+			<LastName>หนิง</LastName>
+			<FristName>เซียว</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_1">
+			<LastName>ปา</LastName>
+			<FristName>หาน</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_2">
+			<LastName>ฉีเตียว</LastName>
+			<FristName>โจว</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_3">
+			<LastName>ไป๋</LastName>
+			<FristName>ซือ</FristName>
+		</Text>
+		<Text Name="Npc_QiSha_1">
+			<LastName>ชิ</LastName>
+			<FristName>ต้วนฉิว</FristName>
+		</Text>
+		<Text Name="Npc_QiSha_2">
+			<LastName>หยู๋</LastName>
+			<FristName>โม่หลัน</FristName>
+		</Text>
+		<Text Name="Npc_HeHuan_1">
+			<LastName>ฉิง</LastName>
+			<FristName>ยู่หลัน</FristName>
+		</Text>
+		<Text Name="Npc_HeHuan_2">
+			<LastName>หยิน</LastName>
+			<FristName>เหลียน</FristName>
+		</Text>
+		<Text Name="Npc_QiQian_1">
+			<LastName>จงหลี</LastName>
+			<FristName>เต๋อ</FristName>
+		</Text>
+		<Text Name="Npc_QiQian_2">
+			<LastName>จู</LastName>
+			<FristName>เฟย</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_1">
+			<LastName>เฉินถู</LastName>
+			<FristName>ซี</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_2">
+			<LastName>ซิน</LastName>
+			<FristName>ฉี</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_3">
+			<LastName>ฉิน</LastName>
+			<FristName>เจี๋ย</FristName>
+		</Text>
+		<Text Name="Npc_ZhengYi_1">
+			<LastName>หลี่</LastName>
+			<FristName>ซุนโป</FristName>
+		</Text>
+		<Text Name="Npc_ZhengYi_2">
+			<LastName>เย่</LastName>
+			<FristName>ไป๋เสวี่ย</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_1">
+			<LastName>จี้</LastName>
+			<FristName>เจี๋ย</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_2">
+			<LastName>หลี่</LastName>
+			<FristName>เว่ยหยาน</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_3">
+			<LastName>กู่</LastName>
+			<FristName>คง</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_1">
+			<LastName>ซู</LastName>
+			<FristName>ปิงล๋วน</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_2">
+			<LastName>เซี่ย</LastName>
+			<FristName>ซือ</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_3">
+			<LastName>ฮ่าว</LastName>
+			<FristName>ลี่</FristName>
+		</Text>
+		<Text Name="Npc_JiTian_1">
+			<LastName>เห๋อ</LastName>
+			<FristName>ซูเต้า</FristName>
+		</Text>
+		<Text Name="Npc_Shu_1">
+			<LastName>อิ๋ง</LastName>
+			<FristName>หยาง</FristName>
+		</Text>
+	</List>
+</Texts>

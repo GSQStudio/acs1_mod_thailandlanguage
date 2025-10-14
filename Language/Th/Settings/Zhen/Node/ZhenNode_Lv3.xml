@@ -1,0 +1,166 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv3_2_1">
+			<DisplayName>สุริยัน-จันทรา ขึ้น-ลง</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_2">
+			<DisplayName>หยิน-หยาง ดำ-ขาว</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_3">
+			<DisplayName>มิติและเวลา</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_4">
+			<DisplayName>จุดเริ่มต้นและจุดจบ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_5">
+			<DisplayName>ชีวิตและความตาย</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_6">
+			<DisplayName>ศาสตร์ลับการสร้างสรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_1">
+			<DisplayName>ตะวันสวรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_2">
+			<DisplayName>อัสนีตะวัน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_3">
+			<DisplayName>วารีตะวัน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_4">
+			<DisplayName>ภูผาตะวัน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_5">
+			<DisplayName>ปฐพีจันทรา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_6">
+			<DisplayName>วายุจันทรา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_7">
+			<DisplayName>อัคนีจันทรา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_8">
+			<DisplayName>วารีจันทรา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_9">
+			<DisplayName>หยางสวรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_10">
+			<DisplayName>หยางอัสนี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_11">
+			<DisplayName>หยางวารี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_12">
+			<DisplayName>หยางภูผา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_13">
+			<DisplayName>หยางปฐพี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_14">
+			<DisplayName>หยินวายุ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_15">
+			<DisplayName>หยินอัคคี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_16">
+			<DisplayName>หยินวารี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_17">
+			<DisplayName>สวรรค์แห่งมิติกาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_18">
+			<DisplayName>อัสนีแห่งมิติกาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_19">
+			<DisplayName>วารีแห่งมิติกาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_20">
+			<DisplayName>ภูผาแห่งมิติกาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_21">
+			<DisplayName>โลกแห่งมิติกาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_22">
+			<DisplayName>สายลมแห่งมิติกาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_23">
+			<DisplayName>เพลิงแห่งมิติกาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_24">
+			<DisplayName>บึงแห่งมิติกาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_25">
+			<DisplayName>ปฐมสวรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_26">
+			<DisplayName>ปฐมอัสนี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_27">
+			<DisplayName>ปฐมธารา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_28">
+			<DisplayName>ปฐมภูผา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_29">
+			<DisplayName>ปัจฉิมโลก</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_30">
+			<DisplayName>ปัจฉิมวายุ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_31">
+			<DisplayName>ปัจฉิมอัคคี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_32">
+			<DisplayName>ปัจฉิมสมุทร</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_33">
+			<DisplayName>สวรรค์แห่งชีวิต</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_34">
+			<DisplayName>อัสนีแห่งชีวิต</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_35">
+			<DisplayName>สายธารแห่งชีวิต</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_36">
+			<DisplayName>ภูผาแห่งชีวิต</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_37">
+			<DisplayName>โลกแห่งความตาย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_38">
+			<DisplayName>สายลมแห่งความตาย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_39">
+			<DisplayName>เพลิงแห่งความตาย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_40">
+			<DisplayName>บึงแห่งความตาย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_41">
+			<DisplayName>สวรรค์รังสรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_42">
+			<DisplayName>อัสนีรังสรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_43">
+			<DisplayName>วารีรังสรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_44">
+			<DisplayName>ภูผารังสรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_45">
+			<DisplayName>โลกแห่งชะตา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_46">
+			<DisplayName>สายลมแห่งชะตา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_47">
+			<DisplayName>เพลิงแห่งชะตา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_48">
+			<DisplayName>ทะเลแห่งชะตา</DisplayName>
+		</Text>
+	</List>
+</Texts>

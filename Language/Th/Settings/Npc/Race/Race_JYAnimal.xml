@@ -1,0 +1,86 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JYRabbit">
+			<DisplayName>อสูรกระต่าย</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรกระต่าย</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYChicken">
+			<DisplayName>อสูรไก่</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรไก่</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYWolf">
+			<DisplayName>อสูรหมาป่า</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรหมาป่า</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYSnake">
+			<DisplayName>อสูรงู</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรงู</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYBoar">
+			<DisplayName>อสูรหมูป่า</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรหมูป่า</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYBear">
+			<DisplayName>อสูรหมี</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรหมี</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYFrog">
+			<DisplayName>อสูรกบ</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรกบ</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYTurtle">
+			<DisplayName>อสูรเต่า</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรเต่า</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYCat">
+			<DisplayName>อสูรแมว</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรแมว</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYCattle">
+			<DisplayName>อสูรกระทิง</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรกระทิง</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYTiger">
+			<DisplayName>อสูรพยัคฆ์</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: อสูรพยัคฆ์</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYLongpuNight">
+			<DisplayName>ข้ารับใช้มังกร (กลางคืน)</DisplayName>
+			<Desc>ข้ารับใช้ที่ได้รับพลังแห่งหยินและหยาง</Desc>
+		</Text>
+		<Text Name="JYLongpuDay">
+			<DisplayName>ข้ารับใช้มังกร (กลางวัน)</DisplayName>
+			<Desc>ข้ารับใช้ที่ได้รับพลังแห่งหยินและหยาง</Desc>
+		</Text>
+		<Text Name="JYZhuLongENian">
+			<DisplayName>ร่างทรงมังกรปีศาจ</DisplayName>
+			<Desc>สำแดงความชั่วร้ายภายในจิตใจ</Desc>
+		</Text>
+		<Text Name="JYZhuLongShanNian">
+			<DisplayName>ร่างทรงมังกรเทพ</DisplayName>
+			<Desc>สำแดงความดีงามภายในจิตใจ</Desc>
+		</Text>
+	</List>
+</Texts>

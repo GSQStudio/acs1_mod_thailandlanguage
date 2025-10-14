@@ -1,0 +1,53 @@
+<SpecialNames>
+	<List>
+		<SpecialItem Name="Item_FunPainting">
+			<None>
+				<li Name="ดนตรีชาววัง" Desc=""></li>
+				<li Name="นักเดินทางท่ามกลางขุนเขาและลำธาร" Desc=""></li>
+				<li Name="ต้นฤดูใบไม้ผลิ" Desc=""></li>
+				<li Name="นกกระทาสีฟ้าและเถาวัลย์หนาม" Desc=""></li>
+				<li Name="นกกางเขนและกระต่าย" Desc=""></li>
+				<li Name="ลมในต้นสนท่ามกลางหุบเขามากมาย" Desc=""></li>
+				<li Name="ต้นสนคู่" Desc=""></li>
+			</None>
+		</SpecialItem>
+		<SpecialItem Name="Item_FunMusic">
+			<None>
+				<li Name="ภูเขาสูงและสายน้ำ" Desc=""></li>
+				<li Name="ทำนองแห่งกวงหลิง" Desc=""></li>
+				<li Name="ท่วงทำนองแห่งชาวประมงกับคนตัดไม้" Desc=""></li>
+				<li Name="สิบแปดทำนองขลุ่ยพยัคฆ์" Desc=""></li>
+				<li Name="หิมะสีขาวในฤดูใบไม้ผลิ" Desc=""></li>
+				<li Name="ห่านป่าลงมาบนสันทราย" Desc=""></li>
+				<li Name="ดนตรียามตะวันลับ" Desc=""></li>
+				<li Name="ซุ่มโจมตีจากทุกด้าน" Desc=""></li>
+				<li Name="พระจันทร์ฤดูใบไม้ร่วงเหนือพระราชวังฮั่น" Desc=""></li>
+				<li Name="ดอกบ๊วยสามสายพันธุ์" Desc=""></li>
+			</None>
+		</SpecialItem>
+		<SpecialItem Name="Item_FunChess">
+			<None>
+				<li Name="หัวใจและโลหิต" Desc=""></li>
+				<li Name="เส้นทางสู่เสฉวน" Desc=""></li>
+				<li Name="ถ้วยรางวัลเทวะ" Desc=""></li>
+				<li Name="ศาลหยุนฉีเฉิงเซีย" Desc=""></li>
+				<li Name="พระจันทร์แห่งฤดูใบไม้ร่วงเหนือทะเลสาบอันเงียบสงบ" Desc=""></li>
+				<li Name="โบยบินสู่ดวงจันทร์" Desc=""></li>
+				<li Name="ดวงดาราในเมฆา" Desc=""></li>
+				<li Name="เจดีย์ระฟ้า" Desc=""></li>
+				<li Name="มังกรเกิดใหม่" Desc=""></li>
+				<li Name="ล้อมจับปีศาจ" Desc=""></li>
+				<li Name="ภาพประกอบแห่งชีวิตนิรันดร์" Desc=""></li>
+				<li Name="รูปแบบแห่งเซียน" Desc=""></li>
+				<li Name="รูปแบบแห่งแสงทองคำ" Desc=""></li>
+				<li Name="รูปแบบแห่งพรเทวะ" Desc=""></li>
+				<li Name="รูปแบบแห่งจิตกระจ่าง" Desc=""></li>
+				<li Name="รูปแบบแห่งสวรรค์กระจ่าง" Desc=""></li>
+				<li Name="รูปแบบแห่งจุติสวรรค์" Desc=""></li>
+				<li Name="รูปแบบแห่งน้ำกลางทะเลทราย" Desc=""></li>
+				<li Name="รูปแบบแห่งความเที่ยงแท้" Desc=""></li>
+				<li Name="รูปแบบแห่งการเผชิญของเซียน" Desc=""></li>
+			</None>
+		</SpecialItem>
+	</List>
+</SpecialNames>

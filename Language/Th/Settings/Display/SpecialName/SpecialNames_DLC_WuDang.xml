@@ -1,0 +1,87 @@
+<SpecialNames>
+	<List>
+		<SpecialItem Name="Item_HomeFood">
+			<Fish_SkyCrab>
+				<li Name="ปูนึ่ง" Desc=""></li>
+				<li Name="ซุปปู" Desc=""></li>
+				<li Name="ปูนิ่มทอด" Desc=""></li>
+				<li Name="ข้าวต้มปู" Desc=""></li>
+				<li Name="ปูผัดเต้าหู้" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ปูผัดผงกระหรี่" Desc=""></li>
+				<li Name="ข้าวผัดปู" Desc=""></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+		<SpecialItem Name="Item_DeliciousFood">
+			<Fish_SkyCrab>
+				<li Name="แกงคั่วปู" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ก้ามปูนึ่ง" Desc=""></li>
+				<li Name="ไข่ปูเคี่ยววุ้นเส้น" Desc=""></li>
+				<li Name="ปูผัดขี้เมา" Desc=""></li>
+				<li Name="เนื้อปูราดเต้าหู้" Desc=""></li>
+				<li Name="เนื้อปูผัดฉ่า" Desc=""></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+		<SpecialItem Name="Item_DelicacyFood">
+			<Fish_SkyCrab>
+				<li Name="ซาลาเปาซุปจักรพรรดิ" Desc="ผสมไข่ปูสดกับเนื้อสัตว์แล้วห่อด้วยแป้งบางๆ เมื่อนึ่งเสร็จแล้วจะเติมน้ำมันปูทองลงไปทั้งตัว ว่ากันว่าเคยมีจักรพรรดิองค์หนึ่งยอมสละบัลลังก์เพื่อกินซาลาเปานี้"></li>
+				<li Name="ปูนึ่งเหล้าเส้าซิง" Desc="ใช้เหล้าเส้าซิงที่ดีที่สุดเพื่อนึ่งปูในช่วงปลายฤดูใบไม้ร่วง เหล้าสามารถขับความเย็นของปูได้ รสชาติที่กลมกล่อมของเหล้าเส้าซิงผสมผสานอย่างลงตัวกับความหวานของเนื้อปู"></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+	</List>
+</SpecialNames>

@@ -1,0 +1,234 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>ว่าง</DisplayName>
+		</Text>
+		<Text Name="SlotSuit_1">
+			<DisplayName>จิตแห่งกระบี่</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_2">
+			<DisplayName>จิตแห่งบัญญัติ</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะปราณเวท</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_3">
+			<DisplayName>จิตแห่งการเพิ่มพูน</DisplayName>
+			<SuitEffect.0.Description>เพิ่มเกราะปราณ</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_4">
+			<DisplayName>จิตแห่งความอ่อนโยน</DisplayName>
+			<SuitEffect.0.Description>เพิ่มความเสถียร</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_5">
+			<DisplayName>จิตแห่งสมดุล</DisplayName>
+			<SuitEffect.0.Description>ลดขนาดค่ายกล</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดภาระค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_6">
+			<DisplayName>แดนสวรรค์</DisplayName>
+			<SuitEffect.0.Description>เพิ่มความเสถียร</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_7">
+			<DisplayName>จิตแห่งโลก</DisplayName>
+			<SuitEffect.0.Description>เพิ่มเกราะปราณ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_8">
+			<DisplayName>จิตแห่งสายฟ้า</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_9">
+			<DisplayName>จิตแห่งสายลม</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะปราณเวท</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_10">
+			<DisplayName>จิตแห่งสายน้ำ</DisplayName>
+			<SuitEffect.0.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_11">
+			<DisplayName>จิตแห่งเพลิง</DisplayName>
+			<SuitEffect.0.Description>เพิ่มความสามารถการใช้งานค่ายกล</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_12">
+			<DisplayName>จิตแห่งภูเขา</DisplayName>
+			<SuitEffect.0.Description>ลดขนาดค่ายกล</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_13">
+			<DisplayName>จิตแห่งการผสาน</DisplayName>
+			<SuitEffect.0.Description>ลดภาระค่ายกล</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_14">
+			<DisplayName>กำเนิดสวรรค์</DisplayName>
+			<SuitEffect.0.Description>ได้รับเวท: กำเนิดสวรรค์</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_15">
+			<DisplayName>พายุอัสนีจันทรา</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_16">
+			<DisplayName>เพลิงตะวันสวรรค์</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะปราณเวท</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_17">
+			<DisplayName>สายลมอันอ่อนโยน</DisplayName>
+			<SuitEffect.0.Description>เพิ่มเกราะปราณ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มเกราะปราณเล็กน้อย</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_18">
+			<DisplayName>อัสนีกึก้อง</DisplayName>
+			<SuitEffect.0.Description>เพิ่มเกราะปราณ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_19">
+			<DisplayName>ภูเขาไร้ขอบเขต</DisplayName>
+			<SuitEffect.0.Description>เพิ่มความเสถียร</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มความเสถียรเล็กน้อย</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_20">
+			<DisplayName>สายธารไร้ขอบเขต</DisplayName>
+			<SuitEffect.0.Description>เพิ่มความเสถียร</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_21">
+			<DisplayName>ปฐมกาลแห่งสวรรค์และโลก</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะปราณเวท</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะปราณเวทเล็กน้อย</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_22">
+			<DisplayName>จุดสิ้นสุดแห่งภูผาและแม่น้ำ</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_23">
+			<DisplayName>จุดกำเนิดแห่งการรังสวรรค์</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะปราณเวท</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มความสามารถการใช้งานค่ายกล</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_24">
+			<DisplayName>ปฏิปักแห่งเพลิงและวารี</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะปราณเวท</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_25">
+			<DisplayName>ไฟเสริมแกร่ง</DisplayName>
+			<SuitEffect.0.Description>เพิ่มความเสถียร</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มเกราะปราณ</SuitEffect.1.Description>
+			<SuitEffect.2.Description>ลดขนาดค่ายกล</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_26">
+			<DisplayName>การพังทลายของธรรมชาติ</DisplayName>
+			<SuitEffect.0.Description>เพิ่มความเสถียร</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มเกราะปราณ</SuitEffect.1.Description>
+			<SuitEffect.2.Description>ลดภาระค่ายกล</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_27">
+			<DisplayName>ปฐมกาล</DisplayName>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะปราณเวท</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มเกราะปราณ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.3.Description>
+			<SuitEffect.4.Description>เพิ่มความสามารถการใช้งานค่ายกล</SuitEffect.4.Description>
+			<SuitEffect.5.Description>เพิ่มความเสถียร</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_28">
+			<DisplayName>ความเวิ้งว้างอันยิ่งใหญ่</DisplayName>
+			<SuitEffect.0.Description>เพิ่มขนาดค่ายกล</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มภาระค่ายกล</SuitEffect.1.Description>
+			<SuitEffect.2.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_1">
+			<DisplayName>จิตแห่งสังหารเซียน</DisplayName>
+			<SuitEffect.0.Description>เพิ่มขนาดค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มทักษะปราณเวท</SuitEffect.3.Description>
+			<SuitEffect.4.Description>เพิ่มเกราะปราณ</SuitEffect.4.Description>
+			<SuitEffect.5.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_2">
+			<DisplayName>จิตแห่งเจ็ดวิถีสังหาร</DisplayName>
+			<SuitEffect.0.Description>เพิ่มขนาดค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มทักษะปราณเวท</SuitEffect.3.Description>
+			<SuitEffect.4.Description>เพิ่มเกราะปราณ</SuitEffect.4.Description>
+			<SuitEffect.5.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_3">
+			<DisplayName>จิตแห่งค่ายกลสวรรค์และโลก</DisplayName>
+			<SuitEffect.0.Description>เพิ่มขนาดค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มทักษะปราณเวท</SuitEffect.3.Description>
+			<SuitEffect.4.Description>เพิ่มเกราะปราณ</SuitEffect.4.Description>
+			<SuitEffect.5.Description>ลดพลังงานสูงสุดของค่ายกล</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_4">
+			<DisplayName>จิตแห่งจักรพรรดิ์เทวะ</DisplayName>
+			<SuitEffect.0.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_5">
+			<DisplayName>จิตแห่งมังกรเที่ยงแท้</DisplayName>
+			<SuitEffect.0.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะปราณเวท</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มเกราะปราณ</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_6">
+			<DisplayName>จิตแห่งหงส์เพลิงเทวะ</DisplayName>
+			<SuitEffect.0.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะปราณเวท</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มเกราะปราณ</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_7">
+			<DisplayName>จิตแห่งหยินหยาง</DisplayName>
+			<SuitEffect.0.Description>เพิ่มขนาดค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มความสามารถการใช้งานค่ายกล</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_8">
+			<DisplayName>จิตแห่งเหมันต์แสงจันทร์</DisplayName>
+			<SuitEffect.0.Description>เพิ่มขนาดค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะปราณเวท</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มเกราะปราณ</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_9">
+			<DisplayName>จิตแห่งกระบี่อเวจี</DisplayName>
+			<SuitEffect.0.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มเกราะปราณ</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_10">
+			<DisplayName>จิตแห่งต้นวิญญาณ</DisplayName>
+			<SuitEffect.0.Description>เพิ่มขนาดค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มทักษะปราณเวท</SuitEffect.3.Description>
+			<SuitEffect.4.Description>เพิ่มความสามารถการใช้งานค่ายกล</SuitEffect.4.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_11">
+			<DisplayName>จิตแห่งการบรรจบ</DisplayName>
+			<SuitEffect.0.Description>เพิ่มขนาดค่ายกลเล็กน้อย</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มภาระค่ายกลเล็กน้อย</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มทักษะปราณเวท</SuitEffect.3.Description>
+			<SuitEffect.4.Description>เพิ่มเกราะปราณ</SuitEffect.4.Description>
+			<SuitEffect.5.Description>เพิ่มความเสถียร</SuitEffect.5.Description>
+			<SuitEffect.6.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.6.Description>
+		</Text>
+	</List>
+</Texts>

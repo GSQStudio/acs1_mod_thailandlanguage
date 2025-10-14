@@ -1,0 +1,218 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="NormalAttackBase" sParam="Item">
+			<ThingName>การโจมตีทั่วไป</ThingName>
+		</Text>
+		<Text Name="Human_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของมนุษย์</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,หัวโขก,กระแทก</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>เตะ,ต่อย,หัวโขก</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>เตะ,ต่อย</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Zombie_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของผีดิบ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>หัวโขก,เตะ</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>หัวโขก</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>หัวโขก</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,กระแทก</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>กัด,กระแทก</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>กัด,กระแทก</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>กัด,กระแทก</Item.Equip.AtkDamage.6.DescTags>
+		</Text>
+		<Text Name="Rabbit_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของกระต่าย</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>หัวโขก</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>เตะ</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>เตะ</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Dog_NormalAttack" sParam="Item">
+			<ThingName>แก่นอสูรสุนัขสวรรค์</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Fox_NormalAttack" sParam="Item">
+			<ThingName>แก่นอสูรจิ้งจอกวิญญาณ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Dragon_NormalAttack" sParam="Item">
+			<ThingName>แก่นอสูรมังกรฟ้า</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Phoenix_NormalAttack" sParam="Item">
+			<ThingName>แก่นอสูรหงส์นิลกาล</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ปราณอัคคีจู่โจม</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ปราณอัคคีจู่โจม</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ปราณอัคคีจู่โจม</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Chicken_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของไก่</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>จิก</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ข่วน</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Wolf_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของหมาป่า</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Snake_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของงู</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>บีบรัด</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>บีบรัด</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>บีบรัด</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>บีบรัด</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>กัด</Item.Equip.AtkDamage.6.DescTags>
+		</Text>
+		<Text Name="Boar_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของหมูป่า</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>พุ่งชน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>พุ่งชน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Bear_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของหมี</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>พุ่งชน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Turtle_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของเต่า</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>สะท้อนกลับ</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด</Item.Equip.AtkDamage.1.DescTags>
+		</Text>
+		<Text Name="Frog_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของกบ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ลิ้นฟาด</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="LuShu_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของลู่ซู</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>เตะ</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>เตะ</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>เตะ</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>เตะ</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>การกัดกร่อนของปราณ</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="Fei_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของเฟย</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>พุ่งชน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>พุ่งชน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>พุ่งชน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>พุ่งชน</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>ลมหายใจกาฬโรค</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="Cat_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของแมว</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Cattle_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของกระทิง</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>พุ่งชน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>พุ่งชน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>พุ่งชน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>พุ่งชน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Tiger_NormalAttack" sParam="Item">
+			<ThingName>การโจมตีของเสือ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYCat_NormalAttack" sParam="Item">
+			<ThingName>ข่วนแมวเหมียว</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYCattle_NormalAttack" sParam="Item">
+			<ThingName>เขากระทิงพุ่งแทง</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>พุ่งชน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>พุ่งชน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>พุ่งชน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>พุ่งชน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYTiger_NormalAttack" sParam="Item">
+			<ThingName>เขี้ยวพยัคฆ์</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYRabbit_NormalAttack" sParam="Item">
+			<ThingName>เข็มกระต่าย</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>หัวโขก</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>เตะ</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>เตะ</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYWolf_NormalAttack" sParam="Item">
+			<ThingName>เขี้ยวหมาป่า</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>กัด,ข่วน</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYSnake_NormalAttack" sParam="Item">
+			<ThingName>เกล็ดอสรพิษ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>เกล็ดพิษนภา</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>เกล็ดพิษนภา</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>เกล็ดพิษนภา</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>เกล็ดพิษนภา</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>เกล็ดพิษนภา</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="JYBoar_NormalAttack" sParam="Item">
+			<ThingName>โคลนหินแข็ง</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ปฐพีจู่โจม</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ปฐพีจู่โจม</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ปฐพีจู่โจม</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>ปฐพีจู่โจม</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>ปฐพีจู่โจม</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>ปฐพีจู่โจม</Item.Equip.AtkDamage.5.DescTags>
+		</Text>
+		<Text Name="JYBear_NormalAttack" sParam="Item">
+			<ThingName>ข่วนหมีบิน</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ปราณอัคคีจู่โจม</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ปราณอัคคีจู่โจม</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ปราณอัคคีจู่โจม</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="JYFrog_NormalAttack" sParam="Item">
+			<ThingName>หยดวารีจู่โจม</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ลิ้นฟาด</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ลิ้นฟาด</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ลิ้นฟาด</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="JYTurtle_NormalAttack" sParam="Item">
+			<ThingName>กระดองเต่าทมิฬ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYLongPu_Night_NormalAttack" sParam="Item">
+			<ThingName>เขี้ยวบริวารมังกร</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>ปราณวารีจู่โจม</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+	</List>
+</Texts>

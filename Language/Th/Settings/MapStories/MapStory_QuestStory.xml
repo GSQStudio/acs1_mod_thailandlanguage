@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
+			<DisplayName>ตรวจสอบคัมภีร์</DisplayName>
+			<Desc>[NAME] ศึกษาคัมภีร์อย่างรอบคอบ</Desc>
+			<Selections.0.Display>อ่าน</Selections.0.Display>
+			<Selections.1.Display>ใช้ตราผนึกโบราณเพื่อคลายผนึก</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
+			<DisplayName>ตรวจสอบหนังสือ</DisplayName>
+			<Desc>[NAME] ทำการตรวจสอบหนังสือ</Desc>
+			<Selections.0.Display>อ่าน</Selections.0.Display>
+			<Selections.1.Display>ใช้ตราผนึกจักรวาลเพื่อคลายผนึก</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
+			<DisplayName>ตรวจสอบเศษชิ้นส่วน</DisplayName>
+			<Desc>[NAME] พยายามตรวจสอบเศษของกล่องคัมภีร์ทองคำ</Desc>
+			<Selections.0.Display>Examine</Selections.0.Display>
+			<Selections.1.Display>ใช้ตราผนึกบรรพกาลเพื่อคลายผนึก</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

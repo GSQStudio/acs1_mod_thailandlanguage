@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FloorBase">
+			<DisplayName>พื้น</DisplayName>
+			<StoryDesc>มันอยู่ในสำนัก</StoryDesc>
+		</Text>
+		<Text Name="WoodFloor1">
+			<DisplayName>พื้นไม้</DisplayName>
+		</Text>
+		<Text Name="WoodFloor2">
+			<DisplayName>พื้นไม้</DisplayName>
+		</Text>
+		<Text Name="Carpet1">
+			<StoryDesc>มันคือพรมแดงที่นุ่มสลวยสวยงาม</StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,47 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_SheildSkill">
+			<DisplayName>โล่วิญญาณ</DisplayName>
+		</Text>
+		<Text Name="Ls_TransferQi">
+			<DisplayName>บทสวดภาวนา </DisplayName>
+		</Text>
+		<Text Name="Ls_FabaoSkill">
+			<DisplayName>กระบี่เทวะ</DisplayName>
+		</Text>
+		<Text Name="Ls_FoxSkillAmp">
+			<DisplayName>เพลิงโลกันต์</DisplayName>
+		</Text>
+		<Text Name="Ls_SkillWater">
+			<DisplayName>ธาราอัสนี</DisplayName>
+		</Text>
+		<Text Name="Ls_SkillWater5">
+			<DisplayName>มหาธาราอัสนี</DisplayName>
+		</Text>
+		<Text Name="Ls_Fanshi">
+			<DisplayName>โจมตีสวน</DisplayName>
+			<Desc>สร้างความเสียหายจำนวนหนึ่งโดยเกี่ยวข้องกับปริมาณปราณสูงสุดของอาวุธวิเศษของศัตรู รวมทั้งผนึกการใช้งานความสามารถในการใช้งานอาวุธวิเศษในช่วงระยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="Ls_Penhuo">
+			<DisplayName>ภูเขาเพลิง</DisplayName>
+		</Text>
+		<Text Name="Ls_Ci">
+			<DisplayName>ลำแสงแรงดึงดูด</DisplayName>
+		</Text>
+		<Text Name="Ls_JinThunder">
+			<DisplayName>สายฟ้าเทวะ</DisplayName>
+		</Text>
+		<Text Name="Ls_AddModifier">
+			<DisplayName>โล่เทวะ</DisplayName>
+			<Desc>เพิ่มพลังเกราะปราณของพันธมิตรและคสามแข็งแกร่งของกายาลี้ลับ</Desc>
+		</Text>
+		<Text Name="Ls_Confuse">
+			<DisplayName>สับสน</DisplayName>
+			<Desc>ทำให้ศัตรูตกอยู่ในสภาวะสับสนจนไม่สามารถโจมตีหรือเคลื่อนไหวได้ ทว่าศัตรูจะหายจากสภาพนี้เมื่อถูกโจมตี</Desc>
+		</Text>
+		<Text Name="Ls_Rongduan">
+			<DisplayName>ชนวนระเบิด</DisplayName>
+			<Desc>ใช้พลังของภูเขาไฟเพื่อสร้างความเสียหายให้แก่ศัตรู อีกทั้งยังระงับการร่ายปราณเวทของศัตรเป็นระยะเวลาหนึ่ง</Desc>
+		</Text>
+	</List>
+</Texts>

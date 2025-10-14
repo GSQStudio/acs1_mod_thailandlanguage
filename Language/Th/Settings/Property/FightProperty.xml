@@ -1,0 +1,138 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcFight_BaseHitChance">
+			<DisplayName>อัตราความแม่นยำการโจมตี</DisplayName>
+			<Desc>โอกาสที่ศิษย์สายนอกจะโจมตีโดนศัตรู</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_BaseDodgeChance">
+			<DisplayName>อัตราหลบการโจมตี</DisplayName>
+			<Desc>โอกาสที่ผู้ฝึกในสายกายาอมตะจะสามารถหลบการโจมตีของศัตรูได้</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoNum">
+			<DisplayName>จำนวนอาวุธวิเศษ</DisplayName>
+			<Desc>จำนวนอาวุธวิเศษที่ตัวละครสามารใช้งานได้</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoLingRecoverK">
+			<DisplayName>อัตราการฟื้นฟูปราณของอาวุธวิเศษ</DisplayName>
+			<Desc>อัตราการฟื้นฟูปราณของอาวุธวิเศษที่ดูดซับจากตัวละคร</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoPowerAddP">
+			<DisplayName>โบนัสพลังของอาวุธวิเศษ</DisplayName>
+			<Desc>ความสามารถในการสร้างความเสียหายของอาวุธวิเศษ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoLingRecoverAddP">
+			<DisplayName>โบนัสการฟื้นฟูปราณของอาวุธวิเศษ</DisplayName>
+			<Desc>การฟื้นฟูปราณของอาวุธวิเศษ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoCoolDownAddP">
+			<DisplayName>โบนัสความเร็วในการโจมตีของอาวุธวิเศษ</DisplayName>
+			<Desc>ช่วงเวลาต่ำสุดในการทิ้งช่วงระหว่างการโจมตีโดยใช้อาวุธวิเศษ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoMaxLingAddP">
+			<DisplayName>โบนัสพลังปราณสูงสุดของอาวุธวิเศษ</DisplayName>
+			<Desc>จำนวนพลังปราณสูงสุดขที่อาวุธวิเศษสามารถมีได้</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoRepelDistanceAddV">
+			<DisplayName>โบนัสการตีกระเด็นของอาวุธวิเศษ</DisplayName>
+			<Desc>ระยะกระเด็นกลับเมื่อาวุธวิเศษสองชิ้นปะทะกัน</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoFlySpeedAddP">
+			<DisplayName>โบนัสความเร็วบินของอาวุธวิเศษ</DisplayName>
+			<Desc>ความเร็วบินของอาวุธวิเศษ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoTurnSpeedAddP">
+			<DisplayName>โบนัสความเร็วเลี้ยวของอาวุธวิเศษ</DisplayName>
+			<Desc>ความเร็วเลี้ยวของอาวุธวิเศษ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoRepelResistanceAddV">
+			<DisplayName>โบนัสความต้านทานการถูกตีกระเด็นของอาวุธวิเศษ</DisplayName>
+			<Desc>การต้านทานการกระเด็นกลับเมื่ออาวุธวิเศษสองชิ้นมาปะทะกัน</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoTrailingLengthAddP">
+			<DisplayName>โบนัสระยะโจมตีของอาวุธวิเศษ</DisplayName>
+			<Desc>ความยาวเส้นทางเมื่ออาวุธวิเศษบิน</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellPowerAddP">
+			<DisplayName>โบนัสพลังของปราณเวท</DisplayName>
+			<Desc>พลังของปราณเวทยามเมื่อใช้เวทหรือตีหรือเวทรักษา</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellLingCostAddP">
+			<DisplayName>โบนัสการใช้ปราณในการร่ายปราณเวท</DisplayName>
+			<Desc>จำนวนปราณที่ต้องใช้ในการร่ายปราณเวท</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellCastTimeAddP">
+			<DisplayName>โบนัสความเร็วในการร่ายปราณเวท</DisplayName>
+			<Desc>ระยะเวลาในการเตรียมตัวก่อนปล่อยปราณเวทออกไป</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellCoolDownAddP">
+			<DisplayName>โบนัสคูลดาวน์ปราณเวท</DisplayName>
+		</Text>
+		<Text Name="NpcFight_FightSkillSoul">
+			<DisplayName>ปราณเวทของดวงจิตปฐมกาล</DisplayName>
+			<Desc>เฉพาะผู้ที่บรรลุระดับสูงสุดในวิถีแห่งปราณเวทเท่านั้นที่สามารถสร้างมันขึ้นมาได้ เชื่อมต่อมันไว้กับปราณเวทที่ต้องการและปราณเวทที่เลือกจะถูกปล่อยออกมาโดยอัตโนมัติในระหว่างการต่อสู้</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldConversionRate">
+			<DisplayName>โบนัสพลังของเกราะปราณ</DisplayName>
+			<DisplayValue>{0:N3} ความเสียหาย/ปราณ</DisplayValue>
+			<Desc>โบนัสที่เพิ่มให้กับความสามารถในการลดความเสียหายที่ได้รับผ่านการป้องกันของเกราะปราณ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldConversionRateAddP">
+			<DisplayName>โบนัสพลังของเกราะปราณ</DisplayName>
+			<Desc>โบนัสที่เพิ่มให้กับความสามารถในการลดความเสียหายที่ได้รับผ่านการป้องกันของเกราะปราณ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ZhenKeyPointNum">
+			<DisplayName>ขนาดค่ายกล</DisplayName>
+			<Desc>ขนาดของค่ายกลที่ตัวละครตัวนี้ทำหน้าที่เป็นแกนหลัก ยิ่งมีตัวละครในค่ายกลมากขึ้นเท่าไร ขนาดของค่ายกลก็ยิ่งมีขนาดใหญ่มากขึ้นเท่านั้น</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ZhenEnginePower">
+			<DisplayName>ภาระค่ายกล</DisplayName>
+			<Desc>ภาระของค่ายกลที่ตัวละครตัวนี้ทำหน้าที่เป็นแกนหลัก ยิ่งค่ายกลมีความซับซ้อนมากขึ้นเท่าไร มันก็ยิ่งเพิ่มภาระใหเแก่ค่ายกลมากขึ้นเท่านั้น</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToJin">
+			<DisplayName>ความต้านทานธาตุทอง</DisplayName>
+			<Desc>ความเสียหายที่ลดลงเมื่อผู้ฝึกตนได้รับความเสียหายจากธาตุทอง</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToMu">
+			<DisplayName>ความต้านทานธาตุไม้</DisplayName>
+			<Desc>ความเสียหายที่ลดลงเมื่อผู้ฝึกตนได้รับความเสียหายจากธาตุไม้</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToShui">
+			<DisplayName>ความต้านทานธาตุน้ำ</DisplayName>
+			<Desc>ความเสียหายที่ลดลงเมื่อผู้ฝึกตนได้รับความเสียหายจากธาตุน้ำ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToHuo">
+			<DisplayName>ความต้านทานธาตุไฟ</DisplayName>
+			<Desc>ความเสียหายที่ลดลงเมื่อผู้ฝึกตนได้รับความเสียหายจากธาตุไฟ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToTu">
+			<DisplayName>ความต้านทานธาตุดิน</DisplayName>
+			<Desc>ความเสียหายที่ลดลงเมื่อผู้ฝึกตนได้รับความเสียหายจากธาตุดิน</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+	</List>
+</Texts>

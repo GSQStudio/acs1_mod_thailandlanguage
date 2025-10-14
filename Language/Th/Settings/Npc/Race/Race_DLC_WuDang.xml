@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu">
+			<DisplayName>เต่าดำเมียว</DisplayName>
+			<Desc>เต่าดำเมียวเป็นอสูรบรรพกาลที่เกิดขึ้นจาพลังแห่งสวรรค์และโลก มันเป็นตัวแทนของกฎเกณฑ์บางอย่างของธรรมชาติ</Desc>
+			<TalkBefore>แกร่ก...</TalkBefore>
+			<TalkAfter>...แกร่ก!</TalkAfter>
+		</Text>
+		<Text Name="WuDang_WuDiYa">
+			<DisplayName>เป็ดแห่งบู๊ตึ้ง</DisplayName>
+			<Desc>เป็ดลึกลับที่อาศัยอยู่บนภูเขาบู๊ตึ้ง!</Desc>
+		</Text>
+	</List>
+</Texts>

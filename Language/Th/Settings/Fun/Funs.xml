@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LookAtSky">
+			<Desc>เหม่อลอย/มองดูท้องฟ้า/ดวงตะวัน/ดวงจันทร์</Desc>
+		</Text>
+		<Text Name="Dance">
+			<Desc>เต้นรำ</Desc>
+		</Text>
+		<Text Name="Music">
+			<Desc>เล่นดนตรี</Desc>
+		</Text>
+		<Text Name="PlayBird">
+			<Desc>เล่นกับพวกนกและแมลง</Desc>
+		</Text>
+		<Text Name="Calligraphy">
+			<Desc>ประดิษฐ์อักษร</Desc>
+		</Text>
+		<Text Name="PlayChess">
+			<Desc>เล่นหมากล้อม</Desc>
+		</Text>
+		<Text Name="PlayTicTacToe">
+			<Desc>เล่นโอ-เอ็ก</Desc>
+		</Text>
+	</List>
+</Texts>

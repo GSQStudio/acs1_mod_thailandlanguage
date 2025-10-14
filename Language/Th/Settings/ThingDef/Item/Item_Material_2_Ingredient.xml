@@ -1,0 +1,29 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Flour" sParam="Item">
+			<ThingName>แป้ง</ThingName>
+			<Desc>ถุงแป้ง วัตถุดิบทำอาหาร</Desc>
+			<Item.FabaoSuffix>อณู, ผง, กระเป๋า</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Pear" sParam="Item">
+			<ThingName>ลูกแพร์</ThingName>
+			<Desc>ลูกแพร์ที่มีรสหวาน</Desc>
+			<Item.FabaoSuffix>ผลไม้, ลูกปัด, ลูกกลอน, ลูกกลม, โดม</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wheat" sParam="Item">
+			<ThingName>ข้าวสาลี</ThingName>
+			<Desc>มัดข้าวสาลี</Desc>
+			<Item.FabaoSuffix>สาย, ม้วนด้าย</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Mushroom" sParam="Item">
+			<ThingName>เห็ด</ThingName>
+			<Desc>ตะกร้าเห็ด</Desc>
+			<Item.FabaoSuffix>ตะกร้า, เห็ด</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Lotusroot" sParam="Item">
+			<ThingName>รากบัว</ThingName>
+			<Desc>ส่วนที่เป็นรากบัว</Desc>
+			<Item.FabaoSuffix>รากบัว</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

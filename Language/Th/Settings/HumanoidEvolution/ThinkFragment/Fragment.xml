@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FirstFrag_Target">
+			<DisplayName>ม็อดสูญหาย</DisplayName>
+		</Text>
+		<Text Name="InitalFrag">
+			<DisplayName>ม็อดสูญหาย</DisplayName>
+		</Text>
+		<Text Name="Emotion_Template">
+			<DisplayName>แม่แบบ</DisplayName>
+		</Text>
+		<Text Name="Target_Template">
+			<DisplayName>แม่แบบ</DisplayName>
+		</Text>
+		<Text Name="Scene_Template">
+			<DisplayName>แม่แบบ</DisplayName>
+		</Text>
+	</List>
+</Texts>

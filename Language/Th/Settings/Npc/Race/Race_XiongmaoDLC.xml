@@ -1,0 +1,36 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGPanda">
+			<DisplayName>เผ่าแพนด้าอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่าแพนด้าอสูร</Desc>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="Panda">
+			<DisplayName>แพนด้า</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: แพนด้า</Desc>
+			<TalkBefore>*อิ๊ววว*</TalkBefore>
+			<TalkAfter>*อิ๊ววว*</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="JYPanda">
+			<DisplayName>แพนด้าอสูร</DisplayName>
+			<Desc>สัตว์ที่ได้รับพลังโดยปราศจากการตื่นรู้: แพนด้าอสูร</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="LsPandaXian">
+			<DisplayName>เซียนเซียน</DisplayName>
+			<Desc>แพนด้าศักดิ์สิทธิ์เซียนเซียนเป็นสัตว์อสูรวิญญาณที่เกิดจากพลังแห่งสวรรค์และโลก มันเป็นตัวแทนถึงกฎเกณฑ์บางประการของธรรมชาติ</Desc>
+			<TalkBefore>*อิ๊ววว*</TalkBefore>
+			<TalkAfter>*อิ๊ววว*</TalkAfter>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<DisplayName>ซิ่วซิ่ว</DisplayName>
+			<Desc>แพนด้าศักดิ์สิทธิ์ซิ่วซิ่วเป็นสัตว์อสูรวิญญาณที่เกิดขึ้นจากพลังแห่งสวรรค์และโลก มันเป็นตัวแทนถึงกฎเกณฑ์บางประการของธรรมชาติ</Desc>
+			<TalkBefore>*อิ๊ววว*</TalkBefore>
+			<TalkAfter>*อิ๊ววว*</TalkAfter>
+		</Text>
+	</List>
+</Texts>

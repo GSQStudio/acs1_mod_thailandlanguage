@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Story_PracticeSpeed1">
+			<DisplayName>เพิ่มความเร็วการบ่มเพาะ 5%</DisplayName>
+			<Desc>เพิ่มความเร็วการบ่มเพาะ 5%</Desc>
+		</Text>
+		<Text Name="Story_LingMax1">
+			<DisplayName>เพิ่มปริมาณปราณสูงสุด 2%</DisplayName>
+			<Desc>เพิ่มปริมาณปราณสูงสุด 2%</Desc>
+		</Text>
+		<Text Name="Story_FabaoPower1">
+			<DisplayName>เพิ่มพลังอาวุธวิเศษ 5%</DisplayName>
+			<Desc>เพิ่มพลังอาวุธวิเศษ 5%</Desc>
+		</Text>
+		<Text Name="Story_LingAbsorbSpeed1">
+			<DisplayName>เพิ่มอัตราการดูดซับปราณ 10%</DisplayName>
+			<Desc>เพิ่มอัตราการดูดซับปราณ 10%</Desc>
+		</Text>
+		<Text Name="Story_WorldMapFlySpeedAddP1">
+			<DisplayName>เพิ่มความเร็วกระบี่บิน 50%</DisplayName>
+			<Desc>เพิ่มความเร็วกระบี่บิน 50%</Desc>
+		</Text>
+		<Text Name="Story_ShieldConversionRate1">
+			<DisplayName>เพิ่มประสิทธิภาพเกราะปราณ 10%</DisplayName>
+			<Desc>เพิ่มประสิทธิภาพเกราะปราณ 10%</Desc>
+		</Text>
+		<Text Name="Story_DragonBlood">
+			<DisplayName>สายเลือดมังกร</DisplayName>
+			<Desc>การตื่นของสายเลือดมังกร: ความอึดเพิ่มขึ้น 20%; การรับรู้เพิ่มขึ้น 20%; รากฐานปราณสูงสุดเพิ่มขึ้น 25%</Desc>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish1">
+			<DisplayName>ให้ของขวัญ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish2">
+			<DisplayName>ให้ของขวัญ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish3">
+			<DisplayName>ให้ของขวัญ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish4">
+			<DisplayName>ให้ของขวัญ</DisplayName>
+		</Text>
+		<Text Name="Modifier_GreenBrothel">
+			<DisplayName>รู้สึกดี</DisplayName>
+			<Desc>สนุกสนานที่คฤหาสน์เขียว ทำให้อารมณ์ดีต่อเนื่อง 5 วัน</Desc>
+		</Text>
+	</List>
+</Texts>

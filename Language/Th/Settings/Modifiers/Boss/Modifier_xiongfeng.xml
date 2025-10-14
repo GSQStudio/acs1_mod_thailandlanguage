@@ -1,0 +1,41 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Xiongfeng">
+			<DisplayName>หงส์เพลิง</DisplayName>
+		</Text>
+		<Text Name="Boss_XiongfengFight">
+			<DisplayName>หงส์เพลิง</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part">
+			<DisplayName>ร่างของหงส์เพลิง</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_huoling">
+			<DisplayName>จิตวิญญาณแห่งเพลิง</DisplayName>
+			<Desc>หงส์เพลิงรวบรวมจิตวิญญาณแห่งเพลิง หากรวบรวมจนกระทั่งมันเพิ่มขึ้นถึงระดับ 100 เมื่อถึงตอนนั้นมันจะปลดปล่อยขนหงส์เพลิงและกลายร่างเป็นร่างหงส์เพลิงสวรรค์</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Huofeng">
+			<DisplayName>ร่างหงส์เพลิงสวรรค์</DisplayName>
+			<Desc>หงส์เพลิงจะทำการดูดกลืนขนหงส์เพลิงของตัวเองเพื่อคงสภาพร่างนี้เอาไว้ เมื่อมันหมด ยกเลิกร่างนี้และทำการฟื้นฟูขนวอหคเพลิงและปราณของตัวเอง</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_rongjin">
+			<DisplayName>เพลิงผลาญฟ้า</DisplayName>
+			<Desc>สร้างความเสียหายเป็นระยะเวลาหนึ่ง ผู้ฝึกตนที่ไม่ใช่ธาตุทองจะได้รับความเสียหาย 1/3 เท่านั้น</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_yishang">
+			<DisplayName>อ่อนแอ</DisplayName>
+			<Desc>หงส์เพลิงอยู่ในสภาพอ่อนแอ</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan">
+			<DisplayName>เนตรสุริยัน</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng2">
+			<DisplayName>วิหคเพลิง</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part2">
+			<DisplayName>ชิ้นส่วนร่างกายวิหคเพลิง</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan2">
+			<DisplayName>ดวงตาสุริยะ</DisplayName>
+		</Text>
+	</List>
+</Texts>

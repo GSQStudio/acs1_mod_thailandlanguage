@@ -1,0 +1,96 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FaBao">
+			<Packs.0.DescTags>อาวุธวิเศษปะทะกัน</Packs.0.DescTags>
+			<Packs.1.DescTags>อาวุธวิเศษปะทะกัน</Packs.1.DescTags>
+			<Packs.2.DescTags>อาวุธวิเศษปะทะกัน</Packs.2.DescTags>
+			<Packs.3.DescTags>อาวุธวิเศษปะทะกัน</Packs.3.DescTags>
+		</Text>
+		<Text Name="GongBroken">
+			<Packs.0.DescTags>อาวุธวิเศษปะทะกัน</Packs.0.DescTags>
+			<Packs.1.DescTags>อาวุธวิเศษปะทะกัน</Packs.1.DescTags>
+			<Packs.2.DescTags>อาวุธวิเศษปะทะกัน</Packs.2.DescTags>
+			<Packs.3.DescTags>อาวุธวิเศษปะทะกัน</Packs.3.DescTags>
+		</Text>
+		<Text Name="Skill">
+			<Packs.0.DescTags>ปราณเวทระเบิดพลัง</Packs.0.DescTags>
+			<Packs.1.DescTags>ปราณเวทระเบิดพลัง</Packs.1.DescTags>
+			<Packs.2.DescTags>ปราณเวทระเบิดพลัง</Packs.2.DescTags>
+			<Packs.3.DescTags>ปราณเวทระเบิดพลัง</Packs.3.DescTags>
+		</Text>
+		<Text Name="Jin">
+			<Packs.1.DescTags>ความเสียหายธาตุทอง</Packs.1.DescTags>
+			<Packs.2.DescTags>ความเสียหายธาตุทอง</Packs.2.DescTags>
+			<Packs.3.DescTags>ความเสียหายธาตุทอง</Packs.3.DescTags>
+			<Packs.4.DescTags>ความเสียหายธาตุทอง</Packs.4.DescTags>
+			<Packs.5.DescTags>ความเสียหายธาตุทอง</Packs.5.DescTags>
+		</Text>
+		<Text Name="Mu">
+			<Packs.1.DescTags>ความเสียหายธาตุไม้</Packs.1.DescTags>
+			<Packs.2.DescTags>ความเสียหายธาตุไม้</Packs.2.DescTags>
+			<Packs.3.DescTags>ความเสียหายธาตุไม้</Packs.3.DescTags>
+			<Packs.4.DescTags>ความเสียหายธาตุไม้</Packs.4.DescTags>
+			<Packs.5.DescTags>ความเสียหายธาตุไม้</Packs.5.DescTags>
+			<Packs.6.DescTags>ความเสียหายธาตุไม้</Packs.6.DescTags>
+		</Text>
+		<Text Name="Shui">
+			<Packs.1.DescTags>ความเสียหายธาตุน้ำ</Packs.1.DescTags>
+			<Packs.2.DescTags>ความเสียหายธาตุน้ำ</Packs.2.DescTags>
+			<Packs.3.DescTags>ความเสียหายธาตุน้ำ</Packs.3.DescTags>
+			<Packs.4.DescTags>ความเสียหายธาตุน้ำ</Packs.4.DescTags>
+			<Packs.5.DescTags>ความเสียหายธาตุน้ำ</Packs.5.DescTags>
+		</Text>
+		<Text Name="Huo">
+			<Packs.1.DescTags>ความเสียหายธาตุไฟ</Packs.1.DescTags>
+			<Packs.2.DescTags>ความเสียหายธาตุไฟ</Packs.2.DescTags>
+			<Packs.3.DescTags>ความเสียหายธาตุไฟ</Packs.3.DescTags>
+			<Packs.4.DescTags>ความเสียหายธาตุไฟ</Packs.4.DescTags>
+			<Packs.5.DescTags>ความเสียหายธาตุไฟ</Packs.5.DescTags>
+		</Text>
+		<Text Name="Tu">
+			<Packs.1.DescTags>ความเสียหายธาตุดิน</Packs.1.DescTags>
+			<Packs.2.DescTags>ความเสียหายธาตุดิน</Packs.2.DescTags>
+			<Packs.3.DescTags>ความเสียหายธาตุดิน</Packs.3.DescTags>
+			<Packs.4.DescTags>ความเสียหายธาตุดิน</Packs.4.DescTags>
+			<Packs.5.DescTags>ความเสียหายธาตุดิน</Packs.5.DescTags>
+			<Packs.6.DescTags>ความเสียหายธาตุดิน</Packs.6.DescTags>
+		</Text>
+		<Text Name="BodyAttackNormal">
+			<Packs.0.DescTags>โจมตีรุนแรง</Packs.0.DescTags>
+			<Packs.1.DescTags>โจมตีรุนแรง</Packs.1.DescTags>
+			<Packs.2.DescTags>โจมตีรุนแรง</Packs.2.DescTags>
+			<Packs.3.DescTags>โจมตีรุนแรง</Packs.3.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Normal">
+			<Packs.0.DescTags>ถลอก</Packs.0.DescTags>
+			<Packs.1.DescTags>ถลอก</Packs.1.DescTags>
+			<Packs.2.DescTags>ถลอก</Packs.2.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Skill">
+			<Packs.0.DescTags>ปราณเวทโจมตีรุนแรง</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Fabao">
+			<Packs.0.DescTags>อาวุธวิเศษปะทะกัน</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Jin">
+			<Packs.0.DescTags>ความเสียหายธาตุทอง</Packs.0.DescTags>
+			<Packs.1.DescTags>ความเสียหายธาตุทอง</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Mu">
+			<Packs.0.DescTags>ความเสียหายธาตุไม้</Packs.0.DescTags>
+			<Packs.1.DescTags>ความเสียหายธาตุไม้</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Shui">
+			<Packs.0.DescTags>ความเสียหายธาตุน้ำ</Packs.0.DescTags>
+			<Packs.1.DescTags>ความเสียหายธาตุน้ำ</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Huo">
+			<Packs.0.DescTags>ความเสียหายธาตุไฟ</Packs.0.DescTags>
+			<Packs.1.DescTags>ความเสียหายธาตุไฟ</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Tu">
+			<Packs.0.DescTags>ความเสียหายธาตุดิน</Packs.0.DescTags>
+			<Packs.1.DescTags>ความเสียหายธาตุดิน</Packs.1.DescTags>
+		</Text>
+	</List>
+</Texts>

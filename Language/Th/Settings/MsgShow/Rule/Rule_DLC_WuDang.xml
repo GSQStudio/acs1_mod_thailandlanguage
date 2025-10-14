@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="School_13">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - สำนักบู๊ตึ้ง</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากสำนักบู๊ตึ้ง</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+	</List>
+</Texts>

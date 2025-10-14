@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SoulCrystalBase" sParam="Item">
+			<Item.FabaoSuffix>มณีวิญญาณ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SoulCrystalYou" sParam="Item">
+			<ThingName>มณีจิตอาฆาต</ThingName>
+			<Desc>อัญมณีต้องสาปแห่งความเคียดแค้น มันบรรจุความทรงจำอันเจ็บปวดของผู้ตายที่ยังหลงเหลืออยู่บางส่วนเอาไว้ภายใน</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalNing" sParam="Item">
+			<ThingName>มณีจิตไร้โศก</ThingName>
+			<Desc>อัญมณีวิญญาณอันเงียบสงบ มันบรรจุความทรงจำของผู้ตายที่ยังหลงเหลืออยู่บางส่วนเอาไว้ภายใน</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalLing" sParam="Item">
+			<ThingName>มณีดวงจิต</ThingName>
+			<Desc>อัญมณีแห่งจิตวิญญาณที่สดใส มันบรรจุความทรงจำที่มีความสุขของผู้ตายที่ยังหลงเหลืออยู่บางส่วนเอาไว้ภายใน</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalYuanLing" sParam="Item">
+			<ThingName>มณีปฐมวิญญาณ</ThingName>
+			<Desc>มันเป็นความผิดพลาดในทางของสวรรค์ที่วัตถุวิญญาณได้รับจิตใจมา ใขณะเดียวกันมณีปฐมวิญญาณนี้ก็เป็นผลลัพธ์ที่มาจากความผิดพลาดนั่นซึ่งถูกสกัดออกมาจากวัตถุวิญญาณที่มีจิตใจ</Desc>
+		</Text>
+		<Text Name="Item_Yao_CatSoul" sParam="Item">
+			<ThingName>เพชรตาแมว</ThingName>
+			<Desc>เศษวิญญาณของแมวอสูรและอาจมีบางอย่างเกี่ยวข้องกับคำกล่าวที่ว่าแมวมีเก้าชีวิต มันมีพลังลึกลับบางอย่าง การกินมันลงไปโดยตรงจะทำให้ผู้ฝึกตนได้รับวิญญาณย่อยเพิ่มขึ้นมา ตลอดชีวิตของคนๆ หนึ่งสามารถใช้ของชิ้นนี้ได้เพียงครั้งเดียวเท่านั้น อีกทั้งมันยังมีผลกับผู้ฝึกตนที่อยู่ในขอบเขควิญญาณปฐมกาลเท่านั้น</Desc>
+		</Text>
+	</List>
+</Texts>

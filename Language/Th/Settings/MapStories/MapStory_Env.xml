@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="DiMuWish">
+			<DisplayName>บูชา</DisplayName>
+			<Desc>มอบหินวิญญาณให้แกศาลเจ้าแม่ธรณี</Desc>
+			<Selections.0.Display>อธิษฐานขอหินวิญญาณ</Selections.0.Display>
+			<Selections.1.Display>อธิษฐานเพื่อธรรมชาติ</Selections.1.Display>
+		</Text>
+		<Text Name="YinYangCanWu">
+			<DisplayName>แนวคิดแห่งหยินหยาง</DisplayName>
+			<Desc>หินหยินและหยางประกอบด้วยกฎของหยินและหยางของสวรรค์และโลก ซึ่งสามารถใช้เพื่อทำความเข้าใจเต๋าในการบำเพ็ญตน</Desc>
+			<Selections.0.Display>แนวคิดแห่งหยินหยาง</Selections.0.Display>
+			<Selections.1.Display>ไม่มีอะไรเกิดขึ้น...</Selections.1.Display>
+		</Text>
+		<Text Name="FeelQi">
+			<DisplayName>สัมผัสปราณ</DisplayName>
+			<Desc>มีรัศมีปราณอันน่าเหลือเชื่ออยู่รอบๆ พฤกษาแสงประทีป ซึ่งสามารถสื่อสารกับผู้ฝึกตนได้</Desc>
+			<Selections.0.Display>สัมผัสปราณ</Selections.0.Display>
+			<Selections.1.Display>ไม่มีอะไรเกิดขึ้น...</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

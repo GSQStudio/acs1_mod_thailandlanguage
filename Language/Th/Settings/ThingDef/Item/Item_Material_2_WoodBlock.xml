@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBlockBase" sParam="Item">
+			<Item.FabaoSuffix>ไม้, แถว, รับ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_RoughWoodBlock" sParam="Item">
+			<ThingName>ไม้แปรรูป</ThingName>
+			<Desc>วัสดุไม้แปรรูปจากไม้ทั่วไป มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodBlock" sParam="Item">
+			<ThingName>ไม้ทองคำแปรรูป</ThingName>
+			<Desc>วัสดุไม้แปรรูปที่ทำมาจากไม้ทองคำ มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้ทองคำ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodBlock" sParam="Item">
+			<ThingName>ไม้หงส์เพลิงแปรรูป</ThingName>
+			<Desc>วัสดุไม้แปรรูปที่ทำมาจากไม้หงส์เพลิง มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้หงส์เพลิง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodBlock" sParam="Item">
+			<ThingName>ไม้วิญญาณแปรรูป</ThingName>
+			<Desc>วัสดุไม้แปรรูปที่ทำมาจากไม้วิญญาณ มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้วิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

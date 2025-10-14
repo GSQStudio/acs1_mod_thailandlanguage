@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyPractice_Attitude_Atk">
+			<DisplayName>ท่าร่างโจมตี</DisplayName>
+			<Desc>เพ่งสมาธิไปที่การโจมตีเป็นสำคัญ ในทวงท่านี้ผู้ใช้จะสามารถเพิ่มพลังโจมตีได้ถึง 25% ทว่าในขณะกันก็ต้องแลกมากับพลังป้องกันที่ลดลงไป 50%</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_Normal">
+			<DisplayName>ท่าร่างพื้นฐาน</DisplayName>
+			<Desc>ทวงท่าพื้นฐานที่มีความสมดุลทั้งรุกและรับ</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_ManJi">
+			<DisplayName>จิตวิญญาณนักสู้</DisplayName>
+			<Desc>ใช้ปณิธานตั้งมั่นในการควบคุมการเคลื่อนไหวของร่างกายเข้าจู่โจมศัตรูโดยตรง มีผลในการเพิ่มพลังทำลายล้างอย่างมหาศาล แต่ก็มีผลกระทบต่อพลังป้องกันของตนเองเช่นกัน โดยเคล็ดวิชานี้จะเพิ่มพลังโจมตีของผู้ใช้ 30% และลดพลังป้องกันลงไป 25%</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_WangZhe">
+			<DisplayName>เจตจำนงแห่งราชา</DisplayName>
+			<Desc>ปณิธานและจิตใจที่สงบนิ่งดุจดั่งราชาเมื่อเผชิญหน้ากับคู่ต่อสู้ที่แข็งแกร่ง โดยเคล็ดวิชานี้จะเพิ่มพลังโจมตีของผู้ใช้ได้ 15% เพิ่มพลังป้องกันลงไป 25% และลดพลังงาน 20%</Desc>
+		</Text>
+		<Text Name="BodyPractice_DefenseDebuff">
+			<DisplayName>สภาวะอ่อนแอ</DisplayName>
+			<Desc>เมื่อตกอยู่ในสภาวะที่ปราณแท้แห้งเหือด เมื่อนั้นผู้ฝึกตนจะตกอยู่ในสภาวะอ่อนแอ ทำให้ลดค่าสถานะทั้งหมด 90%</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_AngerFire">
+			<DisplayName>โทสะบ้าคลั่ง</DisplayName>
+			<Desc>รื้อฟื้นความทรงจำอันเจ็บปวดที่ถูกปิดผนึกไว้และกระตุ้นการทำงานของร่างกายอย่างเต็มที่ภายในระยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_JingXi">
+			<DisplayName>อวัยวะทำงานหนัก</DisplayName>
+			<Desc>หัวใจและปอดทำงานหนักจนเกินไปหลังจากใช้ลมปราณอย่างหนักหน่วง ส่งผลให้ประสิทธิภาพการเดินลมปราณลดลงอย่างมหาศาล</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_TunJin">
+			<DisplayName>กลืนกินชีพ</DisplayName>
+			<Desc>เร่งการใช้อายุขัยเพื่อดึงปราณแห่งชีวิตออกมาใช้ในขณะที่ปราณแท้แห้งเหือด</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_XiuFu">
+			<DisplayName>เปลี่ยนถ่ายพลัง</DisplayName>
+			<Desc>ส่งพลังงานไปทั่วร่างกายเพื่อเร่งการฟื้นตัวรักษาอาการบาดเจ็บ</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_ChiYi1">
+			<DisplayName>ผลาญชีพ</DisplayName>
+			<Desc>ใช้ปราณแท้ที่สร้างขึ้นโดยเผาผลาญปราณแห่งชีวิตตนเอง การกระทำเช่นนี้จะเร่งอัตราการใช้อายุขัยของผู้ใช้และความเร็วในการหลอมร่างอย่างมหาศาล</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_ChiYi2">
+			<DisplayName>แผดเผาชีพ</DisplayName>
+			<Desc>ใช้ปราณแท้ที่สร้างขึ้นโดยเผาผลาญปราณแห่งชีวิตตนเอง การกระทำเช่นนี้จะเร่งอัตราการใช้อายุขัยของผู้ใช้อย่างมหาศาลและเพิ่มอัตราความสำเร็จในการพัฒนาร่างขั้นสูงเมื่อทำการหลอมร่าง</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RedWallDownLeftS" sParam="Building">
+			<ThingName>กำแพงแดง(มุม)</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallUpLeftS" sParam="Building">
+			<ThingName>กำแพงแดง(มุม)</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+		</Text>
+		<Text Name="RedWallMidUpS" sParam="Building">
+			<ThingName>กำแพงแดง(ข้าง)</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+		</Text>
+		<Text Name="RedWallMidRightS" sParam="Building">
+			<ThingName>กำแพงแดง(ข้าง)</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+		</Text>
+		<Text Name="RedWallVerticalS" sParam="Building">
+			<ThingName>กำแพงแดง(กลาง)</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+		</Text>
+		<Text Name="RedWallVerticalHalfS" sParam="Building">
+			<ThingName>กำแพงแดง(ปิด)</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+		</Text>
+		<Text Name="RedWallHorizontalS" sParam="Building">
+			<ThingName>กำแพงแดง</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+		</Text>
+		<Text Name="RedWallDownLeftTinyS" sParam="Building">
+			<ThingName>กำแพงแดงเล็ก(มุม)</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+		</Text>
+		<Text Name="RedWallUpLeftTinyS" sParam="Building">
+			<ThingName>กำแพงแดงเล็ก(มุม)</ThingName>
+			<Desc>กำแพงที่เป็นเอกลักษณ์ของสำนักบู๊ตึ้งที่ใช้สร้างอาคารหลากหลายในสำนัก มีขนาดเล็กใหญ่แล้วแต่อาคารที่ต้องการสร้าง</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodCityGod_Gong_1">
+			<Title>แดนเทวะ -  เทพวิชาอัสนีบาตเก้าสวรรค์</Title>
+			<Desc>แดนเทวะที่ถูกสร้างโดยเทพวิชาอัสนีบาตเก้าสวรรค์</Desc>
+		</Text>
+		<Text Name="GodCityGod_Gong_2">
+			<Title>แดนเทวะ -  เทพวิชาวิถีฟ้าแปดสวรรค์</Title>
+			<Desc>แดนเทวะที่ถูกสร้างโดยเทพวิชาวิถีฟ้าแปดสวรรค์</Desc>
+		</Text>
+		<Text Name="GodCityGod_Gong_3">
+			<Title>แดนเทวะ -  เทพวิชาสิบมหานรก</Title>
+			<Desc>แดนเทวะที่ถูกสร้างโดยเทพวิชาสิบมหานรก</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_12_None">
+			<DisplayName>วิชาบ่มเพาะอักขระบรรพกาล</DisplayName>
+			<Desc>ผู้ฝึกตนผู้มีนามว่าหยุนจงจื่อนั้นละทิ้งวิธีการขึ้นรูปแก่นทองคำในรูปแบบดั้งเดิมและได้คิดค้นวิธีการขึ้นรูปแก่นทองคำรูปแบบใหม่ขึ้น จากเดิมทีผู้ฝึกตนจะหมุนเวียนปราณภายในร่างและควบแน่นมันจนก่อเกิดแก่นทองคำ ทว่าวิชานี้กลับใช้ยันต์และอักขระเพื่อเป็นแก่นกลางในการขึ้นรูปแก่นทองคำ ซึ่งผู้ฝึกจะใช้ยันต์ห้ารูปแบบเพื่อสลักอักขระยันต์ลงไปในแก่นทองคำและวิญญาณปฐมกาลของตนเอง</Desc>
+			<SelectDesc>ผู้ฝึกวิชานี้จะใช้ยันต์ห้ารูปแบบเพื่อสลักอักขระยันต์ลงไปในแก่นทองคำและวิญญาณปฐมกาลของตนเองเพื่อให้ได้รับพลังแห่งยันต์อักขระมาเป็นการถาวร อย่างไรก็ตามวิชานี้นั้นอ่อนแอในด้านการใช้ปราณเวทและอาวุธวิเศษเป็นอย่างมาก ดังนั้นมันจึงไม่เหมาะสมในการต่อสู้เป็นอย่างยิ่ง</SelectDesc>
+			<Stages.0.DisplayName>อาณาจักรแห่งการเปลี่ยนแปลง</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>จุดบรรจบ</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>ทะเลแห่งอักกขระ</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>อาณาจักรแห่งการเริ่มต้น</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>การสะสม</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าความอึดที่ต่ำ[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>ยันต์แห่งการเริ่มต้น</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>อาณาจักรแห่งน้ำและไฟ</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>ยันต์แห่งอัคคี</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>ยันต์แห่งวารี</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>ขึ้นรูปแก่นแท้</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>อาณาจักรแห่งแก่นปฐมกาล</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>การผสมผสาน</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>ยันต์ปฐมกาล</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>อาณาจักรแห่งความว่างเปล่า</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>หมื่นผันแปร</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>ยันต์เทวะ</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>อนัตตา</Stages.4.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

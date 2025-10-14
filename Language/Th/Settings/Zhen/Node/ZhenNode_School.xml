@@ -1,0 +1,37 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_School_1">
+			<DisplayName>แกนหลักม่านฟ้า</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_2">
+			<DisplayName>แกนหลักคุนหลุน</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_3">
+			<DisplayName>แกนหลักเหนือนภา</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_4">
+			<DisplayName>แกนหลักเมฆาม่วง</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_5">
+			<DisplayName>แกนหลักเอกลี้ลับ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_6">
+			<DisplayName>แกนหลักบัวสวรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_7">
+			<DisplayName>แกนหลักแสงราตรี</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_8">
+			<DisplayName>แกนหลักร้อยแมลง</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_9">
+			<DisplayName>แกนหลักอเวจี</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_10">
+			<DisplayName>แกนหลักเจ็ดวิถีสังหาร</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_11">
+			<DisplayName>แกนหลักผสานรวม</DisplayName>
+		</Text>
+	</List>
+</Texts>

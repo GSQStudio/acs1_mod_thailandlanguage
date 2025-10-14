@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Blood">
+			<Display>เลือดสัตว์อสูร</Display>
+			<Desc>เซ่นสังเวยเลือดสัตว์อสูรเพื่อแลกเปลี่ยนกับสิ่งของ</Desc>
+		</Text>
+		<Text Name="Elixir">
+			<Display>ไข่มุกวิญญาณ</Display>
+			<Desc>เซ่นสังเวยไข่มุกวิญญาณเพื่อแลกเปลี่ยนกับสิ่งของ</Desc>
+		</Text>
+	</List>
+</Texts>

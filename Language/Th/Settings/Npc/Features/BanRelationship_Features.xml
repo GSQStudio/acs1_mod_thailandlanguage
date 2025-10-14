@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BanSpouse">
+			<DisplayName>โสด</DisplayName>
+		</Text>
+		<Text Name="BanParents">
+			<DisplayName>กำพร้า</DisplayName>
+		</Text>
+		<Text Name="BanChild">
+			<DisplayName>ไม่มีลูกหลาน</DisplayName>
+		</Text>
+		<Text Name="BanLove">
+			<DisplayName>จงรักภักดี</DisplayName>
+		</Text>
+	</List>
+</Texts>

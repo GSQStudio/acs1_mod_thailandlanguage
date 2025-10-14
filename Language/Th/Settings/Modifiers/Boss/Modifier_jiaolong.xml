@@ -1,0 +1,45 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_PartFight">
+			<DisplayName>ค่าสถานะอวัยวะของบอส</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong">
+			<DisplayName>มังกรวารี</DisplayName>
+		</Text>
+		<Text Name="Boss_JiaolongFight">
+			<DisplayName>ค่าสถานะต่อสู้ของมังกรวารี</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part">
+			<DisplayName>ร่างของมังกรวารี</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part1">
+			<DisplayName>จุดอ่อนมังกรวารี</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_JiSiGongYang">
+			<DisplayName>พัฒนา</DisplayName>
+			<Desc>มังกรอสูรได้รับพลังจากการสังเวย ทำให้พลังปราณของมันเพิ่มขึ้นอย่างมหาศาล</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Shuiling">
+			<DisplayName>จิตวิญญาณแห่งน้ำ</DisplayName>
+			<Desc>มังกรวารีรวบรวมจิตวิญญาณแห่งน้ำ หากรวบรวมจนกระทั่งมันเพิ่มขึ้นถึงระดับ 100 เมื่อถึงตอนนั้นมวลน้ำจำนวนมหาศาลจะถูกปล่อยออกมา</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_LongNu">
+			<DisplayName>มังกรพิโรธ</DisplayName>
+			<Desc>มังกรอสูรเข้าสู่สภาวะบ้าคลั่ง ค่าสถานะทุกอย่างของมันเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Longxi">
+			<DisplayName>มังกรกลืนวารี</DisplayName>
+			<Desc>มังกรอสูรสูดลมหายใจขอองเข้าไปอย่างรุนแรง ทำให้น้ำภายในร่างกายของศัตรูถูกดูดออกไปด้วย</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_zhenlong">
+			<DisplayName>มังกรที่แท้จริง</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_fanshi">
+			<DisplayName>แว้งกัด - มังกรวารีสะท้อนเงา</DisplayName>
+			<Desc>หลังยากที่ผ่านไประยะเวลาหนึ่ง มังกรวารีจะทำให้อาวุธวิเศษของศัตรูเกิดความปั่นป่วน ทำให้ปราณของอาวุธวิเศษลดลงไปครึ่งหนึ่ง และถ้าหากอาวุธวิเศษชิ้นนั้นเป็นอาวุธธาตุไฟละก็ผลลัพธ์จะเพิ่มป็นสองเท่า ทว่าลดลัพธ์จะลดลงไปกว่าครึ่งหากอาวุธชิ้นนั้นเป็นอาวุธธาตุดิน</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong2">
+			<DisplayName>มังกรวารี</DisplayName>
+		</Text>
+	</List>
+</Texts>

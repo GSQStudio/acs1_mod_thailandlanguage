@@ -1,0 +1,30 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_8_Jin">
+			<DisplayName>วิชาบ่มเพาะกระบี่ทองคำตัดดารา</DisplayName>
+			<Desc>หนึ่งในห้าวิชาบ่มเพาะกฎธาตุที่แท้จริงของสำนักไท้อี้ ดึงปราณธาตุทองมาจากดวงดาราเพื่อใช้ในการบ่มเพาะอาวุธวิเศษ เมื่อผู้ฝึกสามารถฝึกและเข้าใจได้ถึงแก่นแท้ของมัน มันจะทำให้ผู้ที่ฝึกฝนไดรับพลังที่ไม่มีใครเทียบได้ในการต่อสู้</Desc>
+			<SelectDesc>วิชานี้โดดเด่นในด้านการใช้อาวุธวิเศษอันทรงพลังเข้าจู่โจมศัตรู ทว่าผู้ฝึกฝนจะต้องใช้ระยะนานในการฝึกฝนในแต่ละขั้น เจ้าแน่ใจหรือไม่ว่าต้องการฝึกฝนวิชานี้?</SelectDesc>
+			<Stages.0.DisplayName>แกนสวรรค์</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>แกนสวรรค์</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>หยกสวรรค์</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>หยกสวรรค์</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>ไข่มุกสวรรค์</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>ไข่มุกสวรรค์</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าความอึดที่ต่ำ[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>รัศมีสวรรค์</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>รัศมีสวรรค์</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>ตาชั่งสวรรค์</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>ตาชั่งสวรรค์</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าความอึดที่ต่ำ[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>กระจ่างสวรรค์</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>ขยายขอบเขต</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.1.DisplayName>กระจ่างสวรรค์</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.1.Desc>ด้วยการผสานจิตวิญญาณปฐมกาลของตนเองเข้ากับเต๋าแห่งสวรรค์ คนผู้นั้นจะต้องเผชิญหน้ากับความโกรธเกรี้ยวของสวรรค์โดยตรง</Stages.5.Necks.1.Desc>
+			<Stages.6.DisplayName>แสงสวรรค์</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>แสงสวรรค์</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>ละทิ้งกายหยาบไว้เบื้องหลังและจุติขึ้นสู๋แดนสวรรค์เบื้องบน</Stages.6.Necks.0.Desc>
+		</Text>
+	</List>
+</Texts>

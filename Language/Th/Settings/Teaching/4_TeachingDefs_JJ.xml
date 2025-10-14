@@ -1,0 +1,320 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Fight">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>การต่อสู้เบื้องต้น</DisplayName>
+			<Desc>เรียนรู้ระบบการต่อสู้และการควบคุมเบื้องต้นในบทช่วยสอนนี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>การควบคุมการต่อสู้</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>โหมดสังหารและพิชิต</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>โหมดป้องกันอัตโนมัติ</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>หนีจากการต่อสู้</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>การต่อสู้หลายคน</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>เลือกหลายคนเพื่อโจมตี</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>เคลื่อนที่และโจมตี</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>สลับนักสู้</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>แตะและเลือกศิษย์ใน</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>ตรวจสอบโหมดพิชิตทางด้านซ้ายของแผงด้านล่าง</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>ตรวจสอบการหนีจากการต่อสู้ทางด้านซ้ายของแผงด้านล่าง</Tasks.5.TaskDesc>
+			<Tasks.7.TipsData.Desc>นี่คือโหมดการควบคุมที่พบบ่อยที่สุดระหว่างการต่อสู้ แน่นอนว่ายังมีโหมดอื่น ๆ รอให้ผู้เล่นไปสำรวจในเกม</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>ใช้ฟังก์ชันคิวเพื่อเลือกศิษย์ทั้งหมด</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>ใช้ฟังก์ชันคิวเพื่อเลือกศิษย์ทั้งหมด</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>แตะและเลือกศิษย์</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>แตะและเลือกศิษย์</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>แตะและเลือกศิษย์</Tasks.13.TaskDesc>
+			<Tasks.15.TaskDesc>แตะ "ยืนยัน"</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>เข้าสู่สถานะโจมตีโดยใช้ปุ่มโจมตี</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>ออกคำสั่งโจมตีใส่อสูร</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>ยืนยันการโจมตี</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>เข้าสู่สถานะเคลื่อนที่โดยใช้ปุ่มเคลื่อนที่</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>แตะและเคลื่อนไปยังตำแหน่งที่กำหนด</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>รอให้พวกเขาเคลื่อนที่</Tasks.23.TaskDesc>
+			<Tasks.24.TipsData.Desc>ผู้เล่นสามารถใช้การเคลื่อนที่และโจมตีในเวลาเดียวกันเพื่อยืดการต่อสู้ และบางครั้งมันสามารถพลิกสถานการณ์ได้</Tasks.24.TipsData.Desc>
+			<Tasks.26.TaskDesc>แตะศิษย์ที่บาดเจ็บในการต่อสู้</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>แตะ "หลบหนี"</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>เข้าสู่สถานะเคลื่อนที่โดยใช้ปุ่มเคลื่อนที่</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>เคลื่อนไปยังที่ที่ปลอดภัยกว่าในสำนัก</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>ผู้เล่นสามารถใช้ "หลบหนี" เพื่อให้ศิษย์ที่บาดเจ็บออกจากการต่อสู้และถอยไปยังที่ที่ปลอดภัยกว่าเพื่อรับประกันว่าจะไม่มีใครตาย</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>แตะและเลือกศิษย์ในที่ไม่ได้อยู่ในการต่อสู้</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>เข้าสู่สถานะโจมตีโดยใช้ปุ่มโจมตี</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>ออกคำสั่งโจมตีใส่อสูร</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>ยืนยันการโจมตี</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>ผู้เล่นสามารถเปลี่ยนศิษย์ในทีมระหว่างการต่อสู้เพื่อสู้ต่อไปได้ แน่นอนว่าผู้เล่นสามารถจัดทีมหลายทีมเพื่อผลัดกันต่อสู้หรือรับเสบียงได้</Tasks.36.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>ในการต่อสู้ ผู้เล่นสามารถเปลี่ยนการควบคุมเพื่อตอบสนองต่อสถานการณ์ที่แตกต่างกันเพื่อชิงความได้เปรียบเหนือศัตรูและป้องกันไม่ให้สำนักถูกทำลาย</Tasks.38.TipsData.Desc>
+		</Text>
+		<Text Name="ZhenFa">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>ค่ายกล</DisplayName>
+			<Desc>เรียนรู้วิธีแก้ไขค่ายกลและตั้งค่าสมาชิกสำหรับค่ายกลในบทช่วยสอนนี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>แก้ไขค่ายกล</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>สร้างค่ายกลใหม่</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>การกำหนดค่าค่ายกล</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>การประเมินค่ายกลและสมาชิก</Chapters.1.Tasks.0>
+			<Chapters.2.DisplayName>การใช้งานค่ายกล</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>จัดตั้งค่ายกล</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>เมนูค่ายกล</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>แตะปุ่มสำนัก</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>เมื่อได้รับค่ายกล ส่วนเสริม หรือเสาหลักด้วยวิธีอื่นใดในเกม ผู้เล่นสามารถสร้างหรือตรวจสอบค่ายกลได้ที่นี่</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>แตะ "ค่ายกล"</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>นี่คือค่ายกลทั้งหมดที่ผู้เล่นเป็นเจ้าของ คลิกเพื่อตรวจสอบหรือแก้ไขการกำหนดค่าค่ายกลใด ๆ</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>คลิก "สร้าง"</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>คลิกเพื่อเลือกวงกลมเสริม</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>แตะการกำหนดค่าเพื่อเลือก</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>คลิกการกำหนดค่าเพื่อยืนยันการเลือกของคุณ</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>เมื่อแก้ไขค่ายกล ผู้เล่นต้องตั้งค่าเสาหลักก่อน ซึ่งสามารถเชื่อมต่อกับส่วนเสริมอื่น ๆ ได้ สามารถมีเสาหลักได้เพียงหนึ่งเดียวเท่านั้น</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>แตะเพื่อเลือกส่วนเสริม "กระบี่"</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>แตะการกำหนดค่าเพื่อเลือก</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>คลิกการกำหนดค่าเพื่อยืนยันการเลือกของคุณ</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>หากค่ายกลที่แก้ไขมีส่วนเสริมที่เชื่อมต่อไม่ถูกต้อง มันจะแสดงว่าไม่สมบูรณ์ และค่ายกลที่ไม่สมบูรณ์จะไม่สามารถจัดตั้งได้</Tasks.16.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>เมื่อค่ายกลที่แก้ไขตรงตามข้อกำหนดของ "สัจธรรมแห่งค่ายกล" มันจะได้รับผลโบนัส เสาหลักที่แตกต่างกันมีสัจธรรมแห่งค่ายกลที่แตกต่างกัน</Tasks.17.TipsData.Desc>
+			<Tasks.18.TipsData.Desc>เมื่อผู้เล่นแก้ไขค่ายกลเสร็จแล้ว ให้แตะ "บันทึก" เพื่อบันทึกค่ายกลที่สร้างขึ้นใหม่</Tasks.18.TipsData.Desc>
+			<Tasks.19.TipsData.Desc>เมื่อผู้เล่นแก้ไขค่ายกลเสร็จแล้ว ให้คลิก "บันทึก" เพื่อบันทึกค่ายกลที่สร้างขึ้นใหม่</Tasks.19.TipsData.Desc>
+			<Tasks.20.TaskDesc>แตะเพื่อยืนยัน</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>แตะเพื่อยืนยัน</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>เมื่อค่ายกลที่สมบูรณ์ได้รับการแก้ไขและบันทึกแล้ว ผู้เล่นสามารถแต่งตั้งตัวละครให้กับค่ายกลนี้และเตรียมพร้อมที่จะจัดตั้งมันได้</Tasks.23.TipsData.Desc>
+			<Tasks.25.TaskDesc>แตะปุ่มแก้ไข</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>แตะปุ่มกำหนดค่าทางด้านขวา</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>แตะเพื่อเลือกอันแรก: บทช่วยสอน</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>คลิกเพื่อเลือกอันแรก: บทช่วยสอน</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>ผู้เล่นสามารถจัดสรรศิษย์ในให้กับแต่ละเสาหลักและส่วนเสริมได้ ตามเส้นทางจากส่วนเสริมไปยังเสาหลัก ทุกครั้งที่ธาตุส่งเสริมธาตุถัดไป การเชื่อมต่อของส่วนเสริมจะได้รับเอฟเฟกต์พิเศษที่ขยายใหญ่ขึ้น และในทางกลับกัน</Tasks.29.TipsData.Desc>
+			<Tasks.30.TaskDesc>แตะปุ่มเสาหลัก</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>แตะและเลือกศิษย์</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>แตะและเลือกศิษย์</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>คลิก "ยืนยัน"</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>ค่ายกลมีค่าสถานะที่เกี่ยวข้องเก้าอย่าง ผู้เล่นสามารถตรวจสอบได้ผ่านการประเมินค่ายกลทางด้านซ้าย</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>ปิดแผงกำหนดค่า</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>ปิดแผงค่ายกล</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>ปิดแผงสำนัก</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>เมื่อค่ายกลเสร็จสมบูรณ์และจัดสรรสมาชิกแล้ว ผู้เล่นสามารถจัดตั้งค่ายกลเพื่อเปิดใช้งานได้</Tasks.39.TipsData.Desc>
+			<Tasks.41.TaskDesc>แตะและเลือกศิษย์</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>มีเพียงศิษย์ที่อยู่ ณ เสาหลักเท่านั้นที่สามารถจัดตั้งค่ายกลได้ เมื่อศิษย์ทั้งหมดที่ส่วนเสริมอื่น ๆ แข็งแรงดีและอยู่ในพื้นที่เดียวกัน ค่ายกลจะสามารถจัดตั้งได้ตามการกำหนดค่า</Tasks.42.TipsData.Desc>
+			<Tasks.43.TaskDesc>แตะ "จัดตั้งค่ายกล"</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>ก่อนที่จะจัดตั้งค่ายกล ผู้เล่นสามารถตรวจสอบรายละเอียดเพื่อยืนยันผลโบนัสและค่าสถานะที่แท้จริงหลังจากจัดตั้งค่ายกลแล้ว</Tasks.44.TipsData.Desc>
+			<Tasks.45.TaskDesc>แตะ "จัดตั้งค่ายกล"</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>รอให้ค่ายกลถูกจัดตั้ง</Tasks.46.TaskDesc>
+			<Tasks.48.TipsData.Desc>นี่คือทักษะค่ายกลทั้งหมดของค่ายกลปัจจุบัน ซึ่งแต่ละทักษะมีการใช้งานที่แตกต่างกัน</Tasks.48.TipsData.Desc>
+			<Tasks.49.TipsData.Desc>นี่คือทักษะคาถาของศิษย์ในค่ายกล</Tasks.49.TipsData.Desc>
+			<Tasks.50.TaskDesc>แตะเพื่อตรวจสอบ "เพ่งสมาธิ"</Tasks.50.TaskDesc>
+			<Tasks.51.TipsData.Desc>ผู้เล่นสามารถตรวจสอบ "เพ่งสมาธิ" เพื่อจับตาดูการทำงานของค่ายกลอย่างใกล้ชิด ซึ่งช่วยในการปรับค่ายกลได้ตลอดเวลาในการต่อสู้</Tasks.51.TipsData.Desc>
+			<Tasks.53.TipsData.Desc>ผู้เล่นสามารถจัดและผสมผสานคุณสมบัติต่าง ๆ เพื่อสร้างค่ายกลที่เหมาะสมและทรงพลังยิ่งขึ้น และแม้กระทั่งเชี่ยวชาญค่ายกลโบราณ ค่ายกลที่แตกต่างกันมีผลที่แตกต่างกัน รอให้ผู้เล่นไปสำรวจ ดังนั้นบทช่วยสอนนี้จะไม่ G.O.D. การแก้ไขค่ายกลอื่น ๆ</Tasks.53.TipsData.Desc>
+		</Text>
+		<Text Name="DragonHole">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>ถ้ำลึกลับ</DisplayName>
+			<Desc>ในบทช่วยสอนนี้ เรียนรู้อิทธิพลของถ้ำลึกลับและวิธีใช้ของวิเศษฮวงจุ้ยเพื่อสะกดพวกมัน\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>ถ้ำมังกรอุทก</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ถ้ำลึกลับ</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>สะกดถ้ำลึกลับ</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>วางของวิเศษฮวงจุ้ย</Chapters.1.Tasks.0>
+			<Tasks.2.TaskDesc>แตะ "ตกลง"</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>เมื่อเวลาผ่านไประยะหนึ่งในเกม จะเกิดเหตุการณ์ลับพิเศษขึ้นโดยมีถ้ำลึกลับปรากฏขึ้นที่จุดสุ่มในตำแหน่งของสำนักของผู้เล่น และจะมีมังกรอุทกหลับใหลอยู่ข้างใน ผู้เล่นสามารถใช้วิธีการต่าง ๆ เพื่อจัดการกับสถานการณ์ หนึ่งในนั้นคือการใช้ของวิเศษฮวงจุ้ยที่ทำให้ห้องเป็นมหามงคลเพื่อสะกดถ้ำ</Tasks.3.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>มีหลายวิธีในการจัดการกับถ้ำลึกลับ แต่สำหรับผู้เล่นในช่วงท้ายเกมที่ยังไม่แน่ใจว่าจะทำอย่างไร ให้เลือกของวิเศษฮวงจุ้ยเพื่อสะกดมัน เนื่องจากวิธีอื่น ๆ ต้องใช้ความเข้าใจในเกมที่ลึกซึ้งกว่า บทช่วยสอนนี้จึงจะไม่ลงรายละเอียด</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>ของวิเศษฮวงจุ้ยที่ระบุแล้วจะมีคำอธิบายโดยละเอียด ผู้เล่นต้องอ้างอิงคำอธิบายและวางมันในจุดที่ถูกต้องเพื่อเปิดใช้งานของวิเศษอย่างถูกต้อง เมื่อเปิดใช้งานแล้ว มันจะทำให้ห้องเป็นมหามงคลในทันที</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>แตะเพื่อเลือกของวิเศษฮวงจุ้ย "ผลึกวิญญาณ"</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>แตะ "วาง"</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>วาง</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>แตะเพื่อเลือก "แท่นจัดแสดง"</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>เลือกห้องโดยคลิกที่พื้นที่ว่างในห้อง</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>เมื่อวางของวิเศษฮวงจุ้ย ผู้เล่นสามารถสังเกตการเปลี่ยนแปลงของฮวงจุ้ยในห้องได้ที่นี่</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>รอให้พวกมันถูกวาง</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>เมื่อของวิเศษฮวงจุ้ยอยู่ในสภาพแวดล้อมที่ตรงตามคำอธิบาย มันจะเข้ากันได้ดีและทำให้ห้องเป็นมหามงคล ซึ่งสามารถสะกดถ้ำลึกลับได้</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>เมื่อผู้เล่นสะกดถ้ำลึกลับได้สำเร็จ มังกรอุทกที่หลับใหลก็จะถูกสยบอย่างมีประสิทธิภาพ และผู้เล่นสามารถใช้ช่วงเวลานี้เพื่อพัฒนาความสามารถของศิษย์เพื่อทำลายมันให้เร็วขึ้น</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="DragonFight">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>ศึกประจันหน้าอสูรบรรพกาล</DisplayName>
+			<Desc>ในบทช่วยสอนนี้ เรียนรู้วิธีตรวจสอบข้อมูลพื้นฐานเกี่ยวกับอสูรบรรพกาลและใช้ข้อมูลนั้นเพื่อต่อสู้กับอสูรเหล่านี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>เรียนรู้เกี่ยวกับอสูรบรรพกาล</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>เรียนรู้เกี่ยวกับอสูรบรรพกาล</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>ส่วนต่าง ๆ ของร่างกายมังกรอุทกในการต่อสู้</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>ตรวจสอบแต่ละส่วนของร่างกาย</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>ตรวจสอบค่าสถานะของของวิเศษของศิษย์</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>แตะปุ่มสำนัก</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>เปิดเมนูเหตุการณ์ลับทางด้านขวา</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>แตะ "มังกรอุทก"</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>คลิก "มังกรอุทก"</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>ที่นี่แสดงว่ามังกรอุทกเป็นธาตุน้ำซึ่งแพ้ทางต่อความเสียหายธาตุดิน</Tasks.6.TipsData.Desc>
+			<Tasks.7.TipsData.Desc>ที่นี่แสดงว่ามังกรอุทกเป็นธาตุน้ำซึ่งแพ้ทางต่อความเสียหายธาตุดิน</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>ปิดแผงสำนัก</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>คุณสามารถรับข้อมูลเกี่ยวกับอสูรบรรพกาลอื่น ๆ ได้ด้วยวิธีอื่น ๆ</Tasks.10.TipsData.Desc>
+			<Tasks.12.TaskDesc>แตะ "มังกรอุทก"</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>แตะปุ่มเพ่งสมาธิ</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>คุณสามารถติดตามสถานะปราณของแต่ละส่วนของร่างกายมังกรอุทกได้โดยการตั้งค่าการเพ่งสมาธิ และพัฒนากลยุทธ์ของคุณตามนั้น</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>แตะเพื่อยกเลิกการเพ่งสมาธิ</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>ปิดแผงข้อมูล</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>แตะและเลือกศิษย์ใน</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>แตะเพื่อเปิดแผงตัวละคร</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>แตะแท็บสวมใส่</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>จากข้อมูลข้างต้น เราสามารถสวมใส่ของวิเศษธาตุดินเพื่อโจมตีมังกรอุทกได้</Tasks.21.TipsData.Desc>
+			<Tasks.22.TaskDesc>แตะเพื่อปิดเมนูไอเทมและอุปกรณ์</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>แตะปุ่มโจมตีทางด้านขวา</Tasks.23.TaskDesc>
+			<Tasks.24.TipsData.Desc>ผู้เล่นสามารถเน้นการโจมตีไปที่ส่วนใดส่วนหนึ่งของร่างกายเพื่อทำลายส่วนนั้นของมังกรอุทกได้อย่างรวดเร็ว</Tasks.24.TipsData.Desc>
+			<Tasks.26.TipsData.Desc>ผู้เล่นแต่ละคนใช้การควบคุมและกลยุทธ์ที่แตกต่างกันในการต่อสู้ ดังนั้นบทช่วยสอนนี้จะไม่ลงรายละเอียดเกี่ยวกับการต่อสู้ ซึ่งผู้เล่นสามารถสัมผัสได้ในเกม เมื่อบอสพ่ายแพ้ จะมีซากศพจากร่างกายของมัน ซึ่งสามารถค้นหาของรางวัลได้ ยิ่งทำลายส่วนของร่างกายได้มากเท่าไหร่ ก็ยิ่งได้รับของรางวัลมากขึ้นเท่านั้น</Tasks.26.TipsData.Desc>
+		</Text>
+		<Text Name="GetFood">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>การจัดหาอาหารฉุกเฉิน</DisplayName>
+			<Desc>ในบทช่วยสอนนี้ เรียนรู้วิธีการจัดหาอาหารอย่างรวดเร็วในสภาพแวดล้อมที่ยากลำบากอย่างยิ่ง\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>การแจ้งเตือนการขาดแคลนอาหาร</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ตรวจสอบการแจ้งเตือน</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>การจัดการฉุกเฉิน</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>ใช้การผจญภัยซ้ำเพื่อหาอาหาร</Chapters.1.Tasks.0>
+			<Tasks.1.TaskDesc>แตะปุ่มข้อความ</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>เมื่อคลังอาหารของผู้เล่นไม่เพียงพอ การแจ้งเตือนนี้จะปรากฏขึ้น</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>ปิดแผงข้อความ</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>หากคลังอาหารไม่เพียงพอ ศิษย์ในสำนักของผู้เล่นอาจค่อย ๆ อดตาย ดังนั้นผู้เล่นต้องตอบสนองต่อเหตุฉุกเฉินนี้ เช่น การออกผจญภัยเพื่อหาอาหาร</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>แตะเพื่อเปิดแผนที่โลก</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>คลิกเพื่อเปิดแผนที่โลก</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>คลิก "หมู่บ้านหนานผิง"</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>หมู่บ้านหนานผิงเป็นสถานที่ที่ใกล้ที่สุดที่มีทรัพยากรอาหาร</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>แตะและเลือกศิษย์</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>แตะและเลือกศิษย์</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>แตะและเลือกศิษย์</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>แตะและเลือกศิษย์</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>แตะ "ยืนยัน"</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>คลิก "ยืนยัน"</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>ใช้แถบเลื่อนเพื่อปรับจำนวนครั้งของการผจญภัยซ้ำ</Tasks.20.TipsData.Desc>
+			<Tasks.21.TaskDesc>คลิก "ตกลง"</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>ผู้เล่นสามารถส่งศิษย์หลายคนไปผจญภัยพร้อมกันและใช้การผจญภัยซ้ำเพื่อลดความต้องการอาหารในสำนักและเพิ่มผลผลิตอาหารจากการผจญภัยในระยะเวลาหนึ่ง จากนั้นผู้เล่นสามารถรอให้ศิษย์นำอาหารกลับมาได้</Tasks.23.TipsData.Desc>
+		</Text>
+		<Text Name="CombatWeather">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>การรับมือกับสภาพอากาศสุดขั้ว</DisplayName>
+			<Desc>ในบทช่วยสอนนี้ เรียนรู้เกี่ยวกับสภาพอากาศสุดขั้วบางอย่างในเกมและวิธีรับมือกับพวกมัน\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>อิทธิพลของสภาพอากาศสุดขั้ว</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ตรวจสอบสภาพอากาศ</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>ตรวจสอบอุณหภูมิ</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>วิธีรับมือ</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>สวมใส่ยันต์ไท่หยาง</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>ตรวจสอบแหล่งความร้อน</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>เมื่อเกิดสภาพอากาศสุดขั้วในสำนักของผู้เล่น ผู้เล่นสามารถตรวจสอบไอคอนสภาพอากาศที่ด้านบนเพื่อดูระยะเวลาของมัน ผู้เล่นต้องปรับกลยุทธ์ให้ทันเวลาเพื่อรับมือกับสถานการณ์</Tasks.1.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>เมื่อเกิดสภาพอากาศสุดขั้ว มันจะเปลี่ยนอุณหภูมิปัจจุบัน</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>แตะและเลือกศิษย์</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>แตะเพื่อเปิดแผงตัวละคร</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>ค่าสถานะอุณหภูมิของศิษย์ในสำนักจะตัดสินว่าพวกเขาจะได้รับผลกระทบจากสภาพอากาศสุดขั้วหรือไม่</Tasks.6.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>เมื่อศิษย์ในสำนักของผู้เล่นรู้สึกไม่สบายเนื่องจากสภาพอากาศสุดขั้ว อาจทำให้เกิดการบาดเจ็บ และศิษย์อาจตายได้หากการบาดเจ็บรุนแรงเกินไป</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>แตะ "สวมใส่ไอเทม"</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>สวมใส่</Tasks.10.UiData.Name>
+			<Tasks.12.TaskDesc>แตะเพื่อสวมใส่ "ยันต์ไท่หยาง"</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>แตะเพื่อเพิ่มจำนวน</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>ยืนยันการเลือก</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>รอให้มันถูกสวมใส่</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>ศิษย์สามารถสวมใส่ยันต์หรือใช้วิธีอื่นเพื่อเพิ่มอุณหภูมิ ซึ่งเป็นวิธีที่ตรงที่สุดในการรับมือกับสภาพอากาศสุดขั้ว</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>แตะเพื่อปิดเมนูค่าสถานะทั่วไป</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>เลือกห้องโดยคลิกที่พื้นที่ว่างในห้อง</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>มีสิ่งปลูกสร้างหรือไอเทมมากมายที่สามารถเพิ่มอุณหภูมิในพื้นที่ได้ ผู้เล่นสามารถใช้มันอย่างชาญฉลาดเพื่อรับมือกับสภาพอากาศสุดขั้ว</Tasks.20.TipsData.Desc>
+			<Tasks.22.TipsData.Desc>มีสภาพอากาศสุดขั้วมากกว่าหนึ่งประเภท ผู้เล่นต้องใช้ไอเทมในเกมอย่างชาญฉลาดเพื่อรับมือกับสภาพอากาศสุดขั้วประเภทอื่น ๆ ได้ดีขึ้น</Tasks.22.TipsData.Desc>
+		</Text>
+		<Text Name="Prestige">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>การจัดการและควบคุมชื่อเสียง</DisplayName>
+			<Desc>ในบทช่วยสอนนี้ เรียนรู้ว่า "ยันต์ล่องหน" ใช้ทำอะไรและวิธีใช้เพื่อลดชื่อเสียง\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>การใช้ยันต์ล่องหน</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ตรวจสอบชื่อเสียงของสำนัก</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>ตรวจสอบยันต์ล่องหน</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>สวมใส่ยันต์ล่องหน</Chapters.0.Tasks.2>
+			<Tasks.1.TaskDesc>แตะปุ่มสำนักทางด้านซ้าย</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>ในเกม ชื่อเสียงที่มากขึ้นจะดึงดูดศัตรูที่แข็งแกร่งกว่ามาโจมตี ดังนั้นผู้เล่นต้องใช้ไอเทมในเกมเพื่อลดชื่อเสียงที่ได้รับ</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>แตะเพื่อปิดเมนูสำนัก</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>คลิกเพื่อปิดเมนูสำนัก</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>ผู้เล่นสามารถได้รับ "ยันต์ล่องหน" โดยการวาด เมื่อศิษย์ในออกผจญภัยพร้อมกับ "ยันต์ล่องหน" ที่เปิดใช้งาน มันสามารถลดชื่อเสียงที่ได้รับได้อย่างมีประสิทธิภาพ</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>แตะและเลือกศิษย์</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>คลิก "สวมใส่ไอเทม"</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>สวมใส่</Tasks.9.UiData.Name>
+			<Tasks.11.TaskDesc>แตะเพื่อเพิ่มจำนวน</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>ยืนยันการเลือก</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>รอให้มันถูกสวมใส่</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>รอให้มันถูกสวมใส่</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>ชื่อเสียงส่งผลกระทบต่อสำนักของผู้เล่นในระดับหนึ่ง ดังนั้นผู้เล่นสามารถใช้ "ยันต์ล่องหน" เพื่อลดชื่อเสียงที่ได้รับเพื่อจัดการชื่อเสียงของสำนักได้</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="ShortcutKey">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>ปุ่มลัด</DisplayName>
+			<Desc>เรียนรู้เกี่ยวกับปุ่มลัดทั่วไปและวิธีปรับแต่งปุ่มลัดในบทช่วยสอนนี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>การตั้งค่าปุ่มลัด</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ตรวจสอบเมนูปุ่มลัด</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>ใช้ปุ่มลัด</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>ใช้ปุ่มลัดโต้ตอบ</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>ใช้ปุ่มลัดเพื่อจัดทีม</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>ใช้ปุ่มลัดเพื่อเคลื่อนที่และโจมตี</Chapters.1.Tasks.2>
+			<Tasks.2.TipsData.Desc>ผู้เล่นสามารถแตะ "ระบบ" แล้วแตะ "ปุ่มลัด" เพื่อตรวจสอบเมนูปุ่มลัด ซึ่งสามารถปรับแต่งและรีเซ็ตปุ่มลัดได้</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>แตะเพื่อปิดเมนูปุ่มลัด</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>ผู้เล่นสามารถปรับปุ่มลัดให้เข้ากับความถนัดของตนและใช้งานตามนั้นได้</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>แตะและเลือกศิษย์</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>ใช้ปุ่มลัด F1 สำหรับ "กิน"</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>แตะเพื่อเลือก</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>ใช้ปุ่มลัด F2 สำหรับ "สวมใส่ไอเทม"</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>แตะเพื่อเลือก</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>กดปุ่มซ้ายของเมาส์ค้างไว้แล้วลากเพื่อเลือกศิษย์ทั้งหมดในห้อง</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>ใช้ Ctrl ซ้าย และปุ่ม 1 เพื่อจัดพวกเขาเป็นทีมที่ 1</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>คลิกขวาเพื่อยกเลิก</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>ใช้ปุ่ม 1 เพื่อเลือกทีมที่ 1</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>ใช้ปุ่มลัด {0} สำหรับ "โจมตี"</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>ออกคำสั่งโจมตีใส่อสูร</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>ใช้ปุ่มลัด {0} สำหรับ "เคลื่อนที่"</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>ออกคำสั่งเคลื่อนที่ไปยังตำแหน่งที่กำหนด</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>มีการควบคุมมากมายที่สามารถทำได้ด้วยปุ่มลัด ผู้เล่นสามารถปรับเปลี่ยนได้ตามความถนัด ผู้เล่นสามารถวางเคอร์เซอร์บนปุ่มเพื่อตรวจสอบปุ่มลัดอื่น ๆ ดังนั้นบทช่วยสอนนี้จะไม่ลงรายละเอียด</Tasks.23.TipsData.Desc>
+		</Text>
+		<Text Name="Batch">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>คำสั่งเป็นชุด</DisplayName>
+			<Desc>ในบทช่วยสอนนี้ เรียนรู้เกี่ยวกับคำสั่งเป็นชุดทั่วไปบางอย่างในเกมและวิธีออกคำสั่ง\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>คำสั่งเป็นชุดพื้นฐาน</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>กินโอสถเป็นชุด</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>สั่งห้ามและยกเลิกการห้ามเป็นชุด</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>สร้างใหม่เป็นชุด</Chapters.0.Tasks.2>
+			<Tasks.4.TipsData.Desc>ผู้เล่นสามารถใช้ "สั่งห้ามเป็นชุด" เพื่อห้ามไอเทมบางอย่างที่ไม่ต้องการในขณะนี้</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>ลากในพื้นที่เป้าหมายเพื่อออกคำสั่งห้ามเป็นชุด</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>แตะปุ่มยืนยัน</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>ลากในพื้นที่เป้าหมายเพื่อออกคำสั่งรื้อถอนเป็นชุด</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>ผู้เล่นสามารถใช้ "ยกเลิกการห้ามเป็นชุด" เพื่อยกเลิกการห้ามไอเทมบางอย่างที่ถูกห้ามไว้</Tasks.9.TipsData.Desc>
+			<Tasks.11.TaskDesc>แตะปุ่มยืนยัน</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>ลากในพื้นที่เป้าหมายเพื่อออกคำสั่งยกเลิกเป็นชุด</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>ลากในพื้นที่เป้าหมายเพื่อออกคำสั่งรื้อถอนเป็นชุด</Tasks.13.TaskDesc>
+			<Tasks.16.TipsData.Desc>ผู้เล่นสามารถใช้ "สร้างใหม่เป็นชุด" เพื่อสร้างสิ่งปลูกสร้างที่เสียหายขึ้นมาใหม่</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>คลิกปุ่มสร้างใหม่</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>แตะ "รื้อถอน" ในเมนูด้านล่าง</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>ลากในพื้นที่เป้าหมายเพื่อออกคำสั่งรื้อถอนเป็นชุด</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>เมื่อผู้เล่นใช้ "สร้างใหม่เป็นชุด" ศิษย์นอกที่ได้รับมอบหมายงานก่อสร้างจะไปยังสิ่งปลูกสร้างที่เสียหายและสร้างขึ้นมาใหม่โดยอัตโนมัติ</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>คลิก "รื้อถอน" ในเมนูด้านล่าง</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>ลากในพื้นที่เป้าหมายเพื่อออกคำสั่งรื้อถอนเป็นชุด</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>ลากในพื้นที่เป้าหมายเพื่อออกคำสั่งรื้อถอนเป็นชุด</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>ผู้เล่นสามารถรื้อถอนสิ่งปลูกสร้างเป็นชุดได้โดยใช้ฟังก์ชันรื้อถอนเป็นชุด</Tasks.26.TipsData.Desc>
+			<Tasks.28.TipsData.Desc>ยังมีรูปแบบอื่น ๆ ของคำสั่งเป็นชุดในเกม รอให้ผู้เล่นไปสำรวจ</Tasks.28.TipsData.Desc>
+		</Text>
+		<Text Name="AreaExpand">
+			<Type>ขั้นสูง</Type>
+			<DisplayName>การขยายพื้นที่</DisplayName>
+			<Desc>ในบทช่วยสอนนี้ เรียนรู้วิธีขยายพื้นที่ต่าง ๆ ในสิ่งปลูกสร้างอย่างรวดเร็วและใช้การขยายพื้นที่เพื่อสืบทอดค่าสถานะของพื้นที่\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>การขยายพื้นที่</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ขยายพื้นที่จัดเก็บ</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>ขยายแปลงเพาะปลูก</Chapters.0.Tasks.1>
+			<Tasks.1.TipsData.Desc>เมื่อพื้นที่จัดเก็บเต็มความจุ ผู้เล่นสามารถขยายพื้นที่ของที่จัดเก็บเพื่อเพิ่มความจุได้</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>แตะปุ่ม "สร้าง" ที่มุมซ้ายล่างเพื่อเปิดแผงการสร้าง</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>แตะหน้าต่าง "พื้นที่"</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>ลากเพื่อขยายพื้นที่จัดเก็บ</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>พื้นที่</Tasks.5.UiData.Name>
+			<Tasks.6.TaskDesc>ออกจากโหมดการสร้าง</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>ลากเพื่อปรับขนาดคลังสินค้า</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>ปิดแผงการสร้าง</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>เลือกพื้นที่จัดเก็บ</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>เลือกพื้นที่จัดเก็บ</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>ปิดเมนูพื้นที่จัดเก็บ</Tasks.13.TaskDesc>
+			<Tasks.13.UiData.Name>ตัวกรอง</Tasks.13.UiData.Name>
+			<Tasks.14.TipsData.Desc>พื้นที่จัดเก็บที่ขยายแล้วจะคงการตั้งค่าตัวกรองของพื้นที่จัดเก็บเดิมไว้</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>ปิดเมนูพื้นที่จัดเก็บ</Tasks.15.TaskDesc>
+			<Tasks.17.TipsData.Desc>เมื่อพื้นที่ของแปลงเพาะปลูกไม่สามารถตอบสนองความต้องการของศิษย์ในได้อีกต่อไป ผู้เล่นสามารถขยายแปลงเพาะปลูกเพื่อเพิ่มพื้นที่สำหรับปลูกพืชได้</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>แตะ "แปลงเพาะปลูก" เพื่อเริ่มการวางแผนแปลงเพาะปลูก</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>ขยายแปลงเพาะปลูกโดยการลาก</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>ออกจากโหมดการสร้าง</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>พื้นที่</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>คลิก "แปลงเพาะปลูก" เพื่อเริ่มการวางแผนแปลงเพาะปลูก</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>ปิดแผงการสร้าง</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>แตะกระถางธูป</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>เลือกโต๊ะทำงานเพื่อแสดงสถานะด้านล่าง</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>เลือกแปลงเพาะปลูก</Tasks.27.TaskDesc>
+			<Tasks.28.TipsData.Desc>แปลงเพาะปลูกที่ขยายแล้วจะคงการตั้งค่าพืชของแปลงเพาะปลูกเดิมไว้</Tasks.28.TipsData.Desc>
+			<Tasks.28.TipsData.Name>ปลูกพืช</Tasks.28.TipsData.Name>
+			<Tasks.30.TipsData.Desc>มีพื้นที่ที่คล้ายกันในเกมที่สามารถขยายได้ด้วยวิธีนี้ ดังนั้นบทช่วยสอนนี้จะไม่ลงรายละเอียด</Tasks.30.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Human">
+			<DisplayName>มนุษย์</DisplayName>
+			<Desc>สัตว์ทั่วไป: มนุษย์</Desc>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="Human_JGZT">
+			<DisplayName>วัตถุวิญญาณ</DisplayName>
+			<Desc>คำนิยามสำหรับวัตถุ/อาคาร/พืชที่บังเอิญกลายเกิดความรู้แจ้งขึ้นภายในจิตวิญญาณและแปลงร่างเป็นมนุษย์ได้</Desc>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,70 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Tower_Enemy_achai">
+			<DisplayName>อาไช่แปลงร่าง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Cat">
+			<DisplayName>ตำแหน่งวิฬาร์</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Xian">
+			<DisplayName>ปราณควบแน่น</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Ti">
+			<DisplayName>ปราณควบแน่น</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Yao">
+			<DisplayName>ปราณควบแน่น</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Boss_Root">
+			<DisplayName>ปราณควบแน่น</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Boss_Part">
+			<DisplayName>ปราณควบแน่น</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXiQi">
+			<DisplayName>กระแสน้ำขึ้น</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXi0">
+			<DisplayName>กระแสน้ำนิ่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXiLuo">
+			<DisplayName>กระแสน้ำลง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_KuRongOur">
+			<DisplayName>ทรุดโทรม</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_KuRongEnm">
+			<DisplayName>เจริญรุ่งเรือง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_WuZhi">
+			<DisplayName>กรงแห่งความจริง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_XinNian0">
+			<DisplayName>เชื่อมั่นศรัทธา</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_XinNian1">
+			<DisplayName>เสริมศรัทธา</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown1">
+			<DisplayName>อาณาเขตผนึกเทพ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown2">
+			<DisplayName>อาณษเขตผนึกมาร</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown3">
+			<DisplayName>แดนกรุณา</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown4">
+			<DisplayName>ข้อห้ามของราชา</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown5">
+			<DisplayName>ยับยั้งจิตใจ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown6">
+			<DisplayName>ลมหายใจแห่งความโลภ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown7">
+			<DisplayName>ขวดต้องห้าม</DisplayName>
+		</Text>
+	</List>
+</Texts>

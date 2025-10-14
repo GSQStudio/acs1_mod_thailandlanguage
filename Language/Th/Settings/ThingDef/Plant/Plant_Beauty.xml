@@ -1,0 +1,44 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Dandelion" sParam="Plant">
+			<ThingName>ดอกชีปะขาว</ThingName>
+			<Desc>ดอกไม้เล็กๆ ที่สวยงาม</Desc>
+		</Text>
+		<Text Name="Flower1" sParam="Plant">
+			<ThingName>หญ้าใบไม้ผลิ</ThingName>
+			<Desc>พืชอันสวยงามที่มีปราณธาตุไม้แฝงอยู่จางๆ</Desc>
+		</Text>
+		<Text Name="IceFlower1" sParam="Plant">
+			<ThingName>ดอกไม้น้ำแข็ง</ThingName>
+			<Desc>พืชอันสวยงามที่มีปราณธาตุไม้แฝงอยู่จางๆ</Desc>
+		</Text>
+		<Text Name="Flower2" sParam="Plant">
+			<ThingName>ดอกดาวเรือง</ThingName>
+			<Desc>พืชอันสวยงามที่มีปราณธาตุทองแฝงอยู่จางๆ</Desc>
+		</Text>
+		<Text Name="Flower3" sParam="Plant">
+			<ThingName>ดอกระฆังอัคคี</ThingName>
+			<Desc>พืชอันสวยงามที่มีปราณธาตุไฟแฝงอยู่จางๆ</Desc>
+		</Text>
+		<Text Name="Flower4" sParam="Plant">
+			<ThingName>ดอกระฆังวารี</ThingName>
+			<Desc>พืชอันสวยงามที่มีปราณธาตุน้ำแฝงอยู่จางๆ</Desc>
+		</Text>
+		<Text Name="Flower5" sParam="Plant">
+			<ThingName>ดอกจันทร์ทอง</ThingName>
+			<Desc>พืชอันสวยงามที่มีปราณธาตุดินแฝงอยู่จางๆ</Desc>
+		</Text>
+		<Text Name="ShiChe" sParam="Plant">
+			<ThingName>ดอกเบญจมาศ</ThingName>
+			<Desc>พืชอันสวยงามที่เติบโตขึ้นมาท่ามกลางทะเลทราย</Desc>
+		</Text>
+		<Text Name="CongRong" sParam="Plant">
+			<ThingName>โสมทะเลทราย</ThingName>
+			<Desc>พืชอันสวยงามที่เติบโตขึ้นมาท่ามกลางทะเลทราย</Desc>
+		</Text>
+		<Text Name="CamelSting" sParam="Plant">
+			<ThingName>ดอกคำใต้</ThingName>
+			<Desc>พืชอันสวยงามที่เติบโตขึ้นมาท่ามกลางทะเลทราย</Desc>
+		</Text>
+	</List>
+</Texts>

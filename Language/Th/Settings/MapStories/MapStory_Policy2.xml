@@ -1,0 +1,9 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_TreeEXP">
+			<DisplayName>ศึกษาเต๋า</DisplayName>
+			<Desc>ท่านได้ศึกษาเต๋าแห่งสวรรค์มาพอสมควรและท่านก็สามารถนำมันมาประยุกต์ในการหลอมโอสถได้แล้ว</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

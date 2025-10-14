@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_DLC_WuDang_YinYang1">
+			<DisplayName>หยางบริสุทธิ์</DisplayName>
+			<Desc>มีเฉพาะปราณหยางไหลเวียนอยู่ภายในร่าง เมื่อใช้มันในการควบคุมอาวุธวิเศษจะสามารถทำลายได้ทุกสิ่ง</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang2">
+			<DisplayName>หยางขั้นสุดยอด</DisplayName>
+			<Desc>มีปราณหยางไหลเวียนอยู่เกือบทั้งร่าง มีผลช่วยยกระดับทักษะอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang3">
+			<DisplayName>หยางขั้นสูง</DisplayName>
+			<Desc>มีปราณหยางค่อนข้างมากไหลเวียนอยู่ภายในร่าง ส่งผลเสียต่อความั่นคงของสภาวะจิต ทว่ามีผลช่วยในการป้องกันผลข้างเคียงของสภาวะจิตที่ไม่ดีและยกระดับเกราะปราณ</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang4">
+			<DisplayName>หยางขั้นต่ำ</DisplayName>
+			<Desc>มีปราณหยางเล็กน้อยไหลเวียนอยู่ภายในร่าง มีผลช่วยในการยกระดับสภาวะจิตและเกราะปราณ</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang5">
+			<DisplayName>สมดุลหยินยาง</DisplayName>
+			<Desc>ปราณหยินและหยางไหลเวียนกันอย่างสมดุลภายในร่าง ทำให้มีสภาวะที่บริสุทธิ์ใสกระจ่างและปราณรอบๆ ร่างหมุนวนกันอย่างสมดุล</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang6">
+			<DisplayName>หยินขั้นต่ำ</DisplayName>
+			<Desc>มีปราณหยินเล็กน้อยไหลเวียนอยู่ภายในร่าง มีผลช่วยในการยกระดับสภาวะจิตและเกราะปราณ</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang7">
+			<DisplayName>หยินขั้นสูง</DisplayName>
+			<Desc>มีปราณหยินค่อนข้างมากไหลเวียนอยู่ภายในร่าง ส่งผลเสียต่อความั่นคงของสภาวะจิต ทว่ามีผลช่วยในการป้องกันผลข้างเคียงของสภาวะจิตที่ไม่ดีและยกระดับเกราะปราณ</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang8">
+			<DisplayName>หยินขั้นสุดยอด</DisplayName>
+			<Desc>มีปราณหยินไหลเวียนอยู่เกือบทั้งร่าง มีผลช่วยยกระดับทักษะปราณเวท</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang9">
+			<DisplayName>หยินบริสุทธิ์</DisplayName>
+			<Desc>มีเฉพาะปราณหยินไหลเวียนอยู่ภายในร่าง เมื่อใช้ออกซึ่งปราณเวทมันสามารถทำลายล้างได้ทุกสิ่ง</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang10">
+			<DisplayName>ไม่มี</DisplayName>
+		</Text>
+	</List>
+</Texts>

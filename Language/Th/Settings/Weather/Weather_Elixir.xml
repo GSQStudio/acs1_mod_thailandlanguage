@@ -1,0 +1,132 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_Elixir_Base">
+			<DisplayName>ปราณโอสถพวยพุ่ง</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่ซ่านทั่วห้วงอากาศ กระตุ้นให้ปราณแห่งฟ้าดินพลุ่งพล่านดุจสายน้ำไหลหลาก</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Wu">
+			<DisplayName>ปราณปฐมกาล</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่ซ่านทั่วห้วงอากาศ กระตุ้นให้ปราณแห่งฟ้าดินพลุ่งพล่านดุจสายน้ำไหลหลาก</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Jin">
+			<DisplayName>ปราณทองคำ</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Mu">
+			<DisplayName>ปราณพฤกษา</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Shui">
+			<DisplayName>ปราณวารี</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Huo">
+			<DisplayName>ปราณอัคคี</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Tu">
+			<DisplayName>ปราณพสุธา</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMu">
+			<DisplayName>ปราณแดนแล้ง</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShui">
+			<DisplayName>ปราณละเอียดอ่อน</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuo">
+			<DisplayName>ปราณแห่งการหลอม</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinTu">
+			<DisplayName>ปราณสั่งสม</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShui">
+			<DisplayName>ปราณแห่งอุดมสมบูรณ์</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuo">
+			<DisplayName>ปราณแห่งการแผดเผา</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuTu">
+			<DisplayName>ปราณแห่งการผนึกตรึง</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuo">
+			<DisplayName>ปราณแห่งการมอดดับ</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiTu">
+			<DisplayName>ปราณทะลุขีด</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_HuoTu">
+			<DisplayName>ปราณแห่งเถ้าถ่าน</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuShui">
+			<DisplayName>ปราณต้นกล้าแรกเกิด</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuHuo">
+			<DisplayName>ปราณพฤกษาเติบใหญ่</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuTu">
+			<DisplayName>ปราณพสุธาปฐพี</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiHuo">
+			<DisplayName>ปราณทองคำบริสุทธิ์</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiTu">
+			<DisplayName>ปราณห้วงวารีลึก</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuoTu">
+			<DisplayName>ปราณโลหะแกร่ง</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiHuo">
+			<DisplayName>ปราณประกายเพลิง</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiTu">
+			<DisplayName>ปราณวารีเย็นสงบ</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuoTu">
+			<DisplayName>ปราณพสุธามั่นคง</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuoTu">
+			<DisplayName>ปราณตะวันผลาญ</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoJin">
+			<DisplayName>ปราณตัดทองคำ</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoMu">
+			<DisplayName>ปราณตัดพฤกษา</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoShui">
+			<DisplayName>ปราณตัดวารี</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoHuo">
+			<DisplayName>ปราณตัดอัคคี</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoTu">
+			<DisplayName>ปราณตัดพสุธา</DisplayName>
+			<StoryDesc>ปราณแห่งโอสถแผ่กระจายไปทั่วทุกพื้นที่</StoryDesc>
+		</Text>
+	</List>
+</Texts>

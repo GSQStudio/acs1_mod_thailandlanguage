@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="THealthSkill">
+			<DisplayName>เวทฟื้นฟู</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong1_1">
+			<DisplayName>สายธารสวรรค์</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong1_2">
+			<DisplayName>รัศมีลี้ลับ</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong4_1">
+			<DisplayName>คาถาฟื้นฟูปราณ</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong9_1">
+			<DisplayName>วัฏจักรย้อนกลับ</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong9_2">
+			<DisplayName>วัฏจักรย้อนกลับ-ลี้ลับ</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,88 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGRabbit">
+			<DisplayName>เผ่ากระต่ายอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่ากระต่ายอสูร</Desc>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGChicken">
+			<DisplayName>เผ่าไก่อสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่าไก่อสูร</Desc>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+			<TalkBefore>จิ๊บ</TalkBefore>
+			<TalkAfter>จิ๊บ!</TalkAfter>
+		</Text>
+		<Text Name="YGWolf">
+			<DisplayName>เผ่าหมาป่าอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่าหมาป่าอสูร</Desc>
+			<TalkBefore>บลู๊ววว</TalkBefore>
+			<TalkAfter>บลู๊ว!</TalkAfter>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGSnake">
+			<DisplayName>เผ่างูอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่างูอสูร</Desc>
+			<TalkBefore>ฟ่อออออ</TalkBefore>
+			<TalkAfter>ฟ่ออ</TalkAfter>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGBoar">
+			<DisplayName>เผ่าหมูป่าอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่าหมูป่าอสูร</Desc>
+			<TalkBefore>อู๊ด</TalkBefore>
+			<TalkAfter>อ๊ก</TalkAfter>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGBear">
+			<DisplayName>เผ่าหมีอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่าเผ่าหมีอสูร</Desc>
+			<TalkBefore>โฮก</TalkBefore>
+			<TalkAfter>โฮก</TalkAfter>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGTurtle">
+			<DisplayName>เผ่าเต่าอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่าเต่าอสูร</Desc>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGFrog">
+			<DisplayName>เผ่ากบอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่ากบอสูร</Desc>
+			<TalkBefore>อ๊บ</TalkBefore>
+			<TalkAfter>อ๊บ</TalkAfter>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGCat">
+			<DisplayName>เผ่าแมวอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่าแมวอสูร</Desc>
+			<TalkBefore>เมี๊ยววว</TalkBefore>
+			<TalkAfter>เมี๊ยว</TalkAfter>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGCattle">
+			<DisplayName>เผ่ากระทิงอสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่ากระทิงอสูร</Desc>
+			<TalkBefore>ม๊อออ</TalkBefore>
+			<TalkAfter>ม๊อ!</TalkAfter>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+		<Text Name="YGTiger">
+			<DisplayName>เผ่าพยัคฆ์อสูร</DisplayName>
+			<Desc>สัตว์อสูรที่ได้กลายร่างเป็นเผ่าครึ่งอสูรเพราะปลุกสติปัญญาของตนเองได้สำเร็จ: เผ่าพยัคฆ์อสูร</Desc>
+			<TalkBefore>โฮก~</TalkBefore>
+			<TalkAfter>โฮก!</TalkAfter>
+			<MaleName>ชาย</MaleName>
+			<FemaleName>หญิง</FemaleName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="tower_dialogue">
+			<Nodes.0.Text>เริ่ม</Nodes.0.Text>
+			<Nodes.2.Text>คุณลักษณะใหม่</Nodes.2.Text>
+			<Nodes.3.Text>คุณลักษณะใหม่</Nodes.3.Text>
+			<Nodes.4.Text>คุณลักษณะใหม่</Nodes.4.Text>
+			<Nodes.6.Text>คุณลักษณะใหม่</Nodes.6.Text>
+		</Text>
+	</List>
+</Texts>

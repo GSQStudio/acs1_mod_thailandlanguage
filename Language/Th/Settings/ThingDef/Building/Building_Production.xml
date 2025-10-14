@@ -1,0 +1,68 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WorkPlace" sParam="Building">
+			<ThingName>จุดประดิษฐ์งาน</ThingName>
+			<Desc>ไม่ต้องใช้วัสดุใดๆ เพียงแค่ใช้เป็นพื้นที่เพื่อทำเครื่องมืออย่างง่าย</Desc>
+		</Text>
+		<Text Name="MaterialWorkPlace" sParam="Building">
+			<ThingName>จุดแปรรูปวัตถุดิบ</ThingName>
+			<Desc>ไม่ต้องใช้วัสดุใดๆ เพียงแค่ใช้เป็นพื้นที่เพื่อทำการแปรรูปวัตถุดิบอย่างง่าย</Desc>
+		</Text>
+		<Text Name="Bonfire" sParam="Building">
+			<ThingName>กองไฟ</ThingName>
+			<Desc>แหล่งกำเนิดไฟอันแสนธรรมดาที่สร้างจากฟืน มันสามารถนำแสงและความร้อนมาสู่บริเวณโดยรอบ สามารถใช้ทำอาหารง่ายๆ ได้อีกด้วย</Desc>
+		</Text>
+		<Text Name="Kitchen" sParam="Building">
+			<ThingName>เตาไฟ</ThingName>
+			<Desc>ใช้ในการปรุงอาหาร</Desc>
+		</Text>
+		<Text Name="StoneMaker" sParam="Building">
+			<ThingName>โรงโม่หิน</ThingName>
+			<Desc>แท่นทำงานที่ใช้ในการขัดบล็อกหินให้เป็นอิฐหิน</Desc>
+		</Text>
+		<Text Name="WeaponMaker" sParam="Building">
+			<ThingName>แท่นตีเหล็ก</ThingName>
+			<Desc>สถานีงานที่ใช้หลอมแท่งโลหะเป็นอาวุธต่างๆ</Desc>
+		</Text>
+		<Text Name="Furnace" sParam="Building">
+			<ThingName>เตาหลอม</ThingName>
+			<Desc>สถานีงานที่ใช้ในการหลอมแร่เป็นแท่งโลหะ</Desc>
+		</Text>
+		<Text Name="TextileTable" sParam="Building">
+			<ThingName>เครื่องทอผ้า</ThingName>
+			<Desc>สถานีงานที่ใช้ถักทอผ้า</Desc>
+		</Text>
+		<Text Name="TailorTable" sParam="Building">
+			<ThingName>โต๊ะเย็บผ้า</ThingName>
+			<Desc>สถานีงานที่ใช้ตัดเย็บเสื้อผ้า</Desc>
+		</Text>
+		<Text Name="WoodShed" sParam="Building">
+			<ThingName>โรงไม้</ThingName>
+			<Desc>สถานีงานที่ใช้ในการแปรรูปไม้ชนิดต่างๆ สามารถอำนวยความสะดวกในการแปรรูปไม้ได้อย่างมีประสิทธิภาพ</Desc>
+		</Text>
+		<Text Name="MillStone" sParam="Building">
+			<ThingName>โรงสี</ThingName>
+			<Desc>สถานีงานที่ใช้ในการบดเมล็ดพืชให้เป็นแป้งสำหรับจัดเก็บ สามารถอำนวยความสะดวกในการแปรรูปเมล็ดพืชได้อย่างมีประสิทธิภาพ</Desc>
+		</Text>
+		<Text Name="HandWorkTable" sParam="Building">
+			<ThingName>โต๊ะหัตถกรรม</ThingName>
+			<Desc>สถานีงานที่ใช้ในประดิษฐ์สิ่งของเครื่องใช้ทั่วๆ ไป</Desc>
+		</Text>
+		<Text Name="Well" sParam="Building">
+			<ThingName>บ่อน้ำ</ThingName>
+			<Desc>แหล่งน้ำสะอาด น้ำในบ่อนั้นถูกสุขอนามัยมากกว่าน้ำจากแม่น้ำหรือทะเลสาบ ทำให้มีโอกาสเป็นพาหะนำโรคน้อยกว่า</Desc>
+		</Text>
+		<Text Name="MedicineTable" sParam="Building">
+			<ThingName>โต๊ะปรุงยา</ThingName>
+			<Desc>สถานีงานที่ใช้ในการปรุงยารักษา</Desc>
+		</Text>
+		<Text Name="Building_YiTui" sParam="Building">
+			<ThingName>กายหยาบของเซียน</ThingName>
+			<Desc>กายหยาบที่ถูกทิ้งเอวไว้โดยเซียนผู้ที่จุติขึ้นสู่สรวงสวรรค์</Desc>
+		</Text>
+		<Text Name="Building_YiTui1" sParam="Building">
+			<ThingName>กายหยาบของเทพ</ThingName>
+			<Desc>กายหยาบที่ถูกทิ้งเอวไว้โดยเทพผู้ที่จุติขึ้นสู่สรวงสวรรค์</Desc>
+		</Text>
+	</List>
+</Texts>

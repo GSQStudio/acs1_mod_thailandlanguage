@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>สูญเสียบางสิ่ง</DisplayName>
+		</Text>
+		<Text Name="SYS_DamageMethod">
+			<DisplayName>เวทหลอมรักษากาย</DisplayName>
+		</Text>
+		<Text Name="SYS_RebuildMethod">
+			<DisplayName>เวทหลอมร่างสร้างกาย</DisplayName>
+			<Desc>สร้างชิ้นส่วนอวัยวะที่หายไปขึ้นมาใหม่</Desc>
+		</Text>
+		<Text Name="SYS_yishan">
+			<DisplayName>ประกายแสงแนวคิด</DisplayName>
+			<Desc>จุดประกายแนวคิด</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FishTimes">
+			<DisplayName>ปริมาณการตกปลา</DisplayName>
+			<DisplayValue>{0} ตัว</DisplayValue>
+			<Desc>จำนวนปลาที่ผู้ฝึกตนรายนี้ตกด้</Desc>
+		</Text>
+		<Text Name="HeaviestFish">
+			<DisplayName>ปลาที่หนักที่สุด</DisplayName>
+			<DisplayValue>{0:f1} ชั่ง</DisplayValue>
+			<Desc>น้ำหนักของปลาที่หนักที่สุดที่ผู้ฝึกตนรายนี้จับได้</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,412 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SYS_LOASITEM" sParam="Item">
+			<ThingName>วัตถุที่หายสาบสูญ</ThingName>
+			<Desc>สิ่งปลูกสร้างที่สูญหายซึ่งไม่มีใครรู้จัก \n(ว่างเปล่า)</Desc>
+		</Text>
+		<Text Name="Item_HorribleMeal" sParam="Item">
+			<ThingName>เนื้อเน่า</ThingName>
+			<Desc>สิ่งที่เกิดจากการปรุงอาหารที่ล้มเหลว รสชาติของมันห่วยแตกเป็นอย่างมาก มันทำได้แค่ทำให้คนอิ่มท้องเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_HomeFood" sParam="Item">
+			<ThingName>อาหารเรียบง่าย</ThingName>
+			<Desc>อาหารที่ปรุงขึ้นมาเองอย่างง่ายๆ รสชาติของมันค่อนข้างธรรมดา ทว่ามันแฝงไปด้วยความจริงใจของผู้ปรุง</Desc>
+		</Text>
+		<Text Name="Item_DeliciousFood" sParam="Item">
+			<ThingName>อาหารอย่างดี</ThingName>
+			<Desc>อาหารที่มีความละเอียดอ่อนทั้งส่วนผสมและกรรมวิธีในการทำที่ค่อนข้างซับซ้อน มันมีรสชาติที่อร่อยเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Item_DelicacyFood" sParam="Item">
+			<ThingName>อาหารเลิศหรู</ThingName>
+			<Desc>อาหารเลิศรสที่สามารถทำได้ด้วยทักษะการทำอาหารที่ยอดเยี่ยมและส่วนผสมที่ประณีตเท่านั้น มันจึงมีรสชาติที่อร่อยเกินคำบรรยาย</Desc>
+		</Text>
+		<Text Name="Item_WuHuangDan" sParam="Item">
+			<ThingName>ไข่แดง</ThingName>
+			<Desc>อาหารลี้ลับเลิศรส ผู้คนในบางดินแดนยกย่องว่าเป็นของขวัญชั้นยอดคู่ควรแก่การมอบแด่มิตรสหายและญาติมิตร หากผู้ใดได้ลิ้มรสเพียงคราแรก พลังแห่งฟ้าดินจะไหลเวียนเข้าสู่ร่างโดยตรง เปิดทางสู่การฝึกพื้นฐานอย่างฉับพลัน อีกทั้งยังเสริมสร้างร่างกายให้แข็งแกร่งขึ้นถึงขีดสุด เพิ่มคุณลักษณะความอึด 20% ทว่า... พลังแห่งมันจะสำแดงผลเพียงคราเดียวในชีวิตเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_GuanyinMud" sParam="Item">
+			<ThingName>ดินเหนียวกวนอิม</ThingName>
+			<Desc>ดินเหนียวสีขาวชนิดหนึ่ง ซึ่งถือว่ามันเป็นทางเลือกแทนอาหารในช่วงเวลาแห่งความอดยาก</Desc>
+		</Text>
+		<Text Name="Item_Water" sParam="Item">
+			<ThingName>น้ำ</ThingName>
+			<Desc>ส่วนหนึ่งของน้ำสะอาด</Desc>
+			<Item.FabaoSuffix>น้ำ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_DirtyWater" sParam="Item">
+			<ThingName>น้ำไม่สะอาด</ThingName>
+			<Desc>น้ำที่ดูสกปรกและดูเหมือนว่าจะมีอะไรบางอย่างเคลื่อนไหวอยู่ในนั้น</Desc>
+			<Item.FabaoSuffix>น้ำ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Garbage" sParam="Item">
+			<ThingName>ปฏิกูล</ThingName>
+			<Desc>ของเสียที่ไร้ประโยชน์</Desc>
+			<Item.FabaoSuffix>ผง, พิษ, ตะกรัน</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Shit" sParam="Item">
+			<ThingName>อุจจาระ</ThingName>
+			<Desc>อุจจาระของสิ่งมีชีวิต</Desc>
+			<Item.FabaoSuffix>อุจจาระ, ปุ๋ยขี้, มูล</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_DragonShit" sParam="Item">
+			<ThingName>อุจจาระมังกร</ThingName>
+			<Desc>อุจจาระของมังกร</Desc>
+			<Item.FabaoSuffix>อุจจาระ, ปุ๋ยขี้, มูล</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FunPainting" sParam="Item">
+			<ThingName>ภาพวาด</ThingName>
+			<Desc>รูปภาพที่ทาสี</Desc>
+			<Item.FabaoSuffix>ม้วนตำรา, รูปภาพ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FunPoem" sParam="Item">
+			<ThingName>สมุดกวี</ThingName>
+			<Desc>งานเขียนชนิดหนึ่ง</Desc>
+			<Item.FabaoSuffix>เล่ม, หนังสือ, สลิป, ม้วนตำรา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FunMusic" sParam="Item">
+			<ThingName>บันทึกดนตรี</ThingName>
+			<Desc>หน้ากระดาษที่บันทึกโน้ตดนตรีเอาไว้</Desc>
+			<Item.FabaoSuffix>หน้ากระดาษ, ม้วนตำรา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FunChess" sParam="Item">
+			<ThingName>บันทึกหมากล้อม</ThingName>
+			<Desc>แผนภาพหมากล้อม ที่ได้บันทึกการแข่งขันเอาไว้</Desc>
+			<Item.FabaoSuffix>หน้ากระดาษ, ม้วนตำรา, แข่งขัน</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SysAxe" sParam="Item">
+			<ThingName>ขวานตัดไม้</ThingName>
+			<Desc>ขวานที่ช่วยเพิ่มประสิทธิภาพในการตัดได้เป็นอย่างมาก และแน่นอนว่ามันสามารถใช้เป็นอาวุธได้เช่นกัน</Desc>
+			<Item.FabaoSuffix>ขวาน</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SysPickaxe" sParam="Item">
+			<ThingName>อีเต้อ</ThingName>
+			<Desc>อีเต้อที่ช่วยเพิ่มความเร็วในการขุดชั้นหินเป็นอย่างมาก และแน่นอนว่ามันสามารถใช้เป็นอาวุธได้เช่นกัน</Desc>
+			<Item.FabaoSuffix>อีเต้อ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SysSickle" sParam="Item">
+			<ThingName>จอบ</ThingName>
+			<Desc>ชุดเครื่องมือทำการเกษตร มันสามารถเพิ่มความเร็วในการทำการเกษตรและความเร็วในการเก็บเกี่ยวได้เป็นอย่างมาก</Desc>
+			<Item.FabaoSuffix>จอบ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SysAcupuncture" sParam="Item">
+			<ThingName>เข็มเงินฝังเข็ม</ThingName>
+			<Desc>ชุดเครื่องมือในการฝังเข็มที่สามารถยกระดับคุณภาพและอัตราความสำเร็จของการรักษาได้เป็นอย่างดี</Desc>
+			<Item.FabaoSuffix>เข็ม, หมุด</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Umbrella" sParam="Item">
+			<ThingName>ร่ม</ThingName>
+			<Desc>ร่มที่ใช้กันลมกันฝน</Desc>
+			<Item.FabaoSuffix>ร่ม</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Esoterica" sParam="Item">
+			<ThingName>คัมภีร์</ThingName>
+			<Desc>คัมภีร์เคล็ดวิชา</Desc>
+			<Item.FabaoSuffix>หนังสือ, เล่ม, ม้วนตำรา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_StoneBox" sParam="Item">
+			<ThingName>กล่องหิน</ThingName>
+			<Desc>กล่องหินลึกลับขนาดประมาณหนึ่งฟุต ตัวกล่องภายนอกนั้นถูกเชื่อมต่อกันจนเป็นเนื้อเดียวกัน ซึ่งมันดูไม่ธรรมดาเป็นอย่างยิ่ง</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_StoneBox1" sParam="Item">
+			<ThingName>กล่องหิน</ThingName>
+			<Desc>กล่องหินที่ได้รับมาจากนายพรานที่มีชื่อว่าจางเอ้อหวาแห่งหมู่บ้านหนานปิง มันมีลักษณะแปลกประหลาด อีกทั้งมันยังมีความคงทนต่อไฟและน้ำอีกด้วย</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_E_FaBaoBox" sParam="Item">
+			<ThingName>กล่องสมบัติไท้อี้</ThingName>
+			<Desc>ในคำคืนที่ถูกโจมตี ท่านได้สังเกตเห็นว่าห้องเก็บอาวุธวิเศษนั้นได้ถูกศัตรูบุกรุกเข้าไป ท่านทนไม่ได้ที่จะเห็นของสำคัญของสำนักถูกศัตรูปล้นชิงไปจนหมด ดังนั้นท่านจึงเสี่ยงชีวิตเพื่อหยิบพวกมันส่วนหนึ่งออกมาก่อนที่ท่านจะหนีไป</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_E_DanBox" sParam="Item">
+			<ThingName>กล่องสมบัติไท้อี้</ThingName>
+			<Desc>ในคำคืนที่ถูกโจมตี ท่านได้สังเกตเห็นว่าห้องเก็บโอสถวิเศษนั้นได้ถูกศัตรูบุกรุกเข้าไป ท่านทนไม่ได้ที่จะเห็นของสำคัญของสำนักถูกศัตรูปล้นชิงไปจนหมด ดังนั้นท่านจึงเสี่ยงชีวิตเพื่อหยิบพวกมันส่วนหนึ่งออกมาก่อนที่ท่านจะหนีไป</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_E_MiJiBox" sParam="Item">
+			<ThingName>กล่องสมบัติไท้อี้</ThingName>
+			<Desc>ในคำคืนที่ถูกโจมตี ท่านได้สังเกตเห็นว่าหอคัมภีร์นั้นได้ถูกศัตรูบุกรุกเข้าไป ท่านทนไม่ได้ที่จะเห็นของสำคัญของสำนักถูกศัตรูปล้นชิงไปจนหมด ดังนั้นท่านจึงเสี่ยงชีวิตเพื่อหยิบพวกมันส่วนหนึ่งออกมาก่อนที่ท่านจะหนีไป</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_E_FuBox" sParam="Item">
+			<ThingName>กล่องสมบัติไท้อี้</ThingName>
+			<Desc>ในคำคืนที่ถูกโจมตี ท่านได้สังเกตเห็นว่าห้องเก็บยันต์วิเศษนั้นได้ถูกศัตรูบุกรุกเข้าไป ท่านทนไม่ได้ที่จะเห็นของสำคัญของสำนักถูกศัตรูปล้นชิงไปจนหมด ดังนั้นท่านจึงเสี่ยงชีวิตเพื่อหยิบพวกมันส่วนหนึ่งออกมาก่อนที่ท่านจะหนีไป</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_StoneBox2" sParam="Item">
+			<ThingName>กล่องโบราณ</ThingName>
+			<Desc>กล่องหินโบราณที่ฝังลึกอยู่ใต้ภูเขาหิน มันดูเหมือนจะเก่าแก่เป็นอย่างมาก ไม่มีใครทราบว่าภายในนั้นได้บรรจุอะไรเอาไว้</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BuildingBox" sParam="Item">
+			<ThingName>ชุดสิ่งปลูกสร้าง</ThingName>
+			<Desc>ชุดสิ่งปลูกสร้างที่สามารถย้ายไปอยู่ที่ใดที่หนึ่งได้</Desc>
+		</Text>
+		<Text Name="Item_Baobeier" sParam="Item">
+			<ThingName>ของลับ</ThingName>
+			<Desc>ของแห่งความทรงจำแห่งความเป็นชาย</Desc>
+			<Item.FabaoSuffix>ราก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_Box1" sParam="Item">
+			<ThingName>กล่องยันต์อาคม</ThingName>
+			<Desc>กล่องยันต์อาคมที่แม่นางลู่มักจะพกติดตัวไปด้วยเสมอ ภายในนั้นได้บรรจุยันต์อาคมเอาแผ่นเอาไว้</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_LunHui_Box2" sParam="Item">
+			<ThingName>กล่องยันต์อาคม</ThingName>
+			<Desc>กล่องยันต์อาคมที่หยางชูมักจะพกติดตัวไปด้วยเสมอ ภายในนั้นได้บรรจุยันต์อาคมลึกลับเอาไว้</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ZuShiZhiCi" sParam="Item">
+			<ThingName>ของขวัญจากอาจารย์</ThingName>
+			<Desc>กล่องของขวัญจากบรรพชน มันมีสมบัติล้ำค่ามากมายอยู่ภายในนั้น</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>เปิดกล่องของขวัญจากอาจารย์</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_SuoYingZhiJuan" sParam="Item">
+			<ThingName>ม้วนภาพหมื่นสรรพสิ่ง</ThingName>
+			<Desc>แผ่นภาพที่ได้บันทึดสิ่งมีชีวิตทั้งหมดตั้งแต่กำเนิดของสวรรค์และโลกจนถึงปัจจุบันเอาไว้ หากท่านรู้ชื่อจริงของสิ่งมีชีวิตที่เกี่ยวข้อง ท่านก็สามารถเรียกมันออกมาจากม้วนภาพม้วนนี้ได้ มันเป็นหนึ่งในสิบสองสมบัติแห่งความโกลาหลที่ว่ากันว่ามันได้ถือกำเนิดมาพร้อมๆ กับโลก</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>เปิดม้วนภาพหมื่นสรรพสิ่ง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_XiangHuo1" sParam="Item">
+			<ThingName>สังฆทานทั่วไป</ThingName>
+			<Desc>เครื่องถวายทั่วๆ ไปที่ทำขึ้นมาอย่างเรียบง่าย สร้างค่าศรัทธา 1 หน่วย จะได้รับค่าความศรัทธาเพิ่มเติมถ้าหากใช้อาหารระสูงในการสักการะบูชา</Desc>
+		</Text>
+		<Text Name="Item_XiangHuo2" sParam="Item">
+			<ThingName>สังฆทานห้าธาตุ</ThingName>
+			<Desc>เครื่องถวายที่ค่อนข้างมีระดับที่ต้องอาศัยสมบัติวิเศษในการทำมันขึ้นมา สร้างค่าศรัทธา 4 หน่วย จะได้รับค่าความศรัทธาเพิ่มเติมถ้าหากใช้อาหารระสูงในการสักการะบูชา</Desc>
+		</Text>
+		<Text Name="Item_XiangHuo3" sParam="Item">
+			<ThingName>สังฆทานเทวะ</ThingName>
+			<Desc>เครื่องถวายระดับสูง มันต้องใช้สมบัติวิเศษที่ซับซ้อนและการสวดอ้อนวอนอย่างมุ่งมั่นในการทำมันขึ้นมา สร้างค่าศรัทธา 9 หน่วย จะได้รับค่าความศรัทธาเพิ่มเติมถ้าหากใช้อาหารระสูงในการสักการะบูชา</Desc>
+		</Text>
+		<Text Name="Item_XiangHuo4" sParam="Item">
+			<ThingName>เครื่องบูชาวิญญาณ</ThingName>
+			<Desc>เครื่องบูชาเทพขั้นพื้นฐานที่ทำขึ้นมาอย่างง่ายๆ สร้างค่าศรัทธา 1 หน่วย จะได้รับค่าความศรัทธาเพิ่มเติมถ้าหากใช้อาหารระสูงในการสักการะบูชา</Desc>
+		</Text>
+		<Text Name="Item_XiangHuo5" sParam="Item">
+			<ThingName>เครื่องบูชาดิน</ThingName>
+			<Desc>เครื่องบูชาเทพระดับกลางที่ต้องอาศัยสมบัติวิเศษในการทำมันขึ้นมา สร้างค่าศรัทธา 4 หน่วย จะได้รับค่าความศรัทธาเพิ่มเติมถ้าหากใช้อาหารระสูงในการสักการะบูชา</Desc>
+		</Text>
+		<Text Name="Item_XiangHuo6" sParam="Item">
+			<ThingName>เครื่องบูชาฟ้า</ThingName>
+			<Desc>เครื่องบูชาเทพระดับสูงที่ต้องใช้สมบัติวิเศษที่ซับซ้อนและการสวดอ้อนวอนอย่างมุ่งมั่นในการทำมันขึ้นมา สร้างค่าศรัทธา 9 หน่วย จะได้รับค่าความศรัทธาเพิ่มเติมถ้าหากใช้อาหารระสูงในการสักการะบูชา</Desc>
+		</Text>
+		<Text Name="Item_OldSchool_Letter" sParam="Item">
+			<ThingName>จดหมายปริศนา</ThingName>
+			<Desc>จดหมายที่ทิ้งเอาไว้โดยผู้ฝึกตนลึกลับที่ได้ช่วยเหลือท่านในคืนที่สำนักไท้อี้ถูกทำลาย</Desc>
+			<Item.FabaoSuffix>จดหมาย</Item.FabaoSuffix>
+			<StoryBnts.0.Name>อ่าน</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>อ่านจดหมาย</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_StrangeMush" sParam="Item">
+			<ThingName>เห็ดประหลาด</ThingName>
+			<Desc>เห็ดแปลกๆ การกินมันเข้าไปอาจทำให้เกิดอาการประสาทหลอนได้</Desc>
+			<Item.FabaoSuffix>ตะกร้า, เห็ด</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ลองกิน</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ลองกินของสิ่งนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_AuctionPaper" sParam="Item">
+			<ThingName>เทียบเชิญงานประมูล</ThingName>
+			<Desc>จดหมายเชิญเข้าร่วมงานประมูลที่จัดขึ้นโดยเย่เสวียน</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบจดหมาย</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_GodPractice_MiJuan" sParam="Item">
+			<ThingName>ม้วนคัมภีร์โบราณ</ThingName>
+			<Desc>ม้วนคัมภีร์ลับที่ถูกส่งต่อกันมาตั้งแต่สมัยโบราณ ไม่มีใครทราบเนื้อหาที่อยู่ข้างใน</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบม้วนคัมภีร์</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_GodPractice_MiJuan_1" sParam="Item">
+			<ThingName>ม้วนคัมภีร์เทวะ: พระราชวังสวรรค์</ThingName>
+			<Desc>แผ่นกระดาษที่บันทึกวิธีการสร้างสิ่งปลูกสร้างแดนเทวะ: พระราชวังสวรรค์ ซึ่งมีเพียงผู้ฝึกตนวิถีเทพเท่านั้นที่สามารถทำความเข้าใจมันได้</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบม้วนคัมภีร์</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_GodPractice_MiJuan_2" sParam="Item">
+			<ThingName>ม้วนคัมภีร์เทวะ: แท่นบูชาผู้พิทักษ์</ThingName>
+			<Desc>แผ่นกระดาษที่บันทึกวิธีการสร้างสิ่งปลูกสร้างแดนเทวะ: แท่นบูชาผู้พิทักษ์ ซึ่งมีเพียงผู้ฝึกตนวิถีเทพเท่านั้นที่สามารถทำความเข้าใจมันได้</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบม้วนคัมภีร์</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_GodPractice_MiJuan_3" sParam="Item">
+			<ThingName>ม้วนคัมภีร์เทวะ: มหาสมุทรแห่งทุกข์</ThingName>
+			<Desc>แผ่นกระดาษที่บันทึกวิธีการสร้างสิ่งปลูกสร้างแดนเทวะ: มหาสมุทรแห่งทุกข์ ซึ่งมีเพียงผู้ฝึกตนวิถีเทพเท่านั้นที่สามารถทำความเข้าใจมันได้</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบม้วนคัมภีร์</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_GodPractice_MiJuan_4" sParam="Item">
+			<ThingName>ม้วนคัมภีร์เทวะ: ตำหนักเทพ</ThingName>
+			<Desc>แผ่นกระดาษที่บันทึกวิธีการสร้างสิ่งปลูกสร้างแดนเทวะ: ตำหนักเทพเทวะ, ตำหนักเทพศักดิ์สิทธิ์ ซึ่งมีเพียงผู้ฝึกตนวิถีเทพเท่านั้นที่สามารถทำความเข้าใจมันได้</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบม้วนคัมภีร์</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_GodPractice_MiJuan_6" sParam="Item">
+			<ThingName>ม้วนคัมภีร์เทวะ: ศาลาสมบัติศักดิ์สิทธิ์</ThingName>
+			<Desc>แผ่นกระดาษที่บันทึกวิธีการสร้างศาลาสมบัติศักดิ์สิทธิ์ ซึ่งมีเพียงผู้ฝึกตนวิถีเทพเท่านั้นที่สามารถทำความเข้าใจมันได้</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบม้วนคัมภีร์</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_GodPractice_MiJuan_5" sParam="Item">
+			<ThingName>มรดกแห่งไท้อี้</ThingName>
+			<Desc>ลูกบอลประหลาดซึ่งถูกผนึกด้วยพลังแห่งสวรรค์ ไม่มีใครรู้ว่ามันมีอะไรซ่อนอยู่ภายในนั้น</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ปลดผนึก</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามที่จะปลดผนึกวัตถุชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Gong12" sParam="Item">
+			<ThingName>วิชาอักขระบรรพกาล</ThingName>
+			<Desc>เคล็ดวิชาการบ่มเพาะที่ถูกสร้างขึ้นมาโดยเซียนทองคำหยุนจงจื่อ มันเป็นวิธีการบ่มเพาะรูปแบบใหม่ที่ฉีกกฎการบ่มเพาะแก่นทองคำแบบเดิมๆ ซึ่งผู้ฝึกจะใช้ยันต์ห้ารูปแบบเพื่อสลักอักขระยันต์ลงไปในแก่นทองคำของตนเองแทนการหลอมสร้างแก่นทองคำแบบเดิม</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบวิชาที่อยู่ภายใน</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Body_Gong_2" sParam="Item">
+			<ThingName>วิชากายาทองคำทลายฟ้า</ThingName>
+			<Desc>วิชาการบ่มเพาะกายาที่ถูกคิดค้นอัจฉริยะเผ่ามนุษย์ผู้หนึ่งในสมัยโบราณโอยอ้างอิงมาจากวิชาบ่มเพาะกายาของอสูรผู้ยิ่งใหญ่ในสมัยบรรพกาล วิชานี้ขึ้นชื่อในเรื่องความดุร้ายและดุดัน ทำการขัดเกลากระดูกเพื่อสร้างเป็นร่างกายที่แข็งแกร่งและทรงพลัง จนในท้ายที่สุดก็ก่อเกิดเป็นร่างกายอยู่ยงคงกระพันและทรงพลังจนทำลายได้แม้กระทั่งความว่างเปล่า</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบวิชาที่อยู่ภายใน</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Body_Gong_5" sParam="Item">
+			<ThingName>วิชากายาสวรรค์ร่วงหล่น</ThingName>
+			<Desc>ในอดีตมีผู้ฝึกตนวิถีกายาอมตะบางคนคิดว่าชีวิตนี้เป็นเหมือนกรงขังและแสงขั่วโลกราตรีก็คือที่แสงส่องประกายออกมาจากภายนอกกรง พวกเขาดูดซับแกนธาตุอันแปลกประหลาดจากค่ำคืนราตรีนิรันดร์และใช้มันเพื่อสร้างกายเนื้อขึ้นมาใหม่ และเชื่อว่าในท้ายที่สุดร่างกายของพวกเขาจะทรงพลังจนสามารถทำลายกรงขังอันนี้และพาพวกเขาออกจากทะเลแห่งความทุกข์ยาก เนื่องจากผู้ฝึกตนวิถีกายาอมตะที่ฝึกฝนวิชานี้นั้นเป็นพวกที่บูชาค่ำคืนนิรันดร์ ดังนั้นพวกเขาจึงเป็นที่รังเกียจพวกผู้ฝึกตนวิถีกายาอมตะคนอื่นๆ และพวกเขาเหล่านั้นจึงได้ตั้งชื่อวิชาบ่มเพาะกายานี้ว่า "กายาสวรรค์ร่วงหล่น"</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบวิชาที่อยู่ภายใน</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_God_GongAll" sParam="Item">
+			<ThingName>บันทึกวิถีเทพ</ThingName>
+			<Desc>คัมภีร์เล่มนี้ได้บันทึกรูปแบบวิถีการฝึกตนวิถีเทพเอาไว้หลายวิธี มันถูกเขียนขึ้นมาในยุคที่จักรพรรดิปีศาจกำลังเข้ายึดครองโลกแห่งการฝึกตน</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบวิชาที่อยู่ภายใน</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_God_Guard1" sParam="Item">
+			<ThingName>แร่แสงเจ็ดดาราสังหาร</ThingName>
+			<Desc>แร่แสงดาราที่มีพลังแห่งจิตสังหารอันรุนแรงอัดแน่นกันอยู่ภายใน บางทีผู้ฝึกตนวิถีเทพอาจจะใช้พลังนี้ในการปลุกผู้พิทักษ์ให้ตื่นขึ้นมาได้</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบวิชาที่อยู่ภายใน</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_God_Guard2" sParam="Item">
+			<ThingName>แร่แสงดาราแสงสวรรค์</ThingName>
+			<Desc>แร่แสงดาราที่มีพลังแห่งดวงดาราแสงสวรรค์แฝงอยู่ภายใน บางทีผู้ฝึกตนวิถีเทพอาจจะใช้พลังนี้ในการปลุกผู้พิทักษ์ให้ตื่นขึ้นมาได้</Desc>
+		</Text>
+		<Text Name="Item_God_Guard3" sParam="Item">
+			<ThingName>แร่แสงดาราแกนสวรรค์</ThingName>
+			<Desc>แร่แสงดาราที่มีพลังแห่งดวงดาราแกนสวรรค์แฝงอยู่ภายใน บางทีผู้ฝึกตนวิถีเทพอาจจะใช้พลังนี้ในการปลุกผู้พิทักษ์ให้ตื่นขึ้นมาได้</Desc>
+		</Text>
+		<Text Name="Item_Sys_Gong" sParam="Item">
+			<ThingName>วิชาบ่มเพาะ</ThingName>
+			<Desc>ตำราวิชาบ่มเพาะ</Desc>
+			<Item.FabaoSuffix>หนังสือ, เล่ม, ม้วนตำรา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Firecracker" sParam="Item">
+			<ThingName>พลุไฟ</ThingName>
+			<Desc>ของเล่นประหลาดจากต่างโลก เลือกสถานที่เพื่อจุดไฟ มันจะทำให้สามารถดึงดูดผู้คนรอบตัวท่านให้เข้ามาดูได้อย่างง่ายดาย ทว่ามันค่อนข้างเป็นของเล่นที่น่ากลัวสำหรับคนใจเสาะ</Desc>
+			<Item.FabaoSuffix>ดอกไม้ไฟ</Item.FabaoSuffix>
+			<StoryBnts.0.Name>จุด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>จุดดอกไม้ไฟ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_FirecrackerShit" sParam="Item">
+			<ThingName>พลุระเบิดไฟ</ThingName>
+			<Desc>พลุไฟแบบพิเศษ มันมีพลังที่น่ากลัวมาก</Desc>
+			<Item.FabaoSuffix>ดอกไม้ไฟ</Item.FabaoSuffix>
+			<StoryBnts.0.Name>จุด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>จุดดอกไม้ไฟ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Jiaozi" sParam="Item">
+			<ThingName>เกี๊ยว</ThingName>
+			<Desc>อาหารจากต่างโลกที่แฝงไปด้วยความปรารถนาดีและบรรยากาศอันรื่นเริง ท่านอาจจะพบกับเรื่องประหลาดใจถ้าหากกินมันลงไป!</Desc>
+			<Item.FabaoSuffix>Dumpling</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yingbi1" sParam="Item">
+			<ThingName>เหรียญอธิษฐาน</ThingName>
+			<Desc>เหรียญโลหะที่ซ่อนอยู่ภายในเกี๊ยวบางชิ้น มันได้รวบรวมคำภาวนาและความปราถนาในความสุขและโชคลาภของผู้คนจากต่างโลกเอาไว้ มังกรเทียน ซึ่งเป็นร่างจุติของหยินและหยางในโลกนี้ ค่อนข้างแปลกใจเล็กน้อยกับคำภาวนามากมายที่สามารถอัดแน่นกันอยู่ภายในเหรียญเล็กๆ หนึ่งเหรียญได้ ดูเหมือนว่ามันค่อนข้างที่จะสนใจในเหรียญๆ นี้ไม่น้อยเลยทีเดียว</Desc>
+			<Item.FabaoSuffix>เหรียญ</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ขัดถู</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามขัดถูเหรียญภาวนา?</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Yingbi2" sParam="Item">
+			<ThingName>เหรียญอธิษฐาน</ThingName>
+			<Desc>เหรียญโลหะที่ซ่อนอยู่ภายในเกี๊ยวบางชิ้น มันได้รวบรวมคำภาวนาและความปราถนาในเรื่องของสุขภาพและอายุยืนของผู้คนจากต่างโลกเอาไว้ มังกรเทียน ซึ่งเป็นร่างจุติของหยินและหยางในโลกนี้ ค่อนข้างแปลกใจเล็กน้อยกับคำภาวนามากมายที่สามารถอัดแน่นกันอยู่ภายในเหรียญเล็กๆ หนึ่งเหรียญได้ ดูเหมือนว่ามันค่อนข้างที่จะสนใจในเหรียญๆ นี้ไม่น้อยเลยทีเดียว</Desc>
+			<Item.FabaoSuffix>เหรียญ</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ขัดถู</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามขัดถูเหรียญภาวนา?</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Yingbi3" sParam="Item">
+			<ThingName>เหรียญอธิษฐาน</ThingName>
+			<Desc>เหรียญโลหะที่ซ่อนอยู่ภายในเกี๊ยวบางชิ้น มันได้รวบรวมคำภาวนาและความปราถนาในเรื่องของเสื้อผ้าอาภรใหม่ของผู้คนจากต่างโลกเอาไว้ มังกรเทียน ซึ่งเป็นร่างจุติของหยินและหยางในโลกนี้ ค่อนข้างแปลกใจเล็กน้อยกับคำภาวนามากมายที่สามารถอัดแน่นกันอยู่ภายในเหรียญเล็กๆ หนึ่งเหรียญได้ ดูเหมือนว่ามันค่อนข้างที่จะสนใจในเหรียญๆ นี้ไม่น้อยเลยทีเดียว</Desc>
+			<Item.FabaoSuffix>เหรียญ</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ขัดถู</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามขัดถูเหรียญภาวนา?</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_SpringBox" sParam="Item">
+			<ThingName>กล่องเทศกาล</ThingName>
+			<Desc>ของขวัญลึกลับจากอีกโลกหนึ่งที่เรียกว่า "ของขวัญปีใหม่" โดยผู้คนที่อาศัยอยู่ในที่นั่น</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_SuperPartItem" sParam="Item">
+			<ThingName>ศาสตร์ลับแห่งกายา</ThingName>
+			<Desc>ผู้ฝึกตนวิถีกายาอมตะสามารถศึกษามันเพื่อรับความรู้และแนวคิดใหม่ๆ เกี่ยวกับกายาเร้นลับได้</Desc>
+			<Item.FabaoSuffix>เล่ม</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ศึกษา</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>เรียนรู้เชิงลึก</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_AnimalBox" sParam="Item">
+			<ThingName>กรงอันสวยงาม</ThingName>
+			<Desc>กรงสัตว์อันสวยงาม ภายในมีสัตว์ที่ได้รับการฝึกฝนมาอย่างดีจนอยู่ในสภาวะตื่นรู้</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_NormalAnimalBox" sParam="Item">
+			<ThingName>กรงธรรมดา</ThingName>
+			<Desc>กรงสัตว์ธรรมดาทั่วไป ภายในมีสัตว์ที่ได้รับการฝึกฝนมาอย่างดีจนอยู่ในสภาวะตื่นรู้</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BodyAnimalBox" sParam="Item">
+			<ThingName>กรง</ThingName>
+			<Desc>กรงสัตว์ที่ภายในมีสัตว์ที่ได้รับการฝึกฝนมาอย่างดีจนอยู่ในสภาวะตื่นรู้</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_ChunYangWuJiGong" sParam="Item">
+			<ThingName>วิชาบ่มเพาะตะวันเที่ยงแท้</ThingName>
+			<Desc>เคล็ดวิชานี้คือยอดมรรคาแห่งสำนักบู๊ตึ้ง คัมภีร์เล่มนี้บันทึกไว้ด้วยสองแนวทางในการฝึกฝน วิถีหนึ่งมั่นคงและปลอดภัย เพิ่มขีดจำกัดพลังชี่อย่างต่อเนื่อง อีกวิถีหนึ่งกลับวิปลาส บรรลุได้ไวแต่ทว่าอาจบ่อนทำลายตันเถียน ผู้ใดเลือกวิถีใดย่อมต้องแบกรับผลของมัน</Desc>
+			<Item.FabaoSuffix>ตำรา</Item.FabaoSuffix>
+			<StoryBnts.0.Name>แนวคิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ศึกษาคัมภีร์</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_SupplyBox" sParam="Item">
+			<ThingName>กล่องสรรพสิ่ง</ThingName>
+			<Desc>ของขวัญจากเต๋าสวรรค์!</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เปิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเปิดกล่องใบนี้</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

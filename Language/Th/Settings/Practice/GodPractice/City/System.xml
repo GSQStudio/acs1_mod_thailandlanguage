@@ -1,0 +1,8 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodCityBuilding_SYSLOST">
+			<DisplayName>ว่างเปล่า</DisplayName>
+			<Desc>สิ่งปลูกสร้างที่หายสาบสูญซึ่งไม่มีใครรู้จัก \n(ว่างเปล่า)</Desc>
+		</Text>
+	</List>
+</Texts>

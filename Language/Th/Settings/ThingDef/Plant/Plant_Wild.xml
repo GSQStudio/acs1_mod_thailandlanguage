@@ -1,0 +1,36 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Grass" sParam="Plant">
+			<ThingName>หญ้า</ThingName>
+			<Desc>หญ้าป่าทั่วๆ ไป</Desc>
+		</Text>
+		<Text Name="IceGrass" sParam="Plant">
+			<ThingName>หญ้าน้ำแข็ง</ThingName>
+			<Desc>หญ้าป่าที่เติบโตบนทุ่งน้ำแข็ง</Desc>
+		</Text>
+		<Text Name="Reed" sParam="Plant">
+			<ThingName>หญ้าแฝก</ThingName>
+			<Desc>หญ้าที่เติบโตตามริมทะเลสาบหรือแม่น้ำ มันมีคุณค่าทางสุนทรียะ</Desc>
+		</Text>
+		<Text Name="LongGrass" sParam="Plant">
+			<ThingName>หญ้าคา</ThingName>
+			<Desc>หญ้าป่าทั่วๆ ไป</Desc>
+		</Text>
+		<Text Name="Raspberry" sParam="Plant">
+			<ThingName>ผลอำพัน</ThingName>
+			<Desc>ผลไม้ป่าที่รดน้ำด้วยน้ำลายของมังกร มันมีสรรพคุณทางวิญญาณที่ค่อนข้างพิเศษ ที่ช่วยให้ไม่รู้สึกหิวหรือเหนื่อยล้าเป็นเวลาครึ่งวันหลังกินมันลงไป อย่างไรก็ตามผลของมันนั้นจะเน่าอย่างรวดเร็วหลังทำการเก็บเกี่ยว</Desc>
+		</Text>
+		<Text Name="Lotus" sParam="Plant">
+			<ThingName>บัว</ThingName>
+			<Desc>พืชที่เติบโตบนน้ำ มันมีคุณค่าทางสุนทรียะและรากของมันก็กินได้</Desc>
+		</Text>
+		<Text Name="LittleRock" sParam="Plant">
+			<ThingName>หินก้อนเล็ก</ThingName>
+			<Desc>เศษหินก้อนเล็กๆ ที่กระจัดกระจายอยู่บนพื้น</Desc>
+		</Text>
+		<Text Name="IceLittleRock" sParam="Plant">
+			<ThingName>หินน้ำแข็งก้อนเล็ก</ThingName>
+			<Desc>เศษหินก้อนเล็กๆ ที่กระจัดกระจายอยู่บนพื้น</Desc>
+		</Text>
+	</List>
+</Texts>

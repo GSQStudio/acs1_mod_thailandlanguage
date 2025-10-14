@@ -1,0 +1,87 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SlightlyFear">
+			<DisplayName>กลัวเล็กน้อย</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เกี่ยวกับสัตว์ตัวอื่น..</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}เกี่ยวกับสภาพแวดล้อม..</SingleFormat.1>
+		</Text>
+		<Text Name="Fear">
+			<DisplayName>กลัว</DisplayName>
+			<SingleFormat.0>รู้สึก{0}ผู้คนใกล้เคียง..</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyFear">
+			<DisplayName>ขวัญหนีดีฝ่อ</DisplayName>
+			<SingleFormat.0>จดจำได้ว่าเจ้าสิ่งนั้นคือศัตรูตามธรรมชาติและรู้สึก{0}..</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}เกี่ยวกับเรื่องที่เพื่อนพ้องถูกฆ่า..</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyHappy">
+			<DisplayName>มีความสุขเล็กน้อย</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เกี่ยวกับฟ้าใสและตะวันจ้า</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}เกี่ยวกับบางอย่างที่อร่อย</SingleFormat.1>
+		</Text>
+		<Text Name="Happy">
+			<DisplayName>มีความสุข</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เมื่อถูกห้อมล้อม</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyHappy">
+			<DisplayName>เบิกบานใจ</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เมื่อพบกับเผ่าพันธ์เดียวกัน</SingleFormat.0>
+		</Text>
+		<Text Name="SlightlyAnger">
+			<DisplayName>โกรธเล็กน้อย</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เมื่อพบผู้คนที่ผ่านไปมา</SingleFormat.0>
+		</Text>
+		<Text Name="Anger">
+			<DisplayName>โกรธ</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เมื่อคนอื่นต้องเสี่ยงอันตราย</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyAnger">
+			<DisplayName>เกรี้ยวกราด</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เมื่อสัตว์ตัวอื่นต่อสู้กัน</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}เมื่อถูกรังแก</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyWorry">
+			<DisplayName>เป็นกังวลเล็กน้อย</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เมื่อพบคนแปลกหน้า</SingleFormat.0>
+		</Text>
+		<Text Name="Worry">
+			<DisplayName>เป็นกังวล</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เกี่ยวกับแม่น้ำที่ลึกเกินไป</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}เกี่ยวกับขอบหน้าผา</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyWorry">
+			<DisplayName>กระวนกระวาย</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เกี่ยวกับความตาย</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}เมื่อถูกจับตัวโดยมนุษย์</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyMiss">
+			<DisplayName>โหยหาเล็กน้อย</DisplayName>
+			<SingleFormat.0>รู้สึก{0}สำหรับฝุ่นผงที่ล่องลอย</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}สำหรับทัศนียภาพ</SingleFormat.1>
+		</Text>
+		<Text Name="Miss">
+			<DisplayName>โหยหา</DisplayName>
+			<SingleFormat.0>รู้สึก{0}สำหรับชีวิตข้างนอก</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}พวกพ้อง</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyMiss">
+			<DisplayName>โหยหาอาวรณ์</DisplayName>
+			<SingleFormat.0>รู้สึก{0}เพื่อนสมัยเด็ก</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}ลำธารในความทรงจำ</SingleFormat.1>
+		</Text>
+		<Text Name="Peace">
+			<DisplayName>สงบ</DisplayName>
+			<SingleFormat.0>รู้สึก{0}ยามเมื่อย่างไปบนพื้น</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}ยามมองดูสิ่งมีชีวิตที่จากไป</SingleFormat.1>
+		</Text>
+		<Text Name="Eruption">
+			<DisplayName>กระสับกระส่าย</DisplayName>
+			<SingleFormat.0>โดยสัญชาตญาณทำให้รู้สึกสัมผัสได้ถึง{0}</SingleFormat.0>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>เศร้า</DisplayName>
+			<SingleFormat.0>รู้สึก{0}ยามเมื่อดอกไม้ร่วงโรย</SingleFormat.0>
+			<SingleFormat.1>รู้สึก{0}ยามเมื่อดอกท้อร่วงโรย</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>

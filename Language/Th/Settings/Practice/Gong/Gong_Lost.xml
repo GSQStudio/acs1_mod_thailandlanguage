@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_LOST">
+			<DisplayName>วิชาการบ่มเพาะที่ผิดพลาด</DisplayName>
+			<Desc>วิชาการบ่มเพาะที่หายสาบสูญ\n(ม็อดสูญหาย)</Desc>
+			<Stages.0.DisplayName>ผิดพลาด</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>ผิดพลาด</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>ผิดพลาด</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>ผิดพลาด</Stages.1.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

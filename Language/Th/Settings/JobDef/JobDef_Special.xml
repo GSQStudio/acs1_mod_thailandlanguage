@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobFreePatrol">
+			<DisplayName>ลาดตระเวน</DisplayName>
+		</Text>
+		<Text Name="JobFreeFollow">
+			<DisplayName>ติดตาม</DisplayName>
+		</Text>
+		<Text Name="JobFollow">
+			<DisplayName>ติดตาม</DisplayName>
+		</Text>
+		<Text Name="JobGoOutspread">
+			<DisplayName>ไปเป็นผู้แทน</DisplayName>
+		</Text>
+		<Text Name="JobLeaveOutspread">
+			<DisplayName>ถอนตัว</DisplayName>
+		</Text>
+		<Text Name="JobGoOutsMember">
+			<DisplayName>ไปเป็นสาวก</DisplayName>
+		</Text>
+		<Text Name="JobSpringXiaoYao">
+			<DisplayName>อสูรอาละวาด</DisplayName>
+		</Text>
+		<Text Name="JobSpringXiaoYaoEscape">
+			<DisplayName>หนีด้วยความตกใจ</DisplayName>
+		</Text>
+		<Text Name="JobDiMuWish">
+			<DisplayName>ขอพร</DisplayName>
+		</Text>
+	</List>
+</Texts>

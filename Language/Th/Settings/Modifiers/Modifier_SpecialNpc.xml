@@ -1,0 +1,62 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SpNpc_BasePropertie">
+			<DisplayName>ค่าสถานะเริ่มต้น</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_BaseFightPropertie">
+			<DisplayName>ค่าพื้นฐานการต่อสู้</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_Ling">
+			<DisplayName>จิตวิญญาณ</DisplayName>
+			<Desc>คนผู้นี้มีรากฐานที่แข็งแกร่งและปราณที่ไร้ก้นบึ้ง</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Shield">
+			<DisplayName>ความทนทาน</DisplayName>
+			<Desc>คนผู้นี้มีพลังป้องกันที่แข็งแกร่งดั่งเหล็กกล้า</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoAtk">
+			<DisplayName>กระตือรือร้น</DisplayName>
+			<Desc>คนผู้นี้ควบคุมอาวุธวิเศษโจมตีได้รุนแรงราวดั่งฟ้าผ่า</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoLing">
+			<DisplayName>กำยำ</DisplayName>
+			<Desc>คนผู้นี้ควบคุมอาวุธวิเศษมั่นคงราวภูผาด้วยพลังที่แข็งแกร่งจนไม่มีอะไรทำลายได้</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoSpeed">
+			<DisplayName>คล่องแคล่ว</DisplayName>
+			<Desc>คนผู้นี้ควบคุมอาวุธวิเศษรวดเร็วดั่งสายฟ้าฟาด</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoDisp">
+			<DisplayName>เชี่ยวชาญ</DisplayName>
+			<Desc>คนผู้นี้ควบคุมอาวุธวิเศษได้อย่างสง่างามจนไร้ที่เปรียบ</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoNum">
+			<DisplayName>เก่งหลายอย่าง</DisplayName>
+			<Desc>คนผู้นี้สามารถเชี่ยวชาญอาวุธวิเศษได้หลายชิ้น</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillAtk">
+			<DisplayName>ลึกลับ</DisplayName>
+			<Desc>คนผู้นี้มีพลังปราณเวทอันไร้ที่เปรียบ</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillCD">
+			<DisplayName>ฉับพลัน</DisplayName>
+			<Desc>คนผู้นี้คนผู้นี้มีสามารถร่ายเวทได้อย่างรวดเร็ว</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Comeback">
+			<DisplayName>คู่อาฆาต</DisplayName>
+			<Desc>ยามเมื่อเผชิญหน้ากับศัตรูคู่แค้น พลังความแข็งแกร่งจะเพิ่มสูงขึ้นด้วยพลังแห่งความเกลียนชัง</Desc>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
+			<DisplayName>ขั้นต่ำพื้นฐานลมปราณ</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
+			<DisplayName>ขั้นต่ำสร้างแก่นลมปราณ</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
+			<DisplayName>ขั้นต่ำแก่นทองคำ</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_God">
+			<DisplayName>ขั้นต่ำวิญญาณปฐมกาล</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,178 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv1_3_1">
+			<DisplayName>ดาบลับแห่งคุณธรรม</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_2">
+			<DisplayName>คำสาปลับแห่งการพิสูจน์</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_3">
+			<DisplayName>เกราะหางแมงป่อง</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_4">
+			<DisplayName>เกล็ดพญาอสรพิษ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_5">
+			<DisplayName>เต่าหางกระบี่</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_6">
+			<DisplayName>เวทจำแลงเต่า</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_7">
+			<DisplayName>เกราะเต่าไร้มลทิน</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_8">
+			<DisplayName>พายุหนาม</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_9">
+			<DisplayName>สายลมต้องสาบ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_10">
+			<DisplayName>หนามลับโบราณ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_11">
+			<DisplayName>วิญญาณซากไม้</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_12">
+			<DisplayName>หินกักพฤกษา</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_13">
+			<DisplayName>รัศมีกระบี่</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_14">
+			<DisplayName>ผนึกลับพันวิถี</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_15">
+			<DisplayName>กลั้นเที่ยงแท้</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_16">
+			<DisplayName>ผันเปลี่ยนอนันต์</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_1">
+			<DisplayName>สมดุลสองโลก</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_2">
+			<DisplayName>เสียงแห่งกระเรียน</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_3">
+			<DisplayName>มังกรเมฆาอัสนี</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_4">
+			<DisplayName>มังกรวารีทะยานฟ้า</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_5">
+			<DisplayName>คลื่นดาบ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_6">
+			<DisplayName>พายุโหม</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_7">
+			<DisplayName>ดาบผ่าโลกา</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_8">
+			<DisplayName>ทรายคำสาปเทวะ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_9">
+			<DisplayName>เสาหลักกระบี่</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_10">
+			<DisplayName>เสาหลักพันวิถี</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_11">
+			<DisplayName>เสาหลักเที่ยงแท้</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_12">
+			<DisplayName>เสาหลักจิตลึกล้ำ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_1">
+			<DisplayName>กระบี่</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_2">
+			<DisplayName>เวท</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_3">
+			<DisplayName>คุณธรรม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_4">
+			<DisplayName>อ่อนโยน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_1">
+			<DisplayName>เชื่อมโยง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_2">
+			<DisplayName>ตอบสนอง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_3">
+			<DisplayName>กระบี่คุณธรรม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_4">
+			<DisplayName>กระบี่อ่อนโยน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_5">
+			<DisplayName>บัญญัติคุณธธรม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_6">
+			<DisplayName>บัญญัติอ่อนโยน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_7">
+			<DisplayName>กระบี่คม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_8">
+			<DisplayName>บัญญัติจิตสมาธิ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_9">
+			<DisplayName>สองจิตคุณธรรม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_10">
+			<DisplayName>ผสานโอนอ่อน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_1">
+			<DisplayName>ดาบลับ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_2">
+			<DisplayName>คำสาปลับ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_3">
+			<DisplayName>หางแมงป่อง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_4">
+			<DisplayName>เกล็ดงู</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_5">
+			<DisplayName>กระเพาะจรเข้</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_6">
+			<DisplayName>บทเพลงมังกร</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_7">
+			<DisplayName>จำแลงเต่า</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_8">
+			<DisplayName>กระบี่กระเรียน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_9">
+			<DisplayName>เงาลวง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_10">
+			<DisplayName>หนามสน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_11">
+			<DisplayName>อักขระโบราณ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_12">
+			<DisplayName>เกราะหวาย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_13">
+			<DisplayName>เจตจำนงกระบี่</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_14">
+			<DisplayName>บัญญัติการผนึก</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_15">
+			<DisplayName>คุณธรรมแที่ยงแท้</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_16">
+			<DisplayName>อ่อนโยนลึกล้ำ</DisplayName>
+		</Text>
+	</List>
+</Texts>

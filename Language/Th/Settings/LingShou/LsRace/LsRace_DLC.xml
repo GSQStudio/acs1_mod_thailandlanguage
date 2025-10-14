@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsPandaXian">
+			<PossibleMagic.0.DisplayName>เพื่อนธรรมชาติ</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>ใช้การเติบโตและสติปัญญาของตัวเองเพื่อเชิญสัตว์ให้เข้าร่วมสำนักของท่าน\n[color=#FF0000]ต้องการสติปัญญาอย่างน้อย 50 เพื่อใช้งาน[/color]</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>ทูตแห่งเซียน</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>ใช้การเติบโตและโภชนาการของตัวเองเพื่อไปยังสำนักอื่นและยกระดับความสัมพันธ์ต่อสำนักของท่านเป็นอย่างมาก\n[color=#FF0000]ต้องเติบโตเต็มที่ก่อน[/color]</PossibleMagic.1.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]ต้องการปราณเวท 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]ต้องการปราณเวท 100[/color]</PossibleSkill.1.Desc>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<PossibleSkill.0.Desc>[color=#FF0000]ต้องการปราณเวท 50[/color]</PossibleSkill.0.Desc>
+		</Text>
+	</List>
+</Texts>

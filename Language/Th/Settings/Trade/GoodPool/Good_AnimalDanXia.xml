@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="DanXiaA">
+			<IVNUMBER.0.Animal.DisplayName>กรงเสือ</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>ภายในนั้นมีเสือที่อยู่ในสภาวะตื่นรู้ การฝึกอบรมที่ได้รับจากสำนักได้มอบความทรงจำที่เกี่ยวข้องกับทักษะอาวุธวิเศษ</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="DanXiaAL">
+			<IVNUMBER.0.Animal.DisplayName>กรงเสือธรรมดา</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>ภายในนั้นมีเสือที่อยู่ในสภาวะตื่นรู้ มันได้รับสติปัญญาแห่งความกลัว</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>กรงเสือธรรมดา</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>ภายในนั้นมีเสือที่อยู่ในสภาวะตื่นรู้ มันได้รับสติปัญญาแห่งความคิด</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>กรงเสือธรรมดา</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>ภายในนั้นมีเสือที่อยู่ในสภาวะตื่นรู้ มันได้รับสติปัญญาแห่งความสุข</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>กรงเสือธรรมดา</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>ภายในนั้นมีเสือที่อยู่ในสภาวะตื่นรู้ มันได้รับสติปัญญาแห่งความโกรธ</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>กรงเสือธรรมดา</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>ภายในนั้นมีเสือที่อยู่ในสภาวะตื่นรู้ มันได้รับสติปัญญาแห่งความวิตกกังวล</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>

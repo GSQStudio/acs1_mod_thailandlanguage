@@ -1,0 +1,37 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_4_None">
+			<DisplayName>วิชาบ่มเพาะหยกอมตะไร้มลทิน</DisplayName>
+			<Desc>เคล็ดวิชาการบ่มเพาะที่ถูกคิดค้นขึ้นมาโดยเซียนหยกไร้มลทิน มันเป็นวิชาการบ่มเพาะที่ถูกส่งต่อกันมารุ่นสู่รุ่นของเขาคุนหลุน ว่ากันว่าเนื้อหาภายในวิชานั้นได้คลอบคลุมไปถึงเต๋าต้นกำเนิดจำนวนมาก เนื้อหาภายในจึงแบ่งออกเป็น 6 อาณาจักร 12 ประตู ผู้ฝึกใดฝึกฝนจนบรรลุถึงแก่นแท้ของวิชาผู้นั้นจะได้รับปราณเวทอันลึกล้ำและทรงพลังอย่างหาที่เปรียบ ทว่าผูัที่เหมาะสมในการฝึกนั้นจะต้องมีสติปัญญาและโชคที่สูงล้ำมากกว่าคนปกติ</Desc>
+			<SelectDesc>วิชานี้มีความโดดเด่นในด้านทักษะปราณเวทอันหลากหลายและทรงพลัง ทว่าการทะลวงขอบเขตเพื่อผ่านอาณาจักรในแต่ละครั้งนั้นยากลำบากกว่าวิชาบ่มเพาะปราณอื่นๆ ไม่น้อยเลยทีเดียว เจ้าแน่ใจหรือไม่ว่าต้องการฝึกฝนวิชานี้?</SelectDesc>
+			<Stages.0.DisplayName>พื้นฐานลมปราณ</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>ประตูจิต</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีโชคที่ต่ำ[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>ประตูพลังภายใน</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีโชคที่ต่ำ[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>รวบรวมลมปราณ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>ประตูปราณ</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปํญญาต่ำ[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>ประตูสีดำ</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีโชคที่ต่ำ[/color]</Stages.1.Necks.1.Desc>
+			<Stages.2.DisplayName>สร้างแก่นลมปราณ</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>ประตูสีชาด</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปํญญาต่ำ[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>ประตูแก่นลมปราณ</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>การผสาน</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>ประตูทองคำ</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>ประตูวารี</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>ประตูพฤกษา</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.3.DisplayName>ประตูอัคคี</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.4.DisplayName>ประตูพสุธา</Stages.3.Necks.4.DisplayName>
+			<Stages.3.Necks.5.DisplayName>ประตูภวังค์ฝัน</Stages.3.Necks.5.DisplayName>
+			<Stages.4.DisplayName>การเปลี่ยนแปลง</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>ประตูแห่งความหลากหลาย</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>ประตูแห่งการเปลี่ยนแปลง</Stages.4.Necks.1.DisplayName>
+			<Stages.5.DisplayName>ทันฑ์สวรรค์</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>ประตูแห่งความตาย</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>ด้วยการผสานจิตวิญญาณปฐมกาลของตนเองเข้ากับเต๋าแห่งสวรรค์ คนผู้นั้นจะต้องเผชิญหน้ากับความโกรธเกรี้ยวของสวรรค์โดยตรง[color=#D06508]\nในการทะลวงขอบเขตในขั้นตอนนี้มันจะเป็นการท้าทายสวรรค์อย่างแท้จริงและจะไม่ได้ค่าโบนัสใดๆ จากขั้นตอนนี้[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>ประตูแห่งชีวิต</Stages.5.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

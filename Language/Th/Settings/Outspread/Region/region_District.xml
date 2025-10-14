@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Region_Base">
+			<Desc>เป็นพื้นที่ที่สามารถสร้างสิ่งปลูกสร้างต่างๆ ได้หลายประเภท</Desc>
+		</Text>
+		<Text Name="zhongyuan">
+			<DisplayName>ที่ราบตอนกลาง</DisplayName>
+			<Desc>ผลผลิต: หินสีน้ำตาล(จำนวนมาก), ไม้(เล็กน้อย), ข้าวสาลี(เล็กน้อย)</Desc>
+		</Text>
+		<Text Name="JiangAnWoYe">
+			<DisplayName>ทุ่งราบสายน้ำหวน</DisplayName>
+			<Desc>ผลผลิต: wheat(จำนวนมาก), หินสีน้ำตาล(เล็กน้อย)</Desc>
+		</Text>
+		<Text Name="DaXueYuan">
+			<DisplayName>แดนหิมะนิรันดร์</DisplayName>
+			<Desc>ผลผลิต: หินวิญญาณ(จำนวนมาก), ไม้(เล็กน้อย)</Desc>
+		</Text>
+		<Text Name="DaMo">
+			<DisplayName>ทะเลทรายไร้ขอบเขต</DisplayName>
+			<Desc>ผลผลิต: หินวิญญาณ(จำนวนมาก), หิน(เล็กน้อย)</Desc>
+		</Text>
+		<Text Name="NanHuang">
+			<DisplayName>ป่าแดนใต้</DisplayName>
+			<Desc>ผลผลิต: ไม้(จำนวนมาก)</Desc>
+		</Text>
+		<Text Name="OurPlace">
+			<DisplayName>ภูเขาแดนใต้</DisplayName>
+			<Desc>ผลผลิต: ไม้, หิน, ข้าวสาลี</Desc>
+		</Text>
+	</List>
+</Texts>

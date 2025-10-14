@@ -1,0 +1,172 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="OutFire">
+			<Events.0.Story>ในขณะที่กำลังดับไฟ จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.0.Story>
+			<Events.1.Story>ในขณะที่กำลังดับไฟ จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังดับไฟ จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังดับไฟ จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังดับไฟ จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังดับไฟ ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังดับไฟ จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังดับไฟ จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังดับไฟ จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังดับไฟ จู่ๆ [name] ก็เริ่มคิดถึงช่วงเวลาที่พระอาทิตย์ตก</Events.9.Story>
+		</Text>
+		<Text Name="Treat">
+			<Events.1.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังรักษา [obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าจิตใจจะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ก็ตั้งสมาธิให้ดีที่สุดและพยายามอย่างเต็มที่เพื่อที่จะรักษา [obj]</Events.10.Story>
+			<Events.11.Story>เนื่องจากจิตใจได้รับผลกระทบจาก[obj_badmood] [name] จึงไม่สามารถรักษาสมาธิของตนเองเอาไว้ในได้ขณะที่กำลังรักษา [obj] นี่จึงทำให้ [hename] ร้องออกมาด้วยความเจ็บปวด</Events.11.Story>
+			<Events.12.Story>เนื่องจากจิตใจได้รับผลกระทบจาก[obj_badmood] [name] จึงเผลอลงมือหนักไปในการรักษา [obj] นี่จึงทำให้ [hename] กรีดร้องออกมาด้วยความเจ็บปวด</Events.12.Story>
+			<Events.13.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังรักษา [obj] นี่จึงทำให้ [hename] ได้แต่พูดอะไรไม่ออก</Events.13.Story>
+			<Events.14.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังรักษา [obj] นี่จึงทำให้ [hename] รู้สึกมีกำลังใจขึ้นมา</Events.14.Story>
+			<Events.15.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังรักษา [obj] นี่จึงทำให้ [hename] รู้สึกมืดมนยิ่งกว่าเดิม</Events.15.Story>
+			<Events.16.Story>ในขณะที่กำลังรักษา [obj] จู่ๆ [name] ก็ใช้แรงมากเกินไป นี่จึงทำให้ [hename] ร้องออกมาด้วยความเจ็บปวด</Events.16.Story>
+			<Events.17.Story>ในขณะที่กำลังรักษา [obj] [name] รู้สึกสงสารและเห็นใจ [hename] </Events.17.Story>
+			<Events.18.Story>ในขณะที่กำลังรักษา [obj] [name] ได้พูดคุยกับ [hename] เกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool]</Events.18.Story>
+		</Text>
+		<Text Name="Feed">
+			<Events.1.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าจิตใจจะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ก็ตั้งสมาธิให้ดีที่สุดและพยายามอย่างเต็มที่เพื่อที่จะให้อาหาร [hename]</Events.10.Story>
+			<Events.11.Story>เนื่องจากจิตใจได้รับผลกระทบจาก[obj_badmood] [name] จึงไม่สามารถรักษาสมาธิของตนเองเอาไว้ในได้ขณะที่กำลังให้อาหาร [hename] [obj]นั้นร้อนจนเกินไป นี่จึงทำให้ [hename] ร้องออกมาด้วยความตกใจ</Events.11.Story>
+			<Events.12.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังป้อน[obj]ให้กับ [hename] นี่จึงทำให้ [hename] ได้แต่พูดอะไรไม่ออก</Events.12.Story>
+			<Events.13.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังป้อน[obj]ให้กับ [hename] นี่จึงทำให้ [hename] รู้สึกมีกำลังใจขึ้นมา</Events.13.Story>
+			<Events.14.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังป้อน[obj]ให้กับ [hename] นี่จึงทำให้ [hename] รู้สึกมืดมนยิ่งกว่าเดิม</Events.14.Story>
+			<Events.15.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังป้อน[obj]ให้กับ [hename] นี่จึงทำให้ [hename] รู้สึกหงุดหงิด</Events.15.Story>
+			<Events.16.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็รู้สึกเหม่อลอยจนทำให้[obj]กระจายไปเต็มหน้าของ [hename]</Events.16.Story>
+			<Events.17.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] จู่ๆ [name] ก็เริ่มรู้สึกอยากลองชิม[obj]ดู</Events.17.Story>
+			<Events.18.Story>ในขณะที่กำลังป้อน[obj]ให้กับ [hename] [name] ได้พูดคุยกับ [hename] เกี่ยวกับเรื่องของ[rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool]</Events.18.Story>
+		</Text>
+		<Text Name="Hunting">
+			<Events.1.Story>ในขณะที่กำลังล่า[obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังล่า[obj] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังล่า[obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังล่า[obj] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังล่า[obj] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังล่า[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังล่า[obj] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังล่า[obj] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังล่า[obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าจิตใจจะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ก็ตั้งสมาธิให้ดีที่สุดและพยายามอย่างเต็มที่เพื่อที่จะล่า[obj]</Events.10.Story>
+			<Events.11.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังล่า[obj]</Events.11.Story>
+			<Events.12.Story>ในขณะที่กำลังล่า[obj] จู่ๆ [name] ก็รู้สึกสงสาร[obj]ขึ้นมาด้วยเหตุผลบางอย่าง</Events.12.Story>
+		</Text>
+		<Text Name="Build">
+			<Events.1.Story>ในขณะที่กำลังสร้าง[obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังสร้าง[obj] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังสร้าง[obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังสร้าง[obj] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังสร้าง[obj] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังสร้าง[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังสร้าง[obj] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังสร้าง[obj] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังสร้าง[obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าจิตใจจะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ก็ตั้งสมาธิให้ดีที่สุดและพยายามอย่างเต็มที่เพื่อที่จะสร้าง[obj]</Events.10.Story>
+			<Events.11.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังสร้าง[obj]</Events.11.Story>
+			<Events.12.Story>[name] รู้สึกทุ่มเทให้กับงานของตนเองเป็นพิเศษในขณะที่สร้าง[obj] นี่จึงทำให้[it]รู้สึกภูมิใจในผลงานของตัวเองเป็นอย่างมาก</Events.12.Story>
+		</Text>
+		<Text Name="Plant">
+			<Events.1.Story>ในขณะที่กำลังปลูก[obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังปลูก[obj] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังปลูก[obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังปลูก[obj] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังปลูก[obj] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังปลูก[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังปลูก[obj] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังปลูก[obj] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังปลูก[obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าจิตใจจะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ก็ตั้งสมาธิให้ดีที่สุดและพยายามอย่างเต็มที่เพื่อที่จะปลูก[obj]</Events.10.Story>
+			<Events.11.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังปลูก[obj]</Events.11.Story>
+			<Events.12.Story>[name] รู้สึกเต็มไปด้วยความหวังในขณะที่กำลังปลูก[obj]: "ข้าหวังว่าเหล่าพืชพันธุ์ในฤดูนี้จะให้ผลผลิตที่ดี"</Events.12.Story>
+		</Text>
+		<Text Name="Mine">
+			<Events.1.Story>ในขณะที่กำลังขุด[obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังขุด[obj] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังขุด[obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังขุด[obj] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังขุด[obj] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังขุด[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังขุด[obj] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังขุด[obj] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังขุด[obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าจิตใจจะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ก็ตั้งสมาธิให้ดีที่สุดและพยายามอย่างเต็มที่เพื่อที่จะขุด[obj]</Events.10.Story>
+			<Events.11.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังขุด[obj]</Events.11.Story>
+			<Events.12.Story>[name] รู้สึกเต็มไปด้วยความหวังในขณะที่กำลังขุด[obj] "ถ้าหากข้าขุดพบถ้ำเซียนหรือกล่องสมบัติของเซียนก็คงจะดี..."</Events.12.Story>
+			<Events.13.Story>ในขณะที่กำลังขุด[obj] จู่ๆ [name] ก็รู้สึกท้อแท้ใจขึ้นมาอย่างกะทันหัน "เมื่อไรข้าจะได้เลื่อนขั้นเป็นศิษย์สายในซักทีนะ?"</Events.13.Story>
+			<Events.14.Story>[name] รู้สึกกระปรี้กระเปร่าอย่างบอกไม่ถูกในขณะที่กำลังขุด[obj] [it]คิดกับตัวเองว่านี่ก็เป็นส่วนสำคัญของการฝึกฝนเช่นกัน</Events.14.Story>
+		</Text>
+		<Text Name="CutOff">
+			<Events.1.Story>ในขณะที่กำลังเก็บ[obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังเก็บ[obj] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังเก็บ[obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังเก็บ[obj] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังเก็บ[obj] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังเก็บ[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังเก็บ[obj] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังเก็บ[obj] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังเก็บ[obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าจิตใจจะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ก็ตั้งสมาธิให้ดีที่สุดและพยายามอย่างเต็มที่เพื่อที่จะเก็บ[obj]</Events.10.Story>
+			<Events.11.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] และอดไม่ได้ที่จะฮัมเพลงออกมาอย่างมีความสุขในขณะที่กำลังเก็บ[obj]</Events.11.Story>
+			<Events.12.Story>[name] รู้สึกกระปรี้กระเปร่าอย่างบอกไม่ถูกในขณะที่กำลังเก็บ[obj] [it]คิดกับตัวเองว่านี่ก็เป็นส่วนสำคัญของการฝึกฝนเช่นกัน</Events.12.Story>
+		</Text>
+		<Text Name="Eat">
+			<Events.1.Story>ในขณะที่กำลังกิน[obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังกิน[obj] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังกิน[obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังกิน[obj] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังกิน[obj] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังกิน[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังกิน[obj] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังกิน[obj] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังกิน[obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>เนื่องจากจิตใจได้รับผลกระทบจาก[obj_badmood] [name] รู้สึกว่า[obj]ไร้รสชาติจนไม่ต่างอะไรไปกับการกินขี้ผึ้ง</Events.10.Story>
+			<Events.11.Story>[name] ร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood] นี่ทำให้[IT]รู้สึกว่า[obj]มันมีรสชาติที่อร่อยมากกว่าปกติ</Events.11.Story>
+		</Text>
+		<Text Name="Drink">
+			<Events.1.Story>ในขณะที่กำลังดื่ม[obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังดื่ม[obj] จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังดื่ม[obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังดื่ม[obj] จู่ๆ [name] ก็รู้สึกอยากดื่ม[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังดื่ม[obj] จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังดื่ม[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังดื่ม[obj] จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังดื่ม[obj] จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังดื่ม[obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+		</Text>
+		<Text Name="Fighting">
+			<Events.1.Story>ในขณะที่กำลังต่อสู้ จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังต่อสู้ จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังต่อสู้ จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังต่อสู้ จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>ในขณะที่กำลังต่อสู้ จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>ในขณะที่กำลังต่อสู้ ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>ในขณะที่กำลังต่อสู้ จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>ในขณะที่กำลังต่อสู้ จู่ๆ [name] ก็รู้สึกหงุดหงิดอย่างอธิบายไม่ถูกกับบางสิ่งบางอย่าง</Events.8.Story>
+			<Events.9.Story>ในขณะที่กำลังต่อสู้ จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>ในขณะที่กำลังต่อสู้ [name] ก็ได้ตัดสินใจว่ายามเมื่อการต่อสู้จบลง [IT]จะกลับไปยังบ้านเกิดเพื่อเยี่ยมครอบครัวของ[IT]</Events.10.Story>
+			<Events.11.Story>ในขณะที่กำลังต่อสู้ [name] ก็ได้ตัดสินใจว่ายามเมื่อการต่อสู้จบลง [IT]จะมองหาคู่ชีวิตซักคนหนึ่ง</Events.11.Story>
+			<Events.12.Story>ในขณะที่กำลังต่อสู้ [name] ก็ได้ตัดสินใจว่ายามเมื่อการต่อสู้จบลง [IT]จะพบจัดงานฉลองร่วมกับมิตรสหายและดื่มจนกว่าจะเมากันไปข้าง</Events.12.Story>
+		</Text>
+		<Text Name="Fishing">
+			<Events.1.Story>ในขณะที่กำลังตกปลา จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังตกปลา จู่ๆ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังตกปลา จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>ในขณะที่กำลังตกปลาจู่ๆ จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+		</Text>
+	</List>
+</Texts>

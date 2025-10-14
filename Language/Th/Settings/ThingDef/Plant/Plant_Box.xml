@@ -1,0 +1,40 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Box_Cargo" sParam="Plant">
+			<ThingName>กล่องใส่ของเก่า</ThingName>
+			<Desc>กล่องสินค้าที่ได้รับการเก็บรักษาไว้อย่างดี ดูเหมือนว่ามันจะสูญหายไปเนื่องจากความตื่นตระหนกของผู้คนที่หนีตายจากภัยสงคราม</Desc>
+			<StoryBnts.0.Name>สำรวจ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>สำรวจกล่องๆ นี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse" sParam="Plant">
+			<ThingName>ร่างที่เน่าเปื่อย</ThingName>
+			<Desc>ศพที่เน่าเปื่อยมานานแล้ว ไม่รู้ว่าร่างๆ นี้มาตายที่นี่ได้อย่างไร</Desc>
+			<StoryBnts.0.Name>สำรวจ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>สำรวจร่างๆ นี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan1" sParam="Plant">
+			<ThingName>ร่างที่เน่าเปื่อย</ThingName>
+			<Desc>ศพที่เน่าเปื่อยมานานแล้ว ไม่รู้ว่าร่างๆ นี้มาตายที่นี่ได้อย่างไร</Desc>
+			<StoryBnts.0.Name>สำรวจ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>สำรวจร่างๆ นี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan2" sParam="Plant">
+			<ThingName>ร่างที่เน่าเปื่อย</ThingName>
+			<Desc>ศพที่เน่าเปื่อยมานานแล้ว ไม่รู้ว่าร่างๆ นี้มาตายที่นี่ได้อย่างไร</Desc>
+			<StoryBnts.0.Name>สำรวจ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>สำรวจร่างๆ นี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_BeastMan" sParam="Plant">
+			<ThingName>ร่างที่เน่าเปื่อยครึ่งหนึ่ง</ThingName>
+			<Desc>ซากศพที่เน่าเปื่อยและข้าก็ไม่รู้ว่าทำไมพวกสัตว์ถึงไม่กินร่างๆ นี้</Desc>
+			<StoryBnts.0.Name>สัมผัส</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามติดต่อกับวิญญาณของเขาด้วยสัมผัสการรับรู้ทางวิญญาณ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_ShiXiong" sParam="Plant">
+			<ThingName>ศพที่เพิ่งตาย</ThingName>
+			<Desc>ศพที่เพิ่งจะตายที่นี่ได้ไม่นานมานี้ด้วยเหตุผลบางอย่าง</Desc>
+			<StoryBnts.0.Name>สำรวจ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>สำรวจร่างๆ นี้</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

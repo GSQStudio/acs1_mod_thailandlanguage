@@ -1,0 +1,202 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcFight_SneakValue">
+			<DisplayName>การซ่อนตัว</DisplayName>
+			<Desc>ขอบเขตที่ตัวละครถูกซ่อนไว้ขณะซ่อนตัว ยิ่งตัวเลขนี้มากเท่าไหร่ก็ยิ่งยากต่อการตรวจจับตัวละครเท่านั้น</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="PotentialOfBasepracticeAddValue">
+			<DisplayName>โบนัสศักยภาพ</DisplayName>
+			<Desc>ศักยภาพของตัวละครส่งผลต่อความเร็วของการฝึกพื้นฐานและประสิทธิภาพของปราณที่ได้รับการขัดเกลา</Desc>
+		</Text>
+		<Text Name="GodPenaltyAddV">
+			<DisplayName>โบนัสแต้มบาป</DisplayName>
+			<Desc>จำนวนแต้มบาปต้องตัวละคร</Desc>
+		</Text>
+		<Text Name="MaxAccumulativeLingAddV">
+			<DisplayName>โบนัสขีดจำกัดทะเลปราณ</DisplayName>
+			<Desc>โบนัสขีดจำกัดทะเลปราณ</Desc>
+		</Text>
+		<Text Name="BasepracticeSpeedCoefficient">
+			<DisplayName>โบนัสความเร็วในการฝึกพื้นฐาน</DisplayName>
+			<Desc>โบนัสความเร็วในการฝึกพื้นฐานของศิษย์สายนอก</Desc>
+			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="DeepPracticeSpeedSpecialCoefficient">
+			<DisplayName>โบนัสความเร็วในการบ่มเพาะ</DisplayName>
+			<Desc>โบนัสความเร็วในการบ่มเพาะปราณของผู้ฝึกตน</Desc>
+			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="MindStateBaseValue">
+			<DisplayName>ฐานสภาวะจิต</DisplayName>
+			<Desc>ฐานสภาวะจิตของศิษย์สายใน</Desc>
+			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficient">
+			<DisplayName>ระดับของสภาวะจิตที่มั่นคง</DisplayName>
+			<Desc>ความเร็วในการเปลี่ยนแปลงสภาวะจิตของศิษย์สายใน</Desc>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>อารมณ์ส่งผลต่อความเร็วในการเปลี่ยนแปลงสภาวะจิต</DisplayName>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficientByMoods_Easy">
+			<DisplayName>อารมณ์ส่งผลต่อความเร็วในการเปลี่ยนแปลงสภาวะจิต</DisplayName>
+		</Text>
+		<Text Name="InspirationCoefficient">
+			<DisplayName>อัตราความเร็วในการทำความเข้าใจเกี่ยวกับสิงต่างๆ</DisplayName>
+			<Desc>ยิ่งความฉลาดของบุคคลสูงเท่าไร พวกเขาก็จะเข้าใจสิ่งต่างๆ ในชีวิตได้ง่ายขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="LingAbsorbSpeed">
+			<DisplayName>โบนัสความเร็วในการดูดซับปราณ</DisplayName>
+		</Text>
+		<Text Name="_SPECIAL_NOADD_NpcLingMaxValue">
+			<DisplayName>ฐานปราณ</DisplayName>
+			<Desc>ค่าพื้นฐานตั้งต้นของปราณ</Desc>
+			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="NpcLingMaxValue">
+			<DisplayName>ปราณสูงสุด</DisplayName>
+			<Desc>จำนวนปริมาณปราณสูงสุดที่ตัวละครมี</Desc>
+			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_SpeedAddV">
+			<DisplayName>โบนัสความเร็วในการหลอมอาวุธวิเศษ</DisplayName>
+			<Desc>โบนัสความเร็วในการหลอมอาวุธวิเศษ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_SuccessRateAddV">
+			<DisplayName>โบนัสอัตราความสำเร็จในการหลอมอาวุธวิเศษ</DisplayName>
+			<Desc>โบนัสอัตราความสำเร็จในการหลอมอาวุธวิเศษ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_LingInheritRateAddV">
+			<DisplayName>โบนัสระดับของอาวุธวิเศษที่สร้างออกมา</DisplayName>
+			<Desc>ผลลัพธ์ของระดับของอาวุธวิเศษเมื่อทำการหลอมอาวุธวิเศษออกมา</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_QualityAddV">
+			<DisplayName>โบนัสคุณภาพของอาวุธวิเศษที่สร้างออกมา</DisplayName>
+			<Desc>ผลลัพธ์ของคุณภาพของอาวุธวิเศษเมื่อทำการหลอมอาวุธวิเศษออกมา</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_TwelveRateChance">
+			<DisplayName>ฐานอัตราความสำเร็จในการหลอมอาวุธวิเศษ</DisplayName>
+			<Desc>อัตราพื้นฐานความสำเร็จในการหลอมอาวุธวิเศษ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="DanMake_Speed">
+			<DisplayName>ความเร็วในการหลอมโอสถ</DisplayName>
+			<Desc>ความเร็วในการหลอมโอสถโด้ยอ้างอิงจากทักษะการหลอมโอสถ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SpeedAddV">
+			<DisplayName>โบนัสความเร็วในการหลอมโอสถ</DisplayName>
+			<Desc>โบนัสความเร็วในการหลอมโอสถ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SuccessRate">
+			<DisplayName>อัตราความสำเร็จในการหลอมโอสถ</DisplayName>
+			<Desc>อัตราความสำเร็จในการหลอมโอสถโด้ยอ้างอิงจากทักษะหลอมโอสถ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SuccessRateAddV">
+			<DisplayName>โบนัสอัตราความสำเร็จในการหลอมโอสถ</DisplayName>
+			<Desc>โบนัสอัตราความสำเร็จในการหลอมโอสถ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="DanMake_Yield">
+			<DisplayName>จำนวนของโอสถที่หลอมออกมา</DisplayName>
+			<Desc>จำนวนของโอสถที่หลอมออกมาโดยอิงจากทักษะหลอมโอสถ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="DanMake_YieldAddP">
+			<DisplayName>โบนัสจำนวนของโอสถที่หลอมออกมา</DisplayName>
+			<Desc>โบนัสจำนวนของโอสถที่หลอมออกมา</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="PracticeRateAddPFromDan">
+			<DisplayName>โบนัสอัตราความสำเร็จในการทะลวงขอบเขต</DisplayName>
+			<Desc>โบนัสอัตราความสำเร็จในการทะลวงขอบเขต</Desc>
+		</Text>
+		<Text Name="WorldMapFlySpeed">
+			<DisplayName>ความเร็วบินในการผจญภัย</DisplayName>
+			<DisplayValue>{0:N1} กม/ปราณ</DisplayValue>
+			<Desc>ความเร็วบินสูงสุดในการผจญภัย</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="WorldMapFlySpeedAddP">
+			<DisplayName>โบนัสความเร็วบินในการผจญภัย</DisplayName>
+			<Desc>ความเร็วสูงสุดในการบินยามออกผจญภัย</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="ExperienceNeckTimeCostCoefficient">
+			<DisplayName>ตัวคูณอัตราความสำเร็จในการทะลวงขอบเขต</DisplayName>
+			<Desc>ตัวคูณอัตราความสำเร็จในการทะลวงขอบเขตยามเมื่อผู้ฝึกตนทำการทะลวงขอบเขต</Desc>
+		</Text>
+		<Text Name="NeckCountdownAddV">
+			<DisplayName>ระยะเวลาที่ยืดออกในการทะลวงขอบเขต</DisplayName>
+			<DisplayValue>{0:N0} วินาที</DisplayValue>
+			<Desc>เวลาที่เหลือเพื่อดำเนินการการทะลวงขอบเขต</Desc>
+		</Text>
+		<Text Name="EsotericaNum">
+			<DisplayName>จำนวนคัมภีร์สูงสุด</DisplayName>
+			<Desc>จำนวนสูงสุดของคัมภีร์ที่มี</Desc>
+		</Text>
+		<Text Name="AbilityLvAddV">
+			<DisplayName>โบนัสเมล็ดเต๋า</DisplayName>
+			<Desc>โบนัสเมล็ดเต๋า</Desc>
+			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="ExperiencePrestigeAddP">
+			<DisplayName>ตัวคูณชื่อเสียง</DisplayName>
+			<Desc>ตัวคูณโบนัสสำหรับการได้รับชื่อเสียงจากการผจญภัย</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="ExperienceFindSpeedAddV">
+			<DisplayName>ความเร็วในการสำรวจของการผจญภัย</DisplayName>
+			<Desc>โบนัสความเร็วเมื่อออกสำรวจพื้นที่ใหม่ในระหว่างการผจญภัย</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="NutritionToJingYuanK">
+			<DisplayName>อัตราการได้รับพลังกาย</DisplayName>
+			<Desc>อัตราการแปลงพลังกายสำหรับจุดอิ่มตัวแต่ละจุด</Desc>
+			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="NutritionWaterAutoRecover">
+			<DisplayName>ประสืทธิภาพการดูดซับปราณ</DisplayName>
+			<DisplayValue>{0:N2}/วิ</DisplayValue>
+			<Desc>ความสามารถในการดูดซับพลังงานโดยตรงจากสวรรค์และโลกเพื่อระงับความหิวและความกระหาย</Desc>
+			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="YaoShou_BaseLing">
+			<DisplayName>ปราณอสูร</DisplayName>
+			<Desc>ปราณอสูร</Desc>
+		</Text>
+		<Text Name="YaoShou_BaseAttack">
+			<DisplayName>พลังโจมตีอสูร</DisplayName>
+			<Desc>พลังโจมตีอสูร</Desc>
+		</Text>
+		<Text Name="YaoShou_BaseFabaoNum">
+			<DisplayName>คุณภาพอาวุธวิเศษอสูร</DisplayName>
+			<Desc>คุณภาพอาวุธวิเศษอสูร</Desc>
+		</Text>
+		<Text Name="GongMatch_JinAddV">
+			<DisplayName>โบนัสการจับคู่วิชาการบ่มเพาะธาตุทอง</DisplayName>
+		</Text>
+		<Text Name="GongMatch_MuAddV">
+			<DisplayName>โบนัสการจับคู่วิชาการบ่มเพาะธาตุไม้</DisplayName>
+		</Text>
+		<Text Name="GongMatch_ShuiAddV">
+			<DisplayName>โบนัสการจับคู่วิชาการบ่มเพาะธาตุน้ำ</DisplayName>
+		</Text>
+		<Text Name="GongMatch_HuoAddV">
+			<DisplayName>โบนัสการจับคู่วิชาการบ่มเพาะธาตุไฟ</DisplayName>
+		</Text>
+		<Text Name="GongMatch_TuAddV">
+			<DisplayName>โบนัสการจับคู่วิชาการบ่มเพาะธาตุดิน</DisplayName>
+		</Text>
+		<Text Name="GongMatch_NoneAddV">
+			<DisplayName>โบนัสการจับคู่วิชาการบ่มเพาะไร้ธาตุ</DisplayName>
+		</Text>
+	</List>
+</Texts>

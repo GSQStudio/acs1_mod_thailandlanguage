@@ -1,0 +1,54 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FightSkillEsoterica_1">
+			<DisplayName>ฝ่าลมมือปราณ</DisplayName>
+			<Desc>วิชาพื้นฐานที่ผู้ฝึกตนมักจะฝึกฝน มันเป็นการรวบรวมลมปาณเอาไว้ที่ฝ่ามือและปล่อยมันออกไปยังเป้าหมาย</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: ฝ่ามือลมปราณ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_2">
+			<DisplayName>พายุอัคคี</DisplayName>
+			<Desc>รวบรวมจิตแห่งไฟระหว่างสวรรค์และโลกเพื่อเผาเป้าหมายให้เป็นเถ้าถ่าน</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: พายุอัคคี[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_3">
+			<DisplayName>อัสนีเทวะ</DisplayName>
+			<Desc>รวบรวมจิตแห่งธาตุทองผ่านสวรรค์และโลก ทำการเรียกสายฟ้าฟาดฟันไปยังศัตรู</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: อัสนีเทวะ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_4">
+			<DisplayName>ทลายวิญญาณ</DisplayName>
+			<Desc>ปล่อยแสงศักดิ์สิทธิ์ออกไปด้วยความเร็วที่น่าเหลือเชื่อเพื่อทำลายวิญญาณของเป้าหมาย</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: ทลายวิญญาณ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong1_1">
+			<DisplayName>สายธารสวรรค์</DisplayName>
+			<Desc>ใช้พลังของสายธารโบราณแห่งระหว่างสวรรค์และโลกเพื่อฟื้นฟูพลังปราณให้แก่พันธมิตรทั้งหมด</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: สายธารสวรรค์[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong3_1">
+			<DisplayName>กระบี่เสียงสะท้อน</DisplayName>
+			<Desc>สะท้อนจิตวิญญาณของตนเองสั่นพ้องกับอาวุธวิเศษ ช่วยเพิ่มพลังของอาวุธวิเศษเป็นอย่างมาก</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: กระบี่เสียงสะท้อน[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_1">
+			<DisplayName>โกลาหลสู่ว่างเปล่า</DisplayName>
+			<Desc>กระตุ้นพลังแห่งความโกลาหลเพื่อเปิดประตูสู่ความว่างเปล่า สร้างความเสียหายอย่างหนักให้แก่ศัตรูทั้งหมด</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: โกลาหลสู่ว่างเปล่า[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_2">
+			<DisplayName>โล่วิญญาณ</DisplayName>
+			<Desc>เพิ่มเกราะลมปราณให้แก่พันธมิตรทั้งหมด</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: โล่วิญญาณ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_3">
+			<DisplayName>คาถาฟื้นฟูปราณ</DisplayName>
+			<Desc>ดึงพลังแห่งผืนป่ามาเพื่อฟื้นฟูปราณของตัวเอง</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: คาถาฟื้นฟูปราณ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong9_1">
+			<DisplayName>วัฏจักรย้อนกลับ</DisplayName>
+			<Desc>ใช้กฎแห่งวัฏจักรเป็นตายเพื่อฟื้นฟูปราณของตัวเองอย่างมหาศาล</Desc>
+			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: วัฏจักรย้อนกลับ[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

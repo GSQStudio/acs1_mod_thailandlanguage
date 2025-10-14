@@ -1,0 +1,12 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Darksteel" sParam="Plant">
+			<Desc>ขุมทรัพย์แห่งสวรรค์และปฐพี แก่นแท้ของปราณที่ควบแน่นของเหล็กนิลกาฬในสายชีพจรปฐพี</Desc>
+			<ThingName>สายชีพจรเหล็กนิลกาฬ</ThingName>
+		</Text>
+		<Text Name="LingStone" sParam="Plant">
+			<Desc>แหล่งพื้นฐานของปราณทั้งหมด เมื่อมันได้รับความเสียหาย ปราณทั้งหมดในบริเวณนั้นจะแตกดับ</Desc>
+			<ThingName>สายชีพจรวิญญาณ</ThingName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,29 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Ls_School_Panda">
+			<DisplayName>ทูตแห่งเซียน</DisplayName>
+			<Desc>แพนด้าเซียนเซียนพยายามที่จะเชื่อมสัมพันธไมตรีระหว่างสำนักพวกเรากับ[SCHOOL]</Desc>
+			<Selections.0.Display>ตกลง</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_FindPanda">
+			<DisplayName>หยกแพนด้า</DisplayName>
+			<Desc>ว่ากันว่ามีหยกประหลาดอยู่ชิ้นหนึ่งภายในป่าไผ่ใหญ่ มันมีลักษณะมีสีขาวครึ่งและสีดำครึ่ง มันดูเหมือนว่าจะเป็นมรดกตกทอดของพวกแพนด้า</Desc>
+			<Selections.0.Display>ค้นหาอย่างรอบคอบ</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_CallPanda">
+			<DisplayName>ทำลาย</DisplayName>
+			<Desc>หยกนี้ประกอบด้วยลมหายใจสองแบบคือหยินและหยาง มันเป็นการผสมผสานกันระหว่างความน่ารักและความน่าเกรงขาม</Desc>
+			<Selections.0.Display>ทำลาย</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Fish">
+			<DisplayName>การรู้แจ้งครั้งแรก</DisplayName>
+			<Desc>[NAME] ได้รับแนวคิดใหม่!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="Little_Panda">
+			<DisplayName>แพนด้าซิวซิว</DisplayName>
+			<Desc>ซิวซิวแพนด้าอีกตัวมาได้ที่นี่หลังจากได้ยินเสียงของเซียนเซียน!</Desc>
+			<Selections.0.Display>ยินดีต้อนรับ</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

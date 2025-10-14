@@ -1,0 +1,175 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LsXuanWu_Carve" sParam="Building">
+			<ThingName>รูปสลักเต่าดำ</ThingName>
+			<Desc>รูปสลักเต่าดำ สามารถใช้เพื่อคืนชีพให้กับเต่าดำได้</Desc>
+		</Text>
+		<Text Name="ZhenWuCarve" sParam="Building">
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+			<ThingName>รูปสลักเทพจักรพรรดินักรบ</ThingName>
+			<Desc>รูปปั้นศักดิ์สิทธิ์ของเทพจักรพรรดินักรบสำหรับการสักการะด้วยอานุภาพอันศักดิ์สิทธิ์ที่ไม่อาจขัดขืนและพรอันไร้ขอบเขต</Desc>
+		</Text>
+		<Text Name="TurTleMonu" sParam="Building">
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+			<ThingName>ศิลาจารึกแห่งปี้ซี</ThingName>
+			<Desc>ในตำนานเล่าว่าเมื่อพันปีที่แล้วต้าหยูผู้พิชิตได้ฝึกเต่าดำปี้ซีให้เชื่อง ใช้ขุดลอกแม่น้ำ,ระบายน้ำในทะเลสาบและสยบน้ำท่วม เหตุการณ์ทั้งหมดได้รับการบันทึกไว้ในศิลาจารึกแห่งนี้</Desc>
+		</Text>
+		<Text Name="IncenseTripod" sParam="Building">
+			<ThingName>กระถางธูปเต๋า</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+			<Desc>กระถางธูปลัทธิเต๋าที่ใช้จุดธูปเพื่อทำให้จิตใจสงบ</Desc>
+		</Text>
+		<Text Name="DragonIncense" sParam="Building">
+			<ThingName>กระถางธูปหัวมังกร</ThingName>
+			<StoryBnts.0.Name>สักการะ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>สักการะกระถางธูปหัวมังกร</StoryBnts.0.Desc>
+			<Desc>มันถูกเก็บไว้บนตำนักผาใต้แห่งภูเขาบู๊ตึ้ง ผู้ที่ต้องการสักการะจะต้องปีขึ้นไปโดยใช้สองมือและสี่เท้าเพื่อถวายธูปหอม หนึ่งความผิดพลาดจะนำไปสู่การตกลงมาจากภูเขา</Desc>
+		</Text>
+		<Text Name="RedWallDownLeft" sParam="Building">
+			<ThingName>กำแพงแดงมุม (L)</ThingName>
+			<Desc>กำแพงที่มีเอกลักษณ์เฉพาะของสำนักบู๊ตึ้ึง แม้ว่าจะยิ่งใหญ่และน่าประทับใจ แต่ก็ไม่สามารถใช้สร้างห้องได้</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallDownLeft2" sParam="Building">
+			<ThingName>กำแพงแดงมุม (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeft" sParam="Building">
+			<ThingName>กำแพงแดงมุม (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeft2" sParam="Building">
+			<ThingName>กำแพงแดงมุม (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidUp" sParam="Building">
+			<ThingName>กำแพงแดงด้านข้าง (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidUp2" sParam="Building">
+			<ThingName>กำแพงแดงด้านข้าง (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidRight" sParam="Building">
+			<ThingName>กำแพงแดงด้านข้าง (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidRight2" sParam="Building">
+			<ThingName>กำแพงแดงด้านข้าง (L)</ThingName>
+		</Text>
+		<Text Name="RedWallVertical" sParam="Building">
+			<ThingName>กำแพงแดงตรงกลาง (L)</ThingName>
+		</Text>
+		<Text Name="RedWallVerticalHalf" sParam="Building">
+			<ThingName>กำแพงแดงจุดปิด (L)</ThingName>
+		</Text>
+		<Text Name="RedWallHorizontalHalf" sParam="Building">
+			<ThingName>กำแพงแดงจุดปิด (L)</ThingName>
+		</Text>
+		<Text Name="RedWallHorizontal" sParam="Building">
+			<ThingName>กำแพงแดง (L)</ThingName>
+		</Text>
+		<Text Name="RedWallDownLeftTiny" sParam="Building">
+			<ThingName>กำแพงแดงมุมเล็ก (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeftTiny" sParam="Building">
+			<ThingName>กำแพงแดงมุมเล็ก (L)</ThingName>
+		</Text>
+		<Text Name="RedWallGate" sParam="Building">
+			<ThingName>เจดีย์ลัทธิเต๋า</ThingName>
+			<Desc>เจดีย์ลัทธิเต๋าที่ยิ่งใหญ่และดูเคร่งขรึม</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallDrum" sParam="Building">
+			<ThingName>กลองไทเก๊ก</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+			<Desc>สิ่งตกแต่งทั่วไป มันส่งผลกระทบต่อธาตุทั้งห้าของสภาพแวดล้อมตามวัสดุที่ใช้สร้างมัน</Desc>
+		</Text>
+		<Text Name="WuDangBigGate" sParam="Building">
+			<ThingName>ประตูบู๊ตึ้ง</ThingName>
+			<Desc>ประตูอันยิ่งใหญ่ของสำนักบู้ตึ้ง</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangScreen" sParam="Building">
+			<ThingName>ฉากหงส์ทมิฬ</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangFlag" sParam="Building">
+			<ThingName>ธงบู๊ตึ้ง</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXiangLu" sParam="Building">
+			<ThingName>กระถางมังกร</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangPuTuan" sParam="Building">
+			<ThingName>ฝูกสามวิถี</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXianHeDeng" sParam="Building">
+			<ThingName>โคมไฟเทพธิดาหลิงเหอ</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangDivine" sParam="Building">
+			<ThingName>จานเมฆาศักดิ์สิทธิ์</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+			<Desc>สิ่งปลูกสร้างอันเป็นเอกลักษณ์ของเทือกเขาบู๊ตึ้ง มันได้สลักชื่ออันศักดิ์สิทธิ์ของเทพจักรพรรดินักรบ</Desc>
+		</Text>
+		<Text Name="WuDangJinDian" sParam="Building">
+			<ThingName>โถงทองคำ</ThingName>
+			<Desc>สิ่งปลูกสร้างปาฏิหาริย์อันน่าอัศจรรย์ที่ตั้งอยู่บนยอดเขาของสำนักบู๊ตึ้ง มันได้รับพรจากพลังอันศักดิ์สิทธิ์ของเทพจักรพรรดินักรบ อีกทั้งมันยังมีสุดยอดวิชาลับแห่งบู๊ตึ้งซ่อนอยู่ภายใน ว่ากันว่ามีเพียงผู้ที่มีวาสนาเท่านั้นที่สามารถค้นหามันเจอ</Desc>
+			<StoryBnts.0.Name>แนวคิด</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ใคร่ครวญถึงมรรคาแห่งสวรรค์ที่สถิตอยู่ภายในนั้น</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng" sParam="Building">
+			<ThingName>โคมไฟเต่าดำ</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChaShu1" sParam="Building">
+			<ThingName>ต้นชาบนเมฆ</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChaShu2" sParam="Building">
+			<ThingName>ต้นชาบนเมฆ</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong1" sParam="Building">
+			<ThingName>ต้นสนบู๊ตึ้ง</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างชิ้นนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_WuDangSong2" sParam="Building">
+			<ThingName>ต้นสนบู๊ตึ้ง</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong3" sParam="Building">
+			<ThingName>ต้นสนบู๊ตึ้ง</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong4" sParam="Building">
+			<ThingName>ต้นสนบู๊ตึ้ง</ThingName>
+		</Text>
+		<Text Name="Table_TaiZi" sParam="Building">
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShiBei_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

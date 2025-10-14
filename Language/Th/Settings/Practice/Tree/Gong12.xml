@@ -1,0 +1,82 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong12_a0">
+			<DisplayName>ชำระจิต</DisplayName>
+		</Text>
+		<Text Name="Gong12_a4">
+			<DisplayName>บันทึกยันต์พื้นฐาน</DisplayName>
+		</Text>
+		<Text Name="Gong12_a8">
+			<DisplayName>ปราณบรรจบเมฆ</DisplayName>
+		</Text>
+		<Text Name="Gong12_b0">
+			<DisplayName>ลมหายใจวิญญาณ</DisplayName>
+		</Text>
+		<Text Name="Gong12_b3">
+			<DisplayName>บันทึกยันต์กระบี่</DisplayName>
+		</Text>
+		<Text Name="Gong12_b3_1">
+			<DisplayName>ยันต์กระบี่เทวะ</DisplayName>
+		</Text>
+		<Text Name="Gong12_b4">
+			<DisplayName>บันทึกยันต์ลึกลับ</DisplayName>
+		</Text>
+		<Text Name="Gong12_b4_1">
+			<DisplayName>ยันต์สวรรค์ลี้ลับ</DisplayName>
+		</Text>
+		<Text Name="Gong12_b5">
+			<DisplayName>บันทึกยันต์ปราณเวท</DisplayName>
+		</Text>
+		<Text Name="Gong12_b5_1">
+			<DisplayName>ยันต์เวทเทวะ</DisplayName>
+		</Text>
+		<Text Name="Gong12_b8">
+			<DisplayName>ผสานเมฆา</DisplayName>
+		</Text>
+		<Text Name="Gong12_c0">
+			<DisplayName>เพ่งจิตฝึกปราณ</DisplayName>
+		</Text>
+		<Text Name="Gong12_c1">
+			<DisplayName>คัมภีร์ภาวนาทำนองสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong12_c4">
+			<DisplayName>ยันต์สัมผัสสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong12_c8">
+			<DisplayName>สวรรค์บรรพกาล</DisplayName>
+		</Text>
+		<Text Name="Gong12_d3">
+			<DisplayName>ยันต์เหนือฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong12_d4">
+			<DisplayName>ยันต์เมล็ดเต๋า</DisplayName>
+		</Text>
+		<Text Name="Gong12_d4_1">
+			<DisplayName>ยันต์ซ่อนสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong12_d5">
+			<DisplayName>ย่างก้าวเหนือเมฆา</DisplayName>
+		</Text>
+		<Text Name="Gong12_d8">
+			<DisplayName>ตำราการตัดวิญญาณแห่งวิหารพฤกษาบูรพา</DisplayName>
+		</Text>
+		<Text Name="Gong12_d8_1">
+			<DisplayName>ตำราการตัดวิญญาณแห่งวิหารพฤกษาบูรพา</DisplayName>
+		</Text>
+		<Text Name="Gong12_d8_2">
+			<DisplayName>ตำราการตัดวิญญาณแห่งวิหารพฤกษาบูรพา</DisplayName>
+		</Text>
+		<Text Name="Gong12_d8_3">
+			<DisplayName>ตำราการตัดวิญญาณแห่งวิหารพฤกษาบูรพา</DisplayName>
+		</Text>
+		<Text Name="Gong12_d10">
+			<DisplayName>แยกวิญญาณ</DisplayName>
+		</Text>
+		<Text Name="Gong1_e4">
+			<DisplayName>โอสถเทพวิถีฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong1_e8">
+			<DisplayName>ทักษะหลอมวิถีสวรรค์</DisplayName>
+		</Text>
+	</List>
+</Texts>

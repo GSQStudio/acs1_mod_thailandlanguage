@@ -1,0 +1,79 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="FengShui" sParam="Building">
+			<ThingName>ผังดวงดาว</ThingName>
+			<Desc>โครงสร้างที่ใช้ในการสังเกตองค์ประกอบธาตุทั้งห้า, ฮวงจุ้ย, และการกระจายตัวของปราณ</Desc>
+		</Text>
+		<Text Name="TheGate" sParam="Building">
+			<ThingName>ศิลาจารึกสำนัก</ThingName>
+			<Desc>เป็นสัญลักษณ์สำคัญของสำนัก</Desc>
+		</Text>
+		<Text Name="Build_TheBigGate" sParam="Building">
+			<ThingName>ประตูสำนัก</ThingName>
+			<Desc>ประตูอันยิ่งใหญ่ของสำนัก</Desc>
+		</Text>
+		<Text Name="Cushion" sParam="Building">
+			<ThingName>เบาะนั่ง</ThingName>
+			<Desc>เบาะนุ่มสำหรับนั่งฝึกฝน</Desc>
+		</Text>
+		<Text Name="Building_MagicCushion" sParam="Building">
+			<ThingName>เบาะปราณ</ThingName>
+			<Desc>เบาะที่ใช้เฉพาะสำหรับการบ่มเพาะ มันสามารถเก็บรวบรวมปราณได้</Desc>
+		</Text>
+		<Text Name="BasePracticePlace" sParam="Building">
+			<ThingName>จุดฝึกพื้นฐาน</ThingName>
+			<Desc>ไม่ต้องการวัสดุใดๆ ในการสร้าง เพียงแค่จุดที่กำหนดสำหรับการฝึกพื้นฐานของศิษย์สายนอก</Desc>
+		</Text>
+		<Text Name="PuppetPlace" sParam="Building">
+			<ThingName>จุดพักหุ่นเชิด</ThingName>
+			<Desc>หุ่นเชิดจะเดินกลับที่นี่หากมันไม่มีงานทำ</Desc>
+		</Text>
+		<Text Name="TrainingDummy" sParam="Building">
+			<ThingName>หุ่นไม้</ThingName>
+			<Desc>อุปกรณ์ที่ใช้สำหรับการฝึกพื้นฐานของศิษย์สายนอก</Desc>
+		</Text>
+		<Text Name="ExploreBackPlace" sParam="Building">
+			<ThingName>จุดวางรางวัล</ThingName>
+			<Desc>หลังจากที่ศิษย์สายในกลับมาจากการผจญภัย พวกเขาจะนำรางวัลของพวกเขามาไว้ที่นี่</Desc>
+		</Text>
+		<Text Name="Building_Statue1" sParam="Building">
+			<ThingName>รูปปั้นราชาคุณธรรม</ThingName>
+			<Desc>รูปปั้นขนาดยักษ์ของราชาแห่งคุณธรรม</Desc>
+		</Text>
+		<Text Name="Building_Statue2" sParam="Building">
+			<ThingName>รูปปั้นราชาปฐมกาล</ThingName>
+			<Desc>รูปปั้นขนาดยักษ์ของราชาแห่งปฐมกาล</Desc>
+		</Text>
+		<Text Name="Building_Statue3" sParam="Building">
+			<ThingName>รูปปั้นราชาสมบัติ</ThingName>
+			<Desc>รูปปั้นขนาดยักษ์ของราชาแห่งสมบัติ</Desc>
+		</Text>
+		<Text Name="Building_SacrificialTable" sParam="Building">
+			<ThingName>ศาลเจ้าบรรพบุรุษ</ThingName>
+			<Desc>ศาลเจ้าที่ใช้เป็นที่ทำความเคารพและสักการะบูชาบรรพบุรุษ</Desc>
+		</Text>
+		<Text Name="DanStove" sParam="Building">
+			<ThingName>เตาหลอมโอสถ</ThingName>
+			<Desc>สถานที่ที่ใช้ในการหลอมโอสถ</Desc>
+		</Text>
+		<Text Name="DanStove_Part" sParam="Building">
+			<ThingName>Furnace Part (Dev)</ThingName>
+		</Text>
+		<Text Name="RefiningCushion" sParam="Building">
+			<ThingName>เตาหลอมอาวุธวิเศษ</ThingName>
+			<Desc>สถานที่ที่ใช้ในการหลอมอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="Building_SleeveSpace" sParam="Building">
+			<ThingName>จักรวาลย่อส่วน</ThingName>
+			<Desc>มิติอวกาศที่ไม่เสถียรซึ่งสร้างขึ้นโดยการควบคุมพลังจากผลึกมิติกาลอวกาศและเสริมด้วยวัสดุล้ำค่าแห่งธาตุทั้งห้า ซึ่งสามารถใช้เก็บไอเท็มได้ และด้วยเพราะความไม่เสถียรนี้เอง จึงทำให้มิติแห่งนี้สามารถเก็บสิ่งของต่างๆ เข้าออกได้</Desc>
+			<StoryBnts.0.Name>เก็บของ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ทำการเก็บรวบรวมสิ่งของต่างๆ บนแผนที่ที่ไม่ถูกปกคลุมด้วยหมอกและไม่ใช้สิ่งของวิเศษเข้าไปในจักรวาลย่อส่วน</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>ตรวจสอบ</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>ใช้จิตสัมผัสวิญญาณตรวจสอบสิ่งที่อยู่ในจักรวาลย่อส่วน</StoryBnts.1.Desc>
+		</Text>
+		<Text Name="Building_SleeveSpace1" sParam="Building">
+			<ThingName>ประตูจักรวาลย่อส่วน</ThingName>
+			<Desc>ประตูขนาดเล็กที่เชื่อมต่อกับจักรวาลย่อส่วน มันสามารถดึงเอาสิ่งของภายในนั้นออกมาได้</Desc>
+		</Text>
+	</List>
+</Texts>

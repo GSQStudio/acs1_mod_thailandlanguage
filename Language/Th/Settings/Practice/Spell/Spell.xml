@@ -1,0 +1,240 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Spell_SYSLOST">
+			<DisplayName>ว่างเปล่า</DisplayName>
+			<Desc>สิ่งปลูกสร้างที่สูญหายซึ่งไม่มีใครรู้จัก\n(ว่างเปล่า)</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed1">
+			<DisplayName>ยันต์ว่องไว</DisplayName>
+			<Desc>เพิ่มความเร็วการเคลื่อนที่</Desc>
+		</Text>
+		<Text Name="Spell_TempLow1">
+			<DisplayName>ยันต์ต้านไอเย็น</DisplayName>
+			<Desc>เพิ่มความต้านทานต่อความหนาวเย็น</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh1">
+			<DisplayName>ยันต์ต้านความร้อน</DisplayName>
+			<Desc>เพิ่มความต้านทานต่อความร้อน</Desc>
+		</Text>
+		<Text Name="Spell_ReadNovel">
+			<DisplayName>ยันต์เรื่องเล่า</DisplayName>
+			<Desc>ยันต์แปลก ๆ จากที่ไหนสักแห่ง มันสามารถวาดได้ง่าย และก็ให้ผลลัพธ์ที่ค่อนข้างประหลาด ดังนั้นจึงมันแพร่กระจายอย่างกว้างขวางในโลกแห่งผู้ฝึกตน หลังจากติดตั้งแล้ว ก็สามารถมุ่งความสนใจไปที่ยันต์นี้และดูเรื่องราวดีๆ มากมายจากเว็บโนเวลและเผยแพร่ออกไป อย่างไรก็ตาม มันจะดึงดูดความสนใจของคนๆ หนึ่งได้ง่าย ทำให้คนๆ นั้นทำงานช้าลง อีกทั้งยังส่งผลให้ความเร็วในการบ่มเพาะช้าลงอีกด้วย\n[color=#D06508]ขอบคุณ Webnovel APP ที่สนับสนุนเกมของเรา[/color]</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed2">
+			<DisplayName>ยันต์เหินฟ้า</DisplayName>
+			<Desc>เพิ่มความเร็วในการเคลื่อนที่และความเร็วในการบินผจญภัย</Desc>
+		</Text>
+		<Text Name="Spell_RecoveryPower">
+			<DisplayName>ยันต์เยียวยา</DisplayName>
+			<Desc>เพิ่มอัตราการฟื้นตัวตามธรรมชาติ</Desc>
+		</Text>
+		<Text Name="Spell_VisionRadius">
+			<DisplayName>ยันต์วิสัยทัศน์</DisplayName>
+			<Desc>ยกระดับระยะการมองเห็นและลดเวลาที่ใช้ในการสำรวจสถานที่ใหม่ในการผจญภัย</Desc>
+		</Text>
+		<Text Name="Spell_Fatigue">
+			<DisplayName>ยันต์หลับฝันนดี</DisplayName>
+			<Desc>ปรับปรุงคุณภาพการนอนหลับและลดอาการเมื่อยล้า</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition">
+			<DisplayName>ยันต์ดูดปราณ</DisplayName>
+			<Desc>เพิ่มประสิทธิภาพและความเร็วในการดูดซับปราณ</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition1">
+			<DisplayName>ยันต์อดอาหาร</DisplayName>
+			<Desc>ลดอัตราการบริโภคอาหาร</Desc>
+		</Text>
+		<Text Name="Spell_Hide">
+			<DisplayName>ยันต์ล่องหน</DisplayName>
+			<Desc>ซ่อนตัวตนของผู้ใช้ในระดับหนึ่ง ทำให้ผู้อื่นสามารถระบุตัวตนของผู้ใช้ได้น้อยลงระหว่างการผจญภัย ส่งผลให้ลดโอกาสในการได้รับชื่อเสียงสำนัก</Desc>
+		</Text>
+		<Text Name="Spell_Happy">
+			<DisplayName>ยันต์อารมณ์ดี</DisplayName>
+			<Desc>ยกระดับสภาพอารมณ์และลดความต้องสิ่งบันเทิงใจ</Desc>
+		</Text>
+		<Text Name="Spell_LunHui_ShenShen">
+			<DisplayName>ยันต์ภาวนา</DisplayName>
+			<Desc>ยันต์ที่เกิดจากคำอธิษฐานของผู้อื่น มันมีความสามารถในการยกระดับสภาพอารมณ์และรักษาสภาวะจิตให้คงที่</Desc>
+		</Text>
+		<Text Name="Spell_TempLow2">
+			<DisplayName>ยันต์มหาตะวัน</DisplayName>
+			<Desc>เพิ่มความต้านทานต่อความหนาวเย็นเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh2">
+			<DisplayName>ยันต์มหาจันทรา</DisplayName>
+			<Desc>เพิ่มความต้านทานต่อความร้อนเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Spell_Intelligence">
+			<DisplayName>ยันต์จิตแจ่มใส</DisplayName>
+			<Desc>ทำจิตใจให้ปลอดโปร่งและเพิ่มประสิทธิภาพในการเรียนรู้</Desc>
+		</Text>
+		<Text Name="Spell_Fight">
+			<DisplayName>ยันต์การทหาร</DisplayName>
+			<Desc>เพิ่มความสามารถในการต่อสู้และความอดทนต่อความเจ็บปวด</Desc>
+		</Text>
+		<Text Name="Spell_GlobalEfficiency">
+			<DisplayName>ยันต์ใจขยัน</DisplayName>
+			<Desc>พิ่มประสิทธิภาพในการทำงาน</Desc>
+		</Text>
+		<Text Name="Spell_MadeQualityAddValue">
+			<DisplayName>ยันต์ช่างหลอม</DisplayName>
+			<Desc>ยกระดับคุณภาพของสิ่งประดิษฐ์ที่สร้างขึ้น</Desc>
+		</Text>
+		<Text Name="Spell_Yield">
+			<DisplayName>ยันต์การเกษตร</DisplayName>
+			<Desc>เพิ่มผลผลิตระหว่างการล่าสัตว์, การทำฟาร์ม, และการเก็บเกี่ยว</Desc>
+		</Text>
+		<Text Name="Spell_Treatment">
+			<DisplayName>ยันต์การแพทย์</DisplayName>
+			<Desc>เพิ่มอัตราความสำเร็จในการรักษาและผลของการรักษา</Desc>
+		</Text>
+		<Text Name="Spell_MindState1">
+			<DisplayName>ยันต์จิตสงบ</DisplayName>
+			<Desc>ยกระดับสภาวะจิตเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
+			<DisplayName>ยันต์หัวใจสวรรค์</DisplayName>
+			<Desc>ยกระดับความเร็วในการบ่มเพาะเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Spell_MindState2">
+			<DisplayName>ยันต์จิตรู้แจ้ง</DisplayName>
+			<Desc>ยกระดับสภาวะจิตปานกลาง</Desc>
+		</Text>
+		<Text Name="Spell_MindState2_LunHui">
+			<DisplayName>ยันต์จิตเทวะ</DisplayName>
+			<Desc>ยันต์หายากที่สูญหายไปแล้วเมื่อหลายพันปีก่อน มันถูกสร้างขึ้นโดยเซียนบรรพกาลหยวน\n[color=#D06508]นี่เป็นการขอบคุณผู้เล่นคนแรกที่ประสบความสำเร็จในการวาดยันต์ที่มีคุณภาพ 100% และแน่นอนว่ามันไม่ใช่ข้า[/color]</Desc>
+		</Text>
+		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>ยันต์ทะลวงฟ้า</DisplayName>
+			<Desc>เพิ่มโอกาสในการทะลวงขอบเขต</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
+			<DisplayName>ยันต์แก่นการบ่มเพาะ</DisplayName>
+			<Desc>เพิ่มความเร็วการบ่มเพาะปานกลาง</Desc>
+		</Text>
+		<Text Name="Spell_WorldMapFlySpeed">
+			<DisplayName>ยันต์เงาพริบตา</DisplayName>
+			<Desc>เพิ่มความเร็วในการบินทางไกลด้วยอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_SuccessRateAddV">
+			<DisplayName>ยันต์มหาทรัพย์</DisplayName>
+			<Desc>เพิ่มอัตราความสำเร็จในการหลอมอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
+			<DisplayName>ยันต์พิศวง</DisplayName>
+			<Desc>ยกระดับสิ่งอาวุธวิเศษที่สร้างขึ้นเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_SuccessRateAddV">
+			<DisplayName>ยันต์ละอองพืช</DisplayName>
+			<Desc>เพิ่มโอกาสสำเร็จในการหลอมโอสถ</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_YieldAddP">
+			<DisplayName>ยันต์หมื่นพฤกษา</DisplayName>
+			<Desc>เพิ่มผลผลิตในการหลอมโอสถเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Spell_Fu">
+			<DisplayName>ภาพเขียนรุ่งโรจน์ชั่วกาล</DisplayName>
+			<Desc>ยกระดับสภาพอารมณ์และสภาวะจิตและมอบความโชคดีให้แก่ผู้สวมใส่ สุขสันต์เทศกาลฤดูใบไม้ผลิ!</Desc>
+		</Text>
+		<Text Name="Spell_Lu">
+			<DisplayName>ภาพเขียนอมตะนิรันดร์</DisplayName>
+			<Desc>ปรับปรุงสุขภาพและการได้รับวิตถุดิบให้แก่ผู้สวมใส่ สุขสันต์เทศกาลฤดูใบไม้ผลิ!</Desc>
+		</Text>
+		<Text Name="Spell_Shou">
+			<DisplayName>ภาพเขียนชีวิตไร้ฆาต</DisplayName>
+			<Desc>เพิ่มอายุขัยและภูมิคุ้มกันโรคให้แก่ผู้สวมใส่ สุขสันต์เทศกาลฤดูใบไม้ผลิ!</Desc>
+		</Text>
+		<Text Name="Spell_Shield1">
+			<DisplayName>ยันต์เกราะทมิฬ</DisplayName>
+			<Desc>เพิ่มเกราะปราณ</Desc>
+		</Text>
+		<Text Name="Spell_Shield2">
+			<DisplayName>ยันต์เกราะสวรรค์</DisplayName>
+			<Desc>เพิ่มทักษะเกราะปราณ</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Jin">
+			<DisplayName>ยันต์เกราะทองคำ</DisplayName>
+			<Desc>เพิ่มความต้านทานความเสียหายธาตุทอง</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Mu">
+			<DisplayName>ยันต์เกราะพฤกษา</DisplayName>
+			<Desc>เพิ่มความต้านทานความเสียหายธาตุไม้</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Shui">
+			<DisplayName>ยันต์เกราะวารี</DisplayName>
+			<Desc>เพิ่มความต้านทานความเสียหายธาตุน้ำ</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Huo">
+			<DisplayName>ยันต์เกราะอัคคี</DisplayName>
+			<Desc>เพิ่มความต้านทานความเสียหายธาตุไฟ</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Tu">
+			<DisplayName>ยันต์เกราะปฐพี</DisplayName>
+			<Desc>เพิ่มความต้านทานความเสียหายธาตุดิน</Desc>
+		</Text>
+		<Text Name="Spell_FaBao1">
+			<DisplayName>ยันต์คมกระบี่</DisplayName>
+			<Desc>เพิ่มพลังของอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="Spell_FaBao2">
+			<DisplayName>ยันต์กระบี่เทวะ</DisplayName>
+			<Desc>เพิ่มทักษะอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="Spell_FaBao3">
+			<DisplayName>ยันต์กระบี่วิญญาณ</DisplayName>
+			<Desc>เพิ่มอัตราการฟื้นฟูปราณ</Desc>
+		</Text>
+		<Text Name="Spell_FaBao4">
+			<DisplayName>ยันต์กระบี่ศักดิ์สิทธิ์</DisplayName>
+			<Desc>เพิ่มพลังของอาวุธวิเศษและยกระดับความสามารถของอาวุธวิเศษโดยรวม</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill1">
+			<DisplayName>ยันต์ปราณเวท</DisplayName>
+			<Desc>เพิ่มพลังของปราณเวท</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill2">
+			<DisplayName>ยันต์เวทเทวะ</DisplayName>
+			<Desc>เพิ่มทักษะปราณเวท</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill3">
+			<DisplayName>ยันต์เวทวิญญาณ</DisplayName>
+			<Desc>ลดจำนวนปราณที่ต้องใช้ในการร่ายปราณเวท</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill4">
+			<DisplayName>ยันต์เวทศักดิ์สิทธิ์</DisplayName>
+			<Desc>เพิ่มฐานพลังของปราณเวทและเพิ่มจำนวนปราณที่ต้องใช้ในการร่ายปราณเวท</Desc>
+		</Text>
+		<Text Name="Spell_TongTian1">
+			<DisplayName>ยันต์สัมผัสสวรรค์</DisplayName>
+			<Desc>เพิ่มค่าสถานะพื้นฐานทั้ง 5 ของผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Spell_TongTian2">
+			<DisplayName>ยันต์ซ่อนสวรรค์</DisplayName>
+			<Desc>ลดจำนวนเมล็ดเต๋าของผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Spell_TongTian3">
+			<DisplayName>ยันต์เสริมศักยภาพ</DisplayName>
+			<Desc>เพิ่มศักยภาพของผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Spell_JieTian1">
+			<DisplayName>ยันต์เมล็ดเต๋า</DisplayName>
+			<Desc>เพิ่มจำนวนเมล็ดเต๋าให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice1">
+			<DisplayName>ยันต์ตำหนักเทพ</DisplayName>
+			<Desc>เพิ่มจำนวนสูงสุดของผู้พำนักแดนเทวะ</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice2">
+			<DisplayName>ยันต์ศรัทธาแห่งเทพ</DisplayName>
+			<Desc>เพิ่มจำนวนความศรัทธาที่ได้รับ</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice3">
+			<DisplayName>ยันต์รัศมีเทพ</DisplayName>
+			<Desc>เพิ่มจิตเทพของผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice4">
+			<DisplayName>ยันต์ผนึกเทพ</DisplayName>
+			<Desc>ลดจิตเทพของผู้สวมใส่</Desc>
+		</Text>
+	</List>
+</Texts>

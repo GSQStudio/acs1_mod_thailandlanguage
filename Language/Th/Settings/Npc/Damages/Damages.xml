@@ -1,0 +1,214 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Shit">
+			<DisplayName>กลิ่นเหม็น</DisplayName>
+		</Text>
+		<Text Name="BurnScar">
+			<DisplayName>แผลไฟไหม้</DisplayName>
+		</Text>
+		<Text Name="Scar">
+			<DisplayName>แผลเป็น</DisplayName>
+		</Text>
+		<Text Name="Osteodynia">
+			<DisplayName>ปวดกระดูก</DisplayName>
+		</Text>
+		<Text Name="DeformedSkeleton">
+			<DisplayName>รูปร่างไม่สมประกอบ</DisplayName>
+		</Text>
+		<Text Name="ViscusInjury">
+			<DisplayName>บาดเจ็บภายใน</DisplayName>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>สูญเสียการได้ยิน</DisplayName>
+		</Text>
+		<Text Name="MeridianBlocking">
+			<DisplayName>จุดรวมชีพจรตีบตัน</DisplayName>
+		</Text>
+		<Text Name="Palpitation">
+			<DisplayName>ใจสั่น</DisplayName>
+		</Text>
+		<Text Name="Poisoning1">
+			<DisplayName>ถูกพิษ(เล็กน้อย)</DisplayName>
+		</Text>
+		<Text Name="Poisoning2">
+			<DisplayName>ถูกพิษ(ปานกลาง)</DisplayName>
+		</Text>
+		<Text Name="Poisoning3">
+			<DisplayName>ถูกพิษ(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="BloodFreezing1">
+			<DisplayName>เลือดแข็งตัว(เล็กน้อย)</DisplayName>
+		</Text>
+		<Text Name="BloodFreezing2">
+			<DisplayName>เลือดแข็งตัว(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Cold1">
+			<DisplayName>หนาว(เล็กน้อย)</DisplayName>
+		</Text>
+		<Text Name="Cold2">
+			<DisplayName>หนาว(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Fracture1">
+			<DisplayName>ร้าว</DisplayName>
+		</Text>
+		<Text Name="Fracture2">
+			<DisplayName>แตก</DisplayName>
+		</Text>
+		<Text Name="Fracture3">
+			<DisplayName>หัก</DisplayName>
+		</Text>
+		<Text Name="Fracture4">
+			<DisplayName>แหลกละเอียด</DisplayName>
+		</Text>
+		<Text Name="Fabao_CutOff">
+			<DisplayName>ขาด</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Disintegrate">
+			<DisplayName>ขาดเป็นชิ้นๆ</DisplayName>
+		</Text>
+		<Text Name="Corrosion">
+			<DisplayName>กัดกร่อน</DisplayName>
+		</Text>
+		<Text Name="ForgLick">
+			<DisplayName>ลิ้นแส้</DisplayName>
+		</Text>
+		<Text Name="Boil">
+			<DisplayName>พุพอง</DisplayName>
+		</Text>
+		<Text Name="Toothache">
+			<DisplayName>ปวดฟัน</DisplayName>
+		</Text>
+		<Text Name="Faint">
+			<DisplayName>เป็นลม</DisplayName>
+		</Text>
+		<Text Name="Hemorrhoids">
+			<DisplayName>ริดสีดวงทวาร</DisplayName>
+		</Text>
+		<Text Name="HemorrhoidsEX">
+			<DisplayName>ริดสีดวงทวารถาวร</DisplayName>
+		</Text>
+		<Text Name="Frostbite1">
+			<DisplayName>น้ำแข็งกัด(เล็กน้อย)</DisplayName>
+		</Text>
+		<Text Name="Frostbite2">
+			<DisplayName>น้ำแข็งกัด(ปานกลาง)</DisplayName>
+		</Text>
+		<Text Name="Frostbite3">
+			<DisplayName>น้ำแข็งกัด(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Scald1">
+			<DisplayName>แผลพอง(เล็กน้อย)</DisplayName>
+		</Text>
+		<Text Name="Scald2">
+			<DisplayName>แผลพอง(ปานกลาง)</DisplayName>
+		</Text>
+		<Text Name="Scald3">
+			<DisplayName>แผลพอง(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Bruise1">
+			<DisplayName>แผลช้ำ(เล็กน้อย)</DisplayName>
+		</Text>
+		<Text Name="Bruise2">
+			<DisplayName>แผลช้ำ(ปานกลาง)</DisplayName>
+		</Text>
+		<Text Name="Bruise3">
+			<DisplayName>แผลช้ำ(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Infection">
+			<DisplayName>ติดเชื้อ</DisplayName>
+		</Text>
+		<Text Name="Cut1">
+			<DisplayName>ถูกบาด(เล็กน้อย)</DisplayName>
+		</Text>
+		<Text Name="Cut2">
+			<DisplayName>ถูกบาด(ปานกลาง)</DisplayName>
+		</Text>
+		<Text Name="Cut3">
+			<DisplayName>ถูกบาด(รุนแรง)</DisplayName>
+		</Text>
+		<Text Name="Puncture">
+			<DisplayName>ถูกแทง</DisplayName>
+		</Text>
+		<Text Name="Fabao_Tear">
+			<DisplayName>ฉีกขาด</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Evaporate">
+			<DisplayName>ระเหย</DisplayName>
+		</Text>
+		<Text Name="Deterioration">
+			<DisplayName>เสื่อมสภาพ</DisplayName>
+		</Text>
+		<Text Name="VisceralRupture">
+			<DisplayName>แตกสลาย</DisplayName>
+		</Text>
+		<Text Name="VisceralCut">
+			<DisplayName>ถูกบาด</DisplayName>
+		</Text>
+		<Text Name="Destroy">
+			<DisplayName>ถูกทำลาย</DisplayName>
+		</Text>
+		<Text Name="Wound">
+			<DisplayName>แผล</DisplayName>
+		</Text>
+		<Text Name="FrostbiteInside">
+			<DisplayName>น้ำแข็งกัด</DisplayName>
+		</Text>
+		<Text Name="SnakeVenom">
+			<DisplayName>งูพิษกัด</DisplayName>
+		</Text>
+		<Text Name="DiseaseBreath">
+			<DisplayName>วัณโรค</DisplayName>
+		</Text>
+		<Text Name="HolyJudgement">
+			<DisplayName>ปราณกัดกร่อน</DisplayName>
+		</Text>
+		<Text Name="FirebiteInside">
+			<DisplayName>โรคลมแดด</DisplayName>
+		</Text>
+		<Text Name="FoodDamage">
+			<DisplayName>หิวโหย</DisplayName>
+		</Text>
+		<Text Name="WaterDamage">
+			<DisplayName>กระหายน้ำ</DisplayName>
+		</Text>
+		<Text Name="GuanyinDamage">
+			<DisplayName>กินของสกปรก</DisplayName>
+		</Text>
+		<Text Name="AbdominalDistention">
+			<DisplayName>ท้องอืด</DisplayName>
+		</Text>
+		<Text Name="AbdominalPain">
+			<DisplayName>ปวดท้อง</DisplayName>
+		</Text>
+		<Text Name="SysTooTired">
+			<DisplayName>เหนื่อยหอบ</DisplayName>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>เจ็บปวดจากการหลอม</DisplayName>
+		</Text>
+		<Text Name="Anaesthesia">
+			<DisplayName>ชา</DisplayName>
+		</Text>
+		<Text Name="TEST_FULL">
+			<DisplayName>ทดสอบความเสียหาย</DisplayName>
+		</Text>
+		<Text Name="Puppet_Abrasion">
+			<DisplayName>เหนื่อยล้า</DisplayName>
+		</Text>
+		<Text Name="SYS_LOST">
+			<DisplayName>ว่างเปล่า</DisplayName>
+		</Text>
+		<Text Name="BloodFeed">
+			<DisplayName>แกนโลหิต</DisplayName>
+		</Text>
+		<Text Name="LsBiteLighty">
+			<DisplayName>ถูกกัดเบาๆ</DisplayName>
+		</Text>
+		<Text Name="LsBite">
+			<DisplayName>ถูกกัดรุนแรง</DisplayName>
+		</Text>
+		<Text Name="Pollinosis">
+			<DisplayName>โรคภูมิแพ้</DisplayName>
+		</Text>
+	</List>
+</Texts>

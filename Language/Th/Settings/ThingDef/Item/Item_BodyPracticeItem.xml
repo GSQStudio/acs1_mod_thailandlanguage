@@ -1,0 +1,207 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BodyPracticeBase" sParam="Item">
+			<ThingName>พื้นฐาน</ThingName>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiXu" sParam="Item">
+			<ThingName>แก่นอนัตตา</ThingName>
+			<Desc>พลังงานที่ถูกทิ้งไว้เบื้องหลังโดยพลังแห่งการสร้างสรรค์จากจุดเริ่มต้นของสวรรค์และโลก แก่นชนิดนี้หาได้ยากมากในปัจจุบัน</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanTian" sParam="Item">
+			<ThingName>แก่นฟ้าดารา</ThingName>
+			<Desc>พลังงานที่ถูกทิ้งไว้เบื้องหลังโดยพลังแห่งการสร้างสรรค์จากจุดเริ่มต้นของสวรรค์และโลก แก่นชนิดนี้หาได้ยากมากในปัจจุบัน</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JieMie" sParam="Item">
+			<ThingName>แก่นทัณฑ์สวรรค์</ThingName>
+			<Desc>แก่นแท้ที่มีอำนาจแห่งการทำลายล้างแห่งสวรรค์ สามารถรวบรวมได้จากทัณฑ์สวรรค์เท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JiuYang" sParam="Item">
+			<ThingName>แก่นแสงสุริยัน</ThingName>
+			<Desc>พลังงานที่ควบแน่นแสงแห่งตะวันเอาไว้ เป็นการยากมากที่จะรวบรวมมันได้</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYue" sParam="Item">
+			<ThingName>แก่นแสงจันทรา</ThingName>
+			<Desc>พลังงานที่ควบแน่นไอเย็นของดวงจันทร์เอาไว้ เป็นการยากมากที่จะรวบรวมมันได้</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiYang" sParam="Item">
+			<ThingName>แก่นตะวัน</ThingName>
+			<Desc>แก่นแห่งพระอาทิตย์ สามารถเก็บรวบรวมมันได้ในช่วงเที่ยงวันเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiYin" sParam="Item">
+			<ThingName>แก่นจันทรา</ThingName>
+			<Desc>แก่นแห่งพระจันทร์ สามารถเก็บรวบรวมมันได้ในช่วงเที่ยงคืนเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXJin" sParam="Item">
+			<ThingName>แก่นทองลี้ลับ</ThingName>
+			<Desc>หนึ่งในห้าแก่นปฐมกาล มันสามารถพบได้ในสถานที่ที่มีสิ่งของธาตุทองอันทรงพลังเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXMu" sParam="Item">
+			<ThingName>แก่นพฤกษาลี้ลับ</ThingName>
+			<Desc>หนึ่งในห้าแก่นปฐมกาล มันสามารถพบได้ในสถานที่ที่มีสิ่งของธาตุไม้ อันทรงพลังเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXShui" sParam="Item">
+			<ThingName>แก่นวารีลี้ลับ</ThingName>
+			<Desc>หนึ่งในห้าแก่นปฐมกาล มันสามารถพบได้ในสถานที่ที่มีสิ่งของธาตุน้ำอันทรงพลังเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXHuo" sParam="Item">
+			<ThingName>แก่นเพลิงลี้ลับ</ThingName>
+			<Desc>หนึ่งในห้าแก่นปฐมกาล มันสามารถพบได้ในสถานที่ที่มีสิ่งของธาตุไฟอันทรงพลังเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXTu" sParam="Item">
+			<ThingName>แก่นปฐพีลี้ลับ</ThingName>
+			<Desc>หนึ่งในห้าแก่นปฐมกาล มันสามารถพบได้ในสถานที่ที่มีสิ่งของธาตุดินอันทรงพลังเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Jin" sParam="Item">
+			<ThingName>แก่นทอง</ThingName>
+			<Desc>หนึ่งในแก่นของธาตุหลักทั้งห้า มันสามารถเก็บรวบรวมได้ทุกสถานที่ทั่วโลก เพียงแค่ต้องมองหามัน</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Mu" sParam="Item">
+			<ThingName>แก่นพฤกษา</ThingName>
+			<Desc>หนึ่งในแก่นของธาตุหลักทั้งห้า มันสามารถเก็บรวบรวมได้ทุกสถานที่ทั่วโลก เพียงแค่ต้องมองหามัน</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Shui" sParam="Item">
+			<ThingName>แก่นวารี</ThingName>
+			<Desc>หนึ่งในแก่นของธาตุหลักทั้งห้า มันสามารถเก็บรวบรวมได้ทุกสถานที่ทั่วโลก เพียงแค่ต้องมองหามัน</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Huo" sParam="Item">
+			<ThingName>แก่นเพลิง</ThingName>
+			<Desc>หนึ่งในแก่นของธาตุหลักทั้งห้า มันสามารถเก็บรวบรวมได้ทุกสถานที่ทั่วโลก เพียงแค่ต้องมองหามัน</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Tu" sParam="Item">
+			<ThingName>แก่นปฐพี</ThingName>
+			<Desc>หนึ่งในแก่นของธาตุหลักทั้งห้า มันสามารถเก็บรวบรวมได้ทุกสถานที่ทั่วโลก เพียงแค่ต้องมองหามัน</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_FengShuiLing" sParam="Item">
+			<ThingName>แก่นมงคล</ThingName>
+			<Desc>แก่นที่ค่อยๆ ก่อตัวขึ้นในสถานที่ที่มีฮวงจุ้ยที่เป็นมงคลเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_FengShuiSha" sParam="Item">
+			<ThingName>แก่นอัปมงคล</ThingName>
+			<Desc>แก่นที่ค่อยๆ ก่อตัวขึ้นในสถานที่ที่มีฮวงจุ้ยที่อัปมงคลเท่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Chun" sParam="Item">
+			<ThingName>แก่นต้นกล้า</ThingName>
+			<Desc>แก่นที่ก่อตัวขึ้นจากพลังธรรมชาติแห่งสวรรค์และโลกตามฤดูกาลที่ไหลผ่าน มันสะท้อนให้เห็นถึงพลังของการเจริญงอกงามในฤดูใบไม้ผลิ</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Xia" sParam="Item">
+			<ThingName>แก่นผลิดอก</ThingName>
+			<Desc>แก่นที่ก่อตัวขึ้นจากพลังธรรมชาติแห่งสวรรค์และโลกตามฤดูกาลที่ไหลผ่าน มันสะท้อนให้เห็นถึงพลังของการผลิดอกออกผลในฤดูใบไม้ผลิ</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Qiu" sParam="Item">
+			<ThingName>แก่นร่วงโรย</ThingName>
+			<Desc>แก่นที่ก่อตัวขึ้นจากพลังธรรมชาติแห่งสวรรค์และโลกตามฤดูกาลที่ไหลผ่าน มันสะท้อนให้เห็นถึงพลังของการร่วงโรยในฤดูใบไม้ร่วง</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Dong" sParam="Item">
+			<ThingName>แก่นพลิกผัน</ThingName>
+			<Desc>แก่นที่ก่อตัวขึ้นจากพลังธรรมชาติแห่งสวรรค์และโลกตามฤดูกาลที่ไหลผ่าน มันสะท้อนให้เห็นถึงพลังของความโดดเดี่ยวในฤดูหนาว</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_YongYe" sParam="Item">
+			<ThingName>แก่นนิรันดร์</ThingName>
+			<Desc>แก่นลึกลับที่เกิดมาจากมิติแห่งสวรรค์และโลกในค่ำคืนแห่งราตรีนิรันดร์ ต้นกำเนิดของมันนั้นยังไม่มีใครรู้ ว่ากันว่ามันไม่ได้เป็นสิ่งที่มาจากโลกใบนี้</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JiaoLongYuanJing" sParam="Item">
+			<ThingName>แก่นมังกรวารี</ThingName>
+			<Desc>แก่นที่มีพลังชีวิตอันลึกลับของมังกรวารี ซึ่งมันมีประโยชน์ต่อผู้ฝึกตนวิถีกายาอมตะเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XiongFengYuanJing" sParam="Item">
+			<ThingName>แก่นหงส์เพลิง</ThingName>
+			<Desc>แก่นที่มีพลังชีวิตอันลึกลับของหงส์เพลิง ซึ่งมันมีประโยชน์ต่อผู้ฝึกตนวิถีกายาอมตะเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ZhuLongYuanJing" sParam="Item">
+			<ThingName>แก่นมังกรเทียน</ThingName>
+			<Desc>แก่นที่มีพลังชีวิตอันลึกลับของมังกรเทียน ซึ่งมันมีประโยชน์ต่อผู้ฝึกตนวิถีกายาอมตะเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_GuShouJingXue" sParam="Item">
+			<ThingName>แก่นโลหิตอสูรโบราณ</ThingName>
+			<Desc>แก่นหยดโลหิตจากสัตว์อสูรโบราณที่มีร่างกายอันแข็งแกร่งอย่างหาทีเปรียบ</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_GuShouGuFen" sParam="Item">
+			<ThingName>แก่นกระดูกอสูรโบราณ</ThingName>
+			<Desc>แก่นกระดูกจากสัตว์อสูรโบราณที่มีร่างกายอันแข็งแกร่งอย่างหาทีเปรียบ</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_DaYaoYuanJing" sParam="Item">
+			<ThingName>แก่นอสูรร้าย</ThingName>
+			<Desc>แก่นภายในร่างของอสูรร้ายที่มีพื้นฐานการบ่มเพาะอันสูงส่ง มันอาจจะมีความลับของร่างกายที่แข็งแกร่งโดยกำเนิดของปีศาจเหล่านั้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv1" sParam="Item">
+			<ThingName>แก่นชีวิตบริสุทธิ์</ThingName>
+			<Desc>แก่นของพลังชีวิตที่บริสุทธิ์ มันสามารถใช้บำรุงร่างกายได้เป็นอย่างดี</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv2" sParam="Item">
+			<ThingName>แก่นเนื้อแท้แห่งชีวิต</ThingName>
+			<Desc>แก่นแสงประทีปเล็กๆ ของชีวิตน้อยๆ ที่เพิ่งจะถือกำเนิด</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv3" sParam="Item">
+			<ThingName>แก่นชะตาชีวิต</ThingName>
+			<Desc>ลมหายใจแห่งชีวิตที่เกิดขึ้นตามธรรมชาติโดยปราณแห่งสวรรค์และโลก นอกจากนี้ว่ากันว่ามันยังเป็นแหล่งกำเนิดของสิ่งมีชีวิตดึกดำบรรพ์อีกด้วย</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_SiWang" sParam="Item">
+			<ThingName>แก่นผีร้าย</ThingName>
+			<Desc>หลังจากการตายของสิ่งมีชีวิต ส่วนหนึ่งของพลังชีวิตที่แท้จริงจะกระจายสู่สวรรค์และโลก ในขณะที่อีกส่วนหนึ่งจะแปรสภาพเป็นแก่นชนิดนี้</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WuHui" sParam="Item">
+			<ThingName>แก่นมลทิน</ThingName>
+			<Desc>แม้ว่าต้นกำเนิดของแก่นชนิดนี้จะไม่ชัดเจน แต่ก็เป็นจุดรวมของพลังงานด้านลบของสิ่งมีชีวิตทั้งมวล มันมีความลึกลับที่ลึกซึ้งของการกลับชาติมาเกิดและการเปลี่ยนแปลง</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WuXing" sParam="Item">
+			<ThingName>แก่นไร้รูป</ThingName>
+			<Desc>แก่นที่แปลกประหลาดมากชนิดหนึ่ง มันโปร่งใสและไม่มีตัวตน ทว่ามันก็ยังมีอยู่จริงและสามารถสกัดได้ออกมาได้</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XianDaoJingHua" sParam="Item">
+			<ThingName>แก่นอมตะ</ThingName>
+			<Desc>แก่นที่รวบรวมมาจากแก่นทองคำของผู้ฝึกตนวิถีเซียน ทว่าเนื่องจากมันเป็นแก่นที่มีปราณของผู้บ่มเพาะผู้เป็นเจ้าของแทรกซึมอยู่ ดังนั้นมันจึงไม่ส่งผลใดๆ ต่อผู้ฝึกตนวิถีกายาอมตะ หากยังดึงดันที่จะหลอมกายาด้วยแก่นชนิดนี้ มันจะเข้าไปสลายความแข็งแกร่งของร่างกายจากภาย,ยับยั้งการหลอมร่างกายและเปลี่ยนมันกลับไปเป็นสถานะเริ่มต้น</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XianSui" sParam="Item">
+			<ThingName>ไขกระดูกเซียน</ThingName>
+			<Desc>แก่นแห่งร่างกายเซียนที่สร้างมาจากแก่นทองคำของเซียนผู้นั้น เนื่องจากแก่นชนิดนี้นั้นทรงพลังจาก ดังนั้นมันจึงก่อให้เกิดการกระตุ้นอย่างรุนแรงในร่างกายของผู้ฝึกตนวิถีกายาอมตะ ไม่มีใครรู้ว่าจะเกิดอะไรขึ้นหากใช้มันในการหลอมกายา</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShenSui" sParam="Item">
+			<ThingName>ไขกระดูกเทพ</ThingName>
+			<Desc>แก่นแห่งร่างกายเทพที่สร้างมาจากจิตเทพของผู้ฝึกตนวิถีเทพ เนื่องจากแก่นชนิดนี้นั้นทรงพลังจาก ดังนั้นมันจึงก่อให้เกิดการกระตุ้นอย่างรุนแรงในร่างกายของผู้ฝึกตนวิถีกายาอมตะ ไม่มีใครรู้ว่าจะเกิดอะไรขึ้นหากใช้มันในการหลอมกายา</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_BaBao" sParam="Item">
+			<ThingName>แก่นจักรวาล</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งจักรวาล</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WanDao" sParam="Item">
+			<ThingName>แก่นต้นกำเนิด</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งการกำเนิดจักรวาล</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_QiQing" sParam="Item">
+			<ThingName>แก่นหยินหยาง</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งหยินหยาง</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ZhouTian" sParam="Item">
+			<ThingName>แก่นมิติและเวลา</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งมิติและเวลา</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYang" sParam="Item">
+			<ThingName>แก่นเริ่มต้นและจุดจบ</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งจุดเริ่มต้นและจุดจบ</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Jian" sParam="Item">
+			<ThingName>แก่นชีวิตและความตาย</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งชีวิตและความตาย</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_LingYu" sParam="Item">
+			<ThingName>แก่นแห่งความเจริญ</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งแห่งความเจริญ</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WanGu" sParam="Item">
+			<ThingName>แก่นแห่งโมฆะ</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งแห่งการปฏิเสธ</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanCi" sParam="Item">
+			<ThingName>แก่นแห่งสันโดษ</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งแห่งความสันโดษ</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_QiSha" sParam="Item">
+			<ThingName>แก่นแห่งการลบล้าง</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งแห่งการลบล้าง</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYin" sParam="Item">
+			<ThingName>แก่นแห่งชะตากรรม</ThingName>
+			<Desc>ในจุดเริ่มต้นของจักรวาลยามเมื่อถูกทุกถือกำเนิดขึ้น แก่นชิ้นนี้แสดงให้เห็นถึงวิถีแห่งแห่งชะตากรรม</Desc>
+		</Text>
+	</List>
+</Texts>

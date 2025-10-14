@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenSheild">
+			<DisplayName>เกราะปราณ</DisplayName>
+			<TargetDesc>เลือกสิ่งปลูกสร้างหรือสิ่งของ</TargetDesc>
+		</Text>
+		<Text Name="ZhenAddModifier">
+			<DisplayName>เพิ่มการปรับเปลี่ยน</DisplayName>
+			<TargetDesc>เลือกสิ่งปลูกสร้างหรือสิ่งของ</TargetDesc>
+		</Text>
+		<Text Name="ZhenAura">
+			<DisplayName>รัศมีปราณ</DisplayName>
+			<TargetDesc>เลือกสิ่งปลูกสร้างหรือสิ่งของ</TargetDesc>
+		</Text>
+	</List>
+</Texts>

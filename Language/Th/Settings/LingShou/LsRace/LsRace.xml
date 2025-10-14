@@ -1,0 +1,54 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<PossibleMagic.0.DisplayName>รดน้ำต้นไม้</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>รดน้ำช่วยให้พืชเติบโตรวดเร็วยิ่งขึ้น ขึ้นอยู่กับพฤติกรรมของอสูรวิญญาณเท่านั้น ไม่สามารถบังคับใช้ได้</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>ใส่ปุ๋ย</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>แลกเปลี่ยนการเจริญเติบโตและสารอาหารของตนเองเพื่อแปลงผืนดินให้เป็นดินที่อุดมสมบูรณ์\n[color=#FF0000]ต้องเติบโตเต็มที่ก่อน[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>อ้อน</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>ทำตัวขี้เล่นต่อตัวละคร โดยใช้ความขี้อ้อน, เสน่ห์, และสติปัญญาเพื่อทำลายหัวใจที่ปิดตายของพวกเขา\n[color=#FF0000]ต้องการสติปัญญา 100 เพื่อใช้งาน[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]ต้องการเกราะปราณ 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]ต้องการเกราะปราณ 100[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]ต้องการปราณเวท 50[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]ต้องการปราณเวท 100[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsFox">
+			<PossibleMagic.0.DisplayName>ปราณรักษา</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>รักษาอาการบาดเจ็บของศิษย์ในสำนัก ขึ้นอยู่กับพฤติกรรมของอสูรวิญญาณเท่านั้น ไม่สามารถบังคับใช้ได้</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>สร้างดินวิญญาณ</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>แลกเปลี่ยนการเจริญเติบโตและสารอาหารของตนเองเพื่อแปลงผืนดินให้เป็นดินวิญญาณ \n[color=#FF0000]ต้องเติบโตเต็มที่ก่อน[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>อ้อน</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>เล่นกับพ่อค้าเพื่อรับความชื่นชอบจากพวกเขา \n [color=#FF0000]ต้องการสติปัญญา 100 เพื่อใช้งาน[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]ต้องการแก่นอสูร 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]ต้องการปราณเวท 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]ต้องการปราณ 50[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]ต้องการปราณ 100[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsDragon">
+			<PossibleMagic.0.DisplayName>เวทเย็นสบาย</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>รักษาอาการไข้แดดของศิษย์ในสำนัก ขึ้นอยู่กับพฤติกรรมของอสูรวิญญาณเท่านั้น ไม่สามารถบังคับใช้ได้</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>สลายคุกเยือกแข็ง</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>เนื่องจากเป็นสิ่งมีชีวิตประเภทเดียวกับมังกรวารี มันจึงสามารถขับไล่คุกเยือกแข็งที่มังกรวารีทีทิ้งเอาไว้เบื้องหลังได้ \n [color=#FF0000]ต้องเติบโตเต็มที่ก่อน[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>ลมหายใจเยือกแข็ง</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>ใช้ปราณที่แท้จริงของมังกรวารีเพื่อขับไล่ความร้อนที่แผดเผา \n[color=#FF0000]ต้องเติบโตเต็มที่ก่อน[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>เกียรติแห่งมังกร</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>แสดงพลังอันเหลือเชื่อต่อหน้าตัวแทนสำนักเพื่อเพิ่มความมั่นคง [color=#FF0000]ต้องการสติปัญญา 100 เพื่อใช้งาน[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>สายธารอัสนี</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]ต้องการปราณเวท 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]ต้องการปราณเวท 100[/color]</PossibleSkill.2.Desc>
+		</Text>
+		<Text Name="LsPhoenix">
+			<PossibleMagic.0.DisplayName>เวทอบอุ่นร่าง</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>รักษาอาการน้ำแข็งกัดของศิษย์ในสำนัก ขึ้นอยู่กับพฤติกรรมของอสูรวิญญาณเท่านั้น ไม่สามารถบังคับใช้ได้</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>ลมหายใจเพลิง</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>ใช้ปราณที่แท้จริงของหงส์เพลิงเพื่อขับไล่ไเย็นออกไป \n[color=#FF0000]ต้องเติบโตเต็มที่ก่อน[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>ดวงตารู้แจ้ง</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>มอบดวงตารู้แจ้งให้แก่ศิษย์สายใน ทำให้สามารถมองเห็นรูปลักษณ์ที่แท้จริงของสิ่งของในงานประมูลได้ \n[color=#FF0000]ต้องการสติปัญญา 50 เพื่อใช้งาน[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>หงส์มหามงคล</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>แสดงพลังอันน่าเหลือเชื่อต่อหน้าตัวแทนสำนักเพื่อเพิ่มความน่าดึงดูดของสำนัก [color=#FF0000]ต้องการสติปัญญา 100 เพื่อใช้งาน[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]ต้องการแก่นอสูร 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]ต้องการปราณเวท 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]ต้องการปราณเวท 100[/color]</PossibleSkill.2.Desc>
+		</Text>
+	</List>
+</Texts>

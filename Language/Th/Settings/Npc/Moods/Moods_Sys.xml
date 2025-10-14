@@ -1,0 +1,57 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mood_Sys_Lost">
+			<DisplayName>[ว่างเปล่า]</DisplayName>
+			<Desc>ว่างเปล่า</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_Disappointment">
+			<DisplayName>ผิดหวังในตัวหัวหน้าสาขา</DisplayName>
+			<Desc>ถ้าหากคนเช่นนี้ก็ยังสามารถเป็นหัวหน้าสาขาได้? เช่นนั้นข้าเดาว่าแม้แต่ลิงก็เป็นหัวหน้าสาขาได้เช่นกัน...</Desc>
+			<StoryDesc>รู้สึกหงุดหงิดไม่พอใจเมื่อมีหัวหน้าสาขาที่น่าผิดหวังเช่นนี้</StoryDesc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen1">
+			<DisplayName>เจ้าสำนักคนใหม่</DisplayName>
+			<Desc>ข้ารู้สึกยินดีเป็นอย่างมากที่ท่าน [TXT] ได้ขึ้นเป็นเจ้าสำนักของพวกเรา!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen2">
+			<DisplayName>เจ้าสำนักคนใหม่</DisplayName>
+			<Desc>[TXT] ได้ขึ้้นเป็นเจ้าสำนักคนใหม่งั้นรึ อ๊าก ชีวิตข้าจบสิ้นแน่ๆ!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen3">
+			<DisplayName>ถูกขับไล่</DisplayName>
+			<Desc>ข้าคิดว่าถึงยังไงข้าก็ยังเหมาะสมในตำแหน่งเจ้าสำนักมากที่สุด...</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen4">
+			<DisplayName>เจ้าสำนักออกจากตำแหน่ง</DisplayName>
+			<Desc>น่าเสียดายที่ท่าน [TXT] นั้นจะไม่ใช่เจ้าสำนักของพวกเราอีกต่อไป!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen5">
+			<DisplayName>เจ้าสำนักออกจากตำแหน่ง</DisplayName>
+			<Desc>[TXT] ลาออกจากตำแหน่งเจ้าสำนักงั้นรึ! ว้าว นี่มันช่างเป็นข่าวดีจริงๆ!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu0">
+			<DisplayName>กลายเป็นหัวหน้าสาขา</DisplayName>
+			<Desc>ข้าได้กลายเป็นหัวหน้าสาขาแล้ว...ข้าต้องทำให้ดีที่สุดเพื่อให้เหมาะสมกับตำแหน่งนี้!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu1">
+			<DisplayName>หัวหน้าสาขาคนใหม่</DisplayName>
+			<Desc>ข้ารู้สึกยินดีเป็นอย่างมากที่ท่าน [TXT] ได้ขึ้นเป็นหัวหน้าสาขา!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu2">
+			<DisplayName>หัวหน้าสาขาคนใหม่</DisplayName>
+			<Desc>ถ้าหากคนอย่าง [TXT] สามารถขึ้เป็นหัวหน้าสาขาได้ละก็ ข้าคิดว่าหมูหมากาไก่ก็สามารถเป็นหัวหน้าสาขาได้เช่นกัน</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu3">
+			<DisplayName>ถูกขับไล่</DisplayName>
+			<Desc>ข้ารู้สึกว่าข้าสามารถทำได้ดีในตำแหน่งหัวหน้าสาขา... ข้าได้อุทิศตนเองให้กับสำนัก ช่างน่าเศร้าจริงๆ...</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu4">
+			<DisplayName>หัวหน้าสาขาออกจากตำแหน่ง</DisplayName>
+			<Desc>ข้าไม่อยากจะเชื่อเลยว่าท่าน [TXT] นั้นถูกถอดออกจากตำแหน่งหัวหน้าสาขา น่าใจหายจริงๆ!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu5">
+			<DisplayName>หัวหน้าสาขาออกจากตำแหน่ง</DisplayName>
+			<Desc>ในที่สุด [TXT] ก็ไม่ได้เป็นหัวหน้าสาขาอีกต่อไปแล้ว ฮ่าๆๆ!</Desc>
+		</Text>
+	</List>
+</Texts>

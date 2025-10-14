@@ -1,0 +1,33 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="BuildMode_ChangeTime">
+			<DisplayName>ดินแดนมายา</DisplayName>
+			<Desc>เจ้าต้องการปรับเวลาเป็นช่วงไหน?</Desc>
+			<Selections.0.Display>เช้า</Selections.0.Display>
+			<Selections.1.Display>เที่ยง</Selections.1.Display>
+			<Selections.2.Display>เย็น</Selections.2.Display>
+			<Selections.3.Display>กลางคืน</Selections.3.Display>
+			<Selections.4.Display>ช่างเถอะ</Selections.4.Display>
+		</Text>
+		<Text Name="BuildMode_ChangeSeason">
+			<DisplayName>ดินแดนมายา</DisplayName>
+			<Desc>เจ้าต้องการเปลี่ยนฤดูกาลเป็นช่วงไหน?</Desc>
+			<Selections.0.Display>ฤดูใบไม้ผลิ</Selections.0.Display>
+			<Selections.1.Display>ฤดูร้อน</Selections.1.Display>
+			<Selections.2.Display>ฤดูใบไม้ร่วง</Selections.2.Display>
+			<Selections.3.Display>ฤดูหนาว</Selections.3.Display>
+			<Selections.4.Display>ช่างเถอะ</Selections.4.Display>
+		</Text>
+		<Text Name="BuildMode_ChangeWeather">
+			<DisplayName>ดินแดนมายา</DisplayName>
+			<Desc>เจ้าต้องการเปลี่ยนสภาพอากาศเป็นช่วงไหน?</Desc>
+			<Selections.0.Display>ฝน/หิมะ ตกเล็กน้อย</Selections.0.Display>
+			<Selections.1.Display>ฝน/หิมะ ตกหนัก</Selections.1.Display>
+			<Selections.2.Display>พายุฝุ่น</Selections.2.Display>
+			<Selections.3.Display>ราตรีนิรันดร์</Selections.3.Display>
+			<Selections.4.Display>พายุสายฟ้า</Selections.4.Display>
+			<Selections.5.Display>อากาศแจ่มใส</Selections.5.Display>
+			<Selections.6.Display>ช่างเถอะ</Selections.6.Display>
+		</Text>
+	</List>
+</Texts>

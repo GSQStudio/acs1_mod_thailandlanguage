@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FeatureModifierBase">
+			<Desc>ตัวปรับแต่งที่สร้างขึ้นโดยคุณลักษณะ ระบบสามารถใช้งานได้เท่านั้น ไม่สามารถปรับแต่งได้</Desc>
+		</Text>
+		<Text Name="ExperienceModifierBase">
+			<Desc>ตัวปรับแต่งที่สร้างขึ้นโดยประวัติในอดีต ระบบสามารถใช้งานได้เท่านั้น ไม่สามารถปรับแต่งได้</Desc>
+		</Text>
+		<Text Name="FeatureModifier_DongShiZhang1">
+			<DisplayName>แรงจูงใจของท่านประธาน</DisplayName>
+			<Desc>ภายใต้การดูแลของประธานกรรมการ พวกเราจะเพิ่มความพยายามเป็นสองเท่า!</Desc>
+		</Text>
+		<Text Name="FeatureModifier_DongShiZhang2">
+			<DisplayName>แรงจูงใจของท่านประธาน</DisplayName>
+			<Desc>ภายใต้การดูแลของประธานกรรมการ พวกเราจะเพิ่มความพยายามเป็นสองเท่า!</Desc>
+		</Text>
+	</List>
+</Texts>

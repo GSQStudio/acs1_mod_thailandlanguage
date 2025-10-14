@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TDamageSkill">
+			<DisplayName>ความเสียหายปราณเวท</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_1">
+			<DisplayName>ฝ่ามือลมปราณ</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_2">
+			<DisplayName>พายุอัคคี</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_3">
+			<DisplayName>อัสนีเทวะ</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_4">
+			<DisplayName>ทลายวิญญาณ</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Gong4_1">
+			<DisplayName>โกลาหลสู่ว่างเปล่า</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Gong7_1">
+			<DisplayName>กระบี่ตัดพันธะ</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Teach">
+			<DisplayName>เวทฝึกหัด</DisplayName>
+		</Text>
+	</List>
+</Texts>

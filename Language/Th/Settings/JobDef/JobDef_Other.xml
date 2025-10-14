@@ -1,0 +1,122 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobCloseTo">
+			<DisplayName>เข้าหา</DisplayName>
+		</Text>
+		<Text Name="JobMoveToBed">
+			<DisplayName>พักผ่อน</DisplayName>
+		</Text>
+		<Text Name="JobDemonLoseSoul">
+			<DisplayName>ผนึก5สัมผัส</DisplayName>
+		</Text>
+		<Text Name="JobDemonClaustrophobia">
+			<DisplayName>กักตัว</DisplayName>
+		</Text>
+		<Text Name="JobDemonWail">
+			<DisplayName>คร่ำครวญ</DisplayName>
+		</Text>
+		<Text Name="JobDemonBlank">
+			<DisplayName>เหม่อลอย</DisplayName>
+		</Text>
+		<Text Name="JobObtainThing">
+			<DisplayName>ได้รับ</DisplayName>
+		</Text>
+		<Text Name="JobEatItem">
+			<DisplayName>กิน</DisplayName>
+		</Text>
+		<Text Name="JobEquipItem">
+			<DisplayName>สวมใส่</DisplayName>
+		</Text>
+		<Text Name="JobFaceIdle">
+			<DisplayName>ตอบโต้</DisplayName>
+		</Text>
+		<Text Name="JobFighting">
+			<DisplayName>กำลังต่อสู้</DisplayName>
+		</Text>
+		<Text Name="JobFight">
+			<DisplayName>ต่อสู้</DisplayName>
+		</Text>
+		<Text Name="JobFightDriver">
+			<DisplayName>กำลังต่อสู้</DisplayName>
+		</Text>
+		<Text Name="JobZhenFighting">
+			<DisplayName>กำลังต่อสู้</DisplayName>
+		</Text>
+		<Text Name="JobBodyFighting">
+			<DisplayName>กำลังต่อสู้</DisplayName>
+		</Text>
+		<Text Name="JobLeaveMap">
+			<DisplayName>ออกจาก</DisplayName>
+		</Text>
+		<Text Name="JobWaitHelp">
+			<DisplayName>เดินทาง</DisplayName>
+		</Text>
+		<Text Name="JobTalk">
+			<DisplayName>สร้างมิตร</DisplayName>
+		</Text>
+		<Text Name="JobSimpleAction">
+			<DisplayName>ลงมือ</DisplayName>
+		</Text>
+		<Text Name="JobWalkerHelp">
+			<DisplayName>ช่วย</DisplayName>
+		</Text>
+		<Text Name="JobAlarmbell">
+			<DisplayName>เตือน</DisplayName>
+		</Text>
+		<Text Name="JobMoveTo">
+			<DisplayName>กำลังไป</DisplayName>
+		</Text>
+		<Text Name="JobMoveThingTo">
+			<DisplayName>ขนย้าย</DisplayName>
+		</Text>
+		<Text Name="JobYSSleep">
+			<DisplayName>ง่วง</DisplayName>
+		</Text>
+		<Text Name="JobWaitCMD">
+			<DisplayName>รอคำสั่ง</DisplayName>
+		</Text>
+		<Text Name="JobRobItem">
+			<DisplayName>ใช้กำลัง</DisplayName>
+		</Text>
+		<Text Name="JobZhenStart">
+			<DisplayName>สร้างค่ายกล</DisplayName>
+		</Text>
+		<Text Name="JobStayInZhen">
+			<DisplayName>ควบคุมค่ายกล</DisplayName>
+		</Text>
+		<Text Name="JobRebuildZhen">
+			<DisplayName>เปลี่ยนค่ายกล</DisplayName>
+		</Text>
+		<Text Name="JobPerformWithBuilding">
+			<DisplayName>ทำงาน</DisplayName>
+		</Text>
+		<Text Name="JobPerformFree">
+			<DisplayName>เตร็ดเตร่</DisplayName>
+		</Text>
+		<Text Name="JobTryTalk">
+			<DisplayName>พูดคุย</DisplayName>
+		</Text>
+		<Text Name="JobGotoAndStay">
+			<DisplayName>เดินไปยัง</DisplayName>
+			<Desc>เดินไปยัง</Desc>
+		</Text>
+		<Text Name="JobJGTunShi">
+			<DisplayName>กลืนกิน</DisplayName>
+		</Text>
+		<Text Name="JobJGRevival">
+			<DisplayName>คืนชีพ</DisplayName>
+		</Text>
+		<Text Name="JobYsThink">
+			<DisplayName>คิด</DisplayName>
+		</Text>
+		<Text Name="JobStudyThing">
+			<DisplayName>สังเกตุ</DisplayName>
+		</Text>
+		<Text Name="JobYsToHuman">
+			<DisplayName>ปลุกปัญญา</DisplayName>
+		</Text>
+		<Text Name="JobGoFishing">
+			<DisplayName>ตกปลา</DisplayName>
+		</Text>
+	</List>
+</Texts>

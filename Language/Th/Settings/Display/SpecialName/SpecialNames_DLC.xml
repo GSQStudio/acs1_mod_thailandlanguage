@@ -1,0 +1,1536 @@
+<SpecialNames>
+	<List>
+		<SpecialItem Name="Item_HomeFood">
+			<Item_BambooShoot>
+				<li Name="หน่อไม้ราดซอส" Desc=""></li>
+				<li Name="ผัดหน่อไม้" Desc=""></li>
+				<li Name="หน่อไม้ผัดเผ็ด" Desc=""></li>
+				<li Name="หมูผัดหน่อไม้" Desc=""></li>
+				<li Name="หน่อไม้กรอบรสเผ็ด" Desc=""></li>
+				<li Name="แกงหน่อไม้" Desc=""></li>
+				<li Name="เบคอนผัดหน่อไม้" Desc=""></li>
+			</Item_BambooShoot>
+			<Fish_StoneCrab>
+				<li Name="ปูนึ่ง" Desc=""></li>
+				<li Name="ซุปปู" Desc=""></li>
+				<li Name="ปูนิ่มทอด" Desc=""></li>
+				<li Name="ข้าวต้มปู" Desc=""></li>
+				<li Name="ปูผัดเต้าหู้" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ปูผัดผงกระหรี่" Desc=""></li>
+				<li Name="ข้าวผัดปู" Desc=""></li>
+			</Fish_StoneCrab>
+			<Fish_ChillyCrab>
+				<li Name="ปูนึ่ง" Desc=""></li>
+				<li Name="ซุปปู" Desc=""></li>
+				<li Name="ปูนิ่มทอด" Desc=""></li>
+				<li Name="ข้าวต้มปู" Desc=""></li>
+				<li Name="ปูผัดเต้าหู้" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ปูผัดผงกระหรี่" Desc=""></li>
+				<li Name="ข้าวผัดปู" Desc=""></li>
+			</Fish_ChillyCrab>
+			<Fish_JadeCrab>
+				<li Name="ปูนึ่ง" Desc=""></li>
+				<li Name="ซุปปู" Desc=""></li>
+				<li Name="ปูนิ่มทอด" Desc=""></li>
+				<li Name="ข้าวต้มปู" Desc=""></li>
+				<li Name="ปูผัดเต้าหู้" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ปูผัดผงกระหรี่" Desc=""></li>
+				<li Name="ข้าวผัดปู" Desc=""></li>
+			</Fish_JadeCrab>
+			<Fish_FireCrab>
+				<li Name="ปูนึ่ง" Desc=""></li>
+				<li Name="ซุปปู" Desc=""></li>
+				<li Name="ปูนิ่มทอด" Desc=""></li>
+				<li Name="ข้าวต้มปู" Desc=""></li>
+				<li Name="ปูผัดเต้าหู้" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ปูผัดผงกระหรี่" Desc=""></li>
+				<li Name="ข้าวผัดปู" Desc=""></li>
+			</Fish_FireCrab>
+			<Fish_r2>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r2>
+			<Fish_r3>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r3>
+			<Fish_r4>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r4>
+			<Fish_r5>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r5>
+			<Fish_r6>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r6>
+			<Fish_r7>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r7>
+			<Fish_r8>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r8>
+			<Fish_r9>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r9>
+			<Fish_r10>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r10>
+			<Fish_r11>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r11>
+			<Fish_r12>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r12>
+			<Fish_r13>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_r13>
+			<Fish_BaiHuang>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_BaiHuang>
+			<Fish_Black>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_Black>
+			<Fish_BlueFish>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_BlueFish>
+			<Fish_FenLi>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_FenLi>
+			<Fish_HongGui>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_HongGui>
+			<Fish_HongHuang>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_HongHuang>
+			<Fish_Huang>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_Huang>
+			<Fish_Ji>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_Ji>
+			<Fish_QingHei>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_QingHei>
+			<Fish_RedFish>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_RedFish>
+			<Fish_s1>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s1>
+			<Fish_s10>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s10>
+			<Fish_s11>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s11>
+			<Fish_s12>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s12>
+			<Fish_s2>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s2>
+			<Fish_s3>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s3>
+			<Fish_s4>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s4>
+			<Fish_s5>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s5>
+			<Fish_s6>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s6>
+			<Fish_s7>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s7>
+			<Fish_s8>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s8>
+			<Fish_s9>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_s9>
+			<Fish_t1>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t1>
+			<Fish_t10>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t10>
+			<Fish_t11>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t11>
+			<Fish_t12>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t12>
+			<Fish_t2>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t2>
+			<Fish_t3>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t3>
+			<Fish_t4>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t4>
+			<Fish_t5>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t5>
+			<Fish_t6>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t6>
+			<Fish_t7>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t7>
+			<Fish_t8>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t8>
+			<Fish_t9>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_t9>
+			<Fish_XieLi>
+				<li Name="ข้าวต้มปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
+				<li Name="ปลาย่าง" Desc=""></li>
+				<li Name="ปลาทอด" Desc=""></li>
+				<li Name="ซุปปลา" Desc=""></li>
+				<li Name="ปลานึ่ง" Desc=""></li>
+				<li Name="ปลาต้มยาจีน" Desc=""></li>
+			</Fish_XieLi>
+			<Shrimp1>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp1>
+			<Shrimp2>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp2>
+			<Shrimp3>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp3>
+			<Shrimp4>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp4>
+			<Shrimp5>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp5>
+			<Shrimp6>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp6>
+			<Shrimp7>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp7>
+			<Shrimp8>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp8>
+			<Shrimp9>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp9>
+			<Shrimp10>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp10>
+			<Shrimp11>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp11>
+			<Shrimp12>
+				<li Name="กุ้งนึ่ง" Desc=""></li>
+				<li Name="กุ้งทอด" Desc=""></li>
+			</Shrimp12>
+		</SpecialItem>
+		<SpecialItem Name="Item_DeliciousFood">
+			<Item_BambooShoot>
+				<li Name="ซี่โครงหมูหน่อไม้" Desc=""></li>
+				<li Name="หน่อไม้ย่าง" Desc=""></li>
+				<li Name="หน่อไม้ผัดเห็ด" Desc=""></li>
+				<li Name="ผัดหน่อไม้" Desc=""></li>
+				<li Name="หน่อไม้เต้าหู้แห้ง" Desc=""></li>
+				<li Name="บะหมี่หน่อไม้ดอง" Desc=""></li>
+				<li Name="หน่อไม้ผัดไข่" Desc=""></li>
+			</Item_BambooShoot>
+			<Fish_StoneCrab>
+				<li Name="แกงคั่วปู" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ก้ามปูนึ่ง" Desc=""></li>
+				<li Name="ไข่ปูเคี่ยววุ้นเส้น" Desc=""></li>
+				<li Name="ปูผัดขี้เมา" Desc=""></li>
+				<li Name="เนื้อปูราดเต้าหู้" Desc=""></li>
+				<li Name="เนื้อปูผัดฉ่า" Desc=""></li>
+			</Fish_StoneCrab>
+			<Fish_ChillyCrab>
+				<li Name="แกงคั่วปู" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ก้ามปูนึ่ง" Desc=""></li>
+				<li Name="ไข่ปูเคี่ยววุ้นเส้น" Desc=""></li>
+				<li Name="ปูผัดขี้เมา" Desc=""></li>
+				<li Name="เนื้อปูราดเต้าหู้" Desc=""></li>
+				<li Name="เนื้อปูผัดฉ่า" Desc=""></li>
+			</Fish_ChillyCrab>
+			<Fish_JadeCrab>
+				<li Name="แกงคั่วปู" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ก้ามปูนึ่ง" Desc=""></li>
+				<li Name="ไข่ปูเคี่ยววุ้นเส้น" Desc=""></li>
+				<li Name="ปูผัดขี้เมา" Desc=""></li>
+				<li Name="เนื้อปูราดเต้าหู้" Desc=""></li>
+				<li Name="เนื้อปูผัดฉ่า" Desc=""></li>
+			</Fish_JadeCrab>
+			<Fish_FireCrab>
+				<li Name="แกงคั่วปู" Desc=""></li>
+				<li Name="ปูผัดเผ็ด" Desc=""></li>
+				<li Name="ก้ามปูนึ่ง" Desc=""></li>
+				<li Name="ไข่ปูเคี่ยววุ้นเส้น" Desc=""></li>
+				<li Name="ปูผัดขี้เมา" Desc=""></li>
+				<li Name="เนื้อปูราดเต้าหู้" Desc=""></li>
+				<li Name="เนื้อปูผัดฉ่า" Desc=""></li>
+			</Fish_FireCrab>
+			<Fish_r2>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r2>
+			<Fish_r3>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r3>
+			<Fish_r4>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r4>
+			<Fish_r5>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r5>
+			<Fish_r6>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r6>
+			<Fish_r7>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r7>
+			<Fish_r8>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r8>
+			<Fish_r9>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r9>
+			<Fish_r10>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r10>
+			<Fish_r11>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r11>
+			<Fish_r12>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r12>
+			<Fish_r13>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_r13>
+			<Fish_BaiHuang>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_BaiHuang>
+			<Fish_Black>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_Black>
+			<Fish_BlueFish>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_BlueFish>
+			<Fish_FenLi>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_FenLi>
+			<Fish_HongGui>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_HongGui>
+			<Fish_HongHuang>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_HongHuang>
+			<Fish_Huang>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_Huang>
+			<Fish_Ji>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_Ji>
+			<Fish_QingHei>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_QingHei>
+			<Fish_RedFish>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_RedFish>
+			<Fish_s1>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s1>
+			<Fish_s10>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s10>
+			<Fish_s11>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s11>
+			<Fish_s12>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s12>
+			<Fish_s2>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s2>
+			<Fish_s3>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s3>
+			<Fish_s4>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s4>
+			<Fish_s5>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s5>
+			<Fish_s6>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s6>
+			<Fish_s7>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s7>
+			<Fish_s8>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s8>
+			<Fish_s9>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_s9>
+			<Fish_t1>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t1>
+			<Fish_t10>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t10>
+			<Fish_t11>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t11>
+			<Fish_t12>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t12>
+			<Fish_t2>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t2>
+			<Fish_t3>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t3>
+			<Fish_t4>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t4>
+			<Fish_t5>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t5>
+			<Fish_t6>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t6>
+			<Fish_t7>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t7>
+			<Fish_t8>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t8>
+			<Fish_t9>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_t9>
+			<Fish_XieLi>
+				<li Name="ปลาผัดฉ่า" Desc=""></li>
+				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
+				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
+				<li Name="ลูกชิ้นปลา" Desc=""></li>
+				<li Name="ทอดมันปลา" Desc=""></li>
+				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
+				<li Name="แกงส้มปลา" Desc=""></li>
+				<li Name="ปลานึ่งเหล้า" Desc=""></li>
+				<li Name="เนื้อปลาทอด" Desc=""></li>
+				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
+				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+			</Fish_XieLi>
+			<Shrimp1>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp1>
+			<Shrimp2>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp2>
+			<Shrimp3>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp3>
+			<Shrimp4>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp4>
+			<Shrimp5>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp5>
+			<Shrimp6>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp6>
+			<Shrimp7>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp7>
+			<Shrimp8>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp8>
+			<Shrimp9>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp9>
+			<Shrimp10>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp10>
+			<Shrimp11>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp11>
+			<Shrimp12>
+				<li Name="ข้าวผัดกุ้ง" Desc=""></li>
+				<li Name="ขนมจีบกุ้ง" Desc=""></li>
+			</Shrimp12>
+		</SpecialItem>
+		<SpecialItem Name="Item_DelicacyFood">
+			<Item_BambooShoot>
+				<li Name="หมูตุ๋นหน่อไม้" Desc="ใส่หมูสามชั้นสไลด์และหน่อไม้สดลงในหม้อแล้วเคี่ยวด้วยเหล้าเส้าซิง เสร็จแล้วเปิดฝาดมกลิ่นหอมชวนน้ำลายสอ"></li>
+				<li Name="หน่อไม้อมตะ" Desc="ใช้หน่อไม้ที่สดที่สุดในฤดูใบไม้ผลิ หั่นเป็นชิ้นบางๆ แล้วแกะสลักเป็นพฤกษาเซียน ทั้งอร่อยและสวยงาม"></li>
+			</Item_BambooShoot>
+			<Fish_StoneCrab>
+				<li Name="ซาลาเปาซุปจักรพรรดิ" Desc="ผสมไข่ปูสดกับเนื้อสัตว์แล้วห่อด้วยแป้งบางๆ เมื่อนึ่งเสร็จแล้วจะเติมน้ำมันปูทองลงไปทั้งตัว ว่ากันว่าเคยมีจักรพรรดิองค์หนึ่งยอมสละบัลลังก์เพื่อกินซาลาเปานี้"></li>
+				<li Name="ปูนึ่งเหล้าเส้าซิง" Desc="ใช้เหล้าเส้าซิงที่ดีที่สุดเพื่อนึ่งปูในช่วงปลายฤดูใบไม้ร่วง เหล้าสามารถขับความเย็นของปูได้ รสชาติที่กลมกล่อมของเหล้าเส้าซิงผสมผสานอย่างลงตัวกับความหวานของเนื้อปู"></li>
+			</Fish_StoneCrab>
+			<Fish_ChillyCrab>
+				<li Name="ซาลาเปาซุปจักรพรรดิ" Desc="ผสมไข่ปูสดกับเนื้อสัตว์แล้วห่อด้วยแป้งบางๆ เมื่อนึ่งเสร็จแล้วจะเติมน้ำมันปูทองลงไปทั้งตัว ว่ากันว่าเคยมีจักรพรรดิองค์หนึ่งยอมสละบัลลังก์เพื่อกินซาลาเปานี้"></li>
+				<li Name="ปูนึ่งเหล้าเส้าซิง" Desc="ใช้เหล้าเส้าซิงที่ดีที่สุดเพื่อนึ่งปูในช่วงปลายฤดูใบไม้ร่วง เหล้าสามารถขับความเย็นของปูได้ รสชาติที่กลมกล่อมของเหล้าเส้าซิงผสมผสานอย่างลงตัวกับความหวานของเนื้อปู"></li>
+			</Fish_ChillyCrab>
+			<Fish_JadeCrab>
+				<li Name="ซาลาเปาซุปจักรพรรดิ" Desc="ผสมไข่ปูสดกับเนื้อสัตว์แล้วห่อด้วยแป้งบางๆ เมื่อนึ่งเสร็จแล้วจะเติมน้ำมันปูทองลงไปทั้งตัว ว่ากันว่าเคยมีจักรพรรดิองค์หนึ่งยอมสละบัลลังก์เพื่อกินซาลาเปานี้"></li>
+				<li Name="ปูนึ่งเหล้าเส้าซิง" Desc="ใช้เหล้าเส้าซิงที่ดีที่สุดเพื่อนึ่งปูในช่วงปลายฤดูใบไม้ร่วง เหล้าสามารถขับความเย็นของปูได้ รสชาติที่กลมกล่อมของเหล้าเส้าซิงผสมผสานอย่างลงตัวกับความหวานของเนื้อปู"></li>
+			</Fish_JadeCrab>
+			<Fish_FireCrab>
+				<li Name="ซาลาเปาซุปจักรพรรดิ" Desc="ผสมไข่ปูสดกับเนื้อสัตว์แล้วห่อด้วยแป้งบางๆ เมื่อนึ่งเสร็จแล้วจะเติมน้ำมันปูทองลงไปทั้งตัว ว่ากันว่าเคยมีจักรพรรดิองค์หนึ่งยอมสละบัลลังก์เพื่อกินซาลาเปานี้"></li>
+				<li Name="ปูนึ่งเหล้าเส้าซิง" Desc="ใช้เหล้าเส้าซิงที่ดีที่สุดเพื่อนึ่งปูในช่วงปลายฤดูใบไม้ร่วง เหล้าสามารถขับความเย็นของปูได้ รสชาติที่กลมกล่อมของเหล้าเส้าซิงผสมผสานอย่างลงตัวกับความหวานของเนื้อปู"></li>
+			</Fish_FireCrab>
+			<Fish_r2>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r2>
+			<Fish_r3>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r3>
+			<Fish_r4>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r4>
+			<Fish_r5>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r5>
+			<Fish_r6>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r6>
+			<Fish_r7>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r7>
+			<Fish_r8>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r8>
+			<Fish_r9>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r9>
+			<Fish_r10>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r10>
+			<Fish_r11>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r11>
+			<Fish_r12>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r12>
+			<Fish_r13>
+				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
+				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+			</Fish_r13>
+			<Fish_BaiHuang>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_BaiHuang>
+			<Fish_Black>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_Black>
+			<Fish_BlueFish>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_BlueFish>
+			<Fish_FenLi>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_FenLi>
+			<Fish_HongGui>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_HongGui>
+			<Fish_HongHuang>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_HongHuang>
+			<Fish_Huang>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_Huang>
+			<Fish_Ji>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_Ji>
+			<Fish_QingHei>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_QingHei>
+			<Fish_RedFish>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_RedFish>
+			<Fish_s1>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s1>
+			<Fish_s10>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s10>
+			<Fish_s11>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s11>
+			<Fish_s12>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s12>
+			<Fish_s2>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s2>
+			<Fish_s3>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s3>
+			<Fish_s4>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s4>
+			<Fish_s5>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s5>
+			<Fish_s6>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s6>
+			<Fish_s7>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s7>
+			<Fish_s8>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s8>
+			<Fish_s9>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_s9>
+			<Fish_t1>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t1>
+			<Fish_t10>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t10>
+			<Fish_t11>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t11>
+			<Fish_t12>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t12>
+			<Fish_t2>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t2>
+			<Fish_t3>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t3>
+			<Fish_t4>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t4>
+			<Fish_t5>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t5>
+			<Fish_t6>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t6>
+			<Fish_t7>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t7>
+			<Fish_t8>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t8>
+			<Fish_t9>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_t9>
+			<Fish_XieLi>
+				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
+				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+			</Fish_XieLi>
+			<Shrimp1>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp1>
+			<Shrimp2>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp2>
+			<Shrimp3>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp3>
+			<Shrimp4>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp4>
+			<Shrimp5>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp5>
+			<Shrimp6>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp6>
+			<Shrimp7>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp7>
+			<Shrimp8>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp8>
+			<Shrimp9>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp9>
+			<Shrimp10>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp10>
+			<Shrimp11>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp11>
+			<Shrimp12>
+				<li Name="กุ้งแช่เหล้า" Desc="นำกุ้งไปแช่ในเหล้า ซึ่งจะทำให้กุ้งมีรสชาติที่นุ่มและหวาน"></li>
+				<li Name="กุ้งหางหงส์" Desc="ห่อหางกุ้งด้วยแป้งแล้วทอดให้นุ่มกรอบ กรอบนอกและนุ่มใน"></li>
+			</Shrimp12>
+		</SpecialItem>
+	</List>
+</SpecialNames>

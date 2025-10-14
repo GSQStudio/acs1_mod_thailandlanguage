@@ -1,0 +1,305 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_LingZhiGet">
+			<DisplayName>ผจญภัยที่นี่</DisplayName>
+			<Desc>[NAME] ได้มาถึงที่[PLACE]และจำได้ว่ามันควรจะมีรากวิญญาณเติบโตอยู่ที่นี่ หลังจากที่ได้ลองค้นหาอย่างละเอียดแล้ว ปรากฏว่าพื้นที่แห่งนี้เต็มไปด้วยปราณธาตุดิน ดูเหมือนว่ามันจะมีอะไรบางอย่างที่ไม่ธรรมดาที่นี่</Desc>
+			<Selections.0.Display>ค้นหารากวิญญาณ</Selections.0.Display>
+			<Selections.1.Display>จัดวางค่ายกล</Selections.1.Display>
+			<Selections.2.Display>เก็บเกี่ยวรากวิญญาณ</Selections.2.Display>
+			<Selections.3.Display>เดินไปรอบๆ</Selections.3.Display>
+			<Selections.4.Display>ไม่สนใจ</Selections.4.Display>
+		</Text>
+		<Text Name="Story_LingZhiBeg">
+			<DisplayName>ผจญภัยที่นี่</DisplayName>
+			<Desc>[NAME] ได้มาถึงที่[PLACE]และจำได้ว่าที่นี่มันมีรากวิญญาณเติบโตอยู่</Desc>
+			<Selections.0.Display>ค้นหารากวิญญาณ</Selections.0.Display>
+			<Selections.1.Display>เดินไปรอบๆ</Selections.1.Display>
+			<Selections.2.Display>ไม่สนใจ</Selections.2.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Jin">
+			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
+			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุทองอยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
+			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
+			<Selections.3.Display>บ่มเพาะปราณ</Selections.3.Display>
+			<Selections.4.Display>บ่มเพาะปราณ</Selections.4.Display>
+			<Selections.5.Display>ไม่สนใจ</Selections.5.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Mu">
+			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
+			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุไม้อยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
+			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
+			<Selections.3.Display>บ่มเพาะปราณ</Selections.3.Display>
+			<Selections.4.Display>บ่มเพาะปราณ</Selections.4.Display>
+			<Selections.5.Display>ไม่สนใจ</Selections.5.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Shui">
+			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
+			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุน้ำอยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
+			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
+			<Selections.3.Display>บ่มเพาะปราณ</Selections.3.Display>
+			<Selections.4.Display>บ่มเพาะปราณ</Selections.4.Display>
+			<Selections.5.Display>ไม่สนใจ</Selections.5.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Huo">
+			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
+			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุไฟอยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
+			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
+			<Selections.3.Display>บ่มเพาะปราณ</Selections.3.Display>
+			<Selections.4.Display>บ่มเพาะปราณ</Selections.4.Display>
+			<Selections.5.Display>ไม่สนใจ</Selections.5.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Tu">
+			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
+			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุดินอยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
+			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
+			<Selections.3.Display>บ่มเพาะปราณ</Selections.3.Display>
+			<Selections.4.Display>บ่มเพาะปราณ</Selections.4.Display>
+			<Selections.5.Display>ไม่สนใจ</Selections.5.Display>
+		</Text>
+		<Text Name="HighFind_Jin">
+			<DisplayName>ค้นหาสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
+			<Selections.1.Tip>ใช้โชค</Selections.1.Tip>
+			<Selections.2.Display>ค้นหาสมบัติ</Selections.2.Display>
+			<Selections.3.Display>ค้นหาสมบัติ</Selections.3.Display>
+			<Selections.4.Display>ค้นหาสมบัติ</Selections.4.Display>
+			<Selections.5.Display>ค้นหาสมบัติ</Selections.5.Display>
+			<Selections.5.Tip>ใช้โชค</Selections.5.Tip>
+			<Selections.6.Display>จากไป</Selections.6.Display>
+		</Text>
+		<Text Name="HighFind_Mu">
+			<DisplayName>ค้นหาสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
+			<Selections.1.Tip>ใช้โชค</Selections.1.Tip>
+			<Selections.2.Display>ค้นหาสมบัติ</Selections.2.Display>
+			<Selections.3.Display>ค้นหาสมบัติ</Selections.3.Display>
+			<Selections.4.Display>ค้นหาสมบัติ</Selections.4.Display>
+			<Selections.5.Display>ค้นหาสมบัติ</Selections.5.Display>
+			<Selections.5.Tip>ใช้โชค</Selections.5.Tip>
+			<Selections.6.Display>จากไป</Selections.6.Display>
+		</Text>
+		<Text Name="HighFind_Shui">
+			<DisplayName>ค้นหาสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
+			<Selections.1.Tip>ใช้โชค</Selections.1.Tip>
+			<Selections.2.Display>ค้นหาสมบัติ</Selections.2.Display>
+			<Selections.3.Display>ค้นหาสมบัติ</Selections.3.Display>
+			<Selections.4.Display>ค้นหาสมบัติ</Selections.4.Display>
+			<Selections.5.Display>ค้นหาสมบัติ</Selections.5.Display>
+			<Selections.5.Tip>ใช้โชค</Selections.5.Tip>
+			<Selections.6.Display>จากไป</Selections.6.Display>
+		</Text>
+		<Text Name="HighFind_Huo">
+			<DisplayName>ค้นหาสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
+			<Selections.1.Tip>ใช้โชค</Selections.1.Tip>
+			<Selections.2.Display>ค้นหาสมบัติ</Selections.2.Display>
+			<Selections.3.Display>ค้นหาสมบัติ</Selections.3.Display>
+			<Selections.4.Display>ค้นหาสมบัติ</Selections.4.Display>
+			<Selections.5.Display>ค้นหาสมบัติ</Selections.5.Display>
+			<Selections.5.Tip>ใช้โชค</Selections.5.Tip>
+			<Selections.6.Display>จากไป</Selections.6.Display>
+		</Text>
+		<Text Name="HighFind_Tu">
+			<DisplayName>ค้นหาสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
+			<Selections.1.Tip>ใช้โชค</Selections.1.Tip>
+			<Selections.2.Display>ค้นหาสมบัติ</Selections.2.Display>
+			<Selections.3.Display>ค้นหาสมบัติ</Selections.3.Display>
+			<Selections.4.Display>ค้นหาสมบัติ</Selections.4.Display>
+			<Selections.5.Display>ค้นหาสมบัติ</Selections.5.Display>
+			<Selections.5.Tip>ใช้โชค</Selections.5.Tip>
+			<Selections.6.Display>จากไป</Selections.6.Display>
+		</Text>
+		<Text Name="Story_MuBai">
+			<DisplayName>ป่าฝนไม้ขาว</DisplayName>
+			<Desc>สถานที่แห่งนี้เป็นสถานที่ที่เซียนอมตะคนหนึ่งเคยพำนักอาศัยอยู่อย่างสันโดษ มีข่าวลือว่าที่นี่ไม่มีฝนตกเลยหลังจากที่เซียนอมตะท่านนั้นจุติขึ้นสู่สรวงสวรรค์</Desc>
+			<Selections.0.Display>ค้นหาฝน</Selections.0.Display>
+			<Selections.1.Display>ค้นหา</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Story_QiSha">
+			<DisplayName>ค่ายกลเจ็ดวิถีสังหาร</DisplayName>
+			<Desc>ค่ายกลเจ็ดวิถีสังหาร ได้ถูกวางเอาไว้ทั่วบริเวณนี้ หากท่านไม่ได้รับอนุญาติให้เข้าไปท่านอาจถูกสังหารได้ มันจะดีกว่าถ้าหากไม่เสี่ยงเข้าไป</Desc>
+			<Selections.0.Display>จากไป</Selections.0.Display>
+		</Text>
+		<Text Name="Story_JianZhong">
+			<DisplayName>สุสานกระบี่</DisplayName>
+			<Desc>สถานที่แห่งนี้ได้รับการปกป้องอย่างเข้มงวด มันมีกระบี่นับร้อยนับพันที่ต่างยุคต่างสมัยของอารามบัวสีครามเก็บสะสมอยู่จากรุ่นสู่รุ่น หากใครบางคนที่มีวาสนาได้เดินเข้า พวกเขาอาจจะได้รับกระบี่วิเศษกลับมาก็ได้</Desc>
+			<Selections.0.Display>ค้นหากระบี่ในสุสานกระบี่</Selections.0.Display>
+			<Selections.0.Tip>ได้รับความชื่นชอบจากอารามบัวสีคราม</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_YuJingTan">
+			<DisplayName>กล่องเหล็กแห่งทะเลสาบศิลาหยก</DisplayName>
+			<Desc>สถานที่แห่งนี้ได้เก็บรักษากล่องเหล็กของจักรพรรดิ์อสูรอยู่ และดูเหมือนว่าสมบัติชิ้นนี้จะมีสนามแม่เหล็กที่ทรงพลังปกป้องอยู่ ดังนั้นจึงไม่มีใครสามารถนำมันออกมาได้</Desc>
+			<Selections.0.Display>จากไป</Selections.0.Display>
+		</Text>
+		<Text Name="Story_YiJieLieFeng">
+			<DisplayName>รอยแยกต่างมิติ</DisplayName>
+			<Desc>ตำนานได้กล่าวไว้ว่ารอยแยกมิติแห่งนี้ได้เกิดขึ้นจากการสู้รบกันขอบเซียนและมารในสมัยโบราณ ทว่ารอยแยกแห่งนี้มันก็ได้หายไปตั้งแต่เมื่อ 1000 ปีก่อนแล้ว ไม่มีใครคาดคิดเลยว่ามันจะปรากฏขึ้นมาอีกครั้งในยุคสมัยนี้ รอยแยกต่างมิติแห่งนี้มีความอันตรายเป็นอย่างมาก หากปราศจากโชคละก็ แม้แต่เซียนที่มีประสบการณ์มากก็อาจจะไม่สามารถเอาชีวิตรอดกลับออกมาได้</Desc>
+			<Selections.0.Display>รอยแยกที่เต็มไปด้วยกลิ่นอายของความสุขสงบ</Selections.0.Display>
+			<Selections.1.Display>รอยแยกที่เต็มไปด้วยกลิ่นอายของความสง่างาม</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="BaoZang_LiHenHai">
+			<DisplayName>ทะเลมายาต้องสาป</DisplayName>
+			<Desc>ใครจะคิดว่ามันจะมีสถานที่น่าอัศจรรย์ราวกับสรวงสวรรค์เช่นนี้อยู่บนโลก! บางทีสถานที่แห่งนี้อาจจะซ่อนความลับอะไรเอาไว้!</Desc>
+			<Selections.0.Display>เข้าไป</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="BaoZang_XieDiLing">
+			<DisplayName>สุสานจักรพรรดิอสูร</DisplayName>
+			<Desc>นี่คือสุสานของจักรพรรดิผู้นำของสำนักมาทางตอนใต้ มันได้ถูกปิดผนึกไว้และไม่มีใครสามารถเข้าไปได้</Desc>
+			<Selections.0.Display>จากไป</Selections.0.Display>
+		</Text>
+		<Text Name="BaoZang_TaoHuaZhang">
+			<DisplayName>ป่าดอกท้อไร้โรย</DisplayName>
+			<Desc>นี่เป็นสถานที่รกร้างที่เต็มไปด้วยปราณพิษที่แม้แต่ผู้ฝึกตนก็ไม่สามารถต้านทานได้ หากสูดเข้าไปเพียงลมหายใจเดียวมันก็อาจจะคร่าชีวิตของท่านได้ วิธีเดียวที่จะผ่านที่นี่ไปได้คือเปลี่ยนร่างกายของท่านให้เป็นอย่างอื่น</Desc>
+			<Selections.0.Display>เข้าไป</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_ChiLianYuan">
+			<DisplayName>ค้นหาความลับของพระราชวังมรกต</DisplayName>
+			<Desc>[NAME] ได้เข้าไปในพระราชวังที่หนานกงหงทิ้งเอาไว้ในบันทึกลับ ตามสิ่งที่ถูกบันทึกไว้ใน "คัมภีร์วิถีเซียน" มันมีสถานที่สามแห่งที่ได้ถูกซ่อนเอาไว้ ได้แก่ หนึ่ง ศาลาแห่งโชคชะตาที่อยู่ในโถงพำนักของพระราชวังมรกต, สอง พื้นที่หลอมอาวุธวิเศษที่อยู่ในโถงหมื่นสมบัติ, และสาม ห้องเขียนตำราที่อยู่ในสถานที่ฝึกสมาธิ</Desc>
+			<Selections.0.Display>เข้าไปในศาลาแห่งโชคชะตา</Selections.0.Display>
+			<Selections.1.Display>เข้าไปในโถงหมื่นสมบัติ</Selections.1.Display>
+			<Selections.2.Display>เข้าไปในห้องเขียนตำรา</Selections.2.Display>
+			<Selections.3.Display>จากไป</Selections.3.Display>
+		</Text>
+		<Text Name="BaoZang_XuanKong">
+			<DisplayName>สุสานเซียนหยก</DisplayName>
+			<Desc>[NAME] ได้เข้าไปในสถานที่พำนักของเซียนหยกที่ได้ถูกบันทึกไว้ใน "คัมภีร์วิถีเซียน" และด้วยข้อมูลในบันทึกจึงทำให้หลบเลี่ยงกับดักได้ไม่น้อย</Desc>
+			<Selections.0.Display>ค้นหาที่พำนักเซียน</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan">
+			<DisplayName>ภูเขาชิงเหลียน</DisplayName>
+			<Desc>[NAME] ได้มาที่ทะเลทางใต้ตามบันทึกลับ หลังจากสำรวจพื้นที่อยู่หลายครั้ง ในที่สุด[ENHIM]ก็พบกับหยดน้ำที่แท้จริงซ่อนอยู่ในเกลียวคลื่นไร้สิ้นสุด [NAME] ได้เอื้อมมือไปสัมผัสมันและถูกดูดเข้าไปในวังวนของน้ำ หลังจากนั้นจึงพบภูเขาเซียนสีน้ำเงินสูงตระหง่านปรากฏขึ้นตรงหน้า เมื่อมองออกไปไกลๆ ก็พบกระท่อมไม้ไผ่หลังหนึ่งที่ตั้งอยู่บนไหล่เขา ส่วนยอดเขานั้นกลับถูกปกคลุมไปด้วยเมฆที่มีสีดำสนิทและมีสายฟ้าฟาดลงมาตลอดเวลา</Desc>
+			<Selections.0.Display>ค้นหาบนภูเขา</Selections.0.Display>
+			<Selections.1.Display>เดินเข้าไปยังกระท่อมไม้ไผ่ที่ไหล่เขา</Selections.1.Display>
+			<Selections.2.Display>สำรวจยอดเขา</Selections.2.Display>
+			<Selections.3.Display>จากไป</Selections.3.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan1">
+			<DisplayName>ค่ายกลที่แแปลกประหลาดบนยอดเขา</DisplayName>
+			<Desc>[NAME] เพิ่งจะเข้าไปใกล้ยอดเขาเท่านั้น ทว่า[ENHIM]รู้สึกได้ถึงคลื่นแรงกดดันอันมหาศาลที่แผ่ออกมาจากยอดเขาแห่งนี้ นี่จะต้องเป็นทัณฑ์สวรรค์ที่กำลังผ่าลงมาที่ภูเขาชิงเหลียนเป็นแน่! [NAME] ได้รวบรวมความกล้าก้าวเดินขึ้นไปยังยอดเขา [ENHIM]พบว่ายอดภูเขาทั้งหมดถูกบดบังด้วยปราณอันยิ่งใหญ่และมีรูปแบบค่ายกลที่ซับซ้อนอย่างยิ่งอยู่บนนั้น</Desc>
+			<Selections.0.Display>ตรวจสอบรูปแบบค่ายกล</Selections.0.Display>
+			<Selections.1.Display>กลับไปยังตีนเขา</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan2">
+			<DisplayName>กระท่อมไม้ไผ่ที่ไหล่เขา</DisplayName>
+			<Desc>เมื่อ [NAME] มาถึงยังกระท่อมไม้ไผ่บนไหล่เขา [ENHIM]พบว่ากระท่อมหลังนี้ถูกจัดวางอย่างเรียบง่าย มันมีเพียงแค่เตียงและโต๊ะไม้อย่างละหนึ่งเท่านั้น ซึ่งทุกอย่างมันดูธรรมดามาก ทว่าหลังจากที่ [NAME] ได้ทำการสำรวจ [ENHIM]พบว่ามันมีบางสิ่งกำลังเปล่งแสงจางๆ อยู่บนโต๊ะไม้นั่น</Desc>
+			<Selections.0.Display>ตรวจสอบโต๊ะไม้</Selections.0.Display>
+			<Selections.1.Display>กลับไปยังตีนเขา</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan2_end">
+			<DisplayName>กระท่อมไม้ไผ่ที่ไหล่เขา</DisplayName>
+			<Desc>ผังค่ายกลถูกถูกนำออกไปแล้ว ที่นี่ไม่มีอะไรอีกแล้ว</Desc>
+			<Selections.0.Display>กลับไปยังตีนเขา</Selections.0.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan21">
+			<DisplayName>ผังค่ายกลปริศนา</DisplayName>
+			<Desc>[NAME] พบว่ามีช่องสี่ช่องบนผังค่ายกลที่อาจจะเป็นกุญแจสู่ใจกลางของค่ายกล และมันมีเพียงช่องเดียวเท่านั้นที่กำลังส่องแสงอยู่ ส่วนที่เหลืออีกสามช่องไม่มีปฏิกิริยาใดๆ</Desc>
+			<Selections.0.Display>โอนถ่ายปราณ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan3">
+			<DisplayName>ทิวทัศน์บนภูเขา</DisplayName>
+			<Desc>เมื่อเดินไปเรื่อยๆ ตามแนวเขา [NAME] พบว่าปราณที่นี่มันหนาแน่กว่าโลกภายนอกมาก ภูเขาที่เปรียบดั่งดินแดนศักดิ์สิทธิ์เช่นนี้กลับซ่อนอยู่ในหยดน้ำเพียงหยดเดียว นี่เป็นเรื่องที่น่าเหลือเชื่อจริงๆ</Desc>
+			<Selections.0.Display>ชมทิวทัศน์</Selections.0.Display>
+			<Selections.1.Display>กลับไปยังตีนเขา</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_DengXian">
+			<DisplayName>สำรวจซากโบราณ</DisplayName>
+			<Desc>[NAME] ฉันได้ยินมาว่าซากโบราณชุมนุมเซียนแห่งนี้มีเคล็ดวิชาดั้งเดิมที่ถูกทิ้งไว้โดยจักรพรรดิตงหัวเมื่อนานมาแล้ว [ENHIM]จึงพยายามที่จะตามหามัน</Desc>
+			<Selections.0.Display>ค้นหาอย่างละเอียด</Selections.0.Display>
+			<Selections.0.Tip>ใช่การรับรู้ และ ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_FeiLei">
+			<DisplayName>ถ้ำอัสนีกึกก้อง</DisplayName>
+			<Desc>ว่ากันว่านางเซียนชิงเหลียนได้จุติทยานขึ้นสู่สรวงสวรรค์ ณ สถานที่แห่งนี้ บางทีที่นี่อาจมีความลับอันยิ่งใหญ่ซ่อนอยู่ [NAME] ไม่สามารถระงับความรู้สึกอยากรู้อยากเห็นได้ ดังนั้น[ENHIM]จึงเข้าไปสำรวจดู</Desc>
+			<Selections.0.Display>มองไปรอบๆ</Selections.0.Display>
+		</Text>
+		<Text Name="BaoZang_FeiLei1">
+			<DisplayName>ถ้ำอัสนีกึกก้อง</DisplayName>
+			<Desc>ตำนานของภูเขาซูกล่าวกันว่ากุญแจของถ้ำอัสนีกึกก้องคือหนังสือเล่มที่ปราชญ์ผู้นั้นทิ้งเอาไว้ พวกเขาจะมอบของขวัญให้กับทุกคนที่สามารถนำหนังสือเล่มนั้นกลับมาได้</Desc>
+			<Selections.0.Display>ยืมหนังสือ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="LingWu_DanXia">
+			<DisplayName>ผาม่านฟ้า</DisplayName>
+			<Desc>[NAME] มองออกไปด้วยความตกใจเมื่อเห็นแสงนับพันพุ่งออกมาผาม่านฟ้า</Desc>
+			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
+			<Selections.0.Tip>ใช้สติปัญญา และ พื้นฐานการบ่มเพาะ</Selections.0.Tip>
+			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
+			<Selections.1.Tip>ใช้สติปัญญา และ พื้นฐานการบ่มเพาะ</Selections.1.Tip>
+			<Selections.2.Display>ชมวิวทิวทัศน์</Selections.2.Display>
+		</Text>
+		<Text Name="LingWu_JiuHua1">
+			<DisplayName>ดินแดนมังกรลี้ลับ</DisplayName>
+			<Desc>[NAME] นั้นได้มายืนอยู่เบื้องหน้าสระมังกรแฝงและหวนคิดเรื่องราวในสมัยโบราณที่ว่ากันว่ามีจะพลังปราณอันมหาศาลถูกปลดปล่อยออกมายามเมื่อมังกรปรากฏกายขึ้นที่นี่ [ENHIM]อดไม่ได้ที่จะมองไปด้วยความตื่นเต้น</Desc>
+			<Selections.0.Display>พยายามรู้แจ้งอะไรบางอย่าง</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
+			<Selections.2.Display>ชมวิวทิวทัศน์</Selections.2.Display>
+		</Text>
+		<Text Name="LingWu_JiuHua2">
+			<DisplayName>ดินแดนหงส์เพลิง</DisplayName>
+			<Desc>[NAME] นั้นได้มายืนอยู่เบื้องซากไม้หงส์เพลิงที่ผาหงส์เพลิง [ENHIM]ถอนหายใจอย่างถอดถอนใจ ทว่าหลังจากนั้นดูเหมือนว่า[ENHIM]จะได้ยินเสียงของหงส์เพลิงดังก้องอยู่ในหู</Desc>
+			<Selections.0.Display>พยายามรู้แจ้งอะไรบางอย่าง</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
+			<Selections.2.Display>ชมวิวทิวทัศน์</Selections.2.Display>
+		</Text>
+		<Text Name="LingWu_LongHu">
+			<DisplayName>น้ำตกผ่านฟ้า</DisplayName>
+			<Desc>[NAME] มองดูอย่างพูดไม่ออกเมื่อมาอยู่ต่อหน้าความยิ่งใหญ่ของน้ำตกผ่านฟ้า พลังของมันนั้นดูยิ่งใหญ่ซะยิ่งกว่าพลังของผู้ฝึกตนที่อยู่ในขอบเขตแก่นทองคำซะอีก</Desc>
+			<Selections.0.Display>พยายามรู้แจ้งอะไรบางอย่าง</Selections.0.Display>
+			<Selections.0.Tip>ทักษะอาวุธวิเศษ</Selections.0.Tip>
+			<Selections.1.Display>พยายามรู้แจ้งอะไรบางอย่าง</Selections.1.Display>
+			<Selections.1.Tip>ใช้สัมผัสปราณ</Selections.1.Tip>
+			<Selections.2.Display>ชมวิวทิวทัศน์</Selections.2.Display>
+		</Text>
+		<Text Name="Story_TianJi">
+			<DisplayName>โพรงสุญตา</DisplayName>
+			<Desc>นี่คือโพรงที่สามารถมองเห็นได้ทุกที่ในถ้ำชีพจรมังกร ภายนอกมันดูเหมือนโพรงธรรมดาทั่วๆ ไป ทว่ามันกลับปลดปล่อยรัศมีปราณที่แปลกประหลาดออกมา ถ้าไม่ใช่สำหรับผู้ที่คุ้นเคยกับถ้ำชีพจรมังกรเป็นอย่างดีละก็ พวกเขาจะไม่สามารถตรวจพบรัศมีปราณอันเบาบางเช่นนี้ได้อย่างแน่นอน และหากสังเกตให้ดีๆ ละก็ ดูเหมือนว่าจะมีลวดลายธรรมชาติแปลกๆ ซ่อนอยู่ตรงปากถ้ำอีกด้วย</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะปราณบนแผ่นหิน</Selections.1.Display>
+			<Selections.1.Tip>ค่าสถานะ / ทักษะช่างฝีมือ / สติปัญญา</Selections.1.Tip>
+			<Selections.2.Display>ตรวจสอบเมล็ดแห่งโชค</Selections.2.Display>
+			<Selections.3.Display>จากไป</Selections.3.Display>
+		</Text>
+		<Text Name="Story_HighFind_SpPlace">
+			<DisplayName>ค้นหาโดยใช้โชค</DisplayName>
+			<Desc>[NAME] ได้มายังสนามรบโบราณที่เซียนและมารเคยสู้รบกันเมื่อหลายพันปีก่อน หากโชคดีละก็อาจจะได้อะไรติดไม้ติดมือกลับไปก็ได้</Desc>
+			<Selections.0.Display>ค้นหาโดยใช้โชค</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,190 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JGTest">
+			<Events.0.Story>ในขณะที่ [name] อยู่ว่างๆ ก็ได้จินตนาการถึงกลายร่างเป็นมนุษย์อยู่ภายในใจ</Events.0.Story>
+			<Events.1.Story>ขณะอยู่เฉยๆ จิตใจของ [name] เริ่มล่องลอยไปสู่ช่วงเวลาที่ได้ใช้ชีวิตอย่างมีความสุขอยู่กับเจ้านายของตัวเอง</Events.1.Story>
+		</Text>
+		<Text Name="JGTunShi">
+			<Events.0.Story>สวรรค์!! เจ้าสิ่งนี้มันอร่อยมาก! ข้าอยากได้เพื่ม</Events.0.Story>
+			<Events.1.Story>ขอเพิ่มอีก ได้โปรด นะๆๆๆ ข้าสัญญาว่าหลังจากนี้ข้าจะลดน้ำหนัก</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังกลืนเจ้าสิ่งนี้ลงไป จู่ๆ [name] ก็ได้นึกถึงวัตถุวิญญาณ[obj_tongling]ขึ้นมาและเริ่มสงสัยว่ารสชาติของมันอร่อยหรือไม่</Events.2.Story>
+			<Events.3.Story>อบอุ่น! สบายจ๊ายยย!</Events.3.Story>
+			<Events.4.Story>อร่อยสุดๆ!</Events.4.Story>
+			<Events.5.Story>อุว๊าววว เจ้าสิ่งนี้มันอร่อยโครตๆ</Events.5.Story>
+			<Events.6.Story>ขออีก!</Events.6.Story>
+			<Events.7.Story>อร่อยจนแทบบ้า</Events.7.Story>
+			<Events.8.Story>รสชาติเยี่ยม!</Events.8.Story>
+		</Text>
+		<Text Name="JGTalkDay">
+			<Events.0.Story>ในขณะที่ [name] อยู่ว่างๆ [IT]ก็ได้จินตนาการถึงกลายร่างเป็นมนุษย์ภายในจิตใจของ[IT]</Events.0.Story>
+			<Events.1.Story>[name] เข้าสู่สภาวะภวังค์จิตด้วยเหตุผลบางอย่าง</Events.1.Story>
+			<Events.2.Story>[name] มองไปยังสหายที่ไม่รู้เรื่องรู้ราวเหล่านั้น ทันใดนั้นจู่ๆ ก็รู้สึกว่าตัวเองโชคดีไม่น้อย</Events.2.Story>
+			<Events.3.Story>[name] [rand_string=จู่ๆ ก็จาม,จู่ๆ ก็สะอึก,จู่ๆ ก็หาว,เริ่มพึมพำกับตัวเอง,จู่ๆ ก็รู้สึกคัน,จู่ๆ ก็รู้สึกเบื่อ,ถอนหายใจ,จู่ๆ ก็ปรบมือ,จู่ๆ ก็เลียริมฝีปาก,ปัดฝุ่นตามร่าง,เริ่มฮัมเพลง,ต้องการพูดคุยกับใครซักคน,อยากลองแต่งกลอน]</Events.3.Story>
+			<Events.4.Story>[name] รู้สึกเหมือนกับว่ามีใครบางคนได้เรียกชื่อของมัน</Events.4.Story>
+			<Events.5.Story>[name] ชอบ[rand_lable=obj_weather]จริงๆ</Events.5.Story>
+			<Events.6.Story>[name] จ้องมองไปยัง[rand_lable=obj_friend,obj_nearthing] [rand_string=มึนงง,หัวเราะ,ครุ่นคิด]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกสนใจใน[obj_nearthing]ที่อยู่ใกล้ๆ..</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็ต้องการกิน[obj_food]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็เริ่มร้องไห้ออกมา</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกหงุดหงิดกับบางสิ่งอย่างบอกไม่ถูก</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็เริ่มคิดถึงพระอาทิตย์ตก</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกหงุดหงิดกับบางสิ่งอย่างบอกไม่ถูก</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกหายใจลำบาก</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกมีแรงผลักดันให้ลองขี่[obj_fabao]ดูว่ามันจะให้ความรู้สึกยังไง</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] [name]ไม่ว่าทำไมจู่ๆ ก็รู้สึกสงสัยในรสชาติของ[obj_dan]และอยากลองกินมันขึ้นมาอย่างกะทันหัน</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็ต้องการกระทืบใครบางคน</Events.19.Story>
+			<Events.20.Story>มองข้าสิ มองข้าสิ มองข้าสิ!</Events.20.Story>
+			<Events.21.Story>ทางนี้ ทางนี้ ทางนี้!</Events.21.Story>
+			<Events.22.Story>เจ้า! เดินมานี่และพูดคุยเป็นเพื่อนข้าหน่อย</Events.22.Story>
+			<Events.23.Story>การที่พวกเจ้าเดินไปเดินมานั้นมันทำให้ข้ารู้สึกรำคาญมาก</Events.23.Story>
+			<Events.24.Story>ข้าต้องจะยุ่งเหมือนกับพวกเจ้างั้นเหรอถ้าหากวันหนึ่งข้าได้กลายเป็นมนุษย์?</Events.24.Story>
+			<Events.25.Story>มองหาบิดาเอ็งรึไง?</Events.25.Story>
+			<Events.26.Story>อะไร?</Events.26.Story>
+			<Events.27.Story>เจ้าวิ่งไปรอบๆ เช่่นนี้ ดวงตาของพวกเจ้าไม่แห้งบ้างเลยรึไง??</Events.27.Story>
+		</Text>
+		<Text Name="JGTalkNight">
+			<Events.0.Story>ในขณะที่ [name] อยู่ว่างๆ [IT]ก็ได้จินตนาการถึงกลายร่างเป็นมนุษย์ภายในจิตใจของ[IT]</Events.0.Story>
+			<Events.1.Story>[name] เข้าสู่สภาวะภวังค์จิตด้วยเหตุผลบางอย่าง</Events.1.Story>
+			<Events.2.Story>[name] มองไปยังสหายที่ไม่รู้เรื่องรู้ราวเหล่านั้น ทันใดนั้นจู่ๆ ก็รู้สึกว่าตัวเองโชคดีไม่น้อย</Events.2.Story>
+			<Events.3.Story>[name] [rand_string=จู่ๆ ก็จาม,จู่ๆ ก็สะอึก,จู่ๆ ก็หาว,เริ่มพึมพำกับตัวเอง,จู่ๆ ก็รู้สึกคัน,จู่ๆ ก็รู้สึกเบื่อ,ถอนหายใจ,จู่ๆ ก็ปรบมือ,จู่ๆ ก็เลียริมฝีปาก,ปัดฝุ่นตามร่าง,เริ่มฮัมเพลง,ต้องการพูดคุยกับใครซักคน,อยากลองแต่งกลอน]</Events.3.Story>
+			<Events.4.Story>[name] รู้สึกเหมือนกับว่ามีใครบางคนได้เรียกชื่อของมัน</Events.4.Story>
+			<Events.5.Story>[name] really likes [rand_lable=obj_weather]</Events.5.Story>
+			<Events.6.Story>[name] stared at the nearby [rand_lable=obj_friend,obj_nearthing] [rand_string=zoning out,giggling,pondering on something]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกสนใจใน[obj_nearthing]ที่อยู่ใกล้ๆ..</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็ต้องการกิน[obj_food]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็เริ่มร้องไห้ออกมา</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกหงุดหงิดกับบางสิ่งอย่างบอกไม่ถูก</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็เริ่มคิดถึงพระอาทิตย์ตก</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกหงุดหงิดกับบางสิ่งอย่างบอกไม่ถูก</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกหายใจลำบาก</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็รู้สึกมีแรงผลักดันให้ลองขี่[obj_fabao]ดูว่ามันจะให้ความรู้สึกยังไง</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] [name]ไม่ว่าทำไมจู่ๆ ก็รู้สึกสงสัยในรสชาติของ[obj_dan]และอยากลองกินมันขึ้นมาอย่างกะทันหัน</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] จู่ๆ [name] ก็ต้องการกระทืบใครบางคน</Events.19.Story>
+			<Events.20.Story>เฮ้ย ตื่นๆๆๆ ลุกขึ้นมาเล่นกัน!</Events.20.Story>
+			<Events.21.Story>ลาลันล๊า ลาลันล๊า ล๊าลันลาาา~</Events.21.Story>
+			<Events.22.Story>ใคร––ตื่น––ขึ้น––มา––แล้วบ้าง? ––ตื่น––แล้ว––รึ––ยางงงง? ––ตื่น––รึ––ยางงงง? ––รึ––ยางงงง? ––ว่างายยย? ข–อ–อ–ภั–ย––โอ้––ข–อ–อ–ภั–ย––</Events.22.Story>
+			<Events.23.Story>ครอกฟี้.. ครอกฟี้.. ข้ากำลังหลับ–––ไม่จริงซะหน่อย ข้าก็แค่หลอกเจ้าเล่น!</Events.23.Story>
+			<Events.24.Story>ดี๊ ดี ดี ดี๊ ดี ดี~</Events.24.Story>
+			<Events.25.Story>อจ๊า อจ๊า อจ๊า อจ๊า~</Events.25.Story>
+			<Events.26.Story>ฉันได้ยินมาว่าเจ้าพวกวัตถุวิญญาณมันมักจะคลานขึ้นไปบนเตียงขอเจ้าในตอนกลางคืน</Events.26.Story>
+			<Events.27.Story>อ๋า~~~~~~~~~ โครตเซ็ง~~~~~~~~~ เล็บ~ของ~ข้า~เต็มไปด้วยโคลน~~~~~~~~~</Events.27.Story>
+		</Text>
+		<Text Name="JGTalkNoMove">
+			<Events.0.Story>เมื่อไหร่ข้าจะได้ออกไป ข้าเบื่อที่จะต้องอยู่ภายในนี้แล้ว!!</Events.0.Story>
+			<Events.1.Story>เฮ้? เฮ้? มีใครอยู่บ้าง! ปล่อยข้าออกไปเดี๋ยวนี้!</Events.1.Story>
+			<Events.2.Story>จิตใจเหี่ยวเฉา ข้าอยากออกไปเดินเล่น...</Events.2.Story>
+			<Events.3.Story>โฮ้ยยย–มีใคร–อยู่มั้ย––ตอบ–ข้า–หน่อยยย</Events.3.Story>
+			<Events.4.Story>ฮึ่ม แม้ว่าเจ้าจะปล่อยข้าไปตอนนี้ ข้าก็ไม่อยากขยับไปไหนแล้ว</Events.4.Story>
+			<Events.5.Story>อรุณเบิกฟ้า นกกาโบยบิน ออกหากินร่าเริงแจ่มใส ข้าคือสัตว์อสูรตัวน้อยน่ารักที่อยากจะไปเดินเล่น~</Events.5.Story>
+			<Events.6.Story>ปล่อยข้าออกไปเดี๋ยว ข้ารู้นะว่าเจ้าได้ยินข้า!</Events.6.Story>
+			<Events.7.Story>ข้าจะยัดอึมังกรลงไปในถ้วยน้ำชาของพวกเจ้าทุกคน!!</Events.7.Story>
+			<Events.8.Story>ข้าอยากเป็นมนุษย์จริงๆ~ ข้าอยากวิ่งไปทุกที่~</Events.8.Story>
+			<Events.9.Story>ห้องแร่ทองแดงอัคคีที่พวกเจ้ากำลังพูดถึงกันอยู่นั้นมันคืออะไร?</Events.9.Story>
+			<Events.10.Story>ข้าจะต้องเน่าตายอยู่ในนี้จริงๆ งั้นรึ?</Events.10.Story>
+			<Events.11.Story>ฮือ~ฮือ~ ข้ายอมแพ้แล้ว ข้าสัญญาว่าข้าจะไม่หนีอีกแล้ว</Events.11.Story>
+			<Events.12.Story>ปล่อย–ข้า–ออกไป–––</Events.12.Story>
+			<Events.13.Story>อันที่จริงข้าไม่ใช่วัตถุวิญญาณ ข้าเป็นเซียนอาวุโสที่ถูกผนึกอยู่ภายในนี้ หากเจ้าปล่อยข้าออกไป ข้าจะสอนทักษะที่ไร้เทียมทานให้เจ้า</Events.13.Story>
+			<Events.14.Story>อะโจ๊ อะโจ๊ อะโจ๊ อะโจ๊ อะโจ๊~</Events.14.Story>
+			<Events.15.Story>ดี๊ ดี ดี ดี๊ ดี ดี~</Events.15.Story>
+			<Events.16.Story>อจ๊า อจ๊า อจ๊า อจ๊า~</Events.16.Story>
+			<Events.17.Story>ข้าได้เรียนรู้สิ่งหนึ่งในช่วงสองสามวันที่ผ่านมานี่––นั่นก็คือวัตถุวิญญาณไม่ควรที่จะซ่าและวิ่งไปมาเลย</Events.17.Story>
+			<Events.18.Story>อวู๊วววววว––ข้าคือหมาป่าตัวร้าย––</Events.18.Story>
+			<Events.19.Story>ปล่อยข้าเถอะ! ข้าสัญญา ข้าสัญญาว่าข้าจะเปลี่ยนแปลงตัวเอง?</Events.19.Story>
+			<Events.20.Story>ได้โปรดปล่อยข้าไปเถอะ!!</Events.20.Story>
+			<Events.21.Story>สิ่งสำคัญที่สุดในการเป็นอสูรก็คือการมีความสุข โย่ๆๆ</Events.21.Story>
+			<Events.22.Story>ถามหาวิธีที่จะทำให้ข้าหุบปากงั้นรึ: ไม่มีหรอก ฮ่าๆๆ ฮ่าๆๆ</Events.22.Story>
+			<Events.23.Story>ข้ากำลังพยายามคิดหาหนทางหนีออกไป</Events.23.Story>
+			<Events.24.Story>กลับมาหาข้าในสองวันข้างหน้า แล้วข้าจะบอกความลับบางอย่างให้แก่เจ้า</Events.24.Story>
+			<Events.25.Story>นี่ข้าเป็นบ้าไปแล้วงั้นรึ?</Events.25.Story>
+			<Events.26.Story>ข้าจะบอกความลับให้ฟัง.... นั่นก็คือข้าไม่มีความลับอะไรเลย</Events.26.Story>
+			<Events.27.Story>เมื่อก่อนข้าไม่มีทางเลือกจริงๆ.... แต่ตอนนี้ข้าเป็นเด็กดีแล้วน๊าาา</Events.27.Story>
+			<Events.28.Story>ไม่ได้ขยับตัวทำให้รู้สึกปวดหัวจริงๆ</Events.28.Story>
+			<Events.29.Story>โย่ว เจ้าเคยลองกินหม้อไฟเจ็ดเซียนรึเปล่า?? รสชาติของมันอร่อยมาก</Events.29.Story>
+			<Events.30.Story>สามวันผ่านไป แล้วก็อีกสามวันผ่านไป หลังจากนั้นก็อีกสามวันผ่านไป ซ้ำไปซ้ำมา</Events.30.Story>
+		</Text>
+		<Text Name="JGEqupt">
+			<Events.0.Story>ไม่ ไม่...อย่าเพิ่งใช้งานข้า ฉันอยากพักผ่อนให้นานกว่านี้</Events.0.Story>
+			<Events.1.Story>เจ้าคิดถึงข้าก็ต่อเมื่อเจ้าอยากใช้งานข้าเท่านั้นนะรึ?</Events.1.Story>
+			<Events.2.Story>นี่เจ้ากำลังจะทำอะไรกับข้าอีก! ปล่อยให้ข้าไปพักบ้างเถอะ ได้โปรด!</Events.2.Story>
+			<Events.3.Story>ว้าววว หึ นี่เจ้ายังจำข้าได้อยู่อีกงั้นรึ ? ข้าเบื่อจนแทบจะบ้าอยู่แล้ว...!!</Events.3.Story>
+			<Events.4.Story>เจ้าได้กลินอะไรเหม็นหรือไม่?</Events.4.Story>
+			<Events.5.Story>ทำไมเจ้าถึงนำข้าไปกับเจ้า? ไปข้างนอกงั้นรึ? กำลังจะไปต่อสู้? มีแวะพักข้างทางหรือไม่?</Events.5.Story>
+			<Events.6.Story>ด้วยความเคารพ ด้วยความแข็งแกร่งของเจ้าในปัจจุบัน การนำข้าไปหรือไม่มันก็แทบจะไม่ต่างกันหรอก</Events.6.Story>
+			<Events.7.Story>อ๊ะ อ๊ะ มีคนอยากใช้งานข้า</Events.7.Story>
+		</Text>
+		<Text Name="JGEqupted">
+			<Events.0.Story>เฮ้ย [hename] ทำไมเหงื่อเจ้าออกมาเยอะขนาดนี้เนี่ย? อี๊ มันน่าขยะแขยงจริงๆ!</Events.0.Story>
+			<Events.1.Story>[hename] พูดกับข้าหน่อย อะไรก็ได้ อย่าเพื่งเงียบไปเซ่!</Events.1.Story>
+			<Events.2.Story>[hename] เจ้าทำแบบนั้นได้หรือไม่? เห้อ เจ้านายคนก่อนของข้านั้นยอดเยี่ยมกว่าเจ้ามากจริงๆ!</Events.2.Story>
+			<Events.3.Story>[hename] เคลื่อนไหวให้มันนิ่งๆ หน่อยไม่ได้รึไงกัน? ไอ้การสั่นไปมาแบบนี้มันกำลังจะฆ่าข้า</Events.3.Story>
+			<Events.4.Story>[hename] สัมภาระของเจ้ามันมีมากจนรกรุงรัง เอาละ เริ่มจากจัดการทิ้งไอ้เจ้าหมอนี่ที่อยู่ใกล้ๆ ข้าก่อนเลย!</Events.4.Story>
+			<Events.5.Story>[hename] ข้าจะบอกความลับให้แก่เจ้า ความจริงแล้วข้านั้นเป็นเซียนอาวุโสที่ถูกผนึกอยู่ภายในนี้ หากเจ้าปล่อยข้าออกไป ข้าจะสอนทักษะที่ไร้เทียมทานให้เจ้า</Events.5.Story>
+			<Events.6.Story>อ๊าาาาา [hename] ดูไอ้เจ้านั่นสิ มันพูดได้ด้วย! อ๊าาาาา! ข้าเองก็พูดได้นี่หว่า!</Events.6.Story>
+			<Events.7.Story>[hename] ดูนั่น! มีบางอย่างอยู่บนท้องฟ้า!</Events.7.Story>
+			<Events.8.Story>ข้าได้ยินมาว่ามีสิ่งที่เรียกว่าอสูรพาหนะที่ซึ่งพาคนอื่นไปทั่วทุกวัน [hename] นี่เจ้าคืออสูรพาหนะของข้างั้นรึ?</Events.8.Story>
+			<Events.9.Story>[hename] ช่วยข้าด้วย! ขะ-ข้าหายใจไม่ออก!! อ๊ะ ไม่ เดี๋ยวนะ ข้าไม่ต้องหายใจนี่หว่า</Events.9.Story>
+			<Events.10.Story>[hename] ถ้าหากข้าให้คำแนะนำอะไรบางอย่างแก่เจ้าละก็ เจ้าจะช่วยข้าสร้างร่างกายขึ้นมาได้หรือไม่?</Events.10.Story>
+			<Events.12.Story>[hename] เจ้าต้องฝึกให้หนักมากกว่านี้อีก ข้าไม่อยากแพ้ไอ้เจ้ากางเกงนั่น</Events.12.Story>
+			<Events.13.Story>[hename] คิดสิคิด คนอื่นๆ ยังทำมันได้ แล้วไยเจ้าจะทำมันไม่ได้กันละ?</Events.13.Story>
+			<Events.14.Story>อะโจ๊ อะโจ๊ อะโจ๊ อะโจ๊ อะโจ๊~</Events.14.Story>
+			<Events.15.Story>ดี๊ ดี ดี ดี๊ ดี ดี~</Events.15.Story>
+			<Events.16.Story>อจ๊า อจ๊า อจ๊า อจ๊า~</Events.16.Story>
+			<Events.17.Story>[hename] เจ้าคิดยังไงกับการเอาข้าเข้าไปเก็บเอาไว้ในคลังที่เต็มสมบัติ?</Events.17.Story>
+			<Events.18.Story>[hename] เจ้ามันไอ้คนกระจ๊อกกระจอก ไอ้อ่อนหัดเอ๊ย</Events.18.Story>
+		</Text>
+		<Text Name="JGBreak">
+			<Events.0.Story>จู่ๆ [name] ก็มีความรู้สึกไม่ดีเกี่ยวกับเรื่องนี้ และร่างกายของมันสั่นเล็กน้อย</Events.0.Story>
+			<Events.1.Story>จู่ๆ [name] ก็รู้สึกหนาวสั่นและอยากออกไปจากที่นี่มาก</Events.1.Story>
+		</Text>
+		<Text Name="JGRuin">
+			<Events.0.Story>ยกโทษให้ข้าด้วย! ม๊าย ได้โปรดหยุดเถอะ! ข้าจะไม่พูดจาไร้สาระอีกแล้ว! </Events.0.Story>
+			<Events.1.Story>ข้าจะกลับมาจากขุมนรกอีกครั้ง แล้วอย่าหวังว่าข้าจะเมตตาเจ้า!</Events.1.Story>
+		</Text>
+		<Text Name="JGMoveSelf">
+			<Events.0.Story>นี่เจ้าจะเอาข้าไปไว้ตรงไหนกัน?</Events.0.Story>
+			<Events.1.Story>ไม่อย่ามาแตะข้า ข้าไม่ตรงการเปลี่ยนที่</Events.1.Story>
+			<Events.2.Story>จะย้ายข้าไปที่ใหม่อีกแล้วงั้นรึ? แทบอดใจรอไม่ไหว</Events.2.Story>
+			<Events.3.Story>นี่พวกเรากำลังจะไปที่ไหนอีกแล้ว? เลิกย้ายข้าไปๆ มาๆ ซักทีจะได้ไหม</Events.3.Story>
+			<Events.4.Story>ฉันไม่สนใจหรอก แต่การเคลื่อนย้ายสิ่งของไปมารอบๆ นั้นไม่ดีต่อฮวงจุ้ย...</Events.4.Story>
+			<Events.5.Story>ข้าอยากได้คลังสมบัติที่มันใหญ่ๆ!</Events.5.Story>
+		</Text>
+		<Text Name="JGBuildingUse">
+			<Events.0.Story>หึ เจ้าเด็ก ทักษะของเจ้านั้นมันช่างห่วยแตกสิ้นดี!</Events.0.Story>
+			<Events.1.Story>เจ้าช่วยทำให้มันเร็วกว่านี้ได้รึเปล่า? มองดูเจ้าทำงานช้าเต่าคลานแบบนี้มันก็เป็นดั่งการทรมานข้า</Events.1.Story>
+			<Events.2.Story>เจ้าควรจะละอายใจที่ใช้งานข้าด้วยทักษะอันต่ำต้อยเช่นนี้! ถ้าหากข้ามีมือละก็ ข้าคงทำเสร็จไปนานแล้ว!</Events.2.Story>
+		</Text>
+		<Text Name="JGPlantHarvest">
+			<Events.0.Story>[hename] เฮ้ย! เหลือเอาไว้ให้ข้าด้วย!</Events.0.Story>
+			<Events.1.Story>ระวังหน่อย เดี๋ยวเจ้าก็ทำมันหล่นหรอก!</Events.1.Story>
+		</Text>
+		<Text Name="JGInteractive">
+			<Events.0.Story>เฮ้ย! [hename] นี่เจ้าคิดจะทำอะไรกับข้า!?</Events.0.Story>
+			<Events.1.Story>ช่วยเกาหลังให้ข้าหน่อยเด๊ะ</Events.1.Story>
+			<Events.2.Story>เจ้านี่มันช่างอัปลักษณ์จริงๆ!</Events.2.Story>
+		</Text>
+		<Text Name="JGInjured">
+			<Events.0.Story>เจ้าข้าเอ๊ย มันกำลังจะฆ่าข้าาา! ช่วยด้วยยย!</Events.0.Story>
+			<Events.1.Story>เจ้านายที่รัก ได้โปรดไว้ชีวิตข้าเถอะ นะๆๆๆๆ! ข้าสัญญาว่าข้าจะไม่พูดมากอีกแล้ว!</Events.1.Story>
+			<Events.2.Story>ยกโทษให้ข้าด้วย! ม๊าย ได้โปรดหยุดเถอะ! ข้าจะไม่พูดจาไร้สาระอีกแล้ว! </Events.2.Story>
+			<Events.3.Story>ข้าจะกลับมาจากขุมนรกอีกครั้ง แล้วอย่าหวังว่าข้าจะเมตตาเจ้า!</Events.3.Story>
+			<Events.4.Story>ไม่กินงั้นรึ? ช่างอ่อนแอจริงๆ! ถ้าข้าเป็นเจ้าละก็ ข้าจะหยุดซะก่อนที่จะทำให้ตัวเองต้องขายหน้า!</Events.4.Story>
+		</Text>
+		<Text Name="JGTalkToNpc">
+			<Events.0.Story>[hename] ไม่อย่าไป อยู่คุยกับข้าก่อน!</Events.0.Story>
+			<Events.1.Story>[hename] ทำไมเจ้าถึงรีบร้อนนัก? ทำไมไม่ช้าลงและชื่นชมโลกรอบๆ ตัวเจ้า</Events.1.Story>
+			<Events.2.Story>[hename] เจ้าไม่จำเป็นต้อพยายามให้มันมากนักก็ได้ ไอ้อ่อนหัดอย่างเจ้าต่อให้พยายามไปมันก็ไม่ส่งผลอะไรกับสำนักอยู่ดี</Events.2.Story>
+			<Events.3.Story>[hename] พาข้าออกไปเที่ยวหน่อย!</Events.3.Story>
+			<Events.4.Story>[hename] มองข้าสิ!</Events.4.Story>
+			<Events.5.Story>[hename] มานี่หน่อย!</Events.5.Story>
+			<Events.6.Story>[hename] เจ้าดูยุ่งมากทุกวัน ไอ้เจ้าสำนักบ้านั่นมันจ่ายหินวิญญาณให้เจ้ารึยัง?</Events.6.Story>
+			<Events.7.Story>[hename] ซ้าย-ซ้าย ซ้าย-ขวา--ซ้าย เอ้าหน้าเดิน!!</Events.7.Story>
+			<Events.8.Story>[hename] วิ่ง ความเหงากำลังไล่ตามเจ้าอยู่!</Events.8.Story>
+		</Text>
+	</List>
+</Texts>

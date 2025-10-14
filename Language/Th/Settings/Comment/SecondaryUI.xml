@@ -1,0 +1,203 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SystemMessage">
+			<Notes>ความคิดเห็นเกี่ยวกับระบบข้อความ</Notes>
+			<Title>ระบบข้อความ</Title>
+			<Desc>หมวดระบบข้อความ</Desc>
+		</Text>
+		<Text Name="Architecture">
+			<Notes>ความคิดเห็นเกี่ยวกับสิ่งปลูกสร้าง</Notes>
+			<Title>สิ่งปลูกสร้าง</Title>
+			<Desc>หมวดสิ่งปลูกสร้าง</Desc>
+		</Text>
+		<Text Name="NpcProperty">
+			<Notes>ความคิดเห็นเกี่ยวกับสถานะตัวละคร</Notes>
+			<Title>สภานะตัวละคร</Title>
+			<Desc>หมวดสภานะตัวละคร</Desc>
+		</Text>
+		<Text Name="NpcSociality">
+			<Notes>ความคิดเห็นเกี่ยวกับสังคมของตัวละคร</Notes>
+			<Title>สังคมของตัวละคร</Title>
+			<Desc>หมวดสังคมของตัวละคร</Desc>
+		</Text>
+		<Text Name="NpcHealth">
+			<Notes>ความคิดเห็นเกี่ยวกับพลังชีวิตของตัวละคร</Notes>
+			<Title>พลังชีวิต</Title>
+			<Desc>หมวดพลังชีวิต</Desc>
+		</Text>
+		<Text Name="NpcPractice">
+			<Notes>ความคิดเห็นเกี่ยวกับการบ่มเพาะ/การฝึกฝนของตัวละคร</Notes>
+			<Title>ตัวละคร</Title>
+			<Desc>หมวดตัวละคร</Desc>
+		</Text>
+		<Text Name="NpcZhuJi">
+			<Notes>ความคิดเห็นเกี่ยวกับการฝึกพื้นฐานของตัวละคร</Notes>
+			<Title>การฝึกพื้นฐาน</Title>
+			<Desc>หมวดการฝึกพื้นฐาน</Desc>
+		</Text>
+		<Text Name="NpcGnosis">
+			<Notes>ความคิดเห็นเกี่ยวกับค่าความฉลาดของตัวละคร</Notes>
+			<Title>ค่าความฉลาด</Title>
+			<Desc>หมวดค่าความฉลาด</Desc>
+		</Text>
+		<Text Name="NpcEquipment">
+			<Notes>ความคิดเห็นเกี่ยวกับอุปกรณ์ของตัวละคร</Notes>
+			<Title>อุปกรณ์</Title>
+			<Desc>หมวดอุปกรณ์</Desc>
+		</Text>
+		<Text Name="NpcEquipmentOfBodyPractice">
+			<Notes>ความคิดเห็นเกี่ยวกับอุปกรณ์และความลับในการปรับแต่งร่างกาย</Notes>
+			<Title>อุปกรณ์และความลับในการปรับแต่งร่างกาย</Title>
+			<Desc>อุปกรณ์และความลับในการปรับแต่งร่างกาย</Desc>
+		</Text>
+		<Text Name="NpcCombatStyle">
+			<Notes>ความคิดเห็นเกี่ยวกับแผนการรบของตัวละคร</Notes>
+			<Title>แผนการรบ</Title>
+			<Desc>หมวดแผนการรบ</Desc>
+		</Text>
+		<Text Name="NpcDetailProperty">
+			<Notes>ความคิดเห็นเกี่ยวกับรายละเอียดสถานะของตัวละคร</Notes>
+			<Title>รายละเอียดสถานะ</Title>
+			<Desc>หมวดรายละเอียดสถานะ</Desc>
+		</Text>
+		<Text Name="NpcDrugResistance">
+			<Notes>ความคิดเห็นเกี่ยวกับความต้านทานโอสถของตัวละคร</Notes>
+			<Title>ความต้านทานโอสถ</Title>
+			<Desc>หมวดความต้านทานโอสถ</Desc>
+		</Text>
+		<Text Name="Secret">
+			<Notes>ความคิดเห็นเกี่ยวกับความลึกลับ</Notes>
+			<Title>ความลึกลับ</Title>
+			<Desc>หมวดความลึกลับ</Desc>
+		</Text>
+		<Text Name="Character">
+			<Notes>ความคิดเห็นเกี่ยวกับNPC</Notes>
+			<Title>NPC</Title>
+			<Desc>หมวด NPC</Desc>
+		</Text>
+		<Text Name="Clue">
+			<Notes>ความคิดเห็นเกี่ยวกับเบาะแส</Notes>
+			<Title>เบาะแส</Title>
+			<Desc>หมวดเบาะแส</Desc>
+		</Text>
+		<Text Name="ZhenGraph">
+			<Notes>ความคิดเห็นเกี่ยวกับผังค่ายกล</Notes>
+			<Title>ผังค่ายกล</Title>
+			<Desc>หมวดผังค่ายกล</Desc>
+		</Text>
+		<Text Name="ZhenEdit">
+			<Notes>ความคิดเห็นเกี่ยวกับการปรับแต่งค่ายกล</Notes>
+			<Title>การปรับแต่งค่ายกล</Title>
+			<Desc>หมวดการปรับแต่งค่ายกล</Desc>
+		</Text>
+		<Text Name="ZhenEyesOverview">
+			<Notes>ความคิดเห็นเกี่ยวกับองค์ประกอบค่ายกล</Notes>
+			<Title>องค์ประกอบค่ายกล</Title>
+			<Desc>หมวดองค์ประกอบค่ายกล</Desc>
+		</Text>
+		<Text Name="WorkSchedule">
+			<Notes>ความคิดเห็นเกี่ยวกับตารางงาน</Notes>
+			<Title>ตารางงาน</Title>
+			<Desc>หมวดตารางงาน</Desc>
+		</Text>
+		<Text Name="SectOverview">
+			<Notes>ความคิดเห็นเกี่ยวกับสำนักโดยรวม</Notes>
+			<Title>สำนัก</Title>
+			<Desc>สำนัก</Desc>
+		</Text>
+		<Text Name="SectStructure">
+			<Notes>ความคิดเห็นเกี่ยวกับโครางสร้างสำนัก</Notes>
+			<Title>โครางสร้างสำนัก</Title>
+			<Desc>โครางสร้างสำนัก</Desc>
+		</Text>
+		<Text Name="SectFollower">
+			<Notes>ความคิดเห็นเกี่ยวกับศิษย์ในสำนัก</Notes>
+			<Title>ศิษย์ในสำนัก</Title>
+			<Desc>ศิษย์ในสำนัก</Desc>
+		</Text>
+		<Text Name="SectRelationship">
+			<Notes>ความคิดเห็นเกี่ยวกับการทูตของสำนัก</Notes>
+			<Title>การทูตของสำนัก</Title>
+			<Desc>การทูตของสำนัก</Desc>
+		</Text>
+		<Text Name="PowerManagement">
+			<Notes>ความคิดเห็นเกี่ยวกับบริหารจัดการพลัง</Notes>
+			<Title>การบริหารจัดการพลัง</Title>
+		</Text>
+		<Text Name="SectGift">
+			<Notes>ความคิดเห็นเกี่ยวกับส่งของขวัญสำนัก</Notes>
+			<Title>ของขวัญ</Title>
+			<Desc>ของขวัญสำนัก</Desc>
+		</Text>
+		<Text Name="SectTransaction">
+			<Notes>ความคิดเห็นเกี่ยวกับการค้าขายระหว่างสำนัก</Notes>
+			<Title>การค้าขายระหว่างสำนัก</Title>
+			<Desc>การค้าขายระหว่างสำนัก</Desc>
+		</Text>
+		<Text Name="SectMessageManagement">
+			<Notes>ความคิดเห็นเกี่ยวกับข้อความสำนัก</Notes>
+			<Title>ข้อความสำนัก</Title>
+			<Desc>ข้อความสำนัก</Desc>
+		</Text>
+		<Text Name="SectLaws">
+			<Notes>ความคิดเห็นเกี่ยวกับกฎสำนัก</Notes>
+			<Title>กฎสำนัก</Title>
+			<Desc>กฎสำนัก</Desc>
+		</Text>
+		<Text Name="PedlarTransaction">
+			<Notes>ความคิดเห็นเกี่ยวกับการค้าขาย</Notes>
+			<Title>การค้าขาย</Title>
+			<Desc>การค้าขาย</Desc>
+		</Text>
+		<Text Name="KeyholeReport">
+			<Notes>ความคิดเห็นเกี่ยวกับความลับ</Notes>
+			<Title>ความลับ</Title>
+			<Desc>ความลับ</Desc>
+		</Text>
+		<Text Name="RefineBody">
+			<Notes>ความคิดเห็นเกี่ยวกับหลอมร่าง</Notes>
+			<Title>หลอมร่าง</Title>
+			<Desc>หลอมร่าง</Desc>
+		</Text>
+		<Text Name="DomesticateSpiritBeast">
+			<Notes>ความคิดเห็นเกี่ยวกับการเลี้ยงสัตว์อสูรสำนัก</Notes>
+			<Title>การเลี้ยงสัตว์อสูรสำนัก</Title>
+			<Desc>การเลี้ยงสัตว์อสูรสำนัก</Desc>
+		</Text>
+		<Text Name="TrainSpiritBeast">
+			<Notes>ความคิดเห็นเกี่ยวกับการฝึกสัตว์อสูรสำนัก</Notes>
+			<Title>การเฝึกสัตว์อสูรสำนัก</Title>
+			<Desc>การเฝึกสัตว์อสูรสำนัก</Desc>
+		</Text>
+		<Text Name="FeedSpiritBeast">
+			<Notes>ความคิดเห็นเกี่ยวกับโภชนาการของสัตว์อสูรสำนัก</Notes>
+			<Title>โภชนาการของสัตว์อสูรสำนัก</Title>
+			<Desc>โภชนาการของสัตว์อสูรสำนัก</Desc>
+		</Text>
+		<Text Name="BehaviorRecordSpiritBeast">
+			<Notes>ความคิดเห็นเกี่ยวกับพฤกติกรรมของสัตว์อสูรสำนัก</Notes>
+			<Title>พฤกติกรรมของสัตว์อสูรสำนัก</Title>
+			<Desc>พฤกติกรรมของสัตว์อสูรสำนัก</Desc>
+		</Text>
+		<Text Name="EmotionAndThinkingOfAnimal">
+			<Notes>ความคิดเห็นเกี่ยวกับความคิดและความนึกคิด</Notes>
+			<Title>ความคิดและความนึกคิด</Title>
+			<Desc>ความคิดและความนึกคิด</Desc>
+		</Text>
+		<Text Name="EmotionATarget">
+			<Notes>เกี่ยวกับความนึกคิด: ความคิดเห็นเกี่ยวกับการตระหนักรู้</Notes>
+			<Title>ความคิด: การตระหนักรู้</Title>
+			<Desc>หนึ่งในสามหลักการ เสี้ยวผลึกแห่งการตระหนักรู้สามารรถรวมเป็นหนึ่งการตระหนักรู้ได้</Desc>
+		</Text>
+		<Text Name="EmotionAScene">
+			<Notes>เกี่ยวกับความนึกคิด: ความคิดเห็นเกี่ยวกับความมีเหตุผล</Notes>
+			<Title>ความคิด: ความมีเหตุผล</Title>
+			<Desc>หนึ่งในสามหลักการ เสี้ยวผลึกแห่งความมีเหตุผลสามารรถรวมเป็นหนึ่งความมีเหตุผลได้</Desc>
+		</Text>
+		<Text Name="EmotionAEmotion">
+			<Notes>เกี่ยวกับความนึกคิด: ความคิดเห็นเกี่ยวกับแนวความคิด</Notes>
+			<Title>ความคิด: แนวความคิด</Title>
+			<Desc>หนึ่งในสามหลักการ เสี้ยวผลึกแห่งแนวความคิดสามารรถรวมเป็นหนึ่งแนวความคิดได้</Desc>
+		</Text>
+	</List>
+</Texts>

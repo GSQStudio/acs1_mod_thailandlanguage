@@ -1,0 +1,53 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="TreePoplar" sParam="Plant">
+			<ThingName>ต้นหยาง</ThingName>
+			<Desc>ต้นไม้ที่เติบโตเร็ว มันมีเนื้อสัมผัสที่นุ่มและมั่นคง เป็นแหล่งในการผลิตไม้และฟืนได้เป็นอย่างดี</Desc>
+		</Text>
+		<Text Name="TreePine" sParam="Plant">
+			<ThingName>ต้นสน</ThingName>
+			<Desc>ต้นไม้ที่เติบโตได้ช้า มันมีรูปร่างสูงตรงและมีเนื้อไม้ที่แข็ง</Desc>
+		</Text>
+		<Text Name="TreePine_Big" sParam="Plant">
+			<ThingName>ต้นสนยักษ์</ThingName>
+			<Desc>ต้นสนที่มีอายุเก่าแก่</Desc>
+		</Text>
+		<Text Name="TreePear" sParam="Plant">
+			<ThingName>ต้นแพร์</ThingName>
+			<Desc>ไม้ผลทั่วไป มันเป็นไม้ที่ดีแต่ไม่ทนต่อการกัดกร่อนของสภาพอากาศเท่าไรนัก อีกทั้งยังให้ผลผลิตที่ค่อนข้างน้อย</Desc>
+		</Text>
+		<Text Name="TreeGinkgo" sParam="Plant">
+			<ThingName>ต้นแป๊ะก๊วย</ThingName>
+			<Desc>ต้นไม้ใหญ่ที่เติบโตได้ช้า มันมีความสามารถในการตื่นรู้ทางวิญญาณได้ ผลของมันกินได้และมีสรรพคุณในการรักษาที่น่าเหลือเชื่อ</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Big" sParam="Plant">
+			<ThingName>ต้นแป๊ะก๊วยยักษ์</ThingName>
+			<Desc>ต้นแป๊ะก๊วยที่มีอายุเก่าแก่มาก มันมีขนาดที่ใหญ่โตมโหฬารและมีปราณธรรมชาติที่หนาแน่นหมุนวนอยู่รอบๆ ตัวมัน</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Dead" sParam="Plant">
+			<ThingName>ต้นหงส์เพลิงแห้ง</ThingName>
+			<Desc>ซากของต้นหงส์เพลิงที่แห้งเหี่ยว ทว่ามันก็ยังคงสูงผิดปกติ</Desc>
+		</Text>
+		<Text Name="PintuBase" sParam="Plant">
+			<ThingName>สำหรับปริศนาเท่านั้น</ThingName>
+		</Text>
+		<Text Name="TreePeach" sParam="Plant">
+			<ThingName>ต้นท้อ</ThingName>
+			<Desc>ต้นท้อ มันจะผลิดอกสวยงามในฤดูใบไม้ผลิ</Desc>
+			<StoryBnts.0.Name>เก็บตัวอย่าง</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเก็บตัวอย่างของสิ่งๆ นี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeJade" sParam="Plant">
+			<ThingName>พฤกษาเซียน</ThingName>
+			<Desc>ต้นไม้ที่มีกลิ่นอายของเซียน</Desc>
+			<StoryBnts.0.Name>เก็บตัวอย่าง</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเก็บตัวอย่างของสิ่งๆ นี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeBone" sParam="Plant">
+			<ThingName>พฤกษาปีศาจ</ThingName>
+			<Desc>ต้นไม้ที่มีกลิ่นอายของปีศาจ</Desc>
+			<StoryBnts.0.Name>เก็บตัวอย่าง</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเก็บตัวอย่างของสิ่งๆ นี้</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

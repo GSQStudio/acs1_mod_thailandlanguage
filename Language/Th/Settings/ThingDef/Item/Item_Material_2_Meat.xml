@@ -1,0 +1,90 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="MeatBase" sParam="Item">
+			<Item.FabaoSuffix>ต้มเนื้อ, โต๊ะอาหาร, ชิ้น</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BoarMeat" sParam="Item">
+			<ThingName>เนื้อหมูป่า</ThingName>
+			<Desc>เนื้อของหมูป่า</Desc>
+		</Text>
+		<Text Name="Item_FrogMeat" sParam="Item">
+			<ThingName>เนื้อกบ</ThingName>
+			<Desc>เนื้อของกบ</Desc>
+		</Text>
+		<Text Name="Item_TurtleMeat" sParam="Item">
+			<ThingName>เนื้อเต่า</ThingName>
+			<Desc>เนื้อของเต่า</Desc>
+		</Text>
+		<Text Name="Item_BearMeat" sParam="Item">
+			<ThingName>เนื้อหมี</ThingName>
+			<Desc>เนื้อของหมี</Desc>
+		</Text>
+		<Text Name="Item_Beef" sParam="Item">
+			<ThingName>เนื้อกระทิง</ThingName>
+			<Desc>เนื้อของกระทิง</Desc>
+		</Text>
+		<Text Name="Item_RabbitMeat" sParam="Item">
+			<ThingName>เนื้อกระต่าย</ThingName>
+			<Desc>เนื้อของกระต่าย</Desc>
+		</Text>
+		<Text Name="Item_ChickenMeat" sParam="Item">
+			<ThingName>เนื้อไก่</ThingName>
+			<Desc>เนื้อของไก่</Desc>
+		</Text>
+		<Text Name="Item_WolfMeat" sParam="Item">
+			<ThingName>เนื้อหมาป่า</ThingName>
+			<Desc>เนื้อของหมาป่า</Desc>
+		</Text>
+		<Text Name="Item_FishMeat" sParam="Item">
+			<ThingName>เนื้อปลา</ThingName>
+			<Desc>เนื้อของปลา</Desc>
+		</Text>
+		<Text Name="Item_SnakeMeat" sParam="Item">
+			<ThingName>เนื้องู</ThingName>
+			<Desc>เนื้อของงู</Desc>
+		</Text>
+		<Text Name="Item_CatMeat" sParam="Item">
+			<ThingName>เนื้อแมว</ThingName>
+			<Desc>เนื้อของแมว</Desc>
+		</Text>
+		<Text Name="Item_TigerMeat" sParam="Item">
+			<ThingName>เนื้อเสือ</ThingName>
+			<Desc>เนื้อของเสือ</Desc>
+		</Text>
+		<Text Name="Item_ChickenEgg" sParam="Item">
+			<ThingName>ไข่ไก่</ThingName>
+			<Desc>ไข่ของไก่</Desc>
+			<Item.FabaoSuffix>ไข่, ลูกปัด, ลูกกลม, วางไข่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SnakeEgg" sParam="Item">
+			<ThingName>ไข่งู</ThingName>
+			<Desc>ไข่ของงู</Desc>
+			<Item.FabaoSuffix>ไข่, ลูกปัด, ลูกกลม, วางไข่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_TurtleEgg" sParam="Item">
+			<ThingName>ไข่เต่า</ThingName>
+			<Desc>ไข่ของเต่า</Desc>
+			<Item.FabaoSuffix>ไข่, ลูกปัด, ลูกกลม, วางไข่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LongEgg" sParam="Item">
+			<ThingName>ไข่มังกรวารี</ThingName>
+			<Desc>ไข่ที่ยังไม่ฟักของมังกรวารี มันแสดงให้เห็นถึงสัญญาณแห่งชีวิตอย่างชัดเจน การฟักไข่จะต้องอยู่ในสถานที่ที่มีอุณหภูมิต่ำกว่า -200 องศาและอุดมไปด้วยปราณธรรมชาติ ซึ่งจะดีมากถ้าหากพื้นที่แห่งนั้นเป็นธาตุน้ำ</Desc>
+			<Item.FabaoSuffix>ไข่, ลูกปัด, ลูกกลม, วางไข่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FengEgg" sParam="Item">
+			<ThingName>ไข่หงส์เพลิง</ThingName>
+			<Desc>ไข่ที่ยังไม่ฟักของหงส์เพลิง มันแสดงให้เห็นถึงสัญญาณแห่งชีวิตอย่างชัดเจน การฟักไข่จะต้องอยู่ในสถานที่ที่มีอุณหภูมิสูงกว่า 300 องศาและอุดมไปด้วยปราณธรรมชาติ ซึ่งจะดีมากถ้าหากพื้นที่แห่งนั้นเป็นธาตุไฟ</Desc>
+			<Item.FabaoSuffix>ไข่, ลูกปัด, ลูกกลม, วางไข่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FengEggChange" sParam="Item">
+			<ThingName>ไข่หงส์เพลิง</ThingName>
+			<Desc>กำลังจะตื่นขึ้นมา...</Desc>
+			<Item.FabaoSuffix>ไข่, ลูกปัด, ลูกกลม, วางไข่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_JiaolongChange" sParam="Item">
+			<ThingName>ไข่มังกรวารี</ThingName>
+			<Desc>กำลังจะตื่นขึ้นมา...</Desc>
+			<Item.FabaoSuffix>ไข่, ลูกปัด, ลูกกลม, วางไข่</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

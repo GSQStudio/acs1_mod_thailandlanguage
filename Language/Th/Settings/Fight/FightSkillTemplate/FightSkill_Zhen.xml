@@ -1,0 +1,90 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ChangeZhen">
+			<DisplayName>เปลี่ยนค่ายกล</DisplayName>
+			<Tip>ปรับเปลี่ยนรูปแบบค่ายกลเพื่อปกป้องผู้ที่เป็นแกนย่อย</Tip>
+		</Text>
+		<Text Name="CancelZhen">
+			<DisplayName>สลาย</DisplayName>
+			<Tip>สลายค่ายกล หลังจากสลายค่ายกลแล้ว จะต้องรอเวลาไประยะหนึ่งก่อนจึงจะสามารถสร้างค่ายกลขึ้นมาใหม่ได้</Tip>
+		</Text>
+		<Text Name="JointJian">
+			<DisplayName>ผสานอาวุธวิเศษ</DisplayName>
+			<Tip>รวมพลังปราณของทุกคนในค่ายกลเพื่อควบคุมอาวุธวิเศษและฟื้นฟูพลังปราณของมัน เพิ่มพลังของอาวุธวิเศษอย่างมหาศาล โดยจะขึ้นอยู่กับค่าโบนัสของทักษะอาวุธวิเศษ ทุกคนในค่ายกลจะเฉลี่ยจำนวนปราณที่ใช้ไป</Tip>
+		</Text>
+		<Text Name="JointSkill">
+			<DisplayName>ผสานปราณเวท</DisplayName>
+			<Tip>รวมพลังปราณของทุกคนในค่ายกลเพื่อเพิ่มพลังของปราณเวท โดยจะขึ้นอยู่กับค่าโบนัสของทักษะปราณเวท ทุกคนในค่ายกลจะเฉลี่ยจำนวนปราณที่ใช้ไป</Tip>
+		</Text>
+		<Text Name="ZhenTempAura">
+			<DisplayName>เดือด</DisplayName>
+		</Text>
+		<Text Name="ZhenModifyArea">
+			<DisplayName>ขยาย</DisplayName>
+		</Text>
+		<Text Name="ZhenShield">
+			<DisplayName>เพิ่มเกราะ</DisplayName>
+		</Text>
+		<Text Name="TransLing">
+			<DisplayName>ย้ายปราณ</DisplayName>
+		</Text>
+		<Text Name="Reducetability">
+			<DisplayName>ความเสถียรต่ำ</DisplayName>
+		</Text>
+		<Text Name="RevealZhen">
+			<DisplayName>แกนย่อยถูกเปิดเผย</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Zhen_RevealZhen1">
+			<DisplayName>กำเนิดสวรรค์</DisplayName>
+			<HeadMsg>เลือกแกนย่อยของศัตรู</HeadMsg>
+			<Tip>ลงมือตามรูปแบบของความซับซ้อนแห่งสวรรค์เพื่อโจมตีจุดอ่อนของค่ายกลศัตรู ลดความเสถียรและมีโอกาสเปิดเผยแกนย่อยของค่ายกลศัตรู</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_RevealZhen2">
+			<DisplayName>อาณาเขตกระบี่ทองคำ</DisplayName>
+			<Tip>สร้างความเสียหายปราณเป็นจำนวนมากให้แก่เป้าหมาย</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenShield1">
+			<DisplayName>อาณาเขตห้าดินแดน</DisplayName>
+			<Tip>สร้างอาณาเขตระยะ 5 เมตรรอบๆ เป้าหมาย และใช้ปราณของค่ายกลในการป้องกัน</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenShield2">
+			<DisplayName>อาณาเขตไร้สิ้นสุด</DisplayName>
+			<Tip>สร้างอาณาเขตระยะ 12 เมตรรอบๆ เป้าหมาย และใช้ปราณของค่ายกลในการป้องกัน</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenArea1">
+			<DisplayName>อาณาเขตไม้วิญญาณ</DisplayName>
+			<Tip>สร้างอาณาเขตระยะn 8 เมตรรอบๆ เป้าหมาย ให้ปุ๋ยดินภายในระยะที่กำหนดและเพิ่มความต้านทานตามธรรมชาติของตัวละครพันธมิตร</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenArea2">
+			<DisplayName>อาณาเขตสวรรค์เทวะ</DisplayName>
+			<Tip>สร้างอาณาเขตระยะn 8 เมตรรอบๆ เป้าหมาย เพิ่มสภาวะจิต,อารมณ์และความเร็วมในการบ่มเพาะของผู้ฝึกตนภายในอาณาเขต</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_JointJian1">
+			<DisplayName>กระบี่วิหคเพลิงเทวะ</DisplayName>
+			<Tip>รวมพลังปราณของทุกคนในค่ายกลเพื่อควบคุมอาวุธวิเศษและฟื้นฟูพลังปราณของมัน เพิ่มพลังของอาวุธวิเศษอย่างมหาศาล โดยจะขึ้นอยู่กับค่าโบนัสของทักษะอาวุธวิเศษ ทุกคนในค่ายกลจะเฉลี่ยจำนวนปราณที่ใช้ไป</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_JointSkill1">
+			<DisplayName>มังกรสวรรค์คำราม</DisplayName>
+			<Tip>รวมพลังปราณของทุกคนในค่ายกลเพื่อเพิ่มพลังของปราณเวท โดยจะขึ้นอยู่กับค่าโบนัสของทักษะปราณเวท ทุกคนในค่ายกลจะเฉลี่ยจำนวนปราณที่ใช้ไป</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_Stability1">
+			<DisplayName>เทวะสังหาร</DisplayName>
+			<HeadMsg>เลือกแกนย่อยของศัตรู</HeadMsg>
+			<Tip>สร้างความเสียหายให้แก่ความเสถียรของค่ายกลศัตรูเป็นจำนวนมาก</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_Stability2">
+			<DisplayName>นิพพาน</DisplayName>
+			<Tip>ฟื้นฟูความเสถียรของค่ายกล</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhuXian">
+			<DisplayName>สังหารเซียน</DisplayName>
+			<Tip>หลังจากรอเวลาระยะหนึ่ง สร้างความเสียหายปราณอย่างมหาศาลให้แก่ศัตรูในรัศมี 12 เมตร</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_BDPW_MissileBase">
+			<DisplayName>รัศมีอาณาเขตกระบี่ทองคำ</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhuXian_MissileBase">
+			<DisplayName>รัศมีสังหารเซียน</DisplayName>
+		</Text>
+	</List>
+</Texts>

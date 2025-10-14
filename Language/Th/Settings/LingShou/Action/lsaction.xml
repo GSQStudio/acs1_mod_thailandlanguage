@@ -1,0 +1,334 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sleep">
+			<Desc>นอน</Desc>
+		</Text>
+		<Text Name="EatWeight">
+			<Desc>กินตามตารางเวลา</Desc>
+		</Text>
+		<Text Name="EatShit">
+			<Desc>กินอุจจาระ</Desc>
+		</Text>
+		<Text Name="EatEssence">
+			<Desc>กินของมีค่า</Desc>
+		</Text>
+		<Text Name="EatDrug">
+			<Desc>กินโอสถ</Desc>
+		</Text>
+		<Text Name="EatWheat">
+			<Desc>กินข้าวสาลี</Desc>
+		</Text>
+		<Text Name="EatDryMeat">
+			<Desc>กินเนื้อแห้ง</Desc>
+		</Text>
+		<Text Name="EatPear">
+			<Desc>กินลูกแพร์</Desc>
+		</Text>
+		<Text Name="EatMeat">
+			<Desc>กินเนื้อดิบ</Desc>
+		</Text>
+		<Text Name="EatCook">
+			<Desc>กินเนื้อสุก</Desc>
+		</Text>
+		<Text Name="BiteBuilding">
+			<Desc>กัดอาคาร</Desc>
+		</Text>
+		<Text Name="BiteClothes">
+			<Desc>กัดเสื้อผ้า</Desc>
+		</Text>
+		<Text Name="BiteOuter">
+			<Desc>กัดศิษย์สายนอก</Desc>
+		</Text>
+		<Text Name="BiteInner">
+			<Desc>กัดศิษย์สายใน</Desc>
+		</Text>
+		<Text Name="BiteVisitor">
+			<Desc>กัดผู้มาเยือน</Desc>
+		</Text>
+		<Text Name="BiteIncoming">
+			<Desc>กัดแขกผู้มาพัก</Desc>
+		</Text>
+		<Text Name="BiteExpel">
+			<Desc>กัดคนธรรมดาแปลกหน้า</Desc>
+		</Text>
+		<Text Name="AtkEnemy">
+			<Desc>โจมตีศัตรู</Desc>
+		</Text>
+		<Text Name="ShitAtShitPlace">
+			<Desc>อุจจาระยังจุดที่กำหนด</Desc>
+		</Text>
+		<Text Name="ShitAtPlants">
+			<Desc>อุจจาระใส่พืช</Desc>
+		</Text>
+		<Text Name="ShitAtDogHouse">
+			<Desc>อุจจาระในห้องตัวเอง</Desc>
+		</Text>
+		<Text Name="ShitAtStorage">
+			<Desc>อุจจาระในพื้นที่เก็บของ</Desc>
+		</Text>
+		<Text Name="ShitOnBed">
+			<Desc>อุจจาระบนที่นอน</Desc>
+		</Text>
+		<Text Name="ShitInFarm">
+			<Desc>อุจจาระในไร่เกษตร</Desc>
+		</Text>
+		<Text Name="CarryOuterToBed">
+			<Desc>ดูแลศิษย์ในสำนัก</Desc>
+		</Text>
+		<Text Name="CarryOuterToDest">
+			<Desc>แบกศิษย์สายนอกที่สลบ</Desc>
+		</Text>
+		<Text Name="CarryInnerToDest">
+			<Desc>แบกศิษย์สายในที่สลบ</Desc>
+		</Text>
+		<Text Name="CarryVisitorToDest">
+			<Desc>แบกผู้มาเยือนที่สลบ</Desc>
+		</Text>
+		<Text Name="CarryEnemyToDest">
+			<Desc>แบกศัตรูที่สลบ</Desc>
+		</Text>
+		<Text Name="CarryIncomingToDest">
+			<Desc>แบกแขกผู้มาพักที่สลบ</Desc>
+		</Text>
+		<Text Name="CarryEnemyBodyToDest">
+			<Desc>แบกศพศัตรู</Desc>
+		</Text>
+		<Text Name="CarryVisitorBodyToDest">
+			<Desc>บอกศพผู้มาเยือน</Desc>
+		</Text>
+		<Text Name="CarryIncomingBodyToDest">
+			<Desc>แบกศพแขกผู้มาพัก</Desc>
+		</Text>
+		<Text Name="CarryOuterBodyToDest">
+			<Desc>แบกศพศิษย์สายนอก</Desc>
+		</Text>
+		<Text Name="CarryInnerBodyToDest">
+			<Desc>แบกศพศิษย์สายใน</Desc>
+		</Text>
+		<Text Name="CarryMortalToDest">
+			<Desc>แบกคนธรรมดาที่สลบ</Desc>
+		</Text>
+		<Text Name="CarryMortalBodyToDest">
+			<Desc>แบกศพคนธรรมดา</Desc>
+		</Text>
+		<Text Name="HelpCarry">
+			<Desc>ขยย้ายวัตถุ</Desc>
+		</Text>
+		<Text Name="HelpTimber">
+			<Desc>ตัดไม้</Desc>
+		</Text>
+		<Text Name="HelpMine">
+			<Desc>ขุดแร่</Desc>
+		</Text>
+		<Text Name="HelpFind">
+			<Desc>ค้นของ</Desc>
+		</Text>
+		<Text Name="HelpKill">
+			<Desc>ชำแหละ</Desc>
+		</Text>
+		<Text Name="HelpPlant">
+			<Desc>รดน้ำ</Desc>
+		</Text>
+		<Text Name="CureFreeze">
+			<Desc>รักษาน้ำแข็งกัด</Desc>
+		</Text>
+		<Text Name="CureHot">
+			<Desc>รักษาไข้แดด</Desc>
+		</Text>
+		<Text Name="HelpCook">
+			<Desc>ทำอาหาร</Desc>
+		</Text>
+		<Text Name="HeatEndure">
+			<Desc>เวทย์เย็นสบาย</Desc>
+		</Text>
+		<Text Name="ColdEndure">
+			<Desc>เวทย์อบอุ่นร่าง</Desc>
+		</Text>
+		<Text Name="HelpPlay">
+			<Desc>ไปเล่นสนุก</Desc>
+		</Text>
+		<Text Name="PlayToy">
+			<Desc>ไปเล่นสิ่งของ</Desc>
+		</Text>
+		<Text Name="TrainQiGan">
+			<Desc>ฝึกลมปราณ</Desc>
+		</Text>
+		<Text Name="TrainNeiDan">
+			<Desc>ฝีกแก่นอสูร</Desc>
+		</Text>
+		<Text Name="TrainHuTi">
+			<Desc>ฝึกป้องกัน</Desc>
+		</Text>
+		<Text Name="TrainLingZhi">
+			<Desc>ฝึกปัญญา</Desc>
+		</Text>
+		<Text Name="TrainShuFa">
+			<Desc>ฝึกปราณเวทย์</Desc>
+		</Text>
+		<Text Name="AtkDizzyOuter">
+			<Desc>โจมตีศิษย์สายนอกที่สลบ</Desc>
+		</Text>
+		<Text Name="AtkDizzyInner">
+			<Desc>โจมตีศิษย์สายในที่สลบ</Desc>
+		</Text>
+		<Text Name="AtkDizzyComing">
+			<Desc>โจมตีแขกผู้มาพักที่สลบ</Desc>
+		</Text>
+		<Text Name="AtkDizzyVisitor">
+			<Desc>โจมตีผู้มาเยือนที่สลบ</Desc>
+		</Text>
+		<Text Name="AtkDizzyExpel">
+			<Desc>โจมตีคนธรรมดาที่สลบ</Desc>
+		</Text>
+		<Text Name="FeedTongXie">
+			<Desc>ป้อนยาถ่าย</Desc>
+		</Text>
+		<Text Name="HealInner">
+			<Desc>รักษาบาดเจ็บ</Desc>
+		</Text>
+		<Text Name="Lay">
+			<Desc>เบิกบานกับสายลมโชย</Desc>
+		</Text>
+		<Text Name="Pee">
+			<Desc>ฉี่</Desc>
+		</Text>
+		<Text Name="FastCook">
+			<Desc>ทำอาหาร</Desc>
+		</Text>
+		<Text Name="CureInner">
+			<Desc>รักษาบาดเจ็บ</Desc>
+		</Text>
+		<Text Name="HelpPlantD">
+			<Desc>ฉี่</Desc>
+		</Text>
+		<Text Name="ESkill">
+			<Desc>ใช้ปราณเวทย์ใส่ศัตรู</Desc>
+		</Text>
+		<Text Name="FSkill">
+			<Desc>ใช้ปราณเวทย์ใส่พวกพ้อง</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_Happiness">
+			<Desc>ป้อนโอสถเริงใจ</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_PracticeSpeed">
+			<Desc>ป้อนโอสถเร่งปราณ</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_CalmDown">
+			<Desc>ป้อนโอสถใจพิสุทธิ์</Desc>
+		</Text>
+		<Text Name="Feed_Item_LingStone">
+			<Desc>ป้อนหินวิญญาณ</Desc>
+		</Text>
+		<Text Name="Feed_Item_LingCrystal">
+			<Desc>ป้อนผลึกวิญญาณ</Desc>
+		</Text>
+		<Text Name="Eat_Item_SnakeGallbladder">
+			<Desc>กินดีงู</Desc>
+		</Text>
+		<Text Name="Eat_Item_BearGallbladder">
+			<Desc>กินดีหมี</Desc>
+		</Text>
+		<Text Name="Eat_Item_RedGinseng">
+			<Desc>กินโสมแดง</Desc>
+		</Text>
+		<Text Name="Eat_Item_PurpleGanodermaLucidum">
+			<Desc>กินเห็ดหลินจือม่วง</Desc>
+		</Text>
+		<Text Name="Eat_Item_TuEssence">
+			<Desc>กินแก่นอำพัน</Desc>
+		</Text>
+		<Text Name="Eat_Item_HuoEssence">
+			<Desc>กินผลเพลิงกัลป์</Desc>
+		</Text>
+		<Text Name="Eat_Item_ShuiEssence">
+			<Desc>กินบัวทองห้าสี</Desc>
+		</Text>
+		<Text Name="Eat_Item_JinEssence">
+			<Desc>กินผลดาราทองคำ</Desc>
+		</Text>
+		<Text Name="Eat_Item_MuEssence">
+			<Desc>กินเถาวัลย์พนาลัย</Desc>
+		</Text>
+		<Text Name="Eat_Item_LifeStream">
+			<Desc>กินสายธารชีวิต</Desc>
+		</Text>
+		<Text Name="Eat_Item_LongEgg">
+			<Desc>กินไข่มังกรวารี</Desc>
+		</Text>
+		<Text Name="Eat_Item_FengEgg">
+			<Desc>กินไข่หงส์เพลิง</Desc>
+		</Text>
+		<Text Name="Eat_Item_DragonShit">
+			<Desc>กินอุจจาระมังกร</Desc>
+		</Text>
+		<Text Name="Eat_Item_Jiaozi">
+			<Desc>กินซาลาเปา</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossFeng_Meat">
+			<Desc>กินเนื้อหงส์เพลิง</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossLong_Meat">
+			<Desc>กินเนื้อมังกร</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossZhuLong_Meat">
+			<Desc>กินเนื้อปฐมกาล</Desc>
+		</Text>
+		<Text Name="Eat_Item_Cake">
+			<Desc>กินขนมปัง</Desc>
+		</Text>
+		<Text Name="Eat_Item_MonsterBlood">
+			<Desc>กินเลือดสัตว์อสูร</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence">
+			<Desc>กินหยาดปฐพี</Desc>
+		</Text>
+		<Text Name="Eat_Item_SilverGrit">
+			<Desc>กินผงผลึกน้ำแข็ง</Desc>
+		</Text>
+		<Text Name="Eat_Item_CopperGrit">
+			<Desc>กินผงทองแดงอัคคี</Desc>
+		</Text>
+		<Text Name="Eat_Item_Cinnabar">
+			<Desc>กินปรอทแดง</Desc>
+		</Text>
+		<Text Name="Eat_Item_LingMuXueJie">
+			<Desc>กินแกนพฤกษา</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence_1">
+			<Desc>กินแก่นศักดิ์สิทธิ์</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence1_1">
+			<Desc>กินแก่นมาร</Desc>
+		</Text>
+		<Text Name="Eat_Item_Healroot">
+			<Desc>กินสมุรไพรรักษา</Desc>
+		</Text>
+		<Text Name="Eat_Item_Mint">
+			<Desc>กินหญ้ากระจ่างจิต</Desc>
+		</Text>
+		<Text Name="Eat_Item_MagicHerb">
+			<Desc>กินหญ้าวิญญาณ</Desc>
+		</Text>
+		<Text Name="Eat_Item_Laxative">
+			<Desc>กินยาถ่าย</Desc>
+		</Text>
+		<Text Name="Eat_Item_BambooShoot">
+			<Desc>กินหน่อไม้ไผ่</Desc>
+		</Text>
+		<Text Name="Eat_Item_Bamboo">
+			<Desc>กินไม้ไผ่</Desc>
+		</Text>
+		<Text Name="FakeEatItem">
+			<Desc>กินอะไรบางอย่าง</Desc>
+		</Text>
+		<Text Name="Eat_Item_Dan_SanHuaHuangJing">
+			<Desc>กินโอสถสามแก่น</Desc>
+		</Text>
+		<Text Name="Eat_Item_WuDang_HuangJingFen">
+			<Desc>กินผงแก่นดิน</Desc>
+		</Text>
+		<Text Name="Eat_Item_Dan_WuQiNoHunger2">
+			<Desc>กินโอสถแทนปราณ</Desc>
+		</Text>
+	</List>
+</Texts>

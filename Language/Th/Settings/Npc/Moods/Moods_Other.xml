@@ -1,0 +1,129 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Happy1">
+			<DisplayName>จู่ๆ ก็รู้สึกร่าเริง</DisplayName>
+			<Desc>ข้าไม่รู้ว่าทำไม แต่จู่ๆ ข้าก็รู้สึกร่าเริง</Desc>
+			<StoryDesc>รู้สึกว่าเมื่อร่าเริงแบบนี้ วันๆ นึงก็สดใสขึ้นจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Happy2">
+			<DisplayName>จู่ๆ ก็รู้สึกมีความสุข</DisplayName>
+			<Desc>ด้วยเหตุผลบางอย่างจู่ๆ ข้ารู้สึกมีความสุขขึ้นมาอย่างกะทันหัน</Desc>
+			<StoryDesc>รู้สึกร่าเริงใจกับความสุขเล็กๆ น้อยๆ เช่นนี้</StoryDesc>
+		</Text>
+		<Text Name="Happy3">
+			<DisplayName>จู่ๆ ก็รู้สึกหนักใจ</DisplayName>
+			<Desc>ข้าไม่รู้ว่าทำไม แต่จู่ๆ ข้าก็รู้สึกลำบากใจขึ้นมาอย่างกะทันหัน</Desc>
+			<StoryDesc>รู้สึกแปลกใจที่จู่ๆ อะไรๆ ก็ดูหดหู่ไปหมด</StoryDesc>
+		</Text>
+		<Text Name="Happy4">
+			<DisplayName>จู่ๆ ก็รู้สึกท้อแท้</DisplayName>
+			<Desc>ข้ารู้สึกท้อแท้ ดูเหมือนทุกอย่างกำลังแย่ลง</Desc>
+			<StoryDesc>รู้สึกแปลกใจที่จู่ๆ อะไรๆ ก็มืดมนไปหมด</StoryDesc>
+		</Text>
+		<Text Name="Happy5">
+			<DisplayName>จู่ๆ ก็รู้สึกใจหาย</DisplayName>
+			<Desc>รู้สึกเหมือนกับว่ามีอะไรบางอย่างเกิดขึ้น...</Desc>
+			<StoryDesc>รู้สึกแปลกใจที่จู่ๆ ก็รู้สึกใจหายวาบ</StoryDesc>
+		</Text>
+		<Text Name="Happy6">
+			<DisplayName>จู่ๆ ก็รู้สึกมีกำลังใจ</DisplayName>
+			<Desc>ข้ารู้สึกว่ามีพลังเป็นอย่างยิ่ง! ราวกับว่าข้าสามารถครองโลกได้!</Desc>
+			<StoryDesc>รู้สึกว่าจู่ๆ จิตใจของตนก็รู้สึกทะเยอทะยานขึ้นมาอย่างกะทันหัน</StoryDesc>
+		</Text>
+		<Text Name="Happen1">
+			<DisplayName>อารมณ์ที่ยากอธิบาย</DisplayName>
+			<Desc>ข้ารู้สึกห้อมล้อมด้วยความรู้สึกที่อธิบายไม่ได้...</Desc>
+			<StoryDesc>รู้สึกซับซ้อนอยู่ภายในจิตใจอย่างยากที่จะอธิบาย</StoryDesc>
+		</Text>
+		<Text Name="Happen2">
+			<DisplayName>อารมณ์เดียวดาย</DisplayName>
+			<Desc>ข้ารู้สึกเดียวดาย...</Desc>
+			<StoryDesc>รู้สึกอ้างว้างเดียวดาย</StoryDesc>
+		</Text>
+		<Text Name="Happen3">
+			<DisplayName>ความรู้สึกแปลกๆ</DisplayName>
+			<Desc>ข้ารู้สึกเหมือนถูกใครบางคนจับตามอง...</Desc>
+			<StoryDesc>ความรู้สึกเหมือนถูกใครบางคนจับตามองนั้นทำให้รู้สึกไม่สบายตัว</StoryDesc>
+		</Text>
+		<Text Name="Happen4">
+			<DisplayName>รู้สึกหูแว่ว</DisplayName>
+			<Desc>ใครกำลังพูดกับข้ากัน? ข้ารู้สึกเหมือนมีใครบางคนกำลังกระซิบข้างหูของข้า เสียงพึมพำเหล่านั้นมันทำให้ข้ารู้สึกรำคาญ</Desc>
+			<StoryDesc>รู้สึกว่าการได้ยินเสียงพึมพำอยู่ข้างๆ หูนั้นมันทำให้รู้สึกหงุดหงิด</StoryDesc>
+		</Text>
+		<Text Name="Magic1">
+			<DisplayName>อารมณ์ดีอย่างบอกไม่ถูก</DisplayName>
+			<Desc>ด้วยเหตุผลบางอย่าง ข้ารู้สึกอารมณ์ดีจริงๆ</Desc>
+			<StoryDesc>รู้สึกอารมณ์ดีอย่างอธิบายไม่ได้?</StoryDesc>
+		</Text>
+		<Text Name="Magic2">
+			<DisplayName>โศกเศร้าอย่างยิ่ง</DisplayName>
+			<Desc>จู่ๆ ข้าก็รู้สึกโศกเศร้าอย่างไม่รู้สาเหตุ</Desc>
+			<StoryDesc>รู้สึกโศกเศร้าอย่างไม่รู้สาเหตุและความรู้สึกนี้ก็มากขึ้นเรื่อยๆ</StoryDesc>
+		</Text>
+		<Text Name="ZhenkongJie">
+			<DisplayName>คำสาปอนัตตา</DisplayName>
+			<Desc>ข้ารู้สึกว่างเปล่า</Desc>
+			<StoryDesc>รู้สึกว่าทัณฑ์สวรรค์นี้ทำให้คนๆ หนึ่งรู้สึกว่างเปล่าและไม่สบายใจ</StoryDesc>
+		</Text>
+		<Text Name="FengShui1">
+			<DisplayName>ฮวงจุ้ยเป็นมงคล</DisplayName>
+			<Desc>ฮวงจุ้ยในห้องนี้เป็นมงคลเป็นอย่างมาก</Desc>
+			<StoryDesc>รู้สึกว่าฮวงจุ้ยดีๆ แบบนี้ทำให้รู้สึสุขใจเป็นอย่างยิ่ง</StoryDesc>
+		</Text>
+		<Text Name="FengShui2">
+			<DisplayName>ฮวงจุ้ยดี</DisplayName>
+			<Desc>ฮวงจุ้ยในห้องนี้ค่อนข้างดีมากเลยทีเดียว</Desc>
+			<StoryDesc>รู้สึกว่าฮวงจุ้ยที่ดีๆ ทำให้รัศมีของตัวเองเปล่งประกาย</StoryDesc>
+		</Text>
+		<Text Name="FengShui3">
+			<DisplayName>ฮวงจุ้ยทั่วๆ ไป</DisplayName>
+			<Desc>ฮวงจุ้ยในห้องนี้ไม่ดีไม่แย่ ทว่ามันอาจก่อให้เกิดปัญหาเล็กๆ น้อยๆ ได้</Desc>
+			<StoryDesc>รู้สึกว่าฮวงจุ้ยที่ค่อนข้างจืดชืดทำให้การกระทำบางอย่างยากขึ้นเล็กน้อย</StoryDesc>
+		</Text>
+		<Text Name="FengShui4">
+			<DisplayName>ฮวงจุ้ยอัปโชค</DisplayName>
+			<Desc>ฮวงจุ้ยในห้องนี้ช่างน่าสยดสยองและข้ารู้สึกเหมือนกับว่าโลกทั้งใบกำลังต่อต้านข้า</Desc>
+			<StoryDesc>รู้สึกว่าฮวงจุ้ยเลวร้ายนี้ทำให้คนๆ หนึ่งรู้สึกมืดมนและเศร้าหมอง</StoryDesc>
+		</Text>
+		<Text Name="FengShui5">
+			<DisplayName>ฮวงจุ้ยแย่</DisplayName>
+			<Desc>ข้าคิดว่ามีบางอย่างผิดปกติกับฮวงจุ้ยในห้องนี้และข้ารู้สึกอึดอัดเมื่อทำสิ่งต่างๆ</Desc>
+			<StoryDesc>รู้สึกว่าฮวงจุ้ยที่แย่เช้นนี้ทำให้คนรู้สึกอึดอัดและไม่สบายใจ</StoryDesc>
+		</Text>
+		<Text Name="Tool_PerfectWorld">
+			<DisplayName>โลกอันสวยงาม</DisplayName>
+			<Desc>โลกที่สวยงามเช่นนี้ทำให้ทุกสิ่งทุกอย่างดูน่าสนใจเป็นอย่างมาก</Desc>
+			<StoryDesc>รู้สึกว่าโลกที่สวยงามเช่นนี้ทำให้ผู้คนรู้สึกพึงพอใจ</StoryDesc>
+		</Text>
+		<Text Name="Mood_Tool_LunHui_QiYuan">
+			<DisplayName>หัวใจแห่งการภาวนา</DisplayName>
+			<Desc>ข้าสัมผัสได้ถึงพลังหัวใจแห่งการภาวนา!</Desc>
+			<StoryDesc>รู้สึกว่าพลังหัวใจแห่งการภาวนาทิ้งความพึงพอใจบางอย่างไว้ในจิตใจ</StoryDesc>
+		</Text>
+		<Text Name="Dan_LunHui1">
+			<DisplayName>ประทับใจ</DisplayName>
+			<Desc>ข้าประทับใจในความทรงจำนี้ ทั้งพึงพอใจเล็กน้อย แต่ก็ผิดหวังเล็กน้อย</Desc>
+			<StoryDesc>รู้สึกว่าความทรงจำดังกล่าวได้ทิ้งสิ่งๆ หนึ่งเอาไว้ในห้วงภวังค์ลึก</StoryDesc>
+		</Text>
+		<Text Name="Mood_Item_Laxative">
+			<DisplayName>อ่อนเพลีย</DisplayName>
+			<Desc>รู้สึกเพลียๆ ไม่สบายท้อง</Desc>
+			<StoryDesc>รู้สึกปวดท้องมากเนื่องจากอาการท้องเสีย</StoryDesc>
+		</Text>
+		<Text Name="Mood_LunHui_ShiYi">
+			<DisplayName>เพลิดเพลินใจ</DisplayName>
+			<Desc>ข้าพยายามสนุกกับช่วงเวลา ณ ตอนนี้มากกว่าที่จะจมปลักอยู่กับอดีต</Desc>
+			<StoryDesc>รู้สึกเหมือนกับว่าอะไรบางอย่างนั้นได้ถูกลิขิตเอาไว้แล้ว</StoryDesc>
+		</Text>
+		<Text Name="Mood_LunHui_XinNian">
+			<DisplayName>เชื่อมั่น</DisplayName>
+			<Desc>ข้ามีความเชื่อเป็นของตัวเอง และความเชื่อของข้าไม่อาจถูกสั่นคลอนได้โดยง่าย</Desc>
+			<StoryDesc>รู้สึกว่าความที่เชื่อมั่นนั้นสร้างพลังใจให้แก่ตนเอง</StoryDesc>
+		</Text>
+		<Text Name="Mood_GreenBrothel">
+			<DisplayName>อารมณ์ดี</DisplayName>
+			<Desc>เมื่อได้ปลดปล่อยบางอย่างออกไปบ้าง ก็จะทำให้รู้สึกดีขึ้น</Desc>
+			<StoryDesc>รู้สึกสบายใจยามเมื่อไปร่ำสุราในหอเขียว</StoryDesc>
+		</Text>
+	</List>
+</Texts>

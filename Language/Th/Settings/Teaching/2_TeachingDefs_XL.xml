@@ -1,0 +1,254 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhuJi">
+			<Type>บำเพ็ญเพียร</Type>
+			<DisplayName>การฝึกสร้างรากฐาน</DisplayName>
+			<Desc>เรียนรู้วิธีการและความหมายของการฝึกสร้างรากฐานสำหรับศิษย์นอกในบทช่วยสอนนี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>ความหมายของการฝึกสร้างรากฐาน</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ตรวจสอบการฝึกสร้างรากฐาน</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>การฝึกสร้างรากฐาน</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>เปิดใช้งาน "บำเพ็ญเพียร"</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>จัดตารางการฝึกฝน</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>กำหนดลานฝึก</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>รอจนกว่าศิษย์จะเริ่มฝึกฝน</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>วิธีอื่นในการเสริมสร้างรากฐาน</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>ตรวจสอบดีหมี</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>ตรวจสอบรากฐาน</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>กินดีหมี</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>ตรวจสอบรากฐาน</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>แตะที่ตัวละครแบบสุ่ม</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>แตะเพื่อเปิดแผงตัวละคร</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>แตะเพื่อเปิดเมนูเคล็ดวิชาและการบำเพ็ญเพียร</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>ดังที่แสดงในภาพ หากศิษย์นอกละเลยการฝึกฝนประจำวัน รากฐานของพวกเขาจะลดลง 1k แม้แต่ศิษย์ที่ฝึกสร้างรากฐานเสร็จสมบูรณ์แล้วก็ไม่มีข้อยกเว้น</Tasks.4.TipsData.Desc>
+			<Tasks.6.TipsData.Desc>การฝึกสร้างรากฐานของศิษย์นอกจะเสร็จสมบูรณ์ก็ต่อเมื่อรากฐานของพวกเขาถึง 25k นี่คือข้อกำหนดที่สำคัญที่สุดในการเป็นศิษย์ใน</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>แตะเพื่อเปิดใช้งาน "บำเพ็ญเพียร"</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>แตะเพื่อปิดเมนูเคล็ดวิชาและการบำเพ็ญเพียร</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>แตะเพื่อเปิดเมนูตารางงาน</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>คลิกเพื่อเปิดเมนูตารางงาน</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>ตั้งค่าเป็น "ฝึกฝน"</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>ตั้งค่าเป็น "ฝึกฝน"</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>ตั้งค่าเป็น "ฝึกฝน"</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>ตั้งค่าเป็น "ฝึกฝน"</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>ปิดหน้าต่างนี้</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>แตะ "สำนัก" เพื่อเปิดหน้าต่างสิ่งก่อสร้างของสำนัก</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>แตะ "ลานฝึก"</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>สำนัก</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>วางลานฝึกในตำแหน่งที่กำหนด</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>ยืนยันการสร้าง</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>ออกจากโหมดการสร้าง</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>แตะกระถางธูป</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>เลือกโต๊ะทำงานเพื่อแสดงสถานะด้านล่าง</Tasks.29.TaskDesc>
+			<Tasks.32.TaskDesc>เลือกความเร็ว 2x เพื่อเล่นเกม</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>เลือกความเร็ว 2x เพื่อเล่นเกม</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>รอจนกว่าศิษย์นอกจะเข้าไปในลานฝึกและเริ่มฝึกฝน</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>ผู้เล่นสามารถจัดและปรับตารางเวลาการฝึกฝนของศิษย์นอกเพื่อให้แน่ใจว่าพวกเขาปฏิบัติตามกิจวัตรการฝึกประจำวัน ศิษย์นอกที่เปิดใช้งาน "บำเพ็ญเพียร" จะฝึกฝนนอกเหนือจากงานประจำวันของพวกเขา ศิษย์ที่มีลักษณะพิเศษบางอย่างสามารถเพิ่มรากฐานได้เร็วกว่า</Tasks.37.TipsData.Desc>
+			<Tasks.39.TaskDesc>แตะรายละเอียดบนแผงไอเทมด้านล่าง</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>แตะรายละเอียดบนแผงไอเทมด้านล่าง</Tasks.40.TaskDesc>
+			<Tasks.41.TipsData.Desc>คุณสามารถดูรายละเอียดไอเทมได้</Tasks.41.TipsData.Desc>
+			<Tasks.43.TaskDesc>แตะที่ตัวละครแบบสุ่ม</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>ผู้เล่นสามารถใช้เมนูสถานะที่ด้านล่างได้ตลอดเวลาเพื่อเข้าถึงข้อมูลรากฐานของศิษย์นอกอย่างรวดเร็วและปรับกลยุทธ์การฝึกฝนของพวกเขา</Tasks.44.TipsData.Desc>
+			<Tasks.46.TaskDesc>แตะเพื่อเลือก "ดีหมี"</Tasks.46.TaskDesc>
+			<Tasks.46.UiData.Name>กิน</Tasks.46.UiData.Name>
+			<Tasks.47.TaskDesc>เพิ่มจำนวนที่จะกิน</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>ยืนยันการกิน</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>ยืนยันการกิน</Tasks.49.TaskDesc>
+			<Tasks.51.TaskDesc>รอจนกว่าจะกินดีหมีเสร็จ</Tasks.51.TaskDesc>
+			<Tasks.53.TipsData.Desc>ศิษย์ผู้นี้ได้รับค่ารากฐานจำนวนมากอย่างรวดเร็วจากการกินดีหมี</Tasks.53.TipsData.Desc>
+			<Tasks.55.TipsData.Desc>ไอเทมเช่นโอสถและยาอายุวัฒนะก็สามารถกินเพื่อเพิ่มค่ารากฐานได้อย่างรวดเร็วเช่นกัน และยังมีวิธีอื่น ๆ ในการเร่งการฝึกสร้างรากฐาน รอให้ผู้เล่นไปสำรวจ</Tasks.55.TipsData.Desc>
+		</Text>
+		<Text Name="GongSelect">
+			<Type>บำเพ็ญเพียร</Type>
+			<DisplayName>การเลือกเคล็ดวิชาและรูปแบบการฝึก</DisplayName>
+			<Desc>เรียนรู้วิธีการเลือกเคล็ดวิชาที่เหมาะสม ความหมายของความเข้ากันได้ของเคล็ดวิชา วิธีการเรียนรู้จากอาจารย์ และรูปแบบการฝึกฝนทั่วไปหลายรูปแบบในบทช่วยสอนนี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>ความเข้ากันได้และการเลือกเคล็ดวิชา</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ตรวจสอบความเข้ากันได้ของเคล็ดวิชาของเทียนว่าน</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>ตรวจสอบความเข้ากันได้ของเคล็ดวิชาของจงหลีซู</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>เลือกเคล็ดวิชาเพื่อเป็นศิษย์ใน</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>เหตุใดศิษย์จึงควรมีอาจารย์</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>เลือกอาจารย์</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>ตรวจสอบอาจารย์</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>เปิดแผงข้อความ</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>แตะการแจ้งเตือนการฝึกสร้างรากฐานเสร็จสิ้นทางด้านซ้าย</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>ปิดแผงข้อความ</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>แตะปุ่ม "เลื่อนขั้น" ในสถานะของศิษย์ด้านล่าง</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>เลื่อนขั้น</Tasks.5.UiData.Name>
+			<Tasks.7.TipsData.Desc>ศิษย์ผู้นี้ไม่เหมาะกับเคล็ดวิชาปัจจุบัน โปรดตรวจสอบว่าศิษย์คนอื่นเข้ากับเคล็ดวิชานี้หรือไม่</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>แตะเพื่อปิดเมนูเลือกเคล็ดวิชา</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>แตะและเลือกศิษย์นอกคนอื่น</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>แตะปุ่ม "เลื่อนขั้น" ในสถานะของศิษย์ด้านล่าง</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>เลื่อนขั้น</Tasks.11.UiData.Name>
+			<Tasks.13.TipsData.Desc>ผู้เล่นสามารถใช้แผนภูมิความเข้ากันได้ของเคล็ดวิชาเพื่อดูว่าศิษย์เหมาะสมที่จะฝึกเคล็ดวิชานั้นหรือไม่ ยิ่งคุณสมบัติเบญจธาตุของศิษย์สูงเท่าไหร่ พวกเขาก็จะยิ่งเข้ากับเคล็ดวิชาได้ดีขึ้นเท่านั้น ดังนั้นศิษย์แต่ละคนอาจมีเคล็ดวิชาที่เข้ากันได้แตกต่างกัน</Tasks.13.TipsData.Desc>
+			<Tasks.15.TaskDesc>แตะ "เลือกเคล็ดวิชา"</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>แตะ "ใช่"</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>แตะปุ่มความเร็วเกมที่มุมขวาล่าง</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>เลือกความเร็ว 2x เพื่อเล่นเกม</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>รอจนกว่าศิษย์จะได้รับการเลื่อนขั้น</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>เมื่อเลือกเคล็ดวิชาแล้ว จะไม่สามารถเปลี่ยนแปลงหรือยกเลิกได้ ดังนั้นความเข้ากันได้ของเคล็ดวิชาจะมีอิทธิพลอย่างมากต่อการบำเพ็ญเพียรในอนาคตของศิษย์</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>แตะ "อาจารย์" ในเมนูสถานะ</Tasks.24.TaskDesc>
+			<Tasks.24.UiData.Name>อาจารย์</Tasks.24.UiData.Name>
+			<Tasks.25.TaskDesc>เลือกศิษย์ในที่อยู่ในขั้นแก่นทองคำ</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>ยืนยัน</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>รอจนกว่าศิษย์จะคารวะพวกเขาเป็นอาจารย์</Tasks.28.TaskDesc>
+			<Tasks.31.TaskDesc>แตะเพื่อเลือกศิษย์ในที่อยู่ในขั้นแก่นทองคำ</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>อาจารย์สามารถสอนคัมภีร์ที่พวกเขาได้เรียนรู้แก่ศิษย์ได้ เมื่ออาจารย์สอนคัมภีร์ จะใช้แรงบันดาลใจน้อยลง</Tasks.32.TipsData.Desc>
+			<Tasks.32.TipsData.Name>สอน</Tasks.32.TipsData.Name>
+			<Tasks.34.TipsData.Desc>เมื่อศิษย์ได้รับการเลื่อนขั้นเป็นศิษย์ใน พวกเขาสามารถเลือกศิษย์ในที่อยู่ในขั้นแก่นทองคำหรือสูงกว่าเป็นอาจารย์ได้ เมื่อเคล็ดวิชาของศิษย์เหมือนกับของอาจารย์ การบำเพ็ญเพียรของศิษย์จะมีประสิทธิภาพมากขึ้น</Tasks.34.TipsData.Desc>
+		</Text>
+		<Text Name="GetJingYuan">
+			<Type>บำเพ็ญเพียร</Type>
+			<DisplayName>จิงหยวน</DisplayName>
+			<Desc>เรียนรู้วิธีการได้รับและจัดการจิงหยวนอัตโนมัติในบทช่วยสอนนี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>วิธีการได้รับจิงหยวน</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ตรวจสอบจิงหยวน</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>กินโอสถจิงหยวน</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>ตรวจสอบจิงหยวนอีกครั้ง</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>บำเพ็ญเพียรต่อไป</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>การจัดการจิงหยวนแบบอัตโนมัติ</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>ตรวจสอบการกินอัตโนมัติ</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>ตรวจสอบการใช้โอสถก่อน</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>แตะและเลือกศิษย์ใน</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>แตะเพื่อสลับไปยังแผงสถานะ</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>คุณสามารถตรวจสอบปริมาณจิงหยวนได้โดยดูที่แถบจิงหยวนในแผงสถานะ การบำเพ็ญเพียรของศิษย์ในจำเป็นต้องใช้จิงหยวนอย่างต่อเนื่อง และเมื่อจิงหยวนหมดลง ศิษย์จะไม่สามารถบำเพ็ญเพียรต่อได้จนกว่าจะบริโภคโอสถหรืออาหารเพื่อเติมเต็มจิงหยวน</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>แตะเพื่อเลือก "โอสถจิงหยวน"</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>แตะรายละเอียดบนแผงไอเทมด้านล่าง</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>คุณสามารถดูรายละเอียดไอเทมได้</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>แตะเพื่อเลือกศิษย์ในที่คุณเพิ่งเลือก</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>แตะ "กิน" ในเมนูสถานะของตัวละคร</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>กิน</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>แตะเพื่อเลือก "โอสถจิงหยวน"</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>เพิ่มจำนวนที่จะกิน</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>ยืนยันการกิน</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>แตะปุ่มความเร็วเกมที่มุมขวาล่าง</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>เลือกความเร็ว 3x เพื่อเล่นเกม</Tasks.14.TaskDesc>
+			<Tasks.17.TaskDesc>รอจนกว่า NPC จะกินเสร็จ</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>รอจนกว่าจิงหยวนจะถูกเติมเต็ม</Tasks.19.TaskDesc>
+			<Tasks.21.TipsData.Desc>ตรวจสอบแถบจิงหยวนในสถานะด้านล่าง ตอนนี้จิงหยวนของศิษย์ได้รับการเติมเต็มจากการบริโภคโอสถแล้ว</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>แตะเพื่อสลับไปยังแผงสถานะ</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>แตะ "บำเพ็ญเพียร" ในเมนูสถานะของตัวละคร</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>ศิษย์ในยังสามารถบริโภคอาหารและแปลงเป็นจิงหยวน หรือเพิ่มอัตราการบริโภคอาหารและอัตราการได้รับจิงหยวนเพื่อปรับปรุงผลการแปลงจากอาหารเป็นจิงหยวนให้ดียิ่งขึ้น</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>แตะเพื่อเปิดแผงตัวละคร</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>แตะเพื่อเปิดเมนูเคล็ดวิชาและการบำเพ็ญเพียร</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>ผู้เล่นสามารถแตะที่นี่เพื่อตั้งค่า "กินอัตโนมัติ" เพื่อให้ศิษย์กินอาหารเพื่อรับจิงหยวนโดยอัตโนมัติ</Tasks.30.TipsData.Desc>
+			<Tasks.32.TipsData.Desc>ผู้เล่นสามารถแตะที่นี่เพื่อตั้งค่า "ใช้โอสถก่อน" เพื่อให้ศิษย์เลือกกินโอสถก่อนเพื่อรับจิงหยวนโดยอัตโนมัติ</Tasks.32.TipsData.Desc>
+			<Tasks.34.TipsData.Desc>มีไอเทมมากมายที่เพิ่มจิงหยวนหรืออัตราการได้รับจิงหยวน เช่น ยาหายากและของล้ำค่า โอสถ ยันต์ เป็นต้น</Tasks.34.TipsData.Desc>
+		</Text>
+		<Text Name="FuQi">
+			<Type>บำเพ็ญเพียร</Type>
+			<DisplayName>การดูดซับปราณและการอดอาหาร</DisplayName>
+			<Desc>เรียนรู้ความหมายของการดูดซับปราณและการอดอาหาร และความแตกต่างระหว่างทั้งสองอย่างในบทช่วยสอนนี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>การอดอาหารคืออะไร</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ตรวจสอบยาอดอาหาร</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>ตรวจสอบความต้องการอาหาร</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>ใช้ยาอดอาหาร</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>ตรวจสอบความต้องการอาหารอีกครั้ง</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>การดูดซับปราณคืออะไร</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>ตรวจสอบโอสถไร้ธัญพืช</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>ตรวจสอบแถบการดูดซับปราณ</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>ใช้โอสถไร้ธัญพืช</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>ตรวจสอบแถบการดูดซับปราณอีกครั้ง</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>แตะเพื่อเลือก "ยาอดอาหาร"</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>แตะรายละเอียดบนแผงไอเทมด้านล่าง</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>คุณสามารถดูรายละเอียดไอเทมได้</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>แตะและเลือกศิษย์ใน</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>แตะเพื่อสลับไปยังแผงสถานะ</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>คุณสามารถตรวจสอบแถบอาหารบนแผงด้านล่าง</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>แตะ "กิน" ในเมนูสถานะของตัวละคร</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>กิน</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>แตะเพื่อเลือก "ยาอดอาหาร"</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>เพิ่มจำนวนที่จะกิน</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>ยืนยันการกิน</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>แตะปุ่มความเร็วเกมที่มุมขวาล่าง</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>เลือกความเร็ว 3x เพื่อเล่นเกม</Tasks.14.TaskDesc>
+			<Tasks.17.TaskDesc>รอจนกว่า NPC จะกินเสร็จ</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>คุณสามารถตรวจสอบแถบอาหารบนแผงด้านล่าง</Tasks.19.TipsData.Desc>
+			<Tasks.21.TipsData.Desc>เหตุผลของการอดอาหารในเกมคือเพื่อลดการบริโภคอาหารและน้ำของศิษย์ เพื่อลดความต้องการอาหารและเครื่องดื่มและลดต้นทุนทรัพยากร แต่การลดความต้องการอาหารและน้ำของศิษย์ในจะลดปริมาณจิงหยวนที่แปลงจากอาหาร</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>แตะเพื่อเลือก "โอสถไร้ธัญพืช"</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>แตะรายละเอียดบนแผงไอเทมด้านล่าง</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>คุณสามารถดูรายละเอียดไอเทมได้</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>แตะและเลือกศิษย์ใน</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>แตะเพื่อสลับไปยังแผงสถานะ</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>คุณสามารถตรวจสอบแถบอาหารบนแผงด้านล่าง</Tasks.29.TipsData.Desc>
+			<Tasks.31.TaskDesc>แตะ "กิน" ในเมนูสถานะของตัวละคร</Tasks.31.TaskDesc>
+			<Tasks.31.UiData.Name>กิน</Tasks.31.UiData.Name>
+			<Tasks.32.TaskDesc>แตะเพื่อเลือก "โอสถไร้ธัญพืช"</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>เพิ่มจำนวนที่จะกิน</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>ยืนยันการกิน</Tasks.34.TaskDesc>
+			<Tasks.36.TaskDesc>รอจนกว่า NPC จะกินเสร็จ</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>คุณสามารถตรวจสอบแถบอาหารบนแผงด้านล่าง</Tasks.38.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>เหตุผลของการดูดซับปราณคือเพื่อรับพลังงานจากสภาพแวดล้อมเพื่อรักษาระดับความหิวและความกระหาย ยิ่งศิษย์ดูดซับปราณได้มีประสิทธิภาพมากเท่าไหร่ พวกเขาก็จะสามารถแปลงอาหารเป็นจิงหยวนได้ดีขึ้นเท่านั้น เมื่อการบริโภคอาหารและน้ำของศิษย์ในเพิ่มขึ้น ปริมาณจิงหยวนที่แปลงได้ก็จะเพิ่มขึ้นด้วย</Tasks.40.TipsData.Desc>
+		</Text>
+		<Text Name="DProduction">
+			<Type>บำเพ็ญเพียร</Type>
+			<DisplayName>การผลิต</DisplayName>
+			<Desc>เรียนรู้วิธีสร้างของวิเศษ ปรุงโอสถ และวาดอักขระยันต์ในบทช่วยสอนนี้\n[color=#BC1717](ระหว่างบทช่วยสอน ผู้เล่นสามารถกด Esc สองครั้งเพื่อข้ามภารกิจและดำเนินการต่อ)[/color]</Desc>
+			<Chapters.0.DisplayName>วิธีการปรุงโอสถ</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>ได้รับสิ่งก่อสร้างเพิ่มเติม</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>ปรุงโอสถจิงหยวน</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>ใช้การทำซ้ำเพื่อปรุงโอสถ</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>วิธีการสร้างของวิเศษ</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>สร้างของวิเศษ</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>เปรียบเทียบวัตถุดิบขั้นสูง</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>เปรียบเทียบวัตถุดิบพื้นฐาน</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>ยืนยันการสร้าง</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>วิธีการวาดอักขระยันต์</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>วาด "ยันต์ว่องไว"</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>อิทธิพลของกระดาษต่อยันต์</Chapters.2.Tasks.1>
+			<Chapters.3.DisplayName>วิธีการหลอม</Chapters.3.DisplayName>
+			<Chapters.3.Tasks.0>ตรวจสอบปราณของไอเทม</Chapters.3.Tasks.0>
+			<Chapters.3.Tasks.1>หลอมไอเทม</Chapters.3.Tasks.1>
+			<Tasks.1.TipsData.Desc>หลังจากที่ศิษย์กลายเป็นศิษย์ใน จะมีปฏิสัมพันธ์ใหม่ ๆ รอให้เปิดใช้งานโดยการสร้างสิ่งก่อสร้างพิเศษเหล่านี้</Tasks.1.TipsData.Desc>
+			<Tasks.3.TaskDesc>แตะและเลือกศิษย์ใน</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>แตะ "การปรุงยา" ในเมนูสถานะของตัวละคร</Tasks.4.TaskDesc>
+			<Tasks.4.UiData.Name>การปรุงยา</Tasks.4.UiData.Name>
+			<Tasks.5.TaskDesc>แตะเพื่อเลือก "โอสถจิงหยวน"</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>แตะ "ยืนยัน"</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>แตะเพื่อเลือก "เตาหลอมโอสถ"</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>ยืนยันการเลือก</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>แตะเพื่อเลือก "เตาหลอมโอสถ"</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>แตะ "โอสถจิงหยวน" บนแผงเตาหลอมโอสถ</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>แตะ "ทำซ้ำ 10 ครั้ง"</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>แตะปุ่มความเร็วเกมที่มุมขวาล่าง</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>เลือกความเร็ว 3x เพื่อเล่นเกม</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>รอจนกว่าโอสถจิงหยวนจะถูกปรุงเสร็จ</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>แตะ "โอสถจิงหยวน" บนแผงเตาหลอมโอสถ</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>แตะปุ่มปิดข้าง "โอสถจิงหยวน" ในหน้าเตาหลอมโอสถด้านล่างเพื่อยกเลิกการผลิต</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>การปรุงโอสถไม่เพียงแต่ต้องการวัตถุดิบพื้นฐานสำหรับโอสถเท่านั้น แต่ศิษย์ยังต้องเพิ่มระดับการปรุงยาหรือเรียนรู้สูตรโอสถอื่น ๆ เพื่อปรุงโอสถขั้นสูงขึ้น ผู้เล่นยังสามารถใช้ "ทำซ้ำ" เพื่อปรุงโอสถเป็นชุด หรือยกเลิกการทำซ้ำเพื่อหยุดการปรุง</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>แตะและเลือกศิษย์ใน</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>แตะ "การสร้าง" ในเมนูสถานะของตัวละคร</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>การสร้าง</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>แตะ "การสร้างของวิเศษ"</Tasks.26.TaskDesc>
+			<Tasks.29.TaskDesc>คุณสามารถเลือก "กระบี่ศิลาศักดิ์สิทธิ์" เพื่อตรวจสอบวัตถุดิบและระดับของมัน และอัตราความสำเร็จและข้อกำหนดในการสร้างก็จะแสดงอยู่ด้านบนเช่นกัน</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>ตรวจสอบอัตราความสำเร็จและข้อกำหนดในการสร้าง</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>คุณสามารถเลือก "ดาบศิลาเทา" เพื่อตรวจสอบวัตถุดิบและระดับของมัน และอัตราความสำเร็จและข้อกำหนดในการสร้างก็จะแสดงอยู่ด้านบนเช่นกัน</Tasks.32.TaskDesc>
+			<Tasks.33.TipsData.Desc>ตรวจสอบอัตราความสำเร็จและข้อกำหนดในการสร้าง</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>ยืนยันการเลือก</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>รอจนกว่าของวิเศษจะถูกสร้างเสร็จ</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>วัตถุดิบธรรมดาสามารถใช้สร้างของวิเศษได้ แต่จะใช้ปราณจำนวนหนึ่ง ยิ่งระดับสูงเท่าไหร่ ก็ยิ่งต้องการปราณมากขึ้นเท่านั้น อัตราความสำเร็จในการสร้างของวิเศษนั้นสัมพันธ์โดยตรงกับสภาวะจิตใจของศิษย์รวมถึงระดับการสร้างของวิเศษของพวกเขา</Tasks.38.TipsData.Desc>
+			<Tasks.40.TaskDesc>แตะ "การวาด" ในเมนูสถานะของตัวละคร</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>การวาด</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>แตะเพื่อเลือกกระดาษยันต์</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>ยืนยันการเลือก</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>แตะ "ยันต์ว่องไว"</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>แตะเพื่อยืนยัน</Tasks.44.TaskDesc>
+			<Tasks.45.TaskDesc>โปรดทำตามคำแนะนำเพื่อวาดอักขระยันต์แล้วยืนยันหลังจากเสร็จสิ้น</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>แตะ "ใช่"</Tasks.46.TaskDesc>
+			<Tasks.48.TaskDesc>รอจนกว่ายันต์จะถูกวาดเสร็จ</Tasks.48.TaskDesc>
+			<Tasks.50.TaskDesc>แตะเพื่อเลือก "โต๊ะวาดอักขระยันต์"</Tasks.50.TaskDesc>
+			<Tasks.51.TaskDesc>แตะ "ผลิต"</Tasks.51.TaskDesc>
+			<Tasks.51.UiData.Name>ผลิต</Tasks.51.UiData.Name>
+			<Tasks.52.TipsData.Desc>ดังที่แสดงในหน้าการผลิต มีกระดาษยันต์หลายชนิดซึ่งจะมีผลโบนัสที่แตกต่างกันหลังจากวาดอักขระยันต์แล้ว โดยทั่วไปแล้ว ผลโบนัสจะสัมพันธ์โดยตรงกับระดับของกระดาษยันต์</Tasks.52.TipsData.Desc>
+			<Tasks.53.TaskDesc>ปิดหน้าต่างการผลิต</Tasks.53.TaskDesc>
+			<Tasks.55.TipsData.Desc>ความสวยงามในการวาดอักขระยันต์ของผู้เล่นจะเป็นตัวกำหนดคุณภาพของผลิตภัณฑ์สุดท้าย ซึ่งเป็นปัจจัยสำคัญที่มีผลต่อประสิทธิภาพของมันเช่นกัน</Tasks.55.TipsData.Desc>
+			<Tasks.57.TaskDesc>แตะเพื่อเลือกขยะ</Tasks.57.TaskDesc>
+			<Tasks.58.TaskDesc>แตะรายละเอียดบนแผงไอเทมด้านล่าง</Tasks.58.TaskDesc>
+			<Tasks.59.TipsData.Desc>คุณสามารถตรวจสอบปริมาณปราณที่ขยะดูดซับไว้ได้</Tasks.59.TipsData.Desc>
+			<Tasks.61.TaskDesc>ปิดแผงไอเทม</Tasks.61.TaskDesc>
+			<Tasks.64.TaskDesc>แตะเพื่อเลือกขยะ</Tasks.64.TaskDesc>
+			<Tasks.65.TaskDesc>ออกจากโหมดปัจจุบัน</Tasks.65.TaskDesc>
+			<Tasks.66.TaskDesc>ออกจากโหมดปัจจุบัน</Tasks.66.TaskDesc>
+			<Tasks.69.TaskDesc>รอจนกว่าการหลอมจะเสร็จสิ้น</Tasks.69.TaskDesc>
+			<Tasks.70.TipsData.Desc>ผู้เล่นเพิ่งได้รับหินวิญญาณสองสามก้อนจากการหลอมขยะ</Tasks.70.TipsData.Desc>
+			<Tasks.72.TipsData.Desc>ในเกม ไอเทมต่าง ๆ จะค่อย ๆ ดูดซับปราณจากธรรมชาติ ศิษย์ในสามารถหลอมพวกมันเพื่อรับหินวิญญาณและกำจัดทรัพยากรที่ไม่ต้องการได้</Tasks.72.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>

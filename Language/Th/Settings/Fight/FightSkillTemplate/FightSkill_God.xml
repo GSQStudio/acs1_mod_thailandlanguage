@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FightSkill_God_Damage1">
+			<DisplayName>มังกรคำราม</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Damage2">
+			<DisplayName>อัสนีเจ็ดสังหาร</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_FaBao1">
+			<DisplayName>กระบี่เทพอสูร</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_FightSkill1">
+			<DisplayName>คำสาปโลหิตทมิฬ</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Sheild1">
+			<DisplayName>ผู้พิทักษ์ความไม่เที่ยง</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Health1">
+			<DisplayName>บุปผาเทพเจ็ดสี</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Health2">
+			<DisplayName>จิตเทพขันติ</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,652 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Secrets_BadFight1">
+			<DisplayName>ร่องรอยของสำนักมาร</DisplayName>
+			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ศิษย์จากสำนักมารได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
+			<Selections.0.Tip>พื้นฐานลมปราณ</Selections.0.Tip>
+			<Selections.1.Display>หยุดพวกเขา</Selections.1.Display>
+			<Selections.1.Tip>พื้นฐานลมปราณ</Selections.1.Tip>
+			<Selections.2.Display>ไม่สนใจ</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_BadFight2">
+			<DisplayName>ร่องรอยของสำนักมาร</DisplayName>
+			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ศิษย์จากสำนักมารได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
+			<Selections.0.Tip>สร้างแก่นลมปราณ</Selections.0.Tip>
+			<Selections.1.Display>หยุดพวกเขา</Selections.1.Display>
+			<Selections.1.Tip>สร้างแก่นลมปราณ</Selections.1.Tip>
+			<Selections.2.Display>ไม่สนใจ</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_BadFight3">
+			<DisplayName>ร่องรอยของสำนักมาร</DisplayName>
+			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ผู้อาวุโสจากสำนักธรรมะได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
+			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
+			<Selections.1.Display>หยุดพวกเขา</Selections.1.Display>
+			<Selections.1.Tip>แก่นทองคำ</Selections.1.Tip>
+			<Selections.2.Display>ไม่สนใจ</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GoodFight1">
+			<DisplayName>ร่องรอยของสำนักธรรมะ</DisplayName>
+			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ศิษย์จากสำนักธรรมะได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
+			<Selections.1.Display>ลอบโจมตี</Selections.1.Display>
+			<Selections.1.Tip>พื้นฐานลมปราณ</Selections.1.Tip>
+			<Selections.2.Display>ไม่สนใจ</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GoodFight2">
+			<DisplayName>ร่องรอยของสำนักธรรมะ</DisplayName>
+			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ศิษย์จากสำนักธรรมะได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
+			<Selections.1.Display>ลอบโจมตี</Selections.1.Display>
+			<Selections.1.Tip>สร้างแก่นลมปราณ</Selections.1.Tip>
+			<Selections.2.Display>ไม่สนใจ</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GoodFight3">
+			<DisplayName>ร่องรอยของสำนักธรรมะ</DisplayName>
+			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ผู้อาวุโสจากสำนักธรรมะได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
+			<Selections.1.Display>ลอบโจมตี</Selections.1.Display>
+			<Selections.1.Tip>แก่นทองคำ</Selections.1.Tip>
+			<Selections.2.Display>ไม่สนใจ</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear1">
+			<DisplayName>ค้นพบสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE]</Desc>
+			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
+			<Selections.0.Tip>พื้นฐานลมปราณ</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear2">
+			<DisplayName>ค้นพบสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE]</Desc>
+			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
+			<Selections.0.Tip>สร้างแก่นลมปราณ</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear3">
+			<DisplayName>ค้นพบสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE]</Desc>
+			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
+			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear3_Cold">
+			<DisplayName>ค้นพบสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE] และเนื่องจากรอยผนึกที่แตกออกทำให้ดินแดนโดยรอบของทั่วทั้งบริเวณนี้จึงถูกปกคลุมไปด้วยน้ำแข็ง นี่จึงทำให้ไม่มีใครสามารถเข้าใกล้มันได้ถ้าคนผู้นั้นหากปราศจากพื้นฐานการบ่มเพาะที่แข็งแกร่ง</Desc>
+			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
+			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
+			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear3_Hot">
+			<DisplayName>ค้นพบสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE] และเนื่องจากรอยผนึกที่แตกออกทำให้ดินแดนโดยรอบของทั่วทั้งบริเวณนี้จึงถูกปกคลุมไปด้วยลาวาเพลิง นี่จึงทำให้ไม่มีใครสามารถเข้าใกล้มันได้ถ้าคนผู้นั้นหากปราศจากพื้นฐานการบ่มเพาะที่แข็งแกร่ง</Desc>
+			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
+			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
+			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear">
+			<DisplayName>ถ้ำเซียน</DisplayName>
+			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Cold">
+			<DisplayName>ถ้ำเซียน</DisplayName>
+			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่ อย่างไรก็ตามถ้ำแห่งนี้ได้รับการปกป้องด้วยคาถาป้องกัน ทำให้ข้างในนั้นปกคลุมไปด้วยไอเย็นที่สามารถฆ่าใครก็ตามที่ไม่มีความต้านทานสูงมากพอ</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Hot">
+			<DisplayName>ถ้ำเซียน</DisplayName>
+			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่ อย่างไรก็ตามถ้ำแห่งนี้ได้รับการปกป้องด้วยคาถาป้องกัน ทำให้ข้างในนั้นปกคลุมไปด้วยไอร้อนที่สามารถฆ่าใครก็ตามที่ไม่มีความต้านทานสูงมากพอ</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Manual">
+			<DisplayName>ถ้ำเซียน</DisplayName>
+			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่ เจ้าของถ้ำแห่งนี้เป็นปรมาจารย์ด้านการหลอมอาวุธวิเศษ ซึ่งได้สร้างกับดักและคาถาป้องกันจำนวนนับไม่ถ้วนด้วยทักษะนี้ ผู้ที่เข้ามาโดยปราศจากทักษะการหลอมอาวุธวิเศษขั้นสูงนั้นย่อมต้องพบกับความพินาศ</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ทักษะหลอมอาวุธวิเศษ</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Medicine">
+			<DisplayName>ถ้ำเซียน</DisplayName>
+			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่ เจ้าของถ้ำแห่งนี้เป็นปรมาจารย์ด้านการหลอมโอสถ ซึ่งได้สร้างกับดักและคาถาป้องกันจำนวนนับไม่ถ้วนด้วยทักษะนี้ ผู้ที่เข้ามาโดยปราศจากทักษะการหลอมโอสถขั้นสูงนั้นย่อมต้องพบกับความพินาศ</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ทักษะหลอมโอสถ</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Esoterica1">
+			<DisplayName>ร่องรอยของหนังสือโบราณ</DisplayName>
+			<Desc>เมื่อได้มาถึงยัง[PLACE] [NAME] ได้พบว่ามีผู้ฝึกตนงจำนวนมากได้มาที่นี่เพื่อค้นหาหนังสือโบราณ</Desc>
+			<Selections.0.Display>ทำนายตำแหน่งของตำรา</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ค้นหารอบๆ</Selections.1.Display>
+			<Selections.1.Tip>ใช้โชค</Selections.1.Tip>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Esoterica2">
+			<DisplayName>ค้นพบตำราวิชา</DisplayName>
+			<Desc>เมื่อได้มาถึงยัง[PLACE] [NAME] ได้พบว่าผู้ฝึกตนคนอื่นๆ ที่มาค้นหาตำราวิชานั้นกำลังติดพันอยู่กับการต่อสู้แย่งชิงที่ยุ่งเหยิง</Desc>
+			<Selections.0.Display>แย่งชิงโดยใช้กำลัง</Selections.0.Display>
+			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
+			<Selections.1.Display>เฝ้ารอ</Selections.1.Display>
+			<Selections.1.Tip>ใช้โชค</Selections.1.Tip>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Magic">
+			<DisplayName>มรดกเวทโบราณ</DisplayName>
+			<Desc>เมื่อได้มาถึงยัง[PLACE] [NAME] พบว่ามีผู้ฝึกฝนจำนวนมากมารวมตัวกันรอบๆ หินแกะสลักที่เพิ่งถูกค้นพบบนหน้าผามังกร</Desc>
+			<Selections.0.Display>ทำสมาธิ</Selections.0.Display>
+			<Selections.0.Tip>สติปัญญา</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Magic_Cold">
+			<DisplayName>มรดกเวทโบราณ</DisplayName>
+			<Desc>เมื่อได้มาถึงยัง[PLACE] [NAME] พบว่ามีผู้ฝึกฝนจำนวนมากมารวมตัวกันรอบๆ หินแกะสลักที่เพิ่งถูกค้นพบบนหน้าผามังกร อย่างไรก็ตาม เนื่องจากความผันผวนของปราณแห่งสวรรค์และโลก ทำให้พื้นที่โดยรอบของสถานที่แห่งนี้จึงถูกปกคลุมไปด้วยน้ำแข็ง</Desc>
+			<Selections.0.Display>ทำสมาธิ</Selections.0.Display>
+			<Selections.0.Tip>สติปัญญา</Selections.0.Tip>
+			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Magic_Hot">
+			<DisplayName>มรดกเวทโบราณ</DisplayName>
+			<Desc>เมื่อได้มาถึงยัง[PLACE] [NAME] พบว่ามีผู้ฝึกฝนจำนวนมากมารวมตัวกันรอบๆ หินแกะสลักที่เพิ่งถูกค้นพบบนหน้าผามังกร อย่างไรก็ตาม เนื่องจากความผันผวนของปราณแห่งสวรรค์และโลก ทำให้พื้นที่โดยรอบของสถานที่แห่งนี้จึงถูกปกคลุมไปด้วยลาวาเพลิง</Desc>
+			<Selections.0.Display>ทำสมาธิ</Selections.0.Display>
+			<Selections.0.Tip>สติปัญญา</Selections.0.Tip>
+			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX1">
+			<DisplayName>หุบเขาแห่งหนอน</DisplayName>
+			<Desc>จากบันทึกการเดินทางของผู้กล่อมสายลม เล่มที่ 6 ได้บันทึกไว้ว่า วิชาบ่มเพาะแห่งการสังหารถูกคิดค้นโดยเซียนฮูนหยวน ด้วยวิชานี้จึงทำให้เขามีชื่อเสียงโดงดังไปทั่วทั้งโลกของผู้ฝึกตน ต่อมาเขากลับถูกโจมตีโดยสำนักมารทั้งหกแห่งในหุบเขาแห่งหนอนทางทิศใต้และได้หายตัวไป ว่ากันว่าสมบัติล้ำค่าของเขาได้ถูกทิ้งเอาไว้ในหุบเขาแห่งหนอนแห่งนี้ จากบันทึกเล่มนี้ [NAME] จึงมายังหุบเขาแห่งหนอนเพื่อแสวงหาโชควาสนา</Desc>
+			<Selections.0.Display>สำรวจ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX2">
+			<DisplayName>สมบัติหมื่นพิษ</DisplayName>
+			<Desc>จากคำบอกเล่าของบันทึกภาคผนวก: เล่ม 3 เกาะสราญรมย์นั้นคือร่างของบรรพบุรุษมังกรโบราณที่ถูกทิ้งเอาไว้หลังจากที่ได้จุติขึ้นสู่สรวงสวรรค์ และบ่อมังกรพิษก็เป็นดังส่วนสมองของมังกรตัวนั้น หากข่าวลือนี้เป็นจริงละก็ บางทีอาจมีบางสิ่งที่หายากและควรค่าแก่การสำรวจ</Desc>
+			<Selections.0.Display>สำรวจ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX3">
+			<DisplayName>พระราชวังสวรรค์</DisplayName>
+			<Desc>[NAME] หวนนึกถึงสิ่งที่ถูกบันทึกไว้ในบันทึกการเดินทางของผู้กล่อมสายลม: เล่มที่ 1 ยังมีถ้ำภายในลึกลับอีกแห่งอยู่ใต้ถ้ำของหมอเทวะที่ตั้งอยู่บนยอดเขาโอสถ ดังนั้น[ENHIM]จึงตัดสินใจสำรวจสถานที่แห่งนี้</Desc>
+			<Selections.0.Display>สำรวจ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX4">
+			<DisplayName>ถ้ำแห่งเพลิง</DisplayName>
+			<Desc>[NAME] หวนนึกถึงสิ่งที่ถูกบันทึกไว้ในบันทึกลับหยุนจี้: ทะเลทรายไร้ขอบเขต ทะเลทรายแห่งนี้ได้ก่อตัวมาจากอุกกาบาตที่ตกลงมาจากสวรรค์เมื่อครั้งสมัยโบราณ ในเวลาต่อมาสถานที่ที่อุกกาบาตก้อนนั้นได้ตกลงมานั้นเป็นที่รู้จักกันในชื่อถ้ำอัคคี บางทีอาจจะมีปริศนาอะไรบางอย่างแฝงอยู่ในถ้ำแห่งนี้เพื่อรอการสำรวจอยู่</Desc>
+			<Selections.0.Display>สำรวจ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX5">
+			<DisplayName>สมบัติเทพ</DisplayName>
+			<Desc>จากคำบอกเล่าของบันทึกภาคผนวก: เล่มที่1 ภายในทะเลสาบสวรรค์ที่อยู่ลึกเข้าไปในภูเขาบัวห้าสีนั้นมีสิงปลูกสร้างเก่าแก่ที่ชาวนาลึกลับคนหนึ่งเคยอาศัยอยู่อย่างสงบ [NAME] จึงได้ตัดสินใจไปสำรวจสถานที่แห่งั้นดู</Desc>
+			<Selections.0.Display>สำรวจ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค และ สติปัญญา</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX6">
+			<DisplayName>ซากอสูร</DisplayName>
+			<Desc>จากคำบอกเล่าของบันทึกการเดินทางของผู้กล่อมสายลม: เล่มที่2 ครั้งหนึ่งเคยมีอสูรสวรรค์ถูกผนึกอยู่ในป่าพันหนามที่ตั้งอยู่ภูเขาศิลาทมิฬแห่งนี้ ว่ากันว่าหากคนผู้นั้นมีโชควาสนาละก็เขาอาจจะได้รับวิชาลับผ่านการสื่อสารกับอสูรสวรรค์ตัวนั้นก็ได้</Desc>
+			<Selections.0.Display>พูดคุยกับอสูรสวรรค์</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppearEX">
+			<DisplayName>ซากของสำนักไท้อี้</DisplayName>
+			<Desc>ในตอนนี้ไร้ร่องรอยของพวกศัตรู ดังนั้น [NAME] จึงได้เดินทางกลับไปยังสำนักไท้อี้ด้วยความระมัดระวัง</Desc>
+			<Selections.0.Display>หอคัมภีร์</Selections.0.Display>
+			<Selections.1.Display>ค้นหาไปรอบๆ</Selections.1.Display>
+			<Selections.2.Display>ผู้มาเยือนลึกลับ</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppearEX_FIX">
+			<DisplayName>เล่าย้อน: หวนคืนสู่ไท้อี้</DisplayName>
+			<Desc>เนื่องจากภารกิจหลักเกี่ยวกับการทำลายล้างของไท้อี้นั้นไม่มีอยู่จนกว่าจะมีการอัพเดตเนื้อหาใหม่ เนื้อเรื่องที่ผู้เล่นเกมเวอร์ชั่นก่อนหน้าอาจพลาดไปจะถูกเล่นที่นี่\nหลายเดือนหลังจากการล่มสลายของสำนักไท้อี้ ท่านได้ค้นพบวิชาบ่มเพาะทั้งห้าของสำนักไท้อี้ในขณะที่กลับมายังซากปรักหักพักของสำนัก อย่างไรก็ตาม ในขณะกำลังสำรวจอยู่ ท่านก็สังเกตเห็นบุคคลผู้หนึ่งจากระยะไกล เมื่อมองแวบแรก ดูเหมือนคนผู้นั้นจะเป็นผู้อาวุโสเยว่ชิงโฉวจากนิกายแสงราตรี! มันผิดปกติที่นางมายังที่แห่งนี้ นางต้องรู้อะไรบางอย่างเป็นแน่\nเนื่องจากการจำกัดเวลาของภารกิจ ไฟล์บันทึกเก่าที่ใช้เวลาในเกมมากกว่า 700 วันจะพลาดเบาะแสสำคัญอย่างหลีกเลี่ยงไม่ได้ จึงไม่สามารถสัมผัสประสบการณ์เควสหลักทั้งหมดได้ ขออภัยเกี่ยวกับเรื่องนี้</Desc>
+			<Selections.0.Display>ตกลง</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_NanPing1">
+			<DisplayName>กล่องหิน</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังหมู่บ้านหนานปิงและได้ทราบว่าชายที่มีชื่อว่าจางเอ้อวานั้นได้อาศัยอยู่ที่หมู่บ้านแห่งนี้</Desc>
+			<Selections.0.Display>ถามเกี่ยวกับกล่องหิน</Selections.0.Display>
+			<Selections.0.Tip>เสน่ห์</Selections.0.Tip>
+		</Text>
+		<Text Name="Secrets_XianJianLing1">
+			<DisplayName>กองกำลังกระบี่สวรรค์</DisplayName>
+			<Desc>[NAME] ได้มายังภูเขาซูเพื่อสืบเกี่ยวกับเรื่องของกองกำลังกระบี่สวรรค์.</Desc>
+			<Selections.0.Display>สืบถามรายละเอียด</Selections.0.Display>
+			<Selections.1.Display>ติดต่อภูเขาซู</Selections.1.Display>
+			<Selections.2.Display>ปกปิดความจริง</Selections.2.Display>
+			<Selections.3.Display>ล้มเหลวในการจับคนร้าย</Selections.3.Display>
+			<Selections.4.Display>จากไป</Selections.4.Display>
+		</Text>
+		<Text Name="Secrets_XianJianLing2">
+			<DisplayName>ร่องรอยของลัทธิอสูร</DisplayName>
+			<Desc>หลังจากที่ไล่ตามคนของลัทธิอสูรไปจนสุดชายแดน ในที่สุด [NAME] ก็ตามคนของลัทธิอสูรได้ทันในที่สุด พวกเขาได้ร้องขอชีวิตและเสนอวิชาบ่มเพาะของอารามหมื่นอสูรลับให้แก่ให้ [NAME]</Desc>
+			<Selections.0.Display>ปล่อยพวกมันไป</Selections.0.Display>
+			<Selections.1.Display>ฆ่าพวกมันเพื่อผดุงความยุติธรรม</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui">
+			<DisplayName>เทศกาลแห่งเขาคุนหลุน</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังภูเขาคุนหลุนและได้พบว่าเทศกาลแห่งเขาคุนหลุนนั้นได้เริ่มขึ้นแล้ว เหล่าผู้ฝึกตนและเหล่าเซียนต่างก็มารวมตัวกันในงานเทศกาลคครั้งนี้เพื่อแสดงความสามารถของพวกเขา และมีเพียงผู้ที่อยู่ในขอบเขตแก่นทองคำหรือสูงกว่าเท่านั้นจึงจะสามารถเข้าร่วมงานเทศกาลในครั้งนี้ได้ ผู้ที่ได้รับชัยชนะจากงานเทศกาลสามารถรับวิชาบ่มเพาะบางอย่างจากวิหารหยกสิ้นสูญได้ [NAME] กำลังสงสัยว่า[ENHIM]ควรจะเข้าร่วมการแข่งขันประเภทใดดี</Desc>
+			<Selections.0.Display>แข่งขันบรรยายเต๋า</Selections.0.Display>
+			<Selections.1.Display>แข่งขันหลอมอาวุธวิเศษ</Selections.1.Display>
+			<Selections.2.Display>แข่งขันหลอมโอสถ</Selections.2.Display>
+			<Selections.3.Display>ประลองกระบี่</Selections.3.Display>
+			<Selections.4.Display>ประลองปราณเวท</Selections.4.Display>
+			<Selections.5.Display>จากไป</Selections.5.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui1">
+			<DisplayName>การบรรยายเต๋าแห่งเขาคุนหลุน</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังยอดเขาหลักของภูเขาคุนหลุน มันเป็นสถานที่ๆ ผู้ที่เข้าร่วมการเสวนาเต๋าได้มารวมตัวกันอย่างหนาแน่น ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์หยกบริสุทธิ์อมตะ</Desc>
+			<Selections.0.Display>บรรยายเต๋า</Selections.0.Display>
+			<Selections.0.Tip>สติปัญญา/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
+			<Selections.1.Display>บรรยายเต๋า</Selections.1.Display>
+			<Selections.1.Tip>สติปัญญา/ใช้โชค/ค่าสถานะโดยรวม</Selections.1.Tip>
+			<Selections.2.Display>ฟังและเรียนรู้</Selections.2.Display>
+			<Selections.2.Tip>สติปัญญา/ใช้โชค</Selections.2.Tip>
+			<Selections.3.Display>กลับไปยังทางเข้า</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui2">
+			<DisplayName>แข่งขันหลอมอาวุธวิเศษ</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังถ้ำชีพจรมังกรบนเขาคุนหลุน สถานที่ที่ผู้ฝึกตนจะแสดงทักษะการหลอมอาวุธวิเศษของพวกเขาออกมา ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์หมื่นวิถีกำเนิดสรรพวุธ</Desc>
+			<Selections.0.Display>เข้าร่วมการแข่งขัน</Selections.0.Display>
+			<Selections.0.Tip>ทักษะหลอมอาวุธวิเศษ/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
+			<Selections.1.Display>เข้าร่วมการแข่งขัน</Selections.1.Display>
+			<Selections.1.Tip>ทักษะหลอมอาวุธวิเศษ/ใช้โชค/ค่าสถานะโดยรวม</Selections.1.Tip>
+			<Selections.2.Display>ดูและเรียนรู้</Selections.2.Display>
+			<Selections.2.Tip>สติปัญญา/ใช้โชค</Selections.2.Tip>
+			<Selections.3.Display>กลับไปยังทางเข้า</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui3">
+			<DisplayName>แข่งขันหลอมโอสถ</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังสระหยกบนเขาคุนหลุน สถานทีที่ผู้ฝึกตนที่มีชื่อเสียงแต่ละคนจะแสดงความสามารถพิเศษในการเตรียมสมุนไพรและหลอมกลั่นโอสถชั้นยอดออกมา ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์กลั่นโอสถปฐมกาล</Desc>
+			<Selections.0.Display>เข้าร่วมการแข่งขัน</Selections.0.Display>
+			<Selections.0.Tip>ทักษะหลอมโอสถ/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
+			<Selections.1.Display>เข้าร่วมการแข่งขัน</Selections.1.Display>
+			<Selections.1.Tip>ทักษะหลอมโอสถ/ใช้โชค/ค่าสถานะโดยรวม</Selections.1.Tip>
+			<Selections.2.Display>ดูและเรียนรู้</Selections.2.Display>
+			<Selections.2.Tip>สติปัญญา/ใช้โชค</Selections.2.Tip>
+			<Selections.3.Display>กลับไปยังทางเข้า</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui4">
+			<DisplayName>ประลองกระบี่</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังลานชุมนุมเซียนบนเขาคุนหลุน ผู้ฝึกตนที่มีชื่อเสียงแต่ละคนจะแสดงความสามารถพิเศษเพื่อคว้าชัยชนะในฐานะผู้ฝึกฝนกระบี่ที่แข็งแกร่งที่สุด ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์เจ็ดวิถีกระบี่สังหาร</Desc>
+			<Selections.0.Display>เข้าร่วมการประลอง</Selections.0.Display>
+			<Selections.0.Tip>ทักษะอาวุธวิเศษ/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
+			<Selections.1.Display>เข้าร่วมการประลอง</Selections.1.Display>
+			<Selections.1.Tip>ทักษะอาวุธวิเศษ/ใช้โชค/ค่าสถานะโดยรวม</Selections.1.Tip>
+			<Selections.2.Display>ดูและเรียนรู้</Selections.2.Display>
+			<Selections.2.Tip>สติปัญญา/ใช้โชค</Selections.2.Tip>
+			<Selections.3.Display>กลับไปยังทางเข้า</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui5">
+			<DisplayName>ประลองปราณเวท</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังซากวิหารสิ้นสูญบนเขาคุนหลุน ผู้ฝึกตนที่มีชื่อเสียงแต่ละคนจะแสดงความสามารถพิเศษเพื่อคว้าชัยชนะในฐานะผู้ใช้ทักษะปราณเวทที่แข็งแกร่งที่สุด ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์เทพสะบั้นอารมณ์</Desc>
+			<Selections.0.Display>เข้าร่วมการประลอง</Selections.0.Display>
+			<Selections.0.Tip>ทักษะปราณเวท/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
+			<Selections.1.Display>เข้าร่วมการประลอง</Selections.1.Display>
+			<Selections.1.Tip>ทักษะปราณเวท/ใช้โชค/ค่าสถานะโดยรวม</Selections.1.Tip>
+			<Selections.2.Display>ดูและเรียนรู้</Selections.2.Display>
+			<Selections.2.Tip>สติปัญญา/ใช้โชค</Selections.2.Tip>
+			<Selections.3.Display>กลับไปยังทางเข้า</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_GuangShouMenTu">
+			<DisplayName>เทศกาลชะตาเซียน</DisplayName>
+			<Desc>ตอนนี้งานเทศกาลชะตาเซียนซึ่งจัดขึ้นทุกๆ ปีในโลกแห่งการฝึกตนได้เริ่มขึ้นแล้ว นิกายใหญ่ๆ ทั้งหมดต่างก็มาร่วมงานที่[PLACE] เพื่อรับสมัครรุ่นเยาว์ที่มีศักยภาพ ในช่วงเวลาเทศกาล เหล่าผู้มีความสามารถที่ปรารถนาและแสวงหาหนทางของการเป็นอมตะจะมารวมตัวกันที่นี่ [NAME] เองก็ได้เป็นตัวแทนสำนักมาเข้าร่วมเทศกาลชะตาเซียนเพื่อเฟ้นหาผู้ที่มีความสามารถเช่นกัน</Desc>
+			<Selections.0.Display>รับสมัครลูกศิษย์</Selections.0.Display>
+			<Selections.0.Tip>ชื่อเสียงสำนัก/พื้นฐานการฝึกตน/เสน่ห์/การเข้าสังคม</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_XieDiLing">
+			<DisplayName>สุสานจักรพรรดิอสูร</DisplayName>
+			<Desc>สุสานจักรพรรดิอสูรได้ถูกเปิดออกแล้ว เหล่าผู้ฝึกตนต่างก็พากันมาแสวงหาโชคที่นี่</Desc>
+			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan">
+			<DisplayName>เปิดหีบทองคำ</DisplayName>
+			<Desc>ยามเมื่อ [NAME] ได้มาถึงยังทะเลสาบศิลาหยก [ENHIM]ได้สังเกตุเห็นว่าน้ำในทะเลสาบกำลังเดือดพล่านด้วยแสงสีทองส่องประกาย เมื่อเวลาผ่านไปหลายชั่วโมง น้ำในทะเลสาบก็ได้ระเบิดกระจายไปทุกทิศทุกทางด้วยเสียงอันดังสนั่น ลำแสงจำนวนนับไม่ถ้วนโผล่ขึ้นมาจากน้ำและระเบิดพลังปราณอันมหาศาลออกมา และอะไรบางอย่างที่อยู่ในลำแสงเหล่านั่นก็ดูสะดุดตาเป็นอย่างมาก</Desc>
+			<Selections.0.Display>ไล่ตามกล่องหนังสือที่ถูกปิดผนึกด้วยยันต์อาคม</Selections.0.Display>
+			<Selections.0.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.0.Tip>
+			<Selections.1.Display>ไล่ตามอาวุธวิเศษทั้งห้าที่บินหมุนวนส่องประกายแสงเป็นเกลียว</Selections.1.Display>
+			<Selections.1.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.1.Tip>
+			<Selections.2.Display>ไล่ตามแหวนที่ส่องแสงที่ดำขาวกระจายออกมา</Selections.2.Display>
+			<Selections.2.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.2.Tip>
+			<Selections.3.Display>ไล่ตามโอสถหกเม็ดที่เปล่งประกายรัศมีสีม่วงออกมา</Selections.3.Display>
+			<Selections.3.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.3.Tip>
+			<Selections.4.Display>ไล่ตามเมฆสีดำที่แผ่ไอมารออกมา</Selections.4.Display>
+			<Selections.4.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.4.Tip>
+			<Selections.5.Display>จากไป</Selections.5.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan1">
+			<DisplayName>เปิดหีบทองคำ</DisplayName>
+			<Desc>ยามเมื่อ [NAME] ได้มาถึงยังทะเลสาบศิลาหยก [ENHIM]ได้สังเกตุเห็นว่าน้ำในทะเลสาบกำลังเดือดพล่านด้วยแสงสีทองส่องประกาย เมื่อเวลาผ่านไปหลายชั่วโมง น้ำในทะเลสาบก็ได้ระเบิดกระจายไปทุกทิศทุกทางด้วยเสียงอันดังสนั่น ลำแสงจำนวนนับไม่ถ้วนโผล่ขึ้นมาจากน้ำและระเบิดพลังปราณอันมหาศาลออกมา และอะไรบางอย่างที่อยู่ในลำแสงเหล่านั่นก็ดูสะดุดตาเป็นอย่างมาก</Desc>
+			<Selections.0.Display>ไล่ตามหีบหยกที่มีสัญลักษณ์หยินหยางปรากฏอยู่</Selections.0.Display>
+			<Selections.0.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.0.Tip>
+			<Selections.1.Display>ไล่ตามโอสถที่อยู่ในขั้นวิญญาณแรกก่อเกิด</Selections.1.Display>
+			<Selections.1.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.1.Tip>
+			<Selections.2.Display>ไล่ตามตำราวิชาลับบางอย่างที่ปล่อยไอมารออกมา</Selections.2.Display>
+			<Selections.2.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.2.Tip>
+			<Selections.3.Display>จากไป</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan2">
+			<DisplayName>เปิดหีบทองคำ</DisplayName>
+			<Desc>ยามเมื่อ [NAME] ได้มาถึงยังทะเลสาบศิลาหยก [ENHIM]ได้สังเกตุเห็นว่าน้ำในทะเลสาบกำลังเดือดพล่านด้วยแสงสีทองส่องประกาย เมื่อเวลาผ่านไปหลายชั่วโมง น้ำในทะเลสาบก็ได้ระเบิดกระจายไปทุกทิศทุกทางด้วยเสียงอันดังสนั่น ลำแสงจำนวนนับไม่ถ้วนโผล่ขึ้นมาจากน้ำและระเบิดพลังปราณอันมหาศาลออกมา และอะไรบางอย่างที่อยู่ในลำแสงเหล่านั่นก็ดูสะดุดตาเป็นอย่างมาก</Desc>
+			<Selections.0.Display>ไล่ตามหนังสือที่มีรัศมีศักดิ์สิทธิ์กระจายออกมา</Selections.0.Display>
+			<Selections.0.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.0.Tip>
+			<Selections.1.Display>ไล่ตามแท่งโลหะ 3 ชิ้นที่ปล่อยไอมารออกมา</Selections.1.Display>
+			<Selections.1.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.1.Tip>
+			<Selections.2.Display>ไล่ตามคัมภีร์โบราณ</Selections.2.Display>
+			<Selections.2.Tip>ความเร็วบิน \ ใช้โชค \ วิญญาณแรกก่อเกิด</Selections.2.Tip>
+			<Selections.3.Display>ไล่ตามเศษคัมภีร์ที่ลงผนึกแปลกๆ เอาไว้</Selections.3.Display>
+			<Selections.3.Tip>ความเร็วบิน</Selections.3.Tip>
+			<Selections.4.Display>จากไป</Selections.4.Display>
+		</Text>
+		<Text Name="Secrets_WuHeYouZhiXiang">
+			<DisplayName>ตำนานต่างโลก</DisplayName>
+			<Desc>[NAME] ได้มายังรอยแยกต่างมิติเพื่อพยายามตรวจสอบเส้นทางลึกลับที่นำไปสู่ดินแดนหายนะ</Desc>
+			<Selections.0.Display>สำรวจ</Selections.0.Display>
+			<Selections.0.Tip>เมล็ดเต๋า</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YingTianTai">
+			<DisplayName>ผู้มาเยือนจากต่างโลก</DisplayName>
+			<Desc>[NAME] ได้มายังรอยแยกต่างมิติเพื่อและพยายามตามหาผู้มาเยือนจากต่างโลกที่ถูกกล่าวถึงในตำนาน</Desc>
+			<Selections.0.Display>ค้นหา</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieChuanWen">
+			<DisplayName>ข่างลือจากต่างโลก</DisplayName>
+			<Desc>ข่าวลือล่าสุดที่ได้รับมาจากเมื่องทิวทัศน์สมุทรได้บอกว่ามีบริเวณทะเลที่ปกคลุมไปด้วยเมฆและหมอกหนาปรากฏขึ้นในทะเลลึกทางทิศเหนือ มันดูไม่ปกติและอันตรายเป็นอย่างมากเนื่องจากไม่เคยมีใครได้กลับออกมาหลังจากที่เข้าไปเลย ในการหาข้อมูลที่มากกว่านี้ [NAME] จึงตัดสินใจเดินทางไปยังเมืองทิวทัศน์สมุทรอีกครั้ง</Desc>
+			<Selections.0.Display>สอบถามข้อมูล</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi1">
+			<DisplayName>รอยแยกจากต่างโลก</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังจุดที่ถูกกล่าวถึงและตามที่คาดเอาไว้ ที่นี่มันมีรอยแตกของมิติอยู่อย่างมากมาย แต่ที่น่าประหลาดใจก็คือ กระแสที่แผ่ออกมาจากรอยแตกของมิติ ณ ที่แห่งนี้นั้นค่อนข้างเสถียรเป็นอย่างมาก แล [NAME] ยังสามารถสัมผัสได้ถึงบรรยากาศสุขสงบที่อยู่เบื้องหลังรอยแห่งมิติแห่งนี้ ซึ่งดูเหมือนว่ามันจะปลอดภัยมาก</Desc>
+			<Selections.0.Display>Try to ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi11">
+			<DisplayName>สำรวจต่างโลก</DisplayName>
+			<Desc>หลังจากที่ตกตะลึงอยู่เล็กน้อย [NAME] ได้พบว่าวิญญาณก่อเกิดของ[ENHIM]ได้แยกออกจากร่างชั่วคราวและได้ลอยเข้าไปในรอยแยกแห่งมิติที่อยู่ข้างหน้าหลังจากที่ตรวจสอบ [NAME] พบว่าอาณาจักรที่แปลกประหลาดแห่งนี้นั้นปราศจากพลังปราณ และวิญญาณก่อเกิดของ[ENHIM]สามารถกลับมายังร่างกายของ[ENHIM]ได้ตลอดเวลา เมื่อรู้สึกโล่งใจ [NAME] จึงตัดสินใจออกสำรวจอาณาจักรที่แปลกประหลาดแห่งนี้</Desc>
+			<Selections.0.Display>ดูไปรอบๆ</Selections.0.Display>
+			<Selections.1.Display>ออกผจญภัย</Selections.1.Display>
+			<Selections.2.Display>Made great gains</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi21">
+			<DisplayName>สำรวจต่างโลก</DisplayName>
+			<Desc>หลังจากที่ตกตะลึงอยู่เล็กน้อย [NAME] ได้พบว่าวิญญาณก่อเกิดของ[ENHIM]ได้แยกออกจากร่างชั่วคราวและได้ลอยเข้าไปในรอยแยกแห่งมิติที่อยู่ข้างหน้าหลังจากที่ตรวจสอบ [NAME] พบว่าอาณาจักรที่แปลกประหลาดแห่งนี้นั้นปราศจากพลังปราณ และวิญญาณก่อเกิดของ[ENHIM]สามารถกลับมายังร่างกายของ[ENHIM]ได้ตลอดเวลา เมื่อรู้สึกโล่งใจ [NAME] จึงตัดสินใจออกสำรวจอาณาจักรที่แปลกประหลาดแห่งนี้</Desc>
+			<Selections.0.Display>ดูไปรอบๆ</Selections.0.Display>
+			<Selections.1.Display>สำรวจ</Selections.1.Display>
+			<Selections.2.Display>ตรวจสอบประวัติศาสตร์</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong">
+			<DisplayName>ร่องรอยของนักพนัน</DisplayName>
+			<Desc>หลังจากที่สอบถามชาวบ้านรอบๆ นี้ ในที่สุด [NAME] ก็ได้พบกับบ้านของเย่ซวนนักพนัน</Desc>
+			<Selections.0.Display>เล่นเกมส์กับเขา</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong1">
+			<DisplayName>เกมส์แห่งชีวิตและความตาย</DisplayName>
+			<Desc>เย่ซวนตกลงที่จะเล่นเกมส์กับ [NAME] โดยมีกฎง่ายๆ ดังนี้: ผู้เล่นแต่ละคนผลัดกันดึงฟาง 2 เส้นจากฟางทั้ง 5 เส้นที่มีความยาวต่างกัน ซึ่งฟางแต่ละอันจะมีตัวเลขตั้งแต่ 1~5 จากนั้นผู้เล่นจะต้องรวมตัวเลขในมือและเดาความแตกต่างระหว่างตัวเลขของฝ่ายตรงข้าม โดยใช้ความยาวของฟางเป็นตัวใบ้ ผู้ใดที่ทายได้ใกล้เคียงที่สุดก็จะเป็นฝ่ายชนะ หาก [NAME] ชนะ [ENHIM]สามารถเดินกลับออกไปพร้อมกับสมบัติได้ แต่ถ้าหากแพ้ [ENHIM]จะต้องมอบอายุไขเป็นเวลา 50 ปีเป็นการตอบแทน</Desc>
+			<Selections.0.Display>รับการเดิมพัน</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong2">
+			<DisplayName>เกมส์แห่งชีวิตและความตาย</DisplayName>
+			<Desc>เย่ซวนตกลงที่จะเล่นเกมส์กับ [NAME] โดยมีกฎง่ายๆ ดังนี้: ผู้เล่นแต่ละคนผลัดกันดึงฟาง 2 เส้นจากฟางทั้ง 5 เส้นที่มีความยาวต่างกัน ซึ่งฟางแต่ละอันจะมีตัวเลขตั้งแต่ 1~5 จากนั้นผู้เล่นจะต้องรวมตัวเลขในมือและเดาความแตกต่างระหว่างตัวเลขของฝ่ายตรงข้าม โดยใช้ความยาวของฟางเป็นตัวใบ้ ผู้ใดที่ทายได้ใกล้เคียงที่สุดก็จะเป็นฝ่ายชนะ หาก [NAME] ชนะ [ENHIM]สามารถเดินกลับออกไปพร้อมกับสมบัติได้ แต่ถ้าหากแพ้ [ENHIM]จะต้องมอบอายุไขเป็นเวลา 50 ปีเป็นการตอบแทน</Desc>
+			<Selections.0.Display>ศูนย์</Selections.0.Display>
+			<Selections.1.Display>หนึ่ง</Selections.1.Display>
+			<Selections.2.Display>สอง</Selections.2.Display>
+			<Selections.3.Display>สาม</Selections.3.Display>
+			<Selections.4.Display>สี่</Selections.4.Display>
+			<Selections.5.Display>ห้า</Selections.5.Display>
+			<Selections.6.Display>หก</Selections.6.Display>
+		</Text>
+		<Text Name="Secrets_TianJi">
+			<DisplayName>ยันต์สวรรค์บรรพกาล</DisplayName>
+			<Desc>ท่ามกลางความประหลาดใจของ [NAME] ถึงแม้ว่าจะมีบางส่วนที่ขาดหายไป แต่[ENHIM]พบว่ามันมีลวดลายประหลาดบางอย่างี่ตรงปากถ้ำที่คล้ายๆ กับตราสัญลักษณ์ของปรมาจารย์สวรรค์ที่ถูกบันทึกไว้ในคัมภีร์วิถีเซียน บางที่สถานที่แห่งนี้อาจจะมีความเกี่ยวข้องบางอย่างกับปรมาจารย์สวรรค์ผู้ที่หายสาบสูญไปก็ได้?</Desc>
+			<Selections.0.Display>พยามยามปลดผนึก</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TianJi1">
+			<DisplayName>ถ้ำชีพจรมังกรปริศนา</DisplayName>
+			<Desc>เมื่อหมอกจางลง [NAME] ก็พบว่าตัวเองอยู่ในถ้ำที่มีสัญลักษณ์แปลก ๆ ขนาดใหญ่สลักอยู่บนผนังถ้ำ เมื่อมองไปรอบๆ [ENHIM]พบว่ามีร่างของชายคนหนึ่งที่มีผมและเคราสีขาวเงินนั่งขัดสมาธิอยู่ตรงกลางถ้ำแห่งนี้ อีกทั้งเขาผู้นี้ยังมีใบหน้าที่คมราวกับว่ามันถูกแกะสลักด้วยมีดอย่างปราณีต ข้างหน้าชายผู้นี้ปรากฏแท่นหินธรรมชาติแท่งหนึ่งที่มีอัญมณีหยกที่ไม่ทราบที่มาฝังอยู่ หลังจากที่สำรวจอย่างระมัดระวัง [NAME] ได้พบว่าร่างที่อยู่ตรงหน้านี้นั้นเป็นเพียงร่างที่ไร้วิญญาณเท่านั้น กลายเป็นว่าแท้จริงแล้วนี่ก็คือกายเนื้อของเซียนอมตะผู้หนึ่ง หนังสือที่อยู่ในมือชายชรานั้นมีตัวอักษร "ท่วงทำนองแห่งขุนเชาและสายน้ำ" เขียนอยู่บนปกของหนังสือ</Desc>
+			<Selections.0.Display>ตรวจสอบผนังถ้ำ</Selections.0.Display>
+			<Selections.0.Tip>ค่าสถานะโดยรวม/งานฝีมือ/สติปัญญา</Selections.0.Tip>
+			<Selections.1.Display>ตรวจสอบร่างของชายชรา</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TianJi2">
+			<DisplayName>ปรมาจารย์สวรรค์</DisplayName>
+			<Desc>นี่เป็นการผจญภัยที่คุ้มค่าเป็นอย่างยิ่ง ว่าแต่ควรจะจัดการกับร่างปรมาจารย์สวรรค์อย่างไรดี?</Desc>
+			<Selections.0.Display>นำกลับไปยังสำนัก</Selections.0.Display>
+			<Selections.1.Display>คืนร่างให้แก่วังเหนือนภา</Selections.1.Display>
+			<Selections.2.Display>ปล่อยทิ้งไว้ที่เดิม</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_TianJi3">
+			<DisplayName>กลับบ้าน</DisplayName>
+			<Desc>[NAME] ได้มอบกายเนื้อของปรมาจารย์สวรรค์คืนให้แก่วังเหนือนภา ทั่วทั้งวังเหนือนภารู้ศึกปิติยินดีเป็นอย่างมาก ใบหน้าของเหล่าศิษย์แห่งวังเหนือเหนือนภาต่างเต็มไปด้วยร่องรอยของความสุข</Desc>
+			<Selections.0.Display>คืนร่างให้แก่วังเหนือนภา</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_SuoYingTuJuan">
+			<DisplayName>ม้วนภาพหมื่นสรรพสิ่ง</DisplayName>
+			<Desc>หลังจากที่ [NAME] ได้มาถึงภูเขาผิงติง [ENHIM]ได้พบว่ามีกลุ่มคนมากมายที่กำลังค้นหาสมบัติศักดิ์สิทธิ์อยู่</Desc>
+			<Selections.0.Display>สมบัติศักดิ์สิทธิ์</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_BanBenKaiQi3">
+			<DisplayName>เซียนฟื้นตื่น</DisplayName>
+			<Desc>ผ่านไปหลายวันแล้วที่การระเบิดของปราณอันมหาศาลได้แพร่กระจายไปทั่วทั้งอาณาจักร หลังจากที่ได้ศึกษาบันทึกโบราณ สำนักใหญ่ๆ จึงพากันสรุปว่าปรากฏการณ์นี้คือปรากฏการณ์มหาคลื่นลมปราณที่จะปรากฏทุกๆ 3000 ปี เหล่าผู้ฝึกฝนโบราณที่เคยหลับใหลด้วยเหตุผลหลายประการ ต่างก็เริ่มฟื้นตื่นขึ้นมาทีละคนด้วยกระแสปราณพันปีนี้\nต่างจากผู้ฝึกตนในปัจจุบันที่อยู่กันด้วยกฏระเบียบ ผู้ฝึกตนโบราณนั้นเชื่อในกฏแห่งพลังและผู้ชนะย่อมได้ทุกสิ่ง ภายในระยะเวลาเพียงไม่กี่วันผู้ฝึกตนโบราณเหล่านี้ได้เริ่มปฏิบัติตามวิถีของตนและได้สร้างความโกลาหลวุ่นวายเป็นอย่างมาก...</Desc>
+			<Selections.0.Display>เซียนฟื้นตื่น</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_BossLong">
+			<DisplayName>ร่องรอยของมังกรวารี</DisplayName>
+			<Desc>[NAME] ได้มาถึงยัง[PLACE] และสัมผัสได้ถึงร่องรอยของมังกรวารี</Desc>
+			<Selections.0.Display>ยั่วยุมังกรน้ำให้ปรากฏ</Selections.0.Display>
+			<Selections.0.Tip>บินด้วยความเร็วสูง</Selections.0.Tip>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_BossFeng">
+			<DisplayName>ร่องรอยของหงส์เพลิง</DisplayName>
+			<Desc>[NAME] ได้มาถึงยัง[PLACE] และสัมผัสได้ถึงร่องรอยของหงส์เพลิง</Desc>
+			<Selections.0.Display>ยัวยุหงส์เพลิงให้ปรากฏ</Selections.0.Display>
+			<Selections.0.Tip>บินด้วยความเร็วสูง</Selections.0.Tip>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_BossZhuLong">
+			<DisplayName>ปราณแห่งหยินหยาง</DisplayName>
+			<Desc>[NAME] ได้มาถึงยัง[PLACE] และสัมผัสได้ถึงร่องรอยของความสมดุลของหยินและหยางที่ถูกรบกวน</Desc>
+			<Selections.0.Display>ชักนำปราณแห่งหยินหยาง</Selections.0.Display>
+			<Selections.0.Tip>ความเร็วบินผจญภัย</Selections.0.Tip>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_danengtest">
+			<DisplayName>เซียนฟื้นตื่น</DisplayName>
+			<Desc>นับตั้งแต่เริ่มต้นของกระแสปราณพันปี ผู้ฝึกตนโบราณได้ปรากฏขึ้นทั่วทุกแห่ง รวบรวมข้อมูลให้ได้มากที่สุด เหล่าเซียนหลายคนที่ได้ปรากฏตัวขึ้นมาบนโลกนี้อีกครั้งแล้ว</Desc>
+			<Selections.0.Display>เซียนฟื้นตื่น</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_DaNengChuShi">
+			<DisplayName>ร่องรอยของผู้ฝึกตนโบราณ</DisplayName>
+			<Desc>[NAME] ได้มายัง[PLACE] เพื่อค้นหาเบาะแสของผู้ฝึกตนโบราณ</Desc>
+			<Selections.0.Display>ค้นหาผู้ฝึกตนโบราณ</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DaNengChuShi1">
+			<DisplayName>ร่องรอยของผู้ฝึกตนโบราณ</DisplayName>
+			<Desc>หลังจากที่สอบถามข้อมูลจากที่ต่างๆ ในที่สุด [NAME] ก้ได้พบกับผู้ฝึกตนโบราณ</Desc>
+			<Selections.0.Display>สังเกตการณ์</Selections.0.Display>
+			<Selections.1.Display>เจรจา</Selections.1.Display>
+			<Selections.1.Tip>เสน่ห์/ค่าสถานะโดยรวม</Selections.1.Tip>
+			<Selections.2.Display>ถ้ำลึกลับ</Selections.2.Display>
+			<Selections.3.Display>ยั่วยุ</Selections.3.Display>
+			<Selections.3.Tip>ความเร็วบินผจญภัย</Selections.3.Tip>
+			<Selections.4.Display>จากไป</Selections.4.Display>
+		</Text>
+		<Text Name="Story_Building_SwordTower">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งอยู่หน้าเจดีย์และพยายามสื่อสารกับเจดีย์ด้วยการรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_HenZhiBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_LongZhiBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TongLing">
+			<DisplayName>ร่องรอยของสหายเก่า</DisplayName>
+			<Desc>[NAME] ได้มาถึงยังภูเขาถงหลิงและใช้สัมผัสปราณเพื่อค้นหา [ENHIM]พบว่าชายแปลกๆ คนนั้นกำลังนอนอยู่ในเหมืองร้าง... และแท้จริงแล้วกลายเป็นว่าชายคนนั้นก็คือผู้อาวุโสเจ็ดนั่นเอง!</Desc>
+			<Selections.0.Display>ทักทายเขา</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Building_ShouZhiBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_ShouZhiBeiQian">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] ใช้การรับรู้เพื่อพยายามสื่อสารกับศพ</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_WinterSummer">
+			<DisplayName>เก็บเกี่ยว</DisplayName>
+			<Desc>[NAME] ค่อยหยิบหนอนหิมะอัคคีขึ้นมา</Desc>
+			<Selections.0.Display>เก็บเกี่ยว</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_JiZhiBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_HuanZhiBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Jin">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Mu">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Shui">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Huo">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Tu">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_ShiXiong">
+			<DisplayName>ค้นหา</DisplayName>
+			<Desc>คนๆ นี้ก็คือผู้อาวุโสเจ็ด ดูเหมือนว่าก่อนตายเขาต้องทนทุกข์ทรมานเป็นอย่างมาก [NAME] ได้โค้งคำนับและค้นศพของผู้อาวุโสเจ็ด</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZhongBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_XingBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_LingBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_MuBei">
+			<DisplayName>ตอบโต้</DisplayName>
+			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Selections.0.Display>ตอบโต้</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_TaiYi">
+			<DisplayName>ทำความเคารพสำนัก</DisplayName>
+			<Desc>[NAME] ได้คุกเข่าลงต่อหน้าประตูภูเขาไท้อี้ และความทรงจำของเหตุการณ์ในอดีตก็ผุดขึ้นมาภายในใจของ[ENHIM]</Desc>
+		</Text>
+		<Text Name="Story_Building_NoLight">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] รู้สึกแปลกใจที่โคมไฟนี้ไม่ถูกจุด [ENHIM]นั่งลงเพื่อตรวจสอบและพบบางอย่างเกี่ยวกับทิวทัศน์</Desc>
+		</Text>
+		<Text Name="Story_Building_FireLantern">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] พบว่ามันแปลก ทำไมโคมถึงทำด้วยแท่งแกนอัคคี? เมื่อมองอย่างระมัดระวัง [ENHIM]พบว่าบริเวณโดยรอบดูเหมือนจะไม่ใช่หอพักของคนงานเหมืองอีกต่อไป</Desc>
+		</Text>
+		<Text Name="Story_Building_GolemLantern">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] รู้สึกแปลกๆ หรือที่นี้จะมีเสาโคมไฟที่ทำจากหินศักดิ์สิทธิ์มาก่อนไหม? หลังจากเข้าไปแล้ว[ENHIM]ก็รู้สึกถึงายลมเย็นและไม่รู้สึกร้อนอีกต่อไป</Desc>
+		</Text>
+		<Text Name="Story_Building_OddLantern">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] รู้สึกแปลกๆ นี่คือตำแหน่งที่เหมาะสมสำหรับตะเกียงนี้งั้นหรือ? หรือว่าพวกเขาพยายามทำให้มันอยู่ในตำแหน่งนี้ ทันใดนั้น จู่ๆ ก็ดูเหมือนตะเกียงก็ส่งเสียงอะรบางอย่างออกมาและสภาพแวดล้อมก็ดูเปลี่ยนไป</Desc>
+		</Text>
+		<Text Name="Story_Item_OpenAuction">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>[NAME] เปิดจดหมายเชิญ: \nคารวะท่านเซียน ข้าได้รับสมบัติมามากมายจากทั่วทุกมุมโลก และท่านได้รับเชิญให้เข้าชมของสะสมของข้า หรือถ้าหากท่านต้องการละก็ ท่านก็สามารถซื้อพวกมันกลับไปได้โดยมีกฎที่ง่ายมาก: ใครก็ตามที่สามารถมอบหินวิญญาณออกมาไปมากที่สุด คนผู้นั้นก็จะได้ของชิ้นนั้นไป! \n\nขอให้ท่านพบเจอแต่ความสุข\nลงนาม: เย่ซวน</Desc>
+		</Text>
+		<Text Name="Story_Building_TaiYiTower">
+			<DisplayName>พิธีรำลึก</DisplayName>
+			<Desc>[NAME] ได้รำลึกถึงความทรงจำอยู่ใต้หอคอยอย่างเงียบๆ แต่ทันใดนั้น [ENHIM]ก็รู้สึกว่าบางสิ่งใต้หอคอยนั้นดูเหมือนจะสอดคล้องกับกฎแห่งความเป็นหนึ่งบนร่างกายของเขา การตอบสนองนี้มันเบาบางมากและแทบจะตรวจจับไม่ได้ ความรู้สึกนี้มันคล้ายกับปราณของสำนักไท้อี้</Desc>
+			<Selections.0.Display>ค้นหา</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_UnlockTiXiu">
+			<DisplayName>จารึกผามังกร</DisplayName>
+			<Desc>เมื่อ [NAME] ได้มาถึง [ENHIM]ก็เจอกับภูเขาหินสีแดงเข้มที่ทอดยาวไปถึงท้องฟ้าในส่วนลึกของทะเลทราย ด้านนั้นมันสูงชันและราบเรียบราวกับถูกตัดโดยมีดและขวาน ที่ผาหินแห่งนี้มีข้อความที่สลับซับซ้อนได้ถูกสลักเอาไว้เป็นจำนวนนับไม่ถ้วนที่วนเวียนและเปลี่ยนแปลงไปมา มันคือตำนานของจารึกผาแห่งมังกร ดินแดนศักดิ์สิทธิ์ของเผ่าอสูรโบราณ</Desc>
+			<Selections.0.Display>ทำสมาธิและศึกษารอยจารึก</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Esoterica_QuQiJue">
+			<DisplayName>ร่องรอยปรมาจารย์โอสถ</DisplayName>
+			<Desc>ในที่สุด [NAME] ก็ได้เดินทางมาถึงสถานที่ตามข่าวลือในภูเขาจันทร์เพ็ญ หลังจากค้นหาอย่างละเอียด [ENHIM]ก็พบกองดินเล็กๆ ที่ถูกปกคลุมด้วยพืชสมุนไพรจำนวนมาก</Desc>
+			<Selections.0.Display>ค้นหา</Selections.0.Display>
+			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<DisplayName>ฮัวเจี๋ยน</DisplayName>
+			<Desc>สุนัขสวรรค์ฮัวเจี๋ยนเป็นสัตว์อสูรวิญญาณที่เกิดจากพลังแห่งสวรรค์และโลก มันเป็นตัวแทนถึงกฎเกณฑ์บางประการของธรรมชาติ</Desc>
+			<TalkBefore>โฮ่ง โฮ่ง</TalkBefore>
+			<TalkAfter> โฮ่ง!</TalkAfter>
+		</Text>
+		<Text Name="LsFox">
+			<DisplayName>ฉิงมู่เสวีย</DisplayName>
+			<Desc>จิ้งจอกวิญญาณฉิงมู่เสวียเป็นสัตว์อสูรวิญญาณที่เกิดจากพลังแห่งสวรรค์และโลก มันเป็นตัวแทนถึงกฎเกณฑ์บางประการของธรรมชาติ</Desc>
+			<TalkBefore>บลู๊ว</TalkBefore>
+			<TalkAfter> บลู๊ว!</TalkAfter>
+		</Text>
+		<Text Name="LsDragon">
+			<DisplayName>ฉางไห่</DisplayName>
+			<Desc>มังกรฟ้าฉางไห่เป็นสัตว์อสูรวิญญาณที่เกิดจากพลังแห่งสวรรค์และโลก มันเป็นตัวแทนถึงกฎเกณฑ์บางประการของธรรมชาติ</Desc>
+			<TalkBefore>โฮกกกก</TalkBefore>
+			<TalkAfter> โฮก!</TalkAfter>
+		</Text>
+		<Text Name="LsPhoenix">
+			<DisplayName>อี้หมิง</DisplayName>
+			<Desc>หงส์นิลกาลอี้หมิงเป็นสัตว์อสูรวิญญาณที่เกิดจากพลังแห่งสวรรค์และโลก มันเป็นตัวแทนถึงกฎเกณฑ์บางประการของธรรมชาติ</Desc>
+			<TalkBefore>จิ๊บ จิ๊บ</TalkBefore>
+			<TalkAfter> จิ๊บ!</TalkAfter>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,40 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Wall" sParam="Building">
+			<ThingName>กำแพง</ThingName>
+			<Desc>โครงสร้างพื้นฐานที่ใช้สร้างห้องปิด ขนาดห้องต้องอยู่ภายใน 3-400 ช่อง</Desc>
+		</Text>
+		<Text Name="Barrier2" sParam="Building">
+			<ThingName>รั้ว</ThingName>
+			<Desc>ราวหินหรือราวโลหะธรรมดาที่ใช้แยกส่วนต่างๆ ไม่สามารถสร้างเป็นห้องได้</Desc>
+		</Text>
+		<Text Name="Barrier" sParam="Building">
+			<ThingName>รั้ว</ThingName>
+			<Desc>ราวไม้ธรรมดาที่ใช้แยกส่วนต่างๆ ไม่สามารถสร้างเป็นห้องได้</Desc>
+		</Text>
+		<Text Name="Door" sParam="Building">
+			<ThingName>ประตู</ThingName>
+			<Desc>โครงสร้างพื้นฐานที่ใช้ในการเข้าหรือออกจากห้อง\n(ประตูที่วางติดกันและหันไปทางเดียวกันจะถือว่าเป็นประตูเดียวกัน)</Desc>
+		</Text>
+		<Text Name="Door_SpringFestival" sParam="Building">
+			<ThingName>ประตู</ThingName>
+			<Desc>โครงสร้างพื้นฐานที่ใช้ในการเข้าหรือออกจากห้อง มันมีอักขระแห่งโชคลาภเขียนไว้ที่ประตูเพื่อความโชคดี\n(ประตูที่วางติดกันและหันไปทางเดียวกันจะถือว่าเป็นประตูเดียวกัน)</Desc>
+		</Text>
+		<Text Name="Door_WanYao" sParam="Building">
+			<ThingName>ประตู</ThingName>
+			<Desc>โครงสร้างพื้นฐานที่ใช้ในการเข้าหรือออกจากห้อง มันถูกแกะสลักและประดับด้วยศีรษะของสัตว์ร้าย\n(ประตูที่วางติดกันและหันไปทางเดียวกันจะถือว่าเป็นประตูเดียวกัน)</Desc>
+		</Text>
+		<Text Name="Firecracker" sParam="Building">
+			<ThingName>ดอกไม้ไฟ (มังกร)</ThingName>
+			<Desc>สามารถนำความสุขมาสู่ผู้คนได้ เมื่อมันถูกจุด ดอกไม้ไฟอื่นๆ ทั้งหมดภายในสามตารางจะถูกจุดไฟพร้อมๆ กัน ว่ากันว่าสิ่งมหัศจรรย์จะเกิดขึ้นเมื่อมีการจุดดอกไม้ไฟ 9 ดอกพร้อมกันภายใต้ท้องฟ้าที่เต็มไปด้วยดวงดาว</Desc>
+		</Text>
+		<Text Name="HideDoor" sParam="Building">
+			<ThingName>ทางเข้า</ThingName>
+			<Desc>มองเห็นได้เฉพาะในการแก้ไข</Desc>
+		</Text>
+		<Text Name="AirWall" sParam="Building">
+			<ThingName>กำแพงอากาศ</ThingName>
+			<Desc>มองเห็นได้เฉพาะในการแก้ไข</Desc>
+		</Text>
+	</List>
+</Texts>

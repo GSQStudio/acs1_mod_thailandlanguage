@@ -1,0 +1,464 @@
+talk	notarget	int	string	float	thing
+NotEatShit	ข้าจะไม่กินอุจจาระ				
+NotEatEssence	ข้าจะไม่กินแร่หายาก เว้นแต่พวกเขาจะป้อนให้ข้า				
+NotEatDrug	ข้าจะไม่กินยาวิเศษนอกเสียจากว่าชีวิตข้าขึ้นอยู่กับมัน เว้นแต่พวกเขาจะป้อนให้ข้า				
+NotEatWheat	ข้าจะกินข้าวสาลีก็ต่อเมื่อข้าหิว				
+NotEatDryMeat	ข้าจะไม่กินเนื้อแห้ง				
+NotEatPear	อะไรคือ "ลูกแพร์"? ข้ากินมันได้หรือไม่				
+NotEatMeat	เนื้อดิบมันน่าขยะแขยงมาก ข้าจะกินมันก็ต่อเมื่อชีวิตของข้าขึ้นอยู่กับมัน				
+NotEatCook	ไม่มีอาหารชนิดไหนที่อยากกินน้อยไปกว่าอาหารปรุงสุก				
+NotBiteBuilding	ข้าไม่ต้องการโจมตีสิ่งปลูกสร้าง				
+NotBiteClothes	ข้าจะไม่เล่นกับเสื้อผ้า				
+NotBiteOuter	ข้าจะไม่โจมตีศิษย์สายนอก				
+NotBiteInner	ข้าจะไม่โจมตีศิษย์สายใน				
+NotBiteVisitor	ข้าจะไม่โจมตีแขกผู้มาเยือน				
+NotBiteIncoming	ข้าจะไม่โจมตีคนธรรมดาที่ผ่านมา				
+NotAtkEnemy	ข้าจะไม่เข้าไปโจมตีศัตรู นอกเสียจากว่าพวกมันจะโจมตีข้าก่อน				
+NotShitAtShitPlace	ข้าจะไม่ขับถ่ายที่จุดขับถ่าย				
+NotShitAtPlants	ข้าจะไม่ขับถ่ายบนพืช				
+NotShitAtDogHouse	ข้าจะไม่ขับถ่ายบนเตียงนอนของข้า				
+NotShitAtStorage	ข้าจะไม่ขับถ่ายในพื้นที่เก็บของ				
+NotShitOnBed	ข้าจะไม่ขับถ่ายบนเตียงนอน				
+NotShitInFarm	ข้าจะไม่ขับถ่ายในพื้นที่การเกษตร				
+NotCarryOuterToBed	ข้าจะไม่เคลื่อนย้ายศิษยที่สลบไปยังเตียง				
+NotCarryVisitorToDest	ข้าจะไม่เคลื่อนย้ายแขกผู้มาเยือนที่สลบไปยังจุดที่กำหนด				
+NotCarryEnemyToDest	ข้าจะไม่เคลื่อนย้ายศัตรูที่สลบไปยังจุดที่กำหนด				
+NotCarryIncomingToDest	ข้าจะไม่เคลื่อนย้ายคนธรรมดาที่สลบไปยังจุดที่กำหนด				
+NotCarryEnemyBodyToDest	ข้าจะไม่เคลื่อนย้ายศพของศัตรูไปยังจุดที่กำหนด				
+NotCarryVisitorBodyToDest	ข้าจะไม่เคลื่อนย้ายศพของแขกผู้มาเยือนไปยังจุดที่กำหนด				
+NotCarryIncomingBodyToDest	ข้าจะไม่เคลื่อนย้ายศพของคนธรรมดาไปยังจุดที่กำหนด				
+NotHelpCarry	ข้าจะไม่ช่วยเคลื่อนย้ายสิ่งของ				
+NotHelpTimber	ข้าจะไม่ช่วยตัดไม้				
+NotHelpMine	ข้าจะไม่ช่วยขุดแร่				
+NotHelpFind	ข้าจะไม่ช่วยค้นหาสิ่งของ				
+NotHelpKill	ข้าจะไม่ช่วยล่าสัตว์				
+NotHelpPlant	ข้าจะไม่ช่วยใส่ปุ๋ยพืช				
+NotCureFreeze	ข้าจะไม่ช่วยรักษาน้ำแข็งกัด				
+NotCureHot	ข้าจะไม่ช่วยรักษาไข้แดด				
+NotHelpCook	ข้าจะไม่ช่วยทำอาหาร				
+NotHeatEndure	ข้าจะไม่ช่วยเพิ่มความต้านทานความร้อน				
+NotColdEndure	ข้าจะไม่ช่วยเพิ่มความต้านทานความเย็น				
+NotHelpPlay	ข้าจะไม่เล่นกับศิษย์ในสำนัก				
+NotPlayToy	ข้าจะไม่เล่นกับของเล่น				
+NotTrainQiGan	ข้าจะไม่ฝึกฝนปราณ				
+NotTrainNeiDan	ข้าจะไม่ฝึกฝนแก่นอสูร				
+NotTrainHuTi	ข้าจะไม่ฝึกฝนเกราะปราณ				
+NotTrainLingZhi	ข้าจะไม่ฝึกฝนสติปัญญา				
+NotTrainShuFa	ข้าจะไม่ฝึกฝนปราณเวท				
+WannaEatShit					{0} นี่อร่อยมั้ย?
+WannaEatEssence					{0} นี้ทำให้ข้าน้ำลายสอ
+WannaEatDrug					ข้าต้องการกินยาวิเศษ
+WannaEatWheat					{0} นี้ดูน่าอร่อย
+WannaEatDryMeat					ข้าไม่สามารถต้านทานกลิ่นของ {0} ได้
+WannaEatPear					ทนไม่ไหวแล้ว ข้าอยากกิน{0}
+WannaEatMeat					ข้าจะไปกิน {0}
+WannaEatCook					ข้าอยากกิน{0}
+WannaBiteBuilding					{0} ข้าอดทนกับเจ้ามานานเกินไปแล้ว
+WannaBiteClothes					{0} นี้จะต้องดีมากสำหรับการขัดฟัน
+WannaBiteOuter					ข้าสงสัยว่าศิษย์สายนอก {0} จะมีรสชาติอย่างไร?
+WannaBiteInner					ได้เวลาแสดพลังที่แท้จริงของข้าให้ศิษย์สายใน {0}
+WannaBiteVisitor					แขกผู้มาเยือน {0} ดูเหมือนจะเป็นเป้าที่ดีในการฝึกปราณเวท
+WannaBiteIncoming					ผู้มาเยือน {0} ดูเหมือนจะเป็นเป้าที่ดีในการฝึกปราณเวท
+WannaAtkEnemy					{0} วันตายของเจ้ามาถึงแล้ว
+WannaShitAtShitPlace					ข้าต้องการขับถ่ายในจุดขับถ่าย
+WannaShitAtPlants					ข้าต้องการขับถ่ายบนพืช
+WannaShitAtDogHouse					ข้าต้องการขับถ่ายบนเตียง
+WannaShitAtStorage					อุจจาระของข้าเป็นสมบัติล้ำค่า พื้นที่เก็บของที่สถานที่ที่ดีในการเก็บพวกมัน
+WannaShitOnBed					มันน่าสนใจที่จะถ่ายอุจจาระบนเตียงนอน
+WannaShitInFarm					การถ่ายอุจจาระในพื้นเกษตรคงจะเพิ่มปุ๋ยให้พวกมัน
+WannaCarryOuterToBed					ข้าควรช่วย {0} ที่สลบไป
+WannaCarryVisitorToDest					ข้าต้องการแบกแขกผู้มาเยือนที่สลบ {0} ไปยังจุดที่กำหนด
+WannaCarryEnemyToDest					ข้าต้องการแบกศัตรูที่สลบ {0} ไปยังจุดที่กำหนด
+WannaCarryIncomingToDest					ข้าต้องการแบกผู้มาเยือนที่สลบ {0} ไปยังจุดที่กำหนด
+WannaCarryEnemyBodyToDest					ข้าต้องการแบกศพศัตรู {0} ไปยังจุดที่กำหนด
+WannaCarryVisitorBodyToDest					ข้าต้องการแบกศพแขกผู้มาเยือน {0} ไปยังจุดที่กำหนด
+WannaCarryIncomingBodyToDest					ข้าต้องการแบกศพผู้มาเยือน {0} ไปยังจุดที่กำหนด
+WannaHelpCarry	ข้าต้องการช่วยจัดเรียงสิ่งของ				
+WannaHelpTimber	เห็นทีต้องโค่นต้นไม้ ให้ข้าช่วยเถอะ				เห็นทีต้องโค่นต้นไม้ ให้ข้าช่วยเถอะ
+WannaHelpMine	หินแร่นี้ดูล้ำค่านัก เจ้าเอาไปเถอะ!				หินแร่นี้ดูล้ำค่านัก เจ้าเอาไปเถอะ!
+WannaHelpFind	ไหนให้ข้าดูหน่อยว่าในตัวเจ้าผู้นี้มีอะไรบ้าง				ไหนให้ข้าดูหน่อยว่าในตัวเจ้าผู้นี้มีอะไรบ้าง
+WannaHelpKill	ศพนั้นไม่ควรปล่อยให้เน่าเปื่อย ข้าช่วยเอง				ศพนั้นไม่ควรปล่อยให้เน่าเปื่อย ข้าช่วยเอง
+WannaHelpPlant	พืชในทุ่งดูมีประโยชน์ ข้าจะช่วยใส่ปุ๋ยให้				พืชในทุ่งดูมีประโยชน์ ข้าจะช่วยใส่ปุ๋ยให้
+WannaCureFreeze	อาการน้ำแข็งกัดของ {0} ดูร้ายแรงมาก ข้าจะช่วยรักษาให้				อาการน้ำแข็งกัดของ {0} ดูร้ายแรงมาก ข้าจะช่วยรักษาให้
+WannaCureHot	อาการไข้แดดของ {0} ดูรุนแรงมาก ข้าจะช่วยรักษาให้				อาการไข้แดดของ {0} ดูรุนแรงมาก ข้าจะช่วยรักษาให้
+WannaHeatEndure	ข้าต้องการช่วยเพิ่มความต้านทานความร้อน				ข้าต้องการช่วยเพิ่มความต้านทานความร้อน
+WannaColdEndure	ข้าต้องการช่วยเพิ่มความต้านทานความเย็น				ข้าต้องการช่วยเพิ่มความต้านทานความเย็น
+WannaHelpPlay	ดูเหมือนว่า {0} จะอารมณ์ไม่ดีเท่าไร				ดูเหมือนว่า {0} จะอารมณ์ไม่ดีเท่าไร
+WannaPlayToy	ข้าต้องการเล่นกับ {0} ให้นานๆ เลย				ข้าต้องการเล่นกับ {0} ให้นานๆ เลย
+DoTalkEatShit					ในตอนนี้ข้ากำลังกิน{0}อยู่
+DoTalkEatEssence					ในตอนนี้ข้ากำลังกิน{0}อยู่
+DoTalkEatDrug					ในตอนนี้ข้ากำลังกิน{0}อยู่
+DoTalkEatWheat					ในตอนนี้ข้ากำลังกิน{0}อยู่
+DoTalkEatDryMeat					ในตอนนี้ข้ากำลังกิน{0}อยู่
+DoTalkEatPear					ในตอนนี้ข้ากำลังกิน{0}อยู่
+DoTalkEatMeat					ในตอนนี้ข้ากำลังกิน{0}อยู่
+DoTalkEatCook					ในตอนนี้ข้ากำลังกิน{0}อยู่
+DoTalkEat					ข้ากำลังเพลิดเพลินกับ{0}
+DoTalkBiteBuilding					ข้ากำลังขัดฟันโดยใช้{0}
+DoTalkBiteClothes					ข้ากำลังโจมตี{0}
+DoTalkBiteOuter					ข้ากำลังโจมตี {0}
+DoTalkBiteInner					ข้ากำลังกัดแขกผู้มาเยือน {0}
+DoTalkBiteVisitor					ข้ากำลังกัดผู้มาเยือน {0}
+DoTalkBiteIncoming					ข้ากำลังกัด{0}
+DoTalkBiteBuildingEx					ข้ากำลังกัด{0}อย่างไร้ความปราณี
+DoTalkBiteClothesEx					ข้ากำลังกัดพยายามเคี้ยว{0}
+DoTalkBiteOuterEx					ข้ากำลังกัด {0} อย่างไร้ความปราณี
+DoTalkBiteInnerEx					ข้ากำลังกัด {0} อย่างไร้ความปราณี
+DoTalkBiteVisitorEx					ข้ากำลังกัดแขกผู้มาเยือน {0} อย่างไร้ความปราณี
+DoTalkBiteIncomingEx					ข้ากำลังกัดผู้มาเยือน {0} อย่างไร้ความปราณี
+DoTalkAtkEnemy					ข้ากำลังโจมตี {0}!
+DoTalkShitAtShitPlace					ข้ากำลังขับถ่ายในจุดขับถ่าย
+DoTalkShitAtPlants					ข้ากำลังถ่ายอุจจาระบน {0}
+DoTalkShitAtDogHouse					ข้ากำลังถ่ายอุจจาระบนเตียงนอนของข้า
+DoTalkShitAtStorage					ข้ากำลังถ่ายอุจจาระในพื้นที่เก็บของ
+DoTalkShitOnBed					ข้ากำลังถ่ายอุจจาระบนเตียงนอน
+DoTalkShitInFarm					ข้ากำลังถ่ายอุจจาระในพื้นที่การเกษตร
+DoTalkCarryOuterToBed					ข้ากำลังแบก {0} ที่สลบไปยังเตียง
+DoTalkCarryVisitorToDest					ข้ากำลังแบกแขกผู้มาเยือนที่สลบ {0} ไปยังจุดที่กำหนด
+DoTalkCarryEnemyToDest					ข้ากำลังแบกศัตรูที่สลบ {0} ไปยังจุดที่กำหนด
+DoTalkCarryIncomingToDest					ข้ากำลังแบกผู้มาเยือนที่สลบ {0} ไปยังจุดที่กำหนด
+DoTalkCarryEnemyBodyToDest					ข้ากำลังแบกศพของ {0} ไปยังจุดที่กำหนด
+DoTalkCarryVisitorBodyToDest					ข้ากำลังแบกศพของ {0} ไปยังจุดที่กำหนด
+DoTalkCarryIncomingBodyToDest					ข้ากำลังแบกศพของ {0} ไปยังจุดที่กำหนด
+DoTalkHelpCarry					ข้ากำลังช่วยจัดเรียงสิ่งของ
+DoTalkHelpTimber					ข้ากำลังช่วยตัดต้นไม้
+DoTalkHelpMine					ข้ากำลังช่วยขุดแร่
+DoTalkHelpFind					ข้ากำลังช่วยขนย้ายสิ่งของ
+DoTalkHelpKill					ข้ากำลังช่วยล่าสัตว์ป่า
+DoTalkHelpPlant					ข้ากำลังใส่ปุ๋ยให้พืช
+DoTalkCureFreeze					ข้ากำลังรักษาอาการน้ำแข็งกัดของ {0}
+DoTalkCureHot					ข้ากำลังรักษาอาการไข้แดดของ {0}
+DoTalkHelpCook					ข้ากำลังช่วยทำอาหาร
+DoTalkHeatEndure					ข้ากำลังช่วยเพิ่มความต้านทานความร้อน
+DoTalkColdEndure					ข้ากำลังช่วยเพิ่มความต้านทานความเย็น
+DoTalkHelpPlay					ข้ากำลังเล่นสนุกกับ {0}
+DoTalkPlayToy					ข้ากำลังเล่นกับ {0}
+DoTalkPlaySelf					ข้ากำลังไปเรื่อยๆ ตามประสาข้า
+DoTalkTrainQiGan	ข้ากำลังฝึกฝนพื้นฐานปราณ				
+DoTalkTrainNeiDan	ข้ากำลังฝึกฝนแก่นอสูร				
+DoTalkTrainHuTi	ข้ากำลังฝึกฝนพื้นฐานเกราะปราณ				
+DoTalkTrainLingZhi	ข้ากำลังฝึกฝนพื้นฐานสติปัญญา				
+DoTalkTrainShuFa	ข้ากำลังฝึกฝนพื้นฐานปราณเวท				
+DoTalkFollow					
+DoTalkLay					
+DoTalkWander					
+CantEatShit	ข้าหาอุจจาระมากินไม่ได้เลย				
+CantEatEssence	ไม่มีแร่หายากให้กินเลย				
+CantEatDrug	ไม่มียาวิเศษให้กินเลย				
+CantEatWheat	ไม่มีข้าวสาลีให้ข้ากินเลย				
+CantEatDryMeat	ไม่มีเนื้อแห้งให้ข้ากินเลย				
+CantEatPear	ไม่มีลูกแพร์ให้ข้ากินเลย				
+CantEatMeat	ไม่มีเนื้อดิบให้ข้ากินเลย				
+CantEatCook	ไม่มีทำอาหารปรุงสุกให้ข้ากินเลย				
+CantBiteBuilding	ไม่มีสิ่งปลูกสร้างให้ข้ากัดเลย				
+CantBiteClothes	ไม่มีเสื้อผ้าให้ข้ากัดเลย				
+CantBiteOuter	ไม่มีศิษย์สายนอกให้ข้ากัดเลย				
+CantBiteInner	ไม่มีศิษย์สายในให้ข้ากัดเลย				
+CantBiteVisitor	ไม่มีแขกผู้มาเยือนให้ข้ากัดเลย				
+CantBiteIncoming	ไม่มีคนธรรมดาให้ข้ากัดเลย				
+CantAtkEnemy	ไม่มีศัตรูให้ข้าโจมตีเลย				
+CantShitAtShitPlace	ไม่มีจุดขับถ่ายให้ข้าถ่ายอุจจาระเลย				
+CantShitAtPlants	ไม่มีพืชให้ข้าอุจจาระใส่เลย				
+CantShitAtDogHouse	ไม่มีบ้านของข้าให้ข้าอุจจาระใส่เลย				
+CantShitAtStorage	ไม่มีพื้นที่เก็บของให้ข้าอุจจาระใส่เลย				
+CantShitOnBed	ไม่มีเตียงนอนให้ข้าอุจจาระใส่เลย				
+CantShitInFarm	ไม่มีพื้นที่เกษตรให้ข้าอุจจาระใส่เลย				
+CantCarryOuterToBed	ไม่มีศิษย์ที่ต้องแบกไปยังเตียงเลย			
+CantCarryVisitorToDest	ไม่มีแขกผู้มาเยือนที่ข้าต้องแบกไปยังจุดที่กำหนดเลย				
+CantCarryEnemyToDest	ไม่มีศัตรูที่ข้าต้องแบกไปยังจุดที่กำหนดเลย				
+CantCarryIncomingToDest	ไม่มีคนธรรมดาที่ข้าต้องแบกไปยังจุดที่กำหนดเลย				
+CantCarryEnemyBodyToDest	ไม่มีศพของศัตรูที่ข้าต้องแบกไปยังจุดที่กำหนดเลย				
+CantCarryVisitorBodyToDest	ไม่มีศพของแขกผู้มาเยือนให้ข้าแบกไปยังจุดที่กำหนดเลย				
+CantCarryIncomingBodyToDest	ไม่มีศพของแขกผู้มาเยือนให้ข้าแบกไปยังจุดที่กำหนดเลย				
+CantHelpCarry	ไม่มีสิ่งของให้ข้าช่วยขนย้ายเลย				
+CantHelpTimber	ไม่มีต้นไม้ให้ข้าช่วยตัดเลย				
+CantHelpMine	ไม่มีเหมืองแร่ให้ข้าช่วยขุดแร่เลย				
+CantHelpFind	ไม่มีร่างให้ค้นหาของเลย				
+CantHelpKill	ไม่มีศัตรูให้ข้าสังหารเลย				
+CantHelpPlant	ไม่มีพืชให้รดน้ำเลย				
+CantCureFreeze	ไม่มีคนที่มีอาการน้ำแข็งกัดให้รักษาเลย				
+CantCureHot	ไม่มีคนที่มีอาการไข้แดดให้รักษาเลย				
+CantHelpCook	ข้าไม่พร้อมที่จะช่วยทำอาหาร				
+CantHeatEndure	ข้าไม่พร้อมที่จะเพิ่มความต้านทานความร้อน				
+CantColdEndure	ข้าไม่พร้อมที่จะเพิ่มความต้านทานความเย็น				
+CantHelpPlay	ไม่มีศิษย์ในสำนักให้เล่นด้วยเลย				
+CantPlayToy	ไม่มีของเล่นให้เล่นเลย				
+NoParam2CarryVisitorToDest					ข้าไม่สามารถหาจุดที่ข้าต้องแบกแขกผู้มาเยือน {0} ไปได้
+NoParam2CarryEnemyToDest					ข้าไม่สามารถหาจุดที่ข้าต้องแบกศัตรู {0} ไปได้
+NoParam2CarryIncomingToDest					ข้าไม่สามารถหาจุดที่ข้าต้องแบกคนธรรมดา {0} ไปได้
+NoParam2CarryEnemyBodyToDest					ข้าไม่สามารถหาจุดที่ข้าต้องแบกศพศัตรู {0} ไปได้
+NoParam2CarryVisitorBodyToDest					ข้าไม่สามารถหาจุดที่ข้าต้องแบกศพแขกผู้มาเยือน {0} ไปได้
+NoParam2CarryIncomingBodyToDest					ข้าไม่สามารถหาจุดที่ข้าต้องแบกศพคนธรรมดา {0} ไปได้
+NoParam2HelpCarry	ข้าไม่พร้อมที่จะช่วยช่วยเคลื่อนย้ายอะไรทั้งนั้น				
+NoParam2HelpTimber	ข้าไม่พร้อมที่จะช่วยตัดต้นไม้				
+NoParam2HelpMine	ข้าไม่พร้อมที่จะช่วยขุดแร่				
+NoParam2HelpPlant	ข้าไม่พร้อมที่จะช่วยใส่ปุ๋ย				
+NoParam2CureFreeze	ข้าไม่พร้อมที่จะช่วยรักษาน้ำแข็งกัด				
+NoParam2CureHot	ข้าไม่พร้อมที่จะช่วยรักษาไข้แดด				
+NoParam2HelpCook	ข้าไม่พร้อมที่จะช่วยทำอาหาร				
+DrinkTalk1	ข้าต้องการดื่มน้ำ				
+DrinkTalk2	ข้ารู้สึกกระหายน้ำมาก				
+DrinkTalk3	ข้ากำลังดื่มน้ำ				
+NotAtkDizzyOuter	ข้าจะไม่โจมตีศิษย์สายนอกที่สลบ				
+NotAtkDizzyInner	ข้าจะไม่โจมตีศิษย์สายในที่สลบ				
+NotAtkDizzyComing	ข้าจะไม่โจมตีคนธรรมดาที่สลบ				
+NotAtkDizzyVisitor	ข้าจะไม่โจมตีแขกผู้มาเยือนที่สลบ				
+NoTongXie	ข้าหายาถ่ายไม่เจอเลย				
+WannaAtkDizzyOuter					ฉันต้องการยุติความเจ็บปวดของศิษย์สายนอก {0}
+WannaAtkDizzyInner					ฉันต้องการยุติความเจ็บปวดของศิษย์สายใน {0}
+WannaAtkDizzyComing					ผู้มาเยือนที่สลบ {0} ดูเหมือนจะได้รับบาดเจ็บ โชคดีนะที่ข้าอยู่ที่นี่
+WannaAtkDizzyVisitor					แขกผู้มาเยือนที่สลบ {0} ดูเหมือนจะได้รับบาดเจ็บ โชคดีนะที่ข้าอยู่ที่นี่
+DoTalkAtkDizzyOuter					ข้ากำลังโจมตีศิษย์สายนอกที่สลบ {0}
+DoTalkAtkDizzyInner					ข้ากำลังโจมตีศิษย์สายในที่สลบ {0}
+DoTalkAtkDizzyComing					ข้ากำลังโจมตีคนธรรมดาที่สลบ {0}
+DoTalkAtkDizzyVisitor					ข้ากำลังโจมตีแขกผู้มาเยือนที่สลบ {0}
+CantAtkDizzyOuter	ไม่มีศิษย์สายนอกที่สลบให้ข้าโจมตีเลย				
+CantAtkDizzyInner	ไม่มีศิษย์สายในที่สลบให้ข้าโจมตีเลย				
+CantAtkDizzyComing	ไม่มีคนธรรมดาที่สลบให้ข้าโจมตีเลย				
+CantAtkDizzyVisitor	ไม่มีแขกผู้มาเยือนที่สลบให้ข้าโจมตีเลย				
+NotFeedTongXie	ข้าจะไม่มอบยาถ่ายให้ศิษย์สายนอกกิน				
+NotCureInner	ข้าจะไม่รักษาอาการบาดเจ็บของศิษย์สายใน			
+WannaFeedTongXie	ข้าต้องการมอบยาถ่ายให้ศิษย์สายนอกกิน				ข้าต้องการมอบยาถ่ายให้ศิษย์สายนอก {0} กิน
+WannaCureInner	ข้าจะไม่รักษาอาการบาดเจ็บของศิษย์สายใน			ข้าจะไม่รักษาอาการบาดเจ็บของศิษย์สายใน {0}
+DoTalkFeedTongXie					ข้าได้มอบยาถ่ายให้ศิษย์สายนอก {0} กิน
+DoTalkCureInner					ข้ากำลังรักษาอาการบาดเจ็บของศิษย์สายใน {0}
+CantFeedTongXie	ไม่มีศิษย์สายนอกให้ข้าป้อนยาถ่ายเลย				
+CantCureInner	ไม่มีศิษย์สายในให้ข้ารักษาเลย				
+NoParam2FeedTongXie					ข้าต้องการมอบยาถ่ายให้แก่ศิษย์สายนอก {0} ทว่าข้าไม่สามารถหายาถ่ายได้เลย
+NoParam2CureInner					ข้าต้องการรักษาศิษย์สายใน {0} ทว่าข้ายังหาเวลาว่างไม่ได้เลย
+NotHelpPlantD	ข้าไม่ต้องการปัสสาวะใส่สวนสมุนไพร				
+WannaHelpPlantD	ข้าต้องการช่วยรดน้ำสวนสมุนไพร				
+DoTalkHelpPlantD	ข้ากำลังช่วยรดน้ำสวนสมุนไพร				
+CantHelpPlantD	ไม่มีทางที่ข้าจะช่วยช่วยรดน้ำสวนสมุนไพร				
+NoParam2HelpPlantD	ข้ายังไม่ต้องการช่วยรดน้ำ				
+NotCarryOuterBodyToDest	ข้าจะไม่เคลื่อนย้ายศพศิษย์สายนอกไปยังจุดที่กำหนด				
+NotCarryInnerBodyToDest	ข้าจะไม่เคลื่อนย้ายศพศิษย์สายในไปยังจุดที่กำหนด				
+WannaCarryOuterBodyToDest	ข้าต้องการช่วยแบกศพศิษย์สายนอกไปยังจุดที่กำหนด				
+WannaCarryInnerBodyToDest	ข้าต้องการช่วยแบกศพศิษย์สายในไปยังจุดที่กำหนด				
+DoTalkCarryOuterBodyToDest	ข้ากำลังแบกศพศิษย์สายนอก {0} ไปยังจุดที่กำหนด				
+DoTalkCarryInnerBodyToDest	ข้ากำลังแบกศพศิษย์สายใน {0} ไปยังจุดที่กำหนด				
+CantCarryOuterBodyToDest	ไม่มีทางที่ข้าจะช่วยแบกศพศิษย์สายนอกไปยังจุดที่กำหนด				
+CantCarryInnerBodyToDest	ไม่มีทางที่ข้าจะช่วยแบกศพศิษย์สายในไปยังจุดที่กำหนด				
+Sleep1	ข้าต้องการนอน				
+Sleep2	หนังตาของข้าใกล้จะปิดแล้ว				
+Sleep3	เตียงนอนนุ่มๆ กำลังเรียกหาข้าอยู่				
+Wonder1	ดูไปรอบๆ				
+Wonder2	ดูทิวทัศน์ไปรอบๆ				
+Wonder3	เดินเล่น!				
+Lay1	เพลิดเพลินกับสายลมเย็น				
+Lay2	พักผ่อนซักหน่อยดีกว่า				
+Lay3	ข้าไม่อยากขยับตัวเลย				
+Follow1	ดูซิว่าเจ้าคนนี้กำลังทำอะไรอยู่				
+Follow2	เจ้าคนนี้มีกลิ่นตุๆ				
+Follow3	เจ้าคนนี้ดึงดูดความสนใจของข้า				
+Eat1	ข้าหิวมาก				
+Eat2	ข้าหิวแต่ก็พอทนได้อยู่				
+Eat3	ได้เวลากินแล้ว				
+NotFeed_Item_Dan_Happiness	ในบางครั้งข้าก็มอบโอสถเริงใจให้ศิษย์สายในกิน				
+NotFeed_Item_Dan_PracticeSpeed	ข้าจะไม่มอบโอสถเร่งปราณให้ศิษย์สายในกิน				
+NotFeed_Item_Dan_CalmDown	ข้าจะไม่มอบโอสถใจพิสุทธิ์ให้ศิษย์สายในกิน				
+NotFeed_Item_LingStone	ข้าจะไม่มอบหินวิญญาณให้ศิษย์สายในกิน				
+NotFeed_Item_LingCrystal	ข้าจะไม่มอบผลึกวิญญาณให้ศิษย์สายในกิน				
+WannaFeed_Item_Dan_Happiness	ข้าต้องการมอบโอสถเริงใจให้ศิษย์สายในกิน				
+WannaFeed_Item_Dan_PracticeSpeed	ข้าต้องการมอบโอสถเร่งปราณให้ศิษย์สายในกิน				
+WannaFeed_Item_Dan_CalmDown	ข้าต้องการมอบโอสถใจพิสุทธิ์ให้ศิษย์สายในกิน				
+WannaFeed_Item_LingStone	ข้าต้องการมอบหินวิญญาณให้ศิษย์สายในกิน				
+WannaFeed_Item_LingCrystal	ข้าต้องการมอบผลึกวิญญาณให้ศิษย์สายในกิน				
+DoTalkFeed_Item_Dan_Happiness	ข้ากำลังมอบโอสถเริงใจให้ศิษย์สายในกิน				
+DoTalkFeed_Item_Dan_PracticeSpeed	ข้ากำลังมอบโอสถเร่งปราณให้ศิษย์สายในกิน				
+DoTalkFeed_Item_Dan_CalmDown	ข้ากำลังมอบโอสถใจพิสุทธิ์ให้ศิษย์สายในกิน				
+DoTalkFeed_Item_LingStone	ข้ากำลังมอบหินวิญญาณให้ศิษย์สายในกิน				
+DoTalkFeed_Item_LingCrystal	ข้ากำลังมอบผลึกวิญญาณให้ศิษย์สายในกิน				
+CantFeed_Item_Dan_Happiness	ไม่มีทางที่ข้าจะมอบโอสถเริงใจกินให้ศิษย์สายในกิน				
+CantFeed_Item_Dan_PracticeSpeed	ไม่มีทางที่ข้าจะมอบโอสถเร่งปราณให้ศิษย์สายในกิน				
+CantFeed_Item_Dan_CalmDown	ไม่มีทางที่ข้าจะมอบโอสถใจพิสุทธิ์ให้ศิษย์สายในกิน				
+CantFeed_Item_LingStone	ไม่มีทางที่ข้าจะมอบหินวิญญาณให้ศิษย์สายในกิน				
+CantFeed_Item_LingCrystal	ไม่มีทางที่ข้าจะมอบผลึกวิญญาณให้ศิษย์สายในกิน				
+NoParam2Feed_Item_Dan_Happiness	ข้าไม่สามารถหาโอสถเริงใจได้เลย				
+NoParam2Feed_Item_Dan_PracticeSpeed	ข้าไม่สามารถหาโอสถเร่งปราณได้เลย				
+NoParam2Feed_Item_Dan_CalmDown	ข้าไม่สามารถหาโอสถใจพิสุทธิ์ได้เลย				
+NoParam2Feed_Item_LingStone	ข้าไม่สามารถหาหินวิญญาณได้เลย				
+NoParam2Feed_Item_LingCrystal	ข้าไม่สามารถหาผลึกวิญญาณได้เลย				
+QiGanResult_Low	พลังปราณเพิ่มขึ้นเล็กน้อย				
+NeiDanResult_Low	พลังแก่นอสูรเพิ่มขึ้นเล็กน้อย				
+HuTiResult_Low	เกราะปราณเพิ่มขึ้นเล็กน้อย				
+LingZhiResult_Low	สติปัญญาเพิ่มขึ้นเล็กน้อย				
+ShuFaResult_Low	พลังของปราณเวทเพิ่มขึ้นเล็กน้อย				
+QiGanResult_Mid	พลังปราณเพิ่มขึ้นพอสมควร				
+NeiDanResult_Mid	พลังแก่นอสูรเพิ่มขึ้นพอสมควร				
+HuTiResult_Mid	เกราะปราณเพิ่มขึ้นพอสมควร				
+LingZhiResult_Mid	สติปัญญาเพิ่มขึ้นพอสมควร				
+ShuFaResult_Mid	พลังของปราณเวทเพิ่มขึ้นพอสมควร				
+QiGanResult_High	พลังปราณเพิ่มขึ้นอย่างมีนัยสำคัญ				
+NeiDanResult_High	แก่นอสูรเพิ่มขึ้นอย่างมีนัยสำคัญ				
+HuTiResult_High	เกราะปราณเพิ่มขึ้นอย่างมีนัยสำคัญ				
+LingZhiResult_High	สติปัญญาเพิ่มขึ้นอย่างมีนัยสำคัญ				
+ShuFaResult_High	พลังของปราณเวทเพิ่มขึ้นอย่างมีนัยสำคัญ				
+NotBiteExpel	ข้าไม่สามารถกัดคนธรรมดาที่ข้าไม่รู้จักได้				
+WannaBiteExpel					ข้าต้องการกัดคนธรรมดา {0} ที่แปลกหน้า!
+DoTalkBiteExpel					ในตอนนี้ข้ากำลังกัดคนธรรมดา {0} ที่แปลกหน้า
+CantBiteExpel	ไม่มีทางที่ข้าจะกัดคนธรรมดาที่้ข้าไม่รู้จัก!				
+NotCarryMortalToDest	ข้าจะไม่เคลื่อนย้ายคนธรรมดาที่สลบไปยังจุดที่กำหนด				
+NotCarryMortalBodyToDest	ข้าจะไม่เคลื่อนย้ายศพของคนธรรมดาไปยังจุดที่กำหนด				
+WannaCarryMortalToDest					คนธรรมดา {0} กำลังหมดสติ ข้าต้องการแบกเขาไป
+WannaCarryMortalBodyToDest					คนธรรมดา {0} เสียชีวิตแล้ว ข้าต้องการแบกเขาไป
+DoTalkCarryMortalToDest					ในตอนนี้ข้ากำลังแบกคนธรรมดาที่สลบ {0} ไปยังจุดที่กำหนด
+DoTalkCarryMortalBodyToDest					ในตอนนี้ข้ากำลังแบกศพคนธรรมดา {0} ไปยังจุดที่กำหนด
+CantCarryMortalToDest	ไม่มีทางที่ข้าจะช่วยแบกคนธรรมดาที่สลบไปยังจุดที่กำหนด				
+CantCarryMortalBodyToDest	ไม่มีทางที่ข้าจะช่วยแบกศพของคนธรรมดาไปยังจุดที่กำหนด				
+Nothing	ว่างจริงๆ				
+No_NutritionQiGan	ไม่มีสารอาหารสำหรับบำรุงปราณเลย ดังนั้นข้าจึงไม่สามารถฝึกฝนมันได้				
+No_NutritionNeiDan	ไม่มีสารอาหารสำหรับบำรุงแก่นอสูรเลย ดังนั้นข้าจึงไม่สามารถฝึกฝนมันได้				
+No_NutritionHuTi	ไม่มีสารอาหารสำหรับบำรุงเกราะปราณเลย ดังนั้นข้าจึงไม่สามารถฝึกฝนมันได้				
+No_NutritionLingZhi	ไม่มีสารอาหารสำหรับบำรุงสติปัญญาเลย ดังนั้นข้าจึงไม่สามารถฝึกฝนมันได้				
+No_NutritionShufa	ไม่มีสารอาหารสำหรับบำรุงปราณเวทเลย ดังนั้นข้าจึงไม่สามารถฝึกฝนมันได้				
+WannaEat					จากตารางอาหารที่กำหนดไว้ให้ข้า ข้ากำลังจะไปหาอะไรกิน
+WannaTrainShuFa	ข้าต้องการฝึกฝนพื้นฐานปราณเวท				
+WannaTrainLingZhi	ข้าต้องการฝึกฝนพื้นฐานสติปัญญา				
+WannaTrainHuTi	ข้าต้องการฝึกฝนพื้นฐานเกราะปราณ				
+WannaTrainNeiDan	ข้าต้องการฝึกฝนแก่นอสูร				
+WannaTrainQiGan	ข้าต้องการฝึกฝนพื้นฐานปราณ				
+NothingToEat	ไม่อะไรให้กินเลย! ข้าหิวมาก				
+NotEat_Item_SnakeGallbladder	ข้าจะไม่กินดีงู				
+NotEat_Item_BearGallbladder	ข้าจะไม่กินดีหมี				
+NotEat_Item_RedGinseng	ข้าจะไม่กินโสมแดง				
+NotEat_Item_PurpleGanodermaLucidum	ข้าจะไม่กินหลินจือม่วง				
+NotEat_Item_TuEssence	ข้าจะไม่กินแกนพสุธาเหลือง				
+NotEat_Item_HuoEssence	ข้าจะไม่กินผลเพลิงกัลป์				
+NotEat_Item_ShuiEssence	ข้าจะไม่กินบัวทองห้าสี				
+NotEat_Item_JinEssence	ข้าจะไม่กินผลดาราทองคำ				
+NotEat_Item_MuEssence	ข้าจะไม่กินเถาวัลย์พนาลัย				
+NotEat_Item_LifeStream	ข้าจะไม่ดื่มสายธารชีวิต				
+NotEat_Item_LongEgg	ข้าจะไม่กินไข่มังกรวารี				
+NotEat_Item_FengEgg	ข้าจะไม่กินไข่หงส์เพลิง				
+NotEat_Item_DragonShit	ข้าจะไม่กินอุจจาระมังกร				
+NotEat_Item_Jiaozi	ข้าจะไม่กินซาลาเปา				
+NotEat_Item_BossFeng_Meat	ข้าจะไม่กินเนื้อหงส์เพลิง				
+NotEat_Item_BossLong_Meat	ข้าจะไม่กินเนื้อมังกร				
+NotEat_Item_BossZhuLong_Meat	ข้าจะไม่กินเนื้อปฐมกาล				
+NotEat_Item_Cake	ข้าจะไม่กินขนมปัง				
+NotEat_Item_MonsterBlood	ข้าจะไม่ดื่มเลือดสัตว์อสูร				
+NotEat_Item_EarthEssence	ข้าจะไม่ดื่มหยาดปฐพี				
+NotEat_Item_SilverGrit	ข้าจะไม่กินผงผลึกน้ำแข็ง				
+NotEat_Item_CopperGrit	ข้าจะไม่กินผงทองแดงอัคคี				
+NotEat_Item_Cinnabar	ข้าจะไม่กินปรอทแดง				
+NotEat_Item_LingMuXueJie	ข้าจะไม่กินแกนพฤกษา				
+NotEat_Item_EarthEssence_1	ข้าจะไม่กินแกนศักดิ์สิทธิ์				
+NotEat_Item_EarthEssence1_1	ข้าจะไม่กินแกนมาร				
+NotEat_Item_Healroot	ข้าจะไม่กินสมุรไพรรักษา				
+NotEat_Item_Mint	ข้าจะไม่กินหญ้ากระจ่างจิต				
+NotEat_Item_MagicHerb	ข้าจะไม่กินหญ้าวิญญาณ				
+NotEat_Item_Laxative	ข้าจะไม่กินยาถ่าย				
+WannaEat_Item_SnakeGallbladder					ข้าอยากกินดีงู
+WannaEat_Item_BearGallbladder					ข้าอยากกินดีหมี
+WannaEat_Item_RedGinseng					ข้าอยากกินโสมแดง
+WannaEat_Item_PurpleGanodermaLucidum					ข้าอยากกินหลินจือม่วง
+WannaEat_Item_TuEssence					ข้าอยากกินแกนพสุธาเหลือง
+WannaEat_Item_HuoEssence					ข้าอยากกินผลเพลิงกัลป์
+WannaEat_Item_ShuiEssence					ข้าอยากกินบัวทองห้าสี
+WannaEat_Item_JinEssence					ข้าอยากกินผลดาราทองคำ
+WannaEat_Item_MuEssence					ข้าอยากกินเถาวัลย์พนาลัยs
+WannaEat_Item_LifeStream					ข้าอยากดื่มสายธารชีวิต
+WannaEat_Item_LongEgg					ข้าอยากกินไข่มังกรวารี
+WannaEat_Item_FengEgg					ข้าอยากกินไข่หงส์เพลิง
+WannaEat_Item_DragonShit					ข้าอยากกินอุจจาระมังกร
+WannaEat_Item_Jiaozi					ข้าอยากกินซาลาเปา
+WannaEat_Item_BossFeng_Meat					ข้าอยากกินเนื้อหงส์เพลิง
+WannaEat_Item_BossLong_Meat					ข้าอยากกินเนื้อมังกร
+WannaEat_Item_BossZhuLong_Meat					ข้าอยากกินเนื้อปฐมกาล
+WannaEat_Item_Cake					ข้าอยากกินขนมปัง
+WannaEat_Item_MonsterBlood					ข้าอยากดื่มเลือดสัตว์อสูร
+WannaEat_Item_EarthEssence					ข้าอยากดื่มหยาดปฐพี
+WannaEat_Item_SilverGrit					ข้าอยากกินผงผลึกน้ำแข็ง
+WannaEat_Item_CopperGrit					ข้าอยากกินผงทองแดงอัคคี
+WannaEat_Item_Cinnabar					ข้าอยากกินปรอทแดง
+WannaEat_Item_LingMuXueJie					ข้าอยากกินแกนพฤกษา
+WannaEat_Item_EarthEssence_1					ข้าอยากกินแกนศักดิ์สิทธิ์
+WannaEat_Item_EarthEssence1_1					ข้าอยากกินแกนมาร
+WannaEat_Item_Healroot					ข้าอยากกินสมุรไพรรักษา
+WannaEat_Item_Mint					ข้าอยากกินหญ้ากระจ่างจิต
+WannaEat_Item_MagicHerb					ข้าอยากกินหญ้าวิญญาณ
+WannaEat_Item_Laxative					ข้าอยากกินยาถ่าย
+DoTalkEat_Item_SnakeGallbladder					ข้ากำลังกินดีงู
+DoTalkEat_Item_BearGallbladder					ข้ากำลังกินดีหมี
+DoTalkEat_Item_RedGinseng					ข้ากำลังกินโสมแดง
+DoTalkEat_Item_PurpleGanodermaLucidum					ข้ากำลังกินหลินจือม่วง
+DoTalkEat_Item_TuEssence					ข้ากำลังกินแกนพสุธาเหลือง
+DoTalkEat_Item_HuoEssence					ข้ากำลังกินผลเพลิงกัลป์
+DoTalkEat_Item_ShuiEssence					ข้ากำลังกินบัวทองห้าสี
+DoTalkEat_Item_JinEssence					ข้ากำลังกินผลดาราทองคำ
+DoTalkEat_Item_MuEssence					ข้ากำลังกินเถาวัลย์พนาลัย
+DoTalkEat_Item_LifeStream					ข้ากำลังดื่มสายธารชีวิต
+DoTalkEat_Item_LongEgg					ข้ากำลังกินไข่มังกรวารี
+DoTalkEat_Item_FengEgg					ข้ากำลังกินไข่หงส์เพลิง
+DoTalkEat_Item_DragonShit					ข้ากำลังกินอุจจาระมังกร
+DoTalkEat_Item_Jiaozi					ข้ากำลังกินซาลาเปา
+DoTalkEat_Item_BossFeng_Meat					ข้ากำลังกินเนื้อหงส์เพลิง
+DoTalkEat_Item_BossLong_Meat					ข้ากำลังกินเนื้อมังกร
+DoTalkEat_Item_BossZhuLong_Meat					ข้ากำลังกินเนื้อปฐมกาล
+DoTalkEat_Item_Cake					ข้ากำลังกินขนมปัง
+DoTalkEat_Item_MonsterBlood					ข้ากำลังดื่มเลือดสัตว์อสูร
+DoTalkEat_Item_EarthEssence					ข้ากำลังดื่มหยาดปฐพี
+DoTalkEat_Item_SilverGrit					ข้ากำลังกินผงผลึกน้ำแข็ง
+DoTalkEat_Item_CopperGrit					ข้ากำลังกินผงทองแดงอัคคี
+DoTalkEat_Item_Cinnabar					ข้ากำลังกินปรอทแดง
+DoTalkEat_Item_LingMuXueJie					ข้ากำลังกินแกนพฤกษา
+DoTalkEat_Item_EarthEssence_1					ข้ากำลังกินแกนศักดิ์สิทธิ์
+DoTalkEat_Item_EarthEssence1_1					ข้ากำลังกินแกนมาร
+DoTalkEat_Item_Healroot					ข้ากำลังกินสมุรไพรรักษา
+DoTalkEat_Item_Mint					ข้ากำลังกินหญ้ากระจ่างจิต
+DoTalkEat_Item_MagicHerb					ข้ากำลังกินหญ้าวิญญาณ
+DoTalkEat_Item_Laxative					ข้ากำลังกินยาถ่าย
+CantEat_Item_SnakeGallbladder	ข้าไม่สามารถหาดีงูมากินได้เลย			
+CantEat_Item_BearGallbladder	ข้าไม่สามารถหาดีหมีมากินได้เลย			
+CantEat_Item_RedGinseng	ข้าไม่สามารถหาโสมแดงมากินได้เลย			
+CantEat_Item_PurpleGanodermaLucidum	ข้าไม่สามารถหาหลินจือม่วงมากินได้เลย			
+CantEat_Item_TuEssence	ข้าไม่สามารถหาแกนพสุธาเหลืองมากินได้เลย			
+CantEat_Item_HuoEssence	ข้าไม่สามารถหาผลเพลิงกัลป์มากินได้เลย			
+CantEat_Item_ShuiEssence	ข้าไม่สามารถหาบัวทองห้าสีมากินได้เลย			
+CantEat_Item_JinEssence	ข้าไม่สามารถหาผลดาราทองคำมากินได้เลย			
+CantEat_Item_MuEssence	ข้าไม่สามารถหาเถาวัลย์พนาลัยมากินได้เลย			
+CantEat_Item_LifeStream	ข้าไม่สามารถหาสายธารชีวิตมาดื่มได้เลย				
+CantEat_Item_LongEgg	ข้าไม่สามารถหาไข่มังกรวารีมากินได้เลย			
+CantEat_Item_FengEgg	ข้าไม่สามารถหาไข่หงส์เพลิงมากินได้เลย			
+CantEat_Item_DragonShit	ข้าไม่สามารถหาอุจจาระมังกรมากินได้เลย			
+CantEat_Item_Jiaozi	ข้าไม่สามารถหาซาลาเปามากินได้เลย			
+CantEat_Item_BossFeng_Meat	ข้าไม่สามารถหาเนื้อหงส์เพลิงมากินได้เลย			
+CantEat_Item_BossLong_Meat	ข้าไม่สามารถหาเนื้อมังกรมากินได้เลย			
+CantEat_Item_BossZhuLong_Meat	ข้าไม่สามารถหาเนื้อปฐมกาลมากินได้เลย			
+CantEat_Item_Cake	ข้าไม่สามารถหาขนมปังมากินได้เลย			
+CantEat_Item_MonsterBlood	ข้าไม่สามารถหาเลือดสัตว์อสูรมาดื่มได้เลย			
+CantEat_Item_EarthEssence	ข้าไม่สามารถหาหยาดปฐพีมาดื่มได้เลย				
+CantEat_Item_SilverGrit	ข้าไม่สามารถหาผงผลึกน้ำแข็งมากินได้เลย			
+CantEat_Item_CopperGrit	ข้าไม่สามารถหาผงทองแดงอัคคีมากินได้เลย			
+CantEat_Item_Cinnabar	ข้าไม่สามารถหาปรอทแดงมากินได้เลย			
+CantEat_Item_LingMuXueJie	ข้าไม่สามารถหาแกนพฤกษามากินได้เลย			
+CantEat_Item_EarthEssence_1	ข้าไม่สามารถหาแกนศักดิ์สิทธิ์มากินได้เลย			
+CantEat_Item_EarthEssence1_1	ข้าไม่สามารถหาแกนมารมากินได้เลย			
+CantEat_Item_Healroot	ข้าไม่สามารถหาสมุรไพรรักษามากินได้เลย			
+CantEat_Item_Mint	ข้าไม่สามารถหาหญ้ากระจ่างจิตมากินได้เลย			
+CantEat_Item_MagicHerb	ข้าไม่สามารถหาหญ้าวิญญาณมากินได้เลย			
+CantEat_Item_Laxative	ข้าไม่สามารถหายาถ่ายมากินได้เลย			
+Leave1					{0} เดินทางระวังด้วยละ
+Leave2					{0} กลับมาเร็วๆ นะ
+Leave3					{0} ขอให้เดินทางปลอดภัย
+Back1					{0} ในที่จุดเจ้าก็กลับมา
+Back2					ยินดีต้อนรับกลับบ้านนะ {0}
+Back3					{0} ข้าคิดถึงเจ้าจริงๆ
+NotBack1					{0} ทำไมเจ้าถึงยังไม่กลับมาอีก
+NotBack2					{0} เจ้ากำลังทำอะไรอยู่
+NotBack3					ข้าสงสัยจริงๆ ว่า {0} กำลังทำอะไรอยู่
+BackComa1					{0} นี่มันเกิดอะไรขึ้นกับเจ้ากัน
+BackComa2					{0} กำลังต้องกาความช่วยเหลือ
+BackComa3					{0} แข็งใจไว้นะ
+SleepHelp1					หายเร็วๆ นะ {0}!
+SleepHelp2					หายเร็วๆ นะ {0}!
+SleepHelp3					หายเร็วๆ นะ {0}!
+Lacrimosa1		...			
+Lacrimosa2		...			
+Lacrimosa3		...			
+QiGan_FullTalk	ปราณของข้าได้มาถึงขีดจำกัดแล้ว				
+NeiDan_FullTalk	แก่นอสูรของข้าได้มาถึงขีดจำกัดแล้ว				
+HuTi_FullTalk	เกราะปราณของข้าได้มาถึงขีดจำกัดแล้ว				
+LingZhi_FullTalk	สติปัญญาของข้าได้มาถึงขีดจำกัดแล้ว				
+ShuFa_FullTalk	ปราณเวทของข้าได้มาถึงขีดจำกัดแล้ว				

@@ -1,0 +1,448 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MutationCondition_Debug">
+			<DisplayName>ความรู้สึกสูญเสีย</DisplayName>
+			<Desc>ความหมายไม่ปรากฏ…………</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_1">
+			<DisplayName>การกลืนวัตถุใดๆ</DisplayName>
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุใดๆ จำนวน 49 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_2">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุใดๆ จำนวน 124 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_3">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุระดับที่ 7 หรือสูงกว่าจำนวน 99 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_4">
+			<DisplayName>การกลืนวัตถุที่มีแท็กเฉพาะ</DisplayName>
+			<Desc>ศิษย์คนหนึ่งกินอาหารใดๆ จำนวน 36 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_5">
+			<Desc>ศิษย์คนหนึ่งกินอาหารใดๆ จำนวน 81 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_6">
+			<Desc>ศิษย์คนหนึ่งกินอาหารที่แตกต่างกัน 10 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_7">
+			<Desc>ศิษย์คนหนึ่งกินอาหารธาตุดินที่แตกต่างกัน 3 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_8">
+			<Desc>ศิษย์คนหนึ่งกินอาหารธาตุดินที่แตกต่างกัน 5 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_9">
+			<Desc>ศิษย์คนหนึ่งกินอาหารธาตุดินที่แตกต่างกัน 8 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_10">
+			<DisplayName>การกลืนวัตถุธาตุทอง</DisplayName>
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุทองจำนวน 3 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_11">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุทองจำนวน 7 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_12">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุทองที่แตกต่างกัน 5 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_13">
+			<DisplayName>การกลืนวัตถุธาตุไม้</DisplayName>
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุไม้จำนวน 21 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_14">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุไม้จำนวน 55 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_15">
+			<Desc>ศิษย์คนหนึ่งกลืนโอสถธาตุไม้ที่แตกต่างกัน 7 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_16">
+			<DisplayName>การกลืนวัตถุธาตุน้ำ</DisplayName>
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุน้ำระดับที่ 2 หรือสูงกว่าจำนวน 5 ชิ้นขึ้นไป</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_17">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุน้ำระดับที่ 3 หรือสูงกว่าจำนวน 16 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_18">
+			<Desc>ศิษย์คนหนึ่งกลืนโอสถธาตุน้ำที่แตกต่างกัน 7 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_19">
+			<DisplayName>การกลืนวัตถุธาตุไฟ</DisplayName>
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุไฟจำนวน 5 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_20">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุไฟจำนวน 16 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_21">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุไฟที่แตกต่างกัน 7 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_22">
+			<DisplayName>การกลืนวัตถุธาตุดิน</DisplayName>
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุดินระดับที่ 2 หรือสูงกว่าจำนวน 10 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_23">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุธาตุดินระดับที่ 3 หรือสูงกว่าจำนวน 30 ชิ้นขึ้นไป</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_24">
+			<Desc>ศิษย์คนหนึ่งกลืนโอสถธาตุดินที่แตกต่างกัน 7 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_25">
+			<DisplayName>การกลืนวัตถุที่ไม่มีธาตุ</DisplayName>
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุที่ไม่มีธาตุจำนวน 30 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_26">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุที่ไม่มีธาตุจำนวน 99 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_27">
+			<Desc>ศิษย์คนหนึ่งกลืนวัตถุที่ไม่มีธาตุแตกต่างกัน 4 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_1">
+			<DisplayName>กินอะไรก็ได้ทั่วไป</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุใดๆ จำนวน 500 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_2">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุใดๆ จำนวน 1,000 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_3">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุที่แตกต่างกัน 100 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_4">
+			<DisplayName>การกลืนวัตถุใดๆ ทั้งสำนัก</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกินอาหารใดๆ จำนวน 400 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_5">
+			<DisplayName>การกินอาหารใดๆ ทั้งสำนัก</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกินอาหารใดๆ จำนวน 800 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_6">
+			<Desc>ศิษย์คนหนึ่งกินอาหารที่แตกต่างกัน 12 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_7">
+			<DisplayName>การกลืนวัตถุธาตุทองทั้งสำนัก</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุธาตุทองจำนวน 30 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_8">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุธาตุทองจำนวน 80 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_9">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุธาตุทองที่แตกต่างกัน 10 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_10">
+			<DisplayName>การกลืนยาธาตุไม้ทั้งสำนัก</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกลืนโอสถธาตุไม้จำนวน 30 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_11">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนโอสถธาตุไม้จำนวน 80 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_12">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนโอสถธาตุไม้ที่แตกต่างกัน 10 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_13">
+			<DisplayName>การกลืนยาธาตุน้ำทั้งสำนัก</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกลืนเม็ดยาธาตุน้ำจำนวน 30 เม็ด</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_14">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนเม็ดยาธาตุน้ำจำนวน 80 เม็ด</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_15">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนโอสถธาตุน้ำที่แตกต่างกัน 10 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_16">
+			<DisplayName>การกลืนวัตถุธาตุไฟทั้งสำนัก</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุธาตุไฟจำนวน 30 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_17">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุธาตุไฟจำนวน 80 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_18">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุธาตุไฟที่แตกต่างกัน 10 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_19">
+			<DisplayName>การกลืนยาธาตุดินทั้งสำนัก</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกลืนโอสถธาตุดินจำนวน 30 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_20">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนโอสถธาตุดินจำนวน 80 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_21">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุธาตุดินที่แตกต่างกัน 10 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_22">
+			<DisplayName>การกลืนวัตถุที่ไม่มีธาตุทั้งสำนัก</DisplayName>
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุที่ไม่มีธาตุจำนวน 300 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_23">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุที่ไม่มีลักษณะเฉพาะจำนวน 800 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_24">
+			<Desc>ศิษย์ในสำนักรวมกันกลืนวัตถุที่ไม่มีธาตุที่แตกต่างกัน 7 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_1">
+			<DisplayName>การทะลวงขอบเขต</DisplayName>
+			<Desc>ศิษย์คนหนึ่งสำเร็จการฝึกพื้นฐาน</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_2">
+			<Desc>ศิษย์คนหนึ่งสร้างแก่นทองคำคำ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_3">
+			<Desc>ศิษย์คนหนึ่งทะลวงขึ้นสู่ขั้นวิญญาณปฐมกาล</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_1">
+			<DisplayName>การทะลวงขอบเขตโดยรวม</DisplayName>
+			<Desc>ศิษย์สายนอกสำเร็จการฝึกพื้นฐานกลายเป็นศิษย์สายในรวมกันจำนวน 3 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_2">
+			<Desc>ศิษย์ในสำนักรวมกันทะลวงขึ้นสู่ขั้นแก่นทองคำคำจำนวน 3 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_3">
+			<Desc>ศิษย์ในสำนักรวมกันเข้าสู่ขั้นวิญญาณปฐมกาลจำนวน 3 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_1">
+			<DisplayName>พูดคุย</DisplayName>
+			<Desc>สำนักทำภารกิจสนทนากับสิ่งมีชีวิตที่แตกต่างกัน 10 ตน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_2">
+			<Desc>สำนักทำภารกิจสนทนากับสิ่งมีชีวิตที่แตกต่างกัน 20 ตน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_3">
+			<Desc>สำนักทำภารกิจสนทนากับสิ่งมีชีวิตที่แตกต่างกัน 30 ตน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_1">
+			<DisplayName>พูดคุย</DisplayName>
+			<Desc>สำนักทำภารกิจสนทนากับสิ่งมีชีวิตที่แตกต่างกัน 3 ตน และทำลายการป้องกันจิตใจของพวกเขา</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_2">
+			<Desc>สำนักทำภารกิจสนทนากับสิ่งมีชีวิตที่แตกต่างกัน 8 ตน และทำลายการป้องกันจิตใจของพวกเขา</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_3">
+			<Desc>สำนักทำภารกิจสนทนากับสิ่งมีชีวิตที่แตกต่างกัน 24 ตน และทำลายการป้องกันจิตใจของพวกเขา</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_1">
+			<DisplayName>เชิญชวน</DisplayName>
+			<Desc>สำนักได้เชิญคนธรรมดามาเยี่ยมสำนักจำนวน 3 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_2">
+			<Desc>สำนักได้เชิญคนธรรมดาจำนวน 12 คนมาเยี่ยม</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_3">
+			<Desc>สำนักได้เชิญผู้ฝึกตนขั้นสร้างแก่นลมปราณจำนวน 3 คนหรือมากกว่ามาเยี่ยม</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_4">
+			<Desc>สำนักได้เชิญผู้ฝึกตนขั้นแก่นทองคำคำจำนวน 10 คนหรือมากกว่ามาเยี่ยม</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_5">
+			<Desc>สำนักได้เชิญผู้ฝึกตนขั้นพื้นฐานลมปราณหรือสูงกว่ามาเยี่ยมจำนวน 1 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_1">
+			<DisplayName>ของขวัญ</DisplayName>
+			<Desc>มอบวัตถุใดๆ ให้กับผู้ฝึกตนที่แตกต่างกัน 3 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_2">
+			<Desc>มอบวัตถุใดๆ ให้กับผู้ฝึกตนที่แตกต่างกัน 12 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_3">
+			<Desc>สำนักมอบของขวัญให้กับผู้ฝึกตนที่แตกต่างกัน 36 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_1">
+			<DisplayName>จำนวนการนั่งบำเพ็ญของศิษย์คนหนึ่ง</DisplayName>
+			<Desc>ศิษย์คนหนึ่งสะสมการนั่งบำเพ็ญป็นเวลา 3 วัน</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_2">
+			<Desc>ศิษย์คนหนึ่งสะสมการนั่งบำเพ็ญป็นเวลา 12 วัน</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_3">
+			<Desc>ศิษย์คนหนึ่งสะสมการนั่งบำเพ็ญป็นเวลา 36 วัน</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_4">
+			<DisplayName>จำนวนการนั่งบำเพ็ญเต็มเวลาของศิษย์คนหนึ่ง</DisplayName>
+			<Desc>ศิษย์คนหนึ่งนั่งบำเพ็ญต่อเนื่องเป็นเวลา 12 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_5">
+			<Desc>ศิษย์คนหนึ่งนั่งบำเพ็ญต่อเนื่องเป็นเวลา 30 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_6">
+			<Desc>ศิษย์คนหนึ่งนั่งบำเพ็ญต่อเนื่องเป็นเวลา 30 วัน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_1">
+			<DisplayName>การนั่งบำเพ็ญสะสมของสำนัก</DisplayName>
+			<Desc>สำนักสะสมการนั่งบำเพ็ญรวมกันเป็นเวลา 30 วัน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_2">
+			<Desc>สำนักสะสมการนั่งบำเพ็ญรวมกันเป็นเวลา 120 วัน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_3">
+			<Desc>สำนักสะสมการนั่งบำเพ็ญรวมกันเป็นเวลา 360 วัน</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_1">
+			<DisplayName>การนอนหลับส่วนบุคคล</DisplayName>
+			<Desc>ศิษย์คนหนึ่งพักผ่อนเต็มอิ่มบนเตียงจำนวน 5 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_2">
+			<Desc>ศิษย์คนหนึ่งพักผ่อนเต็มอิ่มบนเตียงจำนวน 20 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_4">
+			<Desc>ศิษย์คนหนึ่งสะสมการนอนพักบนพื้นจำนวน 12 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_5">
+			<Desc>ศิษย์คนหนึ่งสะสมการนอนพักบนพื้นจำนวน 36 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_6">
+			<Desc>ศิษย์คนหนึ่งสะสมการนอนพักบนพื้นจำนวน 180 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Sleep_1">
+			<DisplayName>การนอนหลับสะสมของสำนัก</DisplayName>
+			<Desc>สำนักสะสมการนอนพักรวมกันเป็นเวลา 120 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Sleep_2">
+			<Desc>สำนักสะสมการนอนพักรวมกันเป็นเวลา 360 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_1">
+			<DisplayName>ความรัก</DisplayName>
+			<Desc>ศิษย์คนหนึ่งถูกสารภาพรักหนึ่งครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_2">
+			<DisplayName>ความรัก</DisplayName>
+			<Desc>ศิษย์คนหนึ่งถูกสารภาพรักจำนวน 3 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_3">
+			<DisplayName>ความรัก</DisplayName>
+			<Desc>ศิษย์คนหนึ่งสารภาพรักหนึ่งครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_4">
+			<DisplayName>ความรัก</DisplayName>
+			<Desc>ศิษย์คนหนึ่งสารภาพรักจำนวน 3 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_5">
+			<DisplayName>ความรัก</DisplayName>
+			<Desc>ศิษย์คนหนึ่งสารภาพรักหนึ่งครั้งและสำเร็จ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_6">
+			<DisplayName>ความรัก</DisplayName>
+			<Desc>ศิษย์คนหนึ่งได้รับการสารภาพรักและยอมรับรัก</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_1">
+			<DisplayName>ได้รับบาดเจ็บ</DisplayName>
+			<Desc>ศิษย์คนหนึ่งได้รับบาดเจ็บเล็กน้อยจำนวน 5 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_2">
+			<Desc>ศิษย์คนหนึ่งได้รับบาดเจ็บเล็กน้อยจำนวน 10 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_3">
+			<Desc>ศิษย์คนหนึ่งได้รับบาดเจ็บกระดูกเล็กน้อยหนึ่งครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_4">
+			<Desc>ศิษย์คนหนึ่งได้รับบาดเจ็บกระดูกเล็กน้อยจำนวน 3 ครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_5">
+			<Desc>ศิษย์คนหนึ่งได้รับบาดเจ็บกระดูกอย่างรุนแรงหนึ่งครั้ง</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_1">
+			<DisplayName>ชื่อเสียงสำนัก</DisplayName>
+			<Desc>คะแนนชื่อเสียงของสำนักเกิน 5,000 คะแนน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_2">
+			<Desc>คะแนนชื่อเสียงของสำนักเกิน 20,000 คะแนน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_3">
+			<Desc>คะแนนชื่อเสียงของสำนักเกิน 180,000 คะแนน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_4">
+			<Desc>คะแนนชื่อเสียงของสำนักเพิ่มขึ้น 500 คะแนนในครั้งเดียว</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_5">
+			<Desc>คะแนนชื่อเสียงของสำนักเพิ่มขึ้น 2,000 คะแนนในครั้งเดียว</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_6">
+			<Desc>คะแนนชื่อเสียงของสำนักเพิ่มขึ้น 10,000 คะแนนในครั้งเดียว</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_1">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>ศิษย์คนหนึ่งสังหารเป้าหมายแบบสุ่มจำนวน 10 เป้าหมาย</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_2">
+			<Desc>ศิษย์คนหนึ่งสังหารเป้าหมายแบบสุ่มจำนวน 30 เป้าหมาย</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_3">
+			<Desc>ศิษย์คนหนึ่งสังหารผู้ฝึกตนขั้นสร้างแก่นลมปราณจำนวน 3 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_4">
+			<Desc>ศิษย์คนหนึ่งสังหารผู้ฝึกตนขั้นแก่นทองคำจำนวน 5 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_5">
+			<Desc>ศิษย์คนหนึ่งสังหารเป้าหมายขั้นวิญญาณปฐมกาลหรือสูงกว่าจำนวน 15 เป้าหมาย</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_6">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>ศิษย์คนหนึ่งสังหารอสูรจำนวน 3 ตัว</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_7">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>ศิษย์คนหนึ่งสังหารอสูรขั้นแก่นทองคำจำนวน 5 ตัวหรือมากกว่า</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_1">
+			<Desc>สำนักรวมกันสังหารเป้าหมายแบบสุ่มจำนวน 100 เป้าหมาย</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_2">
+			<Desc>สำนักรวมกันสังหารเป้าหมายใดๆ จำนวน 300 เป้าหมาย</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_3">
+			<Desc>สำนักสังหารผู้ฝึกตนขั้นสร้างแก่นลมปราณจำนวน 18 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_4">
+			<Desc>สำนักสังหารผู้ฝึกตนขั้นแก่นทองคำจำนวน 30 คน</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_5">
+			<Desc>สำนักรวมกันสังหารเป้าหมายขั้นวิญญาณปฐมกาลหรือสูงกว่าจำนวน 81 เป้าหมาย</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_6">
+			<Desc>สำนักรวมกันสังหารอสูรจำนวน 18 ตัว</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_7">
+			<Desc>สำนักสังหารอสูรขั้นแก่นทองคำหรือสูงกว่าจำนวน 30 ตัว</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_1">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>สังหารกระต่ายจำนวน 7 ตัว ครั้งถัดไปผลคูณสอง</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_2">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>สังหารหมาป่าจำนวน 5 ตัว ครั้งถัดไปผลคูณสอง</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_3">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>สังหารหมีจำนวน 3 ตัว ครั้งถัดไปผลคูณสอง</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_4">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>สังหารเต่าน้ำจำนวน 7 ตัว ครั้งถัดไปผลคูณสอง</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_5">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>สังหารเสือจำนวน 5 ตัว ครั้งถัดไปผลคูณสอง</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_6">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>สังหารวัวจำนวน 5 ตัว ครั้งถัดไปผลคูณสอง</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_7">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>สังหารไก่จำนวน 7 ตัว ครั้งถัดไปผลคูณสอง</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_8">
+			<DisplayName>สังหาร</DisplayName>
+			<Desc>สังหารงูกำลัง 5 ตัว ครั้งถัดไปผลคูณสอง</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Sacrific_1">
+			<DisplayName>สังเวยอสูร</DisplayName>
+			<Desc>การเซ่นสังเวยอสูรถูกมองว่าเป็นการยั่วยุโทสะของวิหารอสูร</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_SchoolLevelUp_1">
+			<DisplayName>ชื่อเสียงสำนัก</DisplayName>
+			<Desc>ระดับชื่อเสียงของสำนักเพิ่มขึ้นหนึ่งระดับ</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_BrokenNeck_1">
+			<DisplayName>การทะลวงขอบเขตโดยรวม</DisplayName>
+			<Desc>ศิษย์คนหนึ่งในสำนักได้สำเร็จการจุติสู่สวรรค์</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_One_Kill_1">
+			<Desc>ศิษย์คนหนึ่งสังหารผู้ฝึกตนขั้นแก่นทองคำหรือสูงกว่า</Desc>
+		</Text>
+	</List>
+</Texts>

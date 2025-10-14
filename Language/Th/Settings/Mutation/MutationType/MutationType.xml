@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Type_HengDing">
+			<DisplayName>คงที่</DisplayName>
+			<Desc>เลือกเอฟเฟกต์ความโกลาหล</Desc>
+		</Text>
+		<Text Name="Mutation_Type_DongDang">
+			<DisplayName>ปั่นป่วน</DisplayName>
+			<Desc>เลือกหนึ่งตัวเลือกจากทั้งเงื่อนไขและเอฟเฟกต์เพื่อรวมกันเป็นเอฟเฟกต์ความผิดปกติที่สมบูรณ์</Desc>
+		</Text>
+		<Text Name="Mutation_Type_YinYang">
+			<DisplayName>หยิน-หยาง</DisplayName>
+			<Desc>เลือกเอฟเฟกต์หยินหนึ่งเอฟเฟกต์และเอฟเฟกต์หยางหนึ่งเอฟเฟกต์เพื่อสร้างความโกลาหลที่สมบูรณ์</Desc>
+		</Text>
+	</List>
+</Texts>

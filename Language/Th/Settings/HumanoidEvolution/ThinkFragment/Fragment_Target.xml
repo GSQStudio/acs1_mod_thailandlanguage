@@ -1,0 +1,174 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Star">
+			<DisplayName>ดวงดาว</DisplayName>
+			<SingleFormat.0>นึกถึงแสง{0}ยามค่ำคืน</SingleFormat.0>
+			<SingleFormat.1>นึกถึง{0}อันกระจ่างเมื่อมองจากหุบเขา</SingleFormat.1>
+		</Text>
+		<Text Name="Cloud">
+			<DisplayName>สมบัติ</DisplayName>
+			<SingleFormat.0>นึกถึง{0}ที่พังได้ง่าย.</SingleFormat.0>
+			<SingleFormat.1>นึกถึง{0}ที่ส่องสว่าง.</SingleFormat.1>
+		</Text>
+		<Text Name="Sun">
+			<DisplayName>ดวงตะวัน</DisplayName>
+			<SingleFormat.0>นึกถึงวันหนึ่งที่{0}นั้นโชติช่วง</SingleFormat.0>
+			<SingleFormat.1>นึกถึง{0}ที่สว่างจ้ายามมองไป</SingleFormat.1>
+		</Text>
+		<Text Name="Moon">
+			<DisplayName>ดวงจันทร์</DisplayName>
+			<SingleFormat.0>นึกถึงแสงนวลของ{0}.</SingleFormat.0>
+			<SingleFormat.1>นึกถึง{0}อันเดี่ยวที่กำลังมองข้า</SingleFormat.1>
+		</Text>
+		<Text Name="Meteriod">
+			<DisplayName>ดาวตก</DisplayName>
+			<SingleFormat.0>นึกขึ้นได้ว่าข้าไม่ค่อยเห็น{0}เท่าไรนัก</SingleFormat.0>
+		</Text>
+		<Text Name="Jade">
+			<DisplayName>อัญมณี</DisplayName>
+			<SingleFormat.0>นึกขึ้นได้ว่าข้าไม่ค่อยเห็น{0}เท่าไรนัก</SingleFormat.0>
+		</Text>
+		<Text Name="Sculpture">
+			<DisplayName>ประติมากรรม</DisplayName>
+			<SingleFormat.0>นึกขึ้นได้ว่า{0}ช่างเหมือนตัวข้ายิ่งนัก</SingleFormat.0>
+		</Text>
+		<Text Name="Spring">
+			<DisplayName>ฤดูใบไม้ผลิ</DisplayName>
+			<SingleFormat.0>อ่า กลิ่นหอมของ{0}.</SingleFormat.0>
+			<SingleFormat.1>ฝนตกในช่วง{0}ทำให้นึกถึงความทรงจำเก่าๆ</SingleFormat.1>
+		</Text>
+		<Text Name="Summer">
+			<DisplayName>ฤดูร้อน</DisplayName>
+			<SingleFormat.0>นึกถึงแดดอันแผดเผาของ{0}.</SingleFormat.0>
+			<SingleFormat.1>นึกถึงเสียงแมลงดังระงมใน{0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Autumn">
+			<DisplayName>ฤดูใบไม้ร่วง</DisplayName>
+			<SingleFormat.0>นึกถึงใบไม้ที่ร่วงหล่นใน{0}.</SingleFormat.0>
+			<SingleFormat.1>นึกถึงใบเมเปิ้ลที่ร่วงโรยใน{0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Winter">
+			<DisplayName>ฤดูหนาว</DisplayName>
+			<SingleFormat.0>นึกถึงอากาศที่หนาวเย็นใน{0}.</SingleFormat.0>
+			<SingleFormat.1>นึกถึงสายลมยะเยือกใน{0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Earth">
+			<DisplayName>พื้นดิน</DisplayName>
+			<SingleFormat.0>นึกถึงสมุนไพรและดอกไม้บน{0}.</SingleFormat.0>
+			<SingleFormat.1>นึกถึง{0}ที่แตกระแหง</SingleFormat.1>
+		</Text>
+		<Text Name="Rain">
+			<DisplayName>ฝนตก</DisplayName>
+			<SingleFormat.0>จดจำได้ถึงการเฝ้ามอง{0}ที่รูเล็กๆ</SingleFormat.0>
+			<SingleFormat.1>จดจำได้ถึงสีของใบไม้ที่เข้มขึ้นเมื่อยาม{0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Snow">
+			<DisplayName>หิมะ</DisplayName>
+			<SingleFormat.0>จดจำได้ถึงความสงบที่{0}มี</SingleFormat.0>
+			<SingleFormat.1>จดจำได้ถึ{0}บนต้นสนใจฤดูหนาว</SingleFormat.1>
+		</Text>
+		<Text Name="Lake">
+			<DisplayName>ทะเลสาบ</DisplayName>
+			<SingleFormat.0>นึกถึงรสชาติของน้ำใน{0}ใหญ่</SingleFormat.0>
+			<SingleFormat.1>นึกถึงปลาใน{0}ใหญ่</SingleFormat.1>
+		</Text>
+		<Text Name="Wind">
+			<DisplayName>สายลม</DisplayName>
+			<SingleFormat.0>นึกถึงความรู้สึกสบายจาก{0}</SingleFormat.0>
+			<SingleFormat.1>นึกถึง{0}ที่ในบางครั้งก็แข็งแกร่งรุนแรง</SingleFormat.1>
+		</Text>
+		<Text Name="Thunder">
+			<DisplayName>สายฟ้า</DisplayName>
+			<SingleFormat.0>นึกถึงความมืดยามเมื่อ{0}ปรากฏ</SingleFormat.0>
+			<SingleFormat.1>นึกการ{0}ที่ทำให้ผู้คนเผ่นป่าราบ</SingleFormat.1>
+		</Text>
+		<Text Name="Tree">
+			<DisplayName>ต้นไม้</DisplayName>
+			<SingleFormat.0>นึกถึง{0}ที่เต็มไปด้วยนก</SingleFormat.0>
+			<SingleFormat.1>นึกถึงการเก็บผลไม้จาก{0}</SingleFormat.1>
+		</Text>
+		<Text Name="Flower">
+			<DisplayName>ดอกไม้</DisplayName>
+			<SingleFormat.0>นึกถึงสีสันทั้งหมดที่{0}มี</SingleFormat.0>
+			<SingleFormat.1>นึกถึงความบอบบางของ{0}</SingleFormat.1>
+		</Text>
+		<Text Name="Human">
+			<DisplayName>มนุษย์</DisplayName>
+			<SingleFormat.0>นึกถึง{0}ที่มีแนวโน้มว่าจะทำได้ทุกสิ่ง</SingleFormat.0>
+			<SingleFormat.1>นึกถึงวิธีที่{0}ป้อนอาหาร</SingleFormat.1>
+		</Text>
+		<Text Name="Self">
+			<DisplayName>ตัวเอง</DisplayName>
+			<SingleFormat.0>นึกถึง{0}ยามเมื่อมองเงาสะท้อนในน้ำ</SingleFormat.0>
+		</Text>
+		<Text Name="Food">
+			<DisplayName>อาหาร</DisplayName>
+			<SingleFormat.0>นึกถึง{0}ที่ชอบ</SingleFormat.0>
+			<SingleFormat.1>นึกขึ้นได้ว่าในบางครั้งผู้คนก็ถูกจัดว่าเป็น{0}</SingleFormat.1>
+		</Text>
+		<Text Name="Barrier">
+			<DisplayName>รั้ว</DisplayName>
+			<SingleFormat.0>นึกถึง{0}ที่ในบางครั้งก็กีดขวางทาง</SingleFormat.0>
+		</Text>
+		<Text Name="Weed">
+			<DisplayName>วัชพืช</DisplayName>
+			<SingleFormat.0>นึกถึงยำสลัดจากสารพัด{0}</SingleFormat.0>
+		</Text>
+		<Text Name="Wall">
+			<DisplayName>กำแพง</DisplayName>
+			<SingleFormat.0>นึกถึงความแข็งของ{0}ที่มันควรจะเป็น</SingleFormat.0>
+		</Text>
+		<Text Name="Coat">
+			<DisplayName>เสื้อผ้า</DisplayName>
+			<SingleFormat.0>นึกขึ้นได้ว่า{0}บางชิ้นก็ทำมาจากขนสัตว์</SingleFormat.0>
+			<SingleFormat.1>นึกถึงสีสันฉูดฉาดที่{0}ควรจะมี</SingleFormat.1>
+		</Text>
+		<Text Name="Pants">
+			<DisplayName>กางเกง</DisplayName>
+			<SingleFormat.0>นึกขึ้นได้ว่า{0}บางชิ้นก็ทำมาจากขนสัตว์</SingleFormat.0>
+			<SingleFormat.1>นึกถึงสีสันฉูดฉาดที่{0}ควรจะมี</SingleFormat.1>
+		</Text>
+		<Text Name="Fellows">
+			<DisplayName>มิตรสหาย</DisplayName>
+			<SingleFormat.0>นึกถึง{0}มากมายที่ตายไป</SingleFormat.0>
+			<SingleFormat.1>นึกถึงช่วงเวลาที่ได้อยู่ร่วมกันกับ{0}</SingleFormat.1>
+		</Text>
+		<Text Name="Mines">
+			<DisplayName>แร่</DisplayName>
+			<SingleFormat.0>นึกได้ว่า{0}บางอันก็ส่องแสงได้</SingleFormat.0>
+			<SingleFormat.1>นึกได้ว่า{0}บางอันก็มีกลิ่นแปลกๆ</SingleFormat.1>
+		</Text>
+		<Text Name="Weapon">
+			<DisplayName>อาวุธ</DisplayName>
+			<SingleFormat.0>นึกถึง{0}ที่ถูกใช้ในการสังหารมิตรสหาย</SingleFormat.0>
+		</Text>
+		<Text Name="Nature">
+			<DisplayName>ปราณแห่งปฐมกาล</DisplayName>
+			<SingleFormat.0>นึกถึง{0}ท่ามกลางจักรวาล</SingleFormat.0>
+		</Text>
+		<Text Name="Fog">
+			<DisplayName>หมอก</DisplayName>
+			<SingleFormat.0>นึกถึงแสงสลัวท่ามกลาง{0}.</SingleFormat.0>
+		</Text>
+		<Text Name="House">
+			<DisplayName>ประตู</DisplayName>
+			<SingleFormat.0>นึกถึงผู้คนที่เดินผ่าน{0}</SingleFormat.0>
+			<SingleFormat.1>นึกถึงสายลมที่ไม่สามารถผ่าน{0}ได้</SingleFormat.1>
+		</Text>
+		<Text Name="Farm">
+			<DisplayName>ไร่</DisplayName>
+			<SingleFormat.0>นึกถึงกลิ่นสุดแย่ของ{0}.</SingleFormat.0>
+			<SingleFormat.1>นึกถึงตัวเองที่ผ่อนคลายภายใน{0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Sharp">
+			<DisplayName>เข็ม</DisplayName>
+			<SingleFormat.0>นึกถึงความคมของ{0}ที่มันควรจะเป็น</SingleFormat.0>
+			<SingleFormat.1>นึกถึงความเจ็บปวดยามถูก{0}ทิ่มแทง</SingleFormat.1>
+		</Text>
+		<Text Name="Ring">
+			<DisplayName>ปลอกคอ</DisplayName>
+			<SingleFormat.0>นึกถึงความอึดอัดจาก{0}.</SingleFormat.0>
+			<SingleFormat.1>นึกถึง{0}บนคอของสัตว์อสูร</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>

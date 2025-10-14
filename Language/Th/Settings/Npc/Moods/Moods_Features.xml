@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Optimistic">
+			<DisplayName>มองโลกในแง่ดี</DisplayName>
+			<Desc>ทุกสิ่งทุกอย่างมันย่อมต้องมีการขึ้นๆ ลงๆ เสมอ ข้าพูดถูกและเปล่า?</Desc>
+			<StoryDesc>มองโลกในแง่ดีเฉกเช่นเคย</StoryDesc>
+		</Text>
+		<Text Name="Pessimism">
+			<DisplayName>มองโลกในแง่ร้าย</DisplayName>
+			<Desc>โลกใบนี้ถูกสร้างมาทำไมกัน? ทำไมพวกเราถึงต้องมาทนทุกข์เช่นนี้ด้วย?</Desc>
+			<StoryDesc>มองโลกในแง่ร้ายเฉกเช่นเคย</StoryDesc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>ไม่มีความสุข</DisplayName>
+			<Desc>ทุกสิ่งทุกอย่าง... มันช่างไร้ความหมาย</Desc>
+			<StoryDesc>หดหู่เฉกเช่นเคย</StoryDesc>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>เศร้าเสียใจ</DisplayName>
+			<Desc>ข้ารู้สึกเสียใจจริงๆ... ถ้าหากย้อนเวลากลับไปได้ละก็... ชีวิตหลังจากนี้ของข้าคงได้แต่จมอยู่กับความเจ็บปวด ข้าก็ได้แต่หวังว่าข้าจะได้มีโอกาสในการชดใช้บาปของข้า</Desc>
+			<StoryDesc>ยังคงจมอยู่กับความรู้สึกเสียใจ</StoryDesc>
+		</Text>
+	</List>
+</Texts>

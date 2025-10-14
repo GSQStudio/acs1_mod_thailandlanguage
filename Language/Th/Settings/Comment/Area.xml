@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="AreaRoom">
+			<Notes>ความคิดเห็นเกี่ยวกับโครงสร้างห้อง</Notes>
+			<Title>ห้อง</Title>
+			<Desc>พื้นที่จำกัดที่ล้อมรอบด้วยกำแพงและหิน</Desc>
+		</Text>
+		<Text Name="AreaWarehouse">
+			<Notes>ความคิดเห็นเกี่ยวกับพื้นที่เก็บของ</Notes>
+			<Title>พื้นที่เก็บของ</Title>
+			<Desc>พื้นที่สำหรับเก็บของ</Desc>
+		</Text>
+		<Text Name="AreaFarmland">
+			<Notes>ความคิดเห็นเกี่ยวกับพื้นที่เพาะปลูก</Notes>
+			<Title>พื้นที่เพาะปลูก</Title>
+			<Desc>พื้นที่สำหรับเพาะปลูกพืช</Desc>
+		</Text>
+		<Text Name="AreaHerbsField">
+			<Notes>ความคิดเห็นเกี่ยวกับสวนสมุนไพร</Notes>
+			<Title>สวนสมุนไพร</Title>
+			<Desc>พื้นที่สำหรับเพาะปลูกสมุนไพร</Desc>
+		</Text>
+		<Text Name="AreaTransaction">
+			<Notes>ความคิดเห็นเกี่ยวกับพื้นที่ค้าขาย</Notes>
+			<Title>พื้นที่ค้าขาย</Title>
+			<Desc>พื้นที่สำหรับคำการค้าขายแลกเปลี่ยน</Desc>
+		</Text>
+	</List>
+</Texts>

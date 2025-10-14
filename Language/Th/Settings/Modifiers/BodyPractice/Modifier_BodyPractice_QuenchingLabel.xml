@@ -1,0 +1,130 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_QuenchingLabel_ChiYi">
+			<DisplayName>ปฏิเสธ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Organ">
+			<DisplayName>อวัยวะเสริมแกร่งพื้นฐาน</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Bone">
+			<DisplayName>กระดูกเสริมแกร่งพื้นฐาน</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Flesh">
+			<DisplayName>กายเนื้อเสริมแกร่งพื้นฐาน</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv1_O01_All">
+			<DisplayName>อวัยวะเคลือบปราณ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_All">
+			<DisplayName>ระเบิดศักยภาพ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O02_All">
+			<DisplayName>ฟื้นฟูโดยธรรมชาติ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_O01_All">
+			<DisplayName>ย้อนรอยสายเลือด (อวัยวะ)</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Xia">
+			<DisplayName>กระตุ้นการทำงาน</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_DaYaoYuanJing">
+			<DisplayName>อวัยวะอสูรร้าย</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_SiHunZhiXi">
+			<DisplayName>ลมปราณซากศพ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_WuHuiJingHua">
+			<DisplayName>อักขระอสูร</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_WuHuiJingHua">
+			<DisplayName>เสียรูปภายใน</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_WuXingZhiJing">
+			<DisplayName>พลังงานลวงตา</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
+			<DisplayName>วงจรหยินยาง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYangJingHua">
+			<DisplayName>รูปแบบแก่นตะวัน</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYinJingHua">
+			<DisplayName>รูปแบบแก่นจันทรา</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_JieMieJingHua">
+			<DisplayName>สวรรค์รวมหนึ่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_TaiXuJingHua">
+			<DisplayName>พลังอนัตตา</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_TaiXuJingHua">
+			<DisplayName>ชีพจรทั้งแปด</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_TaiXuJingHua">
+			<DisplayName>พลังไร้รูป</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_XuanTianZiQi">
+			<DisplayName>พลังดวงดารา</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_XuanTianZiQi">
+			<DisplayName>พลังกักขัง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_XuanTianZiQi">
+			<DisplayName>พลังต่อต้าน</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_F01_Dong">
+			<DisplayName>สายเลือดซ่อนเร้น</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_Dong">
+			<DisplayName>กระดูกที่ถูกผนึก</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Dong">
+			<DisplayName>วงจรย้อนกลับ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_TaiYangJingHua">
+			<DisplayName>ปราณตะวัน</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Brain">
+			<DisplayName>สมองเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Eye">
+			<DisplayName>ดวงตาเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Ear">
+			<DisplayName>หูเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Nose">
+			<DisplayName>จมูกเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Mouth">
+			<DisplayName>ปากเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Throat">
+			<DisplayName>คอเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Heart">
+			<DisplayName>หัวใจเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Liver">
+			<DisplayName>ตับเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Spleen">
+			<DisplayName>ม้ามเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Lung">
+			<DisplayName>ปอดเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Kidney">
+			<DisplayName>ไตเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Stomach">
+			<DisplayName>กระเพาะเสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Intestines">
+			<DisplayName>ลำไส้เสริมแกร่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Genitals">
+			<DisplayName>อวัยเพศเสริมแกร่ง</DisplayName>
+		</Text>
+	</List>
+</Texts>

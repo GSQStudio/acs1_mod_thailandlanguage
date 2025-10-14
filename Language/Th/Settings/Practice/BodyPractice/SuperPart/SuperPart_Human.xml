@@ -1,0 +1,10 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Human_1">
+			<Prefix>ผนึก</Prefix>
+			<Suffix>วิถีห้าธาตุ</Suffix>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มฐานความแม่นยำในการโจมตีของกายาเร้นลับ</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

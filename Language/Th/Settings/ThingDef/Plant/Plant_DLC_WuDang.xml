@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="DLC_Plant_HuangJing" sParam="Plant">
+			<ThingName>แกนดิน</ThingName>
+			<Desc>สมุนไพรที่เติบโตอยู่บนภูเขาบู๊ตึ้ง มันชอบร่มเงาและสถานที่ที่มีความชื้น จำเป็นต้องปลูกมันลงไปในดินที่มีความอุดมสมบูรณ์</Desc>
+		</Text>
+	</List>
+</Texts>

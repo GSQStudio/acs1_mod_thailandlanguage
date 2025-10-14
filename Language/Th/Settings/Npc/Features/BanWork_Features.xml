@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NoHeavyWork">
+			<DisplayName>ไข่ในหิน</DisplayName>
+			<Desc>มีชีวิตอยู่อย่างสะดวดสบายทำให้[IT]ไม่สามารถทำงานหนักได้</Desc>
+		</Text>
+		<Text Name="NoMeticulousWork">
+			<DisplayName>เงอะงะ</DisplayName>
+			<Desc>บุคคลนี้เงอะงะเกินกว่าจะทำงานที่ต้องใช้ความแม่นยำ</Desc>
+		</Text>
+	</List>
+</Texts>

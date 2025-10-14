@@ -1,0 +1,184 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_13_Yang_a0">
+			<DisplayName>จิตเทพขันติ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_a3">
+			<DisplayName>เนตรใจพิสุทธิ์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_a6">
+			<DisplayName>ปราณยอดสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_a8">
+			<DisplayName>คัมภีร์ลี้ลับห้าธาตุ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b0">
+			<DisplayName>สร้างสายน้ำ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b3">
+			<DisplayName>คาถาแสงสุริยา</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b4">
+			<DisplayName>เปิดจิตมองตัวตน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b8">
+			<DisplayName>แสงตะวันเที่ยงแท้</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b8_1">
+			<DisplayName>กลวิธีปราณไหลเวียน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c0">
+			<DisplayName>เพ่งจิตฝึกปราณ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c1">
+			<DisplayName>ทำนายวัฏจักรชะตาฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c3">
+			<DisplayName>ร่างตะวันเที่ยงแท้หกหยาง</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c4">
+			<DisplayName>บันทึกไร้สิ้นสุด</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c8">
+			<DisplayName>แก่นแห่งพรสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c10">
+			<DisplayName>หกก้าวย่ำสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c10_1">
+			<DisplayName>ย่างก้าวหยินหยางทวยเทพซ้อนเร้น</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d0">
+			<DisplayName>หลอมผลึกเต๋า</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d1">
+			<DisplayName>จิตวิญญาณลี้ลับหยินและหยาง</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d4">
+			<DisplayName>หกหยางเก้าหยินสองอมตะ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d4_1">
+			<DisplayName>คัมภีร์เต๋าเมฆาม่วง</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d7">
+			<DisplayName>กระบี่ลืมเลือน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d7_1">
+			<DisplayName>กระบี่วัฏจักรการเกิด</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d7_2">
+			<DisplayName>ตำรากระบี่ผู้พิชืต</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d8">
+			<DisplayName>กระบี่สัจธรรม</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d8_1">
+			<DisplayName>วิถีสัจธรรม</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d9">
+			<DisplayName>ทำนองสะท้อนตัวตน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d9_1">
+			<DisplayName>ผสานสรรพสิ่ง</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d9_2">
+			<DisplayName>แก่นแท้แห่งบูรพา</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_a0">
+			<DisplayName>ปราณรักษา</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_a5">
+			<DisplayName>ปราณแห่งมลทิน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_a8">
+			<DisplayName>คัมภีร์ลี้ลับห้าธาตุ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_a10">
+			<DisplayName>ปราณบรรพกาล</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b0">
+			<DisplayName>สร้างแผ่นดิน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b4">
+			<DisplayName>เปิดจิตมองตัวตน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b5">
+			<DisplayName>ตรายันต์แห่งดวงจันทร์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b8">
+			<DisplayName>แสงจันทราบริสุทธิ์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b8_1">
+			<DisplayName>กลวิธีปราณไหลเวียน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c0">
+			<DisplayName>เพ่งจิตฝึกปราณ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c1">
+			<DisplayName>การทำนายแห่งเทพ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c4">
+			<DisplayName>บันทึกไร้สิ้นสุด</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c5">
+			<DisplayName>เส้นชีพจรลมปราณเก้าหยิน</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c8">
+			<DisplayName>แก่นแห่งพรสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c10">
+			<DisplayName>เมฆาซ่อนฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c10_1">
+			<DisplayName>ย่างก้าวหยินหยางทวยเทพซ้อนเร้น</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d0">
+			<DisplayName>หลอมผลึกเต๋า</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d1">
+			<DisplayName>จิตวิญญาณลี้ลับหยินและหยาง</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d4">
+			<DisplayName>หกหยางเก้าหยินสองอมตะ</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d4_1">
+			<DisplayName>คัมภีร์เต๋าเมฆาม่วง</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d7">
+			<DisplayName>กระบี่จักรพรรดิ์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d7_1">
+			<DisplayName>กระบี่วัฏจักรการเกิด</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d7_2">
+			<DisplayName>ตำรากระบี่ผู้พิชืต</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d8">
+			<DisplayName>เวทสัจธรรม</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d8_1">
+			<DisplayName>วิถีสัจธรรม</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d9">
+			<DisplayName>ปฐมกาลต้นกำเนิด</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d9_1">
+			<DisplayName>ผสานสรรพสิ่ง</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d9_2">
+			<DisplayName>แก่นแท้แห่งบูรพา</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_e4">
+			<DisplayName>โอสถเทพวิถีฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_e8">
+			<DisplayName>ทักษะหลอมวิถีสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_e4">
+			<DisplayName>โอสถเทพวิถีฟ้า</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_e8">
+			<DisplayName>ทักษะหลอมวิถีสวรรค์</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Wheat" sParam="Plant">
+			<ThingName>ข้าวสาลี</ThingName>
+			<Desc>แหล่งอาหารหลัก แม้จะใช้เวลาในการเติบโตเป็นเวลานาน แต่มันก็เป็นพืชที่มีความยืดหยุ่นสูงเป็นอย่างมาก มันสามารถเติบโตได้ดีในอุณหภูมิระหว่าง [temperature]0[/temperature] ถึง [temperature]40[/temperature] อีกทั้งมันยังให้ผลผลิตเยอะมากในการเก็บเกี่ยวแต่ละครั้ง</Desc>
+		</Text>
+		<Text Name="Healroot" sParam="Plant">
+			<ThingName>สมุนไพรป่า</ThingName>
+			<Desc>สมุนไพรสามัญที่ใช้กันอย่างแพร่หลายและมันมักจะถูกนำไปใช้ในการปรุงยาอยู่บ่อยครั้ง มันสามารถเติบโตได้ในอุณหภูมิระหว่าง [temperature]10[/temperature] ถึง [temperature]40[/temperature] เท่านั้น</Desc>
+		</Text>
+		<Text Name="Cotton" sParam="Plant">
+			<ThingName>ฝ้าย</ThingName>
+			<Desc>แหล่งวัตถุดิบหลักในการผลิตผ้า มันสามารถเติบโตได้ดีในอุณหภูมิระหว่าง [temperature]5[/temperature] ถึง [temperature]35[/temperature] สามารถหามันได้ในระหว่างการผจญภัยที่ภูเขาเหลียง</Desc>
+		</Text>
+		<Text Name="Mushroom" sParam="Plant">
+			<ThingName>เห็ด</ThingName>
+			<Desc>เห็ดทั่วๆ ไป มันมักเติบโตในอุณหภูมิระหว่าง [temperature]18[/temperature] ถึง [temperature]23[/temperature] และสามารถเติบโตได้ในสภาพแวดล้อมที่มืดเท่านั้น</Desc>
+		</Text>
+	</List>
+</Texts>

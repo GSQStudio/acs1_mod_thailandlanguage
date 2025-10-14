@@ -1,0 +1,69 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>มังกรเทียน</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongFight">
+			<DisplayName>มังกรเทียน</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_ShadowFight">
+			<DisplayName>เงาสงคราม</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YangShadow">
+			<DisplayName>ภูตแห่งแสง</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YinShadow">
+			<DisplayName>ภูตแห่งความมืด</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_LongPuFix">
+			<DisplayName>บริวารมังกร</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhuLong_Part">
+			<DisplayName>ร่างของมังกรเทียน</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongShadow">
+			<DisplayName>เงาของมังกรเทียน</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_NightGod">
+			<DisplayName>เทพแห่งราตรีนิรันทร์</DisplayName>
+			<Desc>ได้รับ [ลมหายใจน้ำแข็งแสงจันทร์] 1 ชั้นทุกๆ 6 วินาที มีเพียงอาวุธวิเศษและปราณเวทธาตุหยาง(ไฟ,ไม้)เท่านั้นที่จะสร้างความเสียหายได้อย่างเต็มที่ อาวุธวิเศษและปราณเวทธาตุดินจะสร้างความเสียหายได้เพียงเล็กน้อยเท่านั้น ส่วนความเสียหายจากธาตุหยินทั้งหมดจะถูกดูดกลืน</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Night">
+			<DisplayName>ลมหายใจน้ำแข็งแสงจันทร์</DisplayName>
+			<Desc>เมื่อลมหายใจน้ำแข็งแสงจันทร์เพิ่มขึ้นจนถึงระดับ 100 เมื่อนั้นมันจะปลดปล่อยร่างอสูรสวรรค์ออกมา</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_DayGod">
+			<DisplayName>เทพแห่งตะวันไร้สิ้นสุด</DisplayName>
+			<Desc>ได้รับ [ลมหายใจเพลิงสุริยัน] 1 ชั้นทุกๆ 6 วินาที มีเพียงอาวุธวิเศษและปราณเวทธาตุหยิน(ทอง,น้ำ)เท่านั้นที่จะสร้างความเสียหายได้อย่างเต็มที่ อาวุธวิเศษและปราณเวทธาตุดินจะสร้างความเสียหายได้เพียงเล็กน้อยเท่านั้น ส่วนความเสียหายจากธาตุหยางทั้งหมดจะถูกดูดกลืน</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Day">
+			<DisplayName>ลมหายใจเพลิงสุริยัน</DisplayName>
+			<Desc>เมื่อลมหายใจเพลิงสุริยันเพิ่มขึ้นจนถึงระดับ 100 เมื่อนั้นมันจะปลดปล่อยพลังกฎแห่งกรรมออกมา</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Shennian">
+			<DisplayName>สะกดวิญญาณ</DisplayName>
+			<Desc>ทุกๆ ชั้น จะลดสภาวะจิตไป 2 ผลลัพธ์จะหมดไปเมื่อมังกรเทียนเปลี่ยนสภาวะ</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Zuinie">
+			<DisplayName>วัฎจักรแห่งบาป</DisplayName>
+			<Desc>ทุกๆ ชั้น จะลดแต้มบาปไป 2 ผลลัพธ์จะหมดไปเมื่อมังกรเทียนเปลี่ยนสภาวะ</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen">
+			<DisplayName>เพลิงแห่งกรรม</DisplayName>
+			<Desc>แต้มบาปจะเพิ่มขึ้นชั่วคราวเป็นจำนวน 1000 ทว่าเมื่อมันจบลง แต้มบาปจะลดลงอย่างถาวรเป็นจำนวน 200</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen_end">
+			<DisplayName>เพลิงแห่งกรรม</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao">
+			<DisplayName>เกราะแห่งจิต</DisplayName>
+			<Desc>สภาวะจิตจะเพิ่มขึ้นชั่วคราวเป็นจำนวน 100 ทว่าเมื่อมันจบลง สภาวะจิตจะลดลงอย่างถาวรเป็นจำนวน 20</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao_end">
+			<DisplayName>เกราะแห่งจิต</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongIdleEffect">
+			<DisplayName>เคล็ดวิชามังกรเทียน</DisplayName>
+		</Text>
+	</List>
+</Texts>

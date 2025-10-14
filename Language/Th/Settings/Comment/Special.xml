@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SpecialZhen">
+			<Notes>ความคิดเห็นเกี่ยวกับค่ายกล</Notes>
+			<Title>ค่ายกล</Title>
+			<Desc>รวมพลังของคนหลายคนให้เป็นหนึ่งเดียว นั่นคือแนวคิดอันสูงสุดเกี่ยวกับวิถีแห่งค่ายกล</Desc>
+		</Text>
+		<Text Name="SpecialElixirGas">
+			<Notes>ความคิดเห็นเกี่ยวกับปราณหลอมโอสถ</Notes>
+			<Title>ปราณหลอมโอสถ</Title>
+			<Desc>ปราณหลอมโอสถในสำนัก</Desc>
+		</Text>
+		<Text Name="SpecialSacrific">
+			<Notes>ความคิดเห็นเกี่ยวกับการเซ่นสังเวยอสูร</Notes>
+			<Title>การเซ่นสังเวยอสูร</Title>
+			<Desc>หน้าต่างการเซ่นสังเวยอสูร</Desc>
+		</Text>
+		<Text Name="SpecialMutation">
+			<Notes>ความคิดเห็นเกี่ยวกับความโกลาหลแห่งสวรรค์</Notes>
+			<Title>ความโกลาหลแห่งสวรรค์</Title>
+			<Desc>เต๋าสวรรค์ในแดนนี้ได้เข้าสู่ช่วงสุดท้าย ยิ่งทำให้กฎสวรรค์ที่ปั่นป่วนอยู่แล้วไร้เสถียรภาพยิ่งขึ้น</Desc>
+		</Text>
+	</List>
+</Texts>

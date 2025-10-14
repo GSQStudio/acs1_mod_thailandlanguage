@@ -1,0 +1,64 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Spouse">
+			<DisplayNameF>ภรรยา</DisplayNameF>
+			<DisplayNameM>สามี</DisplayNameM>
+		</Text>
+		<Text Name="Child">
+			<DisplayNameF>บุตรสาว</DisplayNameF>
+			<DisplayNameM>บุตรชาย</DisplayNameM>
+		</Text>
+		<Text Name="Brother">
+			<DisplayNameF>พี่สาวน้องสาว</DisplayNameF>
+			<DisplayNameM>พี่ชายน้องชาย</DisplayNameM>
+		</Text>
+		<Text Name="Parent">
+			<DisplayNameF>มารดา</DisplayNameF>
+			<DisplayNameM>บิดา</DisplayNameM>
+		</Text>
+		<Text Name="GodChild">
+			<DisplayNameF>บุตรสาวบุญธรรม</DisplayNameF>
+			<DisplayNameM>บัตรชายบุญธรรม</DisplayNameM>
+		</Text>
+		<Text Name="GodParent">
+			<DisplayNameF>มารดาบุญธรรม</DisplayNameF>
+			<DisplayNameM>บิดาบุญธรรม</DisplayNameM>
+		</Text>
+		<Text Name="BiaoBrother">
+			<DisplayNameF>ลูกพี่ลูกน้อง</DisplayNameF>
+			<DisplayNameM>ลูกพี่ลูกน้อง</DisplayNameM>
+		</Text>
+		<Text Name="Friend">
+			<DisplayNameF>เพื่อน</DisplayNameF>
+			<DisplayNameM>เพื่อน</DisplayNameM>
+		</Text>
+		<Text Name="Fancy">
+			<DisplayNameF>คนในฝัน</DisplayNameF>
+			<DisplayNameM>คนในฝัน</DisplayNameM>
+		</Text>
+		<Text Name="FancyFlag">
+			<DisplayNameF>คนที่แอบรักในตัว</DisplayNameF>
+			<DisplayNameM>คนที่แอบรักในตัว</DisplayNameM>
+		</Text>
+		<Text Name="Lover">
+			<DisplayNameF>คนรัก</DisplayNameF>
+			<DisplayNameM>คนรัก</DisplayNameM>
+		</Text>
+		<Text Name="RivalInlove">
+			<DisplayNameF>คู่แข่งความรัก</DisplayNameF>
+			<DisplayNameM>คู่แข่งความรัก</DisplayNameM>
+		</Text>
+		<Text Name="PersonalEnemy">
+			<DisplayNameF>ศัตรู</DisplayNameF>
+			<DisplayNameM>ศัตรู</DisplayNameM>
+		</Text>
+		<Text Name="Reincarnation">
+			<DisplayNameF>ชาติที่แล้ว</DisplayNameF>
+			<DisplayNameM>ชาติที่แล้ว</DisplayNameM>
+		</Text>
+		<Text Name="SYS_LOST">
+			<DisplayNameF>ไม่รู้ (ว่างเปล่า)</DisplayNameF>
+			<DisplayNameM>ไม่รู้ (ว่างเปล่า)</DisplayNameM>
+		</Text>
+	</List>
+</Texts>

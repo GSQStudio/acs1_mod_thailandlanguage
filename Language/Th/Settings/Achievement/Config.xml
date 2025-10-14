@@ -1,0 +1,73 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="kind_1">
+			<Desc>ตัวละครที่เหินสวรรค์แล้ว: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_2">
+			<Desc>การผจญภัย: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_3">
+			<Desc>การปรุงโอสถ/แอลเคมี: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_4">
+			<Desc>สิ่งประดิษฐ์ที่สร้างขึ้น: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_5">
+			<Desc>ยันต์ที่วาด: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_6">
+			<Desc>สิ่งมีชีวิตที่ถูกสังหาร: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_7">
+			<Desc>ผู้ฝึกตนที่ถูกสังหาร: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_8">
+			<Desc>อาหารที่สร้าง: {0:F0} ประเภท</Desc>
+		</Text>
+		<Text Name="kind_9">
+			<Desc>ศิลปะหายาก: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_10">
+			<Desc>การเกลี้ยกล่อมที่สำเร็จ: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_11">
+			<Desc>ตำราที่เรียนรู้: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_12">
+			<Desc>ศิษย์ที่เสียชีวิต: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_13">
+			<Desc>ศิษย์ชั้นในที่เสียชีวิต: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_14">
+			<Desc>การครอบครอง: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_15">
+			<Desc>การทำสมาธิ: {0:F0} วินาที</Desc>
+		</Text>
+		<Text Name="kind_16">
+			<Desc>การค้นหาวิญญาณ: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_17">
+			<Desc>อายุขัยที่ถูกแย่งชิง: {0:F0} วินาที</Desc>
+		</Text>
+		<Text Name="kind_18">
+			<Desc>วิญญาณที่กลั่นแล้ว: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_19">
+			<Desc>วิญญาณที่ยึดมา: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_20">
+			<Desc>ร่างศพที่กลั่นแล้ว: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_21">
+			<Desc>การบูชายัญ: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_22">
+			<Desc>วิญญาณที่สิงสู่: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_23">
+			<Desc>สิ่งประดิษฐ์ระดับสูง: {0:F0}</Desc>
+		</Text>
+	</List>
+</Texts>

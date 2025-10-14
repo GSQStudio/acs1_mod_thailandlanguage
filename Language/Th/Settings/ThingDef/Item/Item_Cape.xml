@@ -1,0 +1,63 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_CapeBase" sParam="Item">
+			<Item.FabaoSuffix>ไหม,เส้นด้าย,ผ้าแพร</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cape_Nomal1" sParam="Item">
+			<ThingName>ผ้าคลุมเพลิง</ThingName>
+			<Desc>เสื้อคลุมสำหรับการแต่งกาย มันเป็นที่นิยมกันในหมู่ผู้ฝึกตน</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal2" sParam="Item">
+			<ThingName>ผ้าคลุมเมฆา</ThingName>
+			<Desc>เสื้อคลุมสำหรับการแต่งกาย มันเป็นที่นิยมกันในหมู่ผู้ฝึกตน</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal3" sParam="Item">
+			<ThingName>ผ้าคลุมทมิฬ</ThingName>
+			<Desc>เสื้อคลุมสำหรับการแต่งกาย มันเป็นที่นิยมกันในหมู่ผู้ฝึกตน</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal4" sParam="Item">
+			<ThingName>ผ้าคลุมแสง</ThingName>
+			<Desc>เสื้อคลุมสำหรับการแต่งกาย มันเป็นที่นิยมกันในหมู่ผู้ฝึกตน</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp1" sParam="Item">
+			<ThingName>โจวหลิว</ThingName>
+			<Desc>เสื้อคลุมที่มีลวดลายวิจิตรงดงาม เป็นสัญลักษณ์ของผู้ชนะการแข่งขันปราณเวทจากเทศกาลแห่งเขาคุนหลุน</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp2" sParam="Item">
+			<ThingName>ไฟผลาญนภา</ThingName>
+			<Desc>สัญลักษณ์แห่งชัยชนะเหนือวิหคเพลิง ลวดลายบนมันคือการนำเสนอธรรมชาติของแก่นแท้บนร่างของวิหคเพลิง มันดูลึกลับมาก</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp3" sParam="Item">
+			<ThingName>เมฆาน้ำแข็ง</ThingName>
+			<Desc>สัญลักษณ์แห่งชัยชนะเหนือมังกรวารี ลวดลายบนมันคือการนำเสนอธรรมชาติของแก่นแท้บนร่างของมังกรวารี มันดูลึกลับมาก</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp4" sParam="Item">
+			<ThingName>โชคลาภ</ThingName>
+			<Desc>เสื้อคลุมที่มีลวดลายวิจิตรงดงาม เป็นสัญลักษณ์ของผู้ชนะการแข่งขันการหลอมอาวุธวิเศษจากเทศกาลแห่งเขาคุนหลุน</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp5" sParam="Item">
+			<ThingName>ตานซี</ThingName>
+			<Desc>เสื้อคลุมที่มีลวดลายวิจิตรงดงาม เป็นสัญลักษณ์ของผู้ชนะการแข่งขันการหลอมโอสถจากเทศกาลแห่งเขาคุนหลุน</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp6" sParam="Item">
+			<ThingName>ปู้อิ๋ง</ThingName>
+			<Desc>เสื้อคลุมที่มีลวดลายวิจิตรงดงาม เป็นสัญลักษณ์ของผู้ชนะการแข่งขันทักษะอาวุธวิเศษจากเทศกาลแห่งเขาคุนหลุน</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp7" sParam="Item">
+			<ThingName>สรรพชีวิต</ThingName>
+			<Desc>เสื้อคลุมที่มาจากโลกอื่น ลวดลายของมันหมายถึงฤดูหนาวสิ้นสุดลง ฤดูใบไม้ผลิกำลังจะมาถึง และทุกอย่างกำลังจะปรากฏ</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp8" sParam="Item">
+			<ThingName>กายาซ่อนเงา</ThingName>
+			<Desc>สัญลักษณ์แห่งชัยชนะเหนือมังกรเทียน ลวดลาดที่ปรากฏบนเสื้อคลุมนั้นสื่อให้เห็นถึงแก่นแท้แห่งหยินบนร่างของมังกรเทียน มันดูลึกลับเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp9" sParam="Item">
+			<ThingName>ขนนกประกายแสง</ThingName>
+			<Desc>สัญลักษณ์แห่งชัยชนะเหนือมังกรเทียน ลวดลาดที่ปรากฏบนเสื้อคลุมนั้นสื่อให้เห็นถึงแก่นแท้แห่งหยางบนร่างของมังกรเทียน มันดูลึกลับเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp10" sParam="Item">
+			<ThingName>เต๋าธรรมชาติ</ThingName>
+			<Desc>เสื้อคลุมที่มีลวดลายวิจิตรงดงาม เป็นสัญลักษณ์ของผู้ชนะการแข่งขันการเสวนาเต๋าจากเทศกาลแห่งเขาคุนหลุน ว่ากันว่ามันมีลวดลายที่แสดงวิถีแห่งเต๋าโบราณ ดังคำกล่าวที่ว่า ล่วงรู้บรรพกาลนั้นคือการล่วงรู้ธรรมชาติแห่งเต๋า เต๋าธรรมชาติ</Desc>
+		</Text>
+	</List>
+</Texts>

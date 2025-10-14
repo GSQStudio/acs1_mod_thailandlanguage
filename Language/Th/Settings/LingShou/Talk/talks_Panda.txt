@@ -1,0 +1,22 @@
+talk	notarget	int	string	float	thing
+BabySleep1	ซิวซิวต้องการนอน				
+BabySleep2	ซิวซิวรู้สึกเหนื่อย				
+BabySleep3	ซิวซิวกำลังจะไปนอน				
+BabyPandaTalk	ซิวซิวพัฒนาขึ้นอีกแล้ว				
+BabySilly	ซิวซิวต้องการเล่นกับเซียนเซียน				
+BabyFollow1	เดินตามเซียนเซียน				
+BabyFollow2	ไปหาเซียนเซียน				
+Roll	กลิ้งและกลิ้ง				
+Chop	ฝึกฝน				
+Happy	มีความสุข				
+PlayBB	ข้าช่างยอดเยี่ยม				
+NotEat_Item_Bamboo	ข้าไม่ต้องการกินไม้ไผ่				ข้าไม่ต้องการกินไม้ไผ่
+NotEat_Item_BambooShoot	ข้าไม่ต้องการกินหน่อไม้ไผ่				ข้าไม่ต้องการกินหน่อไม้ไผ่
+WannaEat_Item_Bamboo	ข้าต้องการกินไม้ไผ่				ข้าต้องการกินไม้ไผ่
+WannaEat_Item_BambooShoot	ข้าต้องการกินหน่อไม้ไผ่				ข้าต้องการกินหน่อไม้ไผ่
+DoTalkEat_Item_Bamboo	ข้ากำลังกินไม้ไผ่				ข้ากำลังกินไม้ไผ่
+DoTalkEat_Item_BambooShoot	ข้ากำลังกินหน่อไม้ไผ่				ข้ากำลังกินหน่อไม้ไผ่
+CantEat_Item_Bamboo	ไม่มีไม้ไผ่ให้กิน				ไม่มีไม้ไผ่ให้กิน
+CantEat_Item_BambooShoot	ไม่มีหน่อไม้ไผ่ให้กิน				ไม่มีหน่อไม้ไผ่ให้กิน
+EatTogether	กินอาหารกับเซียนเซียน
+BabyHelpPlay	เล่นกับพวกเขา				เล่นกับ {0}

@@ -1,0 +1,252 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NI_FSZhenWu">
+			<DisplayName>ผลลบ - รัศมีของสมบัติวิเศษ</DisplayName>
+			<Desc>ฮวงจุ้ยสมบัติวิเศษในห้องนี้ขัดแย้งกับสภาพแวดล้อม; ตัวละครในห้องจะได้รับผลกระทบในทางลบ ทำให้ความสามารถอ่อนแอลง</Desc>
+		</Text>
+		<Text Name="SHUN_FSZhenWu">
+			<DisplayName>ผลบวก - รัศมีของสมบัติวิเศษ</DisplayName>
+			<Desc>ฮวงจุ้ยสมบัติวิเศษในห้องนี้ส่งเสริมกับสภาพแวดล้อม; ตัวละครในห้องจะได้รับผลกระทบในทางบวก ทำให้ความสามารถถูกยกระดับขึ้น</Desc>
+		</Text>
+		<Text Name="FSZhenWu_1">
+			<DisplayName>โบนัสประสิทธิภาพในการทำงานโดยรวม</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_2">
+			<DisplayName>โบนัสความเร็วในการรักษา</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_3">
+			<DisplayName>โบนัสการรักษา</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_4">
+			<DisplayName>โบนัสความเร็วในการทำอาหาร</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_5">
+			<DisplayName>โบนัสความเร็วในการชำแหละ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_6">
+			<DisplayName>โบนัสผลผลิตการชำแหละ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_7">
+			<DisplayName>โบนัสความเร็วในงานช่างหิน</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_8">
+			<DisplayName>โบนัสความเร็วในงานก่อสร้าง</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_9">
+			<DisplayName>โบนัสความเร็วในงานเกษตร</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_10">
+			<DisplayName>โบนัสความเร็วในงานเก็บเกี่ยว</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_11">
+			<DisplayName>โบนัสผลผลิตในงานเก็บเกี่ยว</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_12">
+			<DisplayName>โบนัสความเร็วในงานเหมืองแร่</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_13">
+			<DisplayName>โบนัสผลผลิตในงานเหมืองแร่</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_14">
+			<DisplayName>โบนัสคุณภาพในการประดิษฐ์</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_15">
+			<DisplayName>โบนัสความเร็วในงานหลอม</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_16">
+			<DisplayName>โบนัสความเร็วในงานประดิษฐ์</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_17">
+			<DisplayName>โบนัสความเร็วในงานเย็บ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_18">
+			<DisplayName>โบนัสความเร็วในงานตัด</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_19">
+			<DisplayName>โบนัสความเร็วในการดับเพลิง</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_20">
+			<DisplayName>โบนัสความเร็วในงานทำความสะอาด</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_21">
+			<DisplayName>โบนัสค่าพื้นฐานอารมณ์</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_22">
+			<DisplayName>โบนัสความเร็วในการเดิน</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_23">
+			<DisplayName>โบนัสความอดทนต่ออุณหภูมิ (หนาว)</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_24">
+			<DisplayName>โบนัสความอดทนต่ออุณหภูมิ (ร้อน)</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_25">
+			<DisplayName>โบนัสการฟื้นตัวตามธรรมชาติ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_26">
+			<DisplayName>โบนัสการอดทนต่อความเจ็บปวด</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_27">
+			<DisplayName>โบนัสความเร็วในการเรียนรู้</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_28">
+			<DisplayName>โบนัสโอกาสเกิดฝันร้าย</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_29">
+			<DisplayName>โบนัสโอกาสเกิดฝันดี</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_30">
+			<DisplayName>โบนัสอัตราการใช้พลังงาน</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_31">
+			<DisplayName>โบนัสการฟื้นฟูพลังงาน</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_32">
+			<DisplayName>โบนัสอัตราการกินอาหาร</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_33">
+			<DisplayName>โบนัสอัตราการกินอาหาร</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_34">
+			<DisplayName>โบนัสความอิ่ม</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_35">
+			<DisplayName>โบนัสอัตราการดื่มน้ำ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_36">
+			<DisplayName>โบนัสการอิ่มน้ำ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_37">
+			<DisplayName>โบนัสอัตราการของการสันทนาการ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_38">
+			<DisplayName>โบนัสการพอใจของการสันทนาการ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_39">
+			<DisplayName>โบนัสอัตราการปรับแต่งพลังกาย</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_40">
+			<Desc>โบนัสอัตราการเติมพลังกาย</Desc>
+		</Text>
+		<Text Name="FSZhenWu_41">
+			<DisplayName>โบนัสศักยภาพ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_42">
+			<DisplayName>โบนัสความเร็วในการบ่มเพาะ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_43">
+			<DisplayName>โบนัสสภาวะจิต</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_44">
+			<DisplayName>โบนัสโอกาสความเข้าใจ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_45">
+			<DisplayName>โบนัสความเร็วในการหลอมอาวุธวิเศษ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_46">
+			<DisplayName>โบนัสโอกาสสำเร็จในการหลอมอาวุธวิเศษ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_47">
+			<DisplayName>โบนัสระดับการหลอมอาวุธวิเศษ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_48">
+			<DisplayName>โบนัสคุณภาพของการหลอมอาวุธวิเศษ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_49">
+			<DisplayName>โบนัสของการหลอมอาวุธวิเศษขั้นสูง</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_50">
+			<DisplayName>โบนัสความเร็วในการหลอมโอสถ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_51">
+			<DisplayName>โบนัสโอกาสสำเร็จในการหลอมโอสถ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_52">
+			<DisplayName>โบนัสผลผลิตในการหลอมโอสถ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_53">
+			<DisplayName>โบนัสโอกาสในการทะลวงขอบเขต</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_54">
+			<DisplayName>โบนัสเมล็ดเต๋า</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_55">
+			<DisplayName>ความแม่นจำในการโจมตี</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_56">
+			<DisplayName>อัตราหลบการโจมตี</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_57">
+			<DisplayName>การรับรู้</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_58">
+			<DisplayName>Constitution</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_59">
+			<DisplayName>ความอึด</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_60">
+			<DisplayName>สติปัญญา</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_61">
+			<DisplayName>โชค</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_62">
+			<DisplayName>ค่าสถานะทั้งห้า</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1a">
+			<DisplayName>ประทับคุณธรรม</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1b">
+			<DisplayName>ประทับปฐมกาล</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1c">
+			<DisplayName>ประทับเร้นลับ</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_2">
+			<DisplayName>เจดีย์สวรรค์</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_3">
+			<DisplayName>เจดีย์วิญญาณ</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_4">
+			<DisplayName>แจกันหยิน</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_5">
+			<DisplayName>หม้อพิธีกรรม</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_6">
+			<DisplayName>จารึกไร้อักษร</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_7">
+			<DisplayName>สิงโตหยก</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_8">
+			<DisplayName>หินภูเขาปู้โจว</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_9">
+			<DisplayName>ม้วนตำราหยินหยาง</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_10">
+			<DisplayName>บันทึกอาหารเซียน</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_11">
+			<DisplayName>ผังกลเทพ</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_12">
+			<DisplayName>เครื่องรางยันต์</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_13">
+			<DisplayName>กระบี่เร้นลับ</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_14">
+			<DisplayName>น้ำเต้าทองคำ</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_15">
+			<DisplayName>ของลับมังกรแดง</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_16">
+			<DisplayName>มุกศักดิ์สิทธิ์</DisplayName>
+		</Text>
+	</List>
+</Texts>

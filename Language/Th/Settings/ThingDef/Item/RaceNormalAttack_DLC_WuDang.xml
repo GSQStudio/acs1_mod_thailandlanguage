@@ -1,0 +1,31 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="XuanWu_NormalAttack" sParam="Item">
+			<ThingName>แก่นหยินเต่าดำ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>มังกรสงบ</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>มังกรสงบ</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>มังกรสงบ</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>มังกรสงบ</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="XuanWu_NormalAttack2" sParam="Item">
+			<ThingName>แก่นหยางเต่าดำ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>มังกรพิโรธ</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>มังกรพิโรธ</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>มังกรพิโรธ</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>มังกรพิโรธ</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="WuDangYa_NormalAttack" sParam="Item">
+			<ThingName>เป็ดแห่งบู๊ตึ้งจู่โจม</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>กระบวนท่ากระบี่ไร้ขอบเขต</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>ปราณกระบี่ตะวัน</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>กระบวนท่ากระบี่ไร้ขอบเขต</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>ปราณกระบี่ตะวัน</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>หมัดตะวันม่วง</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>มวยไท้เก๊ก</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>กวาดฟ้าลึกลับ</Item.Equip.AtkDamage.6.DescTags>
+			<Item.Equip.AtkDamage.7.DescTags>หมัดตะวันม่วง</Item.Equip.AtkDamage.7.DescTags>
+			<Item.Equip.AtkDamage.8.DescTags>มวยไท้เก๊ก</Item.Equip.AtkDamage.8.DescTags>
+			<Item.Equip.AtkDamage.9.DescTags>กวาดฟ้าลึกลับ</Item.Equip.AtkDamage.9.DescTags>
+		</Text>
+	</List>
+</Texts>

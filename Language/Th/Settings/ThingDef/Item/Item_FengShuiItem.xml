@@ -1,0 +1,94 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="FengShuiItem_YinZhang1" sParam="Item">
+			<ThingName>ประทับคุณธรรม</ThingName>
+			<Desc>หนึ่งในสามประทับแห่งความกระจ่างใส มันเป็นสมบัติล้ำค่าที่สืบทอดมาจากสวรรค์ชั้นที่สามสิบสาม มันสามารถใช้เสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>ประทับ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_YinZhang2" sParam="Item">
+			<ThingName>ประทับปฐมกาล</ThingName>
+			<Desc>หนึ่งในสามประทับแห่งความกระจ่างใส มันเป็นสมบัติล้ำค่าที่สืบทอดมาจากสวรรค์ชั้นที่สามสิบสาม มันสามารถใช้เสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>ประทับ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_YinZhang3" sParam="Item">
+			<ThingName>ประทับเร้นลับ</ThingName>
+			<Desc>หนึ่งในสามประทับแห่งความกระจ่างใส มันเป็นสมบัติล้ำค่าที่สืบทอดมาจากสวรรค์ชั้นที่สามสิบสาม มันสามารถใช้เสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>ประทับ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ta1" sParam="Item">
+			<ThingName>เจดีย์สวรรค์</ThingName>
+			<Desc>สมบัติที่สืบทอดมาจากนิกายไคหวู่โบราณ แสงสว่างอันศักดิ์สิทธิ์ของมันสว่างไสวและชัดเจน มันสามารถใช้เสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>เจดีย์</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ta2" sParam="Item">
+			<ThingName>เจดีย์วิญญาณ</ThingName>
+			<Desc>เจดีย์ทองคำแกะสลักด้วยศิลาวิญญาณหมื่นปี มันมีรัศมีอันทรงพลังแผ่กระจายออกมา มันสามารถใช้เสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>เจดีย์</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ping1" sParam="Item">
+			<ThingName>แจกันหยิน</ThingName>
+			<Desc>วัตถุชั่วร้ายที่ไม่ทราบที่มาซึ่งถูกค้นพบจากที่ใดที่หนึ่ง มันสามารถรวบรวมวิญญาณชั่วร้ายของฮวงจุ้ยและย้อนกลับได้ มันมีความสามารถที่แปลกประหลาดมาก</Desc>
+			<Item.FabaoSuffix>แจกัน</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ding1" sParam="Item">
+			<ThingName>หม้อพิธีกรรม</ThingName>
+			<Desc>หม้อสมบัติอันล้ำค่าที่เซียนอมตะโบราณใช้ในพิธีบูชายัญแด่สวรรค์และโลก ว่ากันว่ามันสามารถสื่อสารกับวิถีแห่งสวรรค์ได้</Desc>
+			<Item.FabaoSuffix>เตา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Bei1" sParam="Item">
+			<ThingName>จารึกไร้อักษร</ThingName>
+			<Desc>ป้ายเหล็กที่หล่อขึ้นมาโดยจักรพรรดิปีศาจฟู่ปี้ขง มันไม่มีอักขระตัวอักษรใดๆ ถูกสลักเอาไว้เลย ทว่ามันกลับสามารถสะท้อนจิตวิญญาณที่แท้จริง ส่งผลให้ภูมิปัญญาทางจิตวิญญาณของผู้คนเปิดกว้างและได้รับแนวคิดใหม่ๆ</Desc>
+			<Item.FabaoSuffix>ศิลาจารึก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShiZi1" sParam="Item">
+			<ThingName>สิงโตหยก</ThingName>
+			<Desc>สิงโตหยกที่แกะสลักจากหยกล้ำค่าและหล่อหลอมมันด้วยพลังของสายฟ้าจากสวรรค์ มันสามารถปัดเป่าวิญญาณชั่วร้ายและขจัดความโกลาหลได้ อีกทั้งยังช่วยให้จิตใจของผู้คนรู้สึกผ่อนคลายอีกด้วย</Desc>
+			<Item.FabaoSuffix>สิงโต</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShiTou1" sParam="Item">
+			<ThingName>หินภูเขาปู้โจว</ThingName>
+			<Desc>หินที่มีพลังศักดิ์สิทธิ์จากใจกลางภูเขาปู้โจว มันอุดมไปด้วยพลังปราณธรรมชาติที่สามารถหล่อเลี้ยงสิ่งมีชีวิตทั้งหมดได้</Desc>
+			<Item.FabaoSuffix>ก้อนหิน</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_TuHua1" sParam="Item">
+			<ThingName>ม้วนตำราหยินหยาง</ThingName>
+			<Desc>ม้วนคัมภีร์ที่ประกอบด้วยการเปลี่ยนแปลงของหยินและหยางระหว่างสวรรค์, โลก, และมนุษย์ มันสอนความจริงของแก่นแท้แห่งการเปลี่ยนแปลง</Desc>
+			<Item.FabaoSuffix>รูปภาพ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShuJi1" sParam="Item">
+			<ThingName>บันทึกอาหารเซียน</ThingName>
+			<Desc>มีภาพวาดมากมายที่ไม่มีใครรู้จักซึ่งกล่าวกันว่าเป็นสูตรอาหารจากสวรรค์ มันสามารถใช้เสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>หนังสือ, เล่ม</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_QiJu1" sParam="Item">
+			<ThingName>ผังกลเทพ</ThingName>
+			<Desc>เกมหมากรุกที่สืบทอดกันมาตั้งแต่สมัยโบราณ กล่าวกันว่ามันแฝงความนัยถึงความลึกลับของการบำเพ็ญตนเอาไว้ ผู้คนที่วิเคราะห์มันอย่างจริงจังต่างก็รู้ถึงเส้นทางที่ยากลำบากของวิถีแห่งการบำเพ็ญตน นี่จึงทำให้พวกเขาขยันหมั่นเพียรมากยิ่งขึ้น</Desc>
+			<Item.FabaoSuffix>แผนผัง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_FuZhou1" sParam="Item">
+			<ThingName>เครื่องรางยันต์</ThingName>
+			<Desc>ยันต์จากนิกายศพโบราณ มันไม่สามารถใช้สวมใส่ได้อีกต่อไปเนื่องจากปราณแห่งความตายที่สะสมกันอยู่อย่างหนาแน่นภายในตัวยันต์ อย่างไรก็ตาม หากจัดการได้เหมาะสม มันสามารถใช้เสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>ยันต์</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Jian1" sParam="Item">
+			<ThingName>กระบี่เร้นลับ</ThingName>
+			<Desc>ดาบที่ห้อมล้อมไปด้วยวิถีแห่งการสร้างสรรค์ แม้ว่ามันจะไม่สามารถใช้ฆ่าใครได้ แต่มันสามารถใช้เพื่อเสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>กระบี่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_HuLu1" sParam="Item">
+			<ThingName>น้ำเต้าทองคำ</ThingName>
+			<Desc>ตำนานเล่าว่ามันคือน้ำเต้าใช้เก็บโอสถวิเศษในพระตำหนักโตวลู่บนสวรรค์ มันปรากฏขึ้นบนโลกของมนุษย์โดยไม่ทราบสาเหตุและสามารถใช้เสริมฮวงจุ้ยได้</Desc>
+			<Item.FabaoSuffix>น้ำเต้า</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_BaoBei1" sParam="Item">
+			<ThingName>ของลับมังกรแดง</ThingName>
+			<Desc>ของลับของมังกรแดงโบราณ ตามตำนานเล่าว่ามังกรแดงกำเนิดจากดวงอาทิตย์ที่แท้จริงของสวรรค์และโลก แม้ว่าปราณหยางที่อัดแน่นอยู่ภายในนั้นค่อนข้างเกรี้ยวกราดเป็นอย่างมาก ทว่ามันมีประโยชน์ต่อการบ่มเพาะปราณไม่น้อยเลยทีเดียว</Desc>
+			<Item.FabaoSuffix>ราก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_SheLi1" sParam="Item">
+			<ThingName>มุกศักดิ์สิทธิ์</ThingName>
+			<Desc>สมบัติของเทพเจ้าโบราณผู้ที่มีพลังแก่กล้าในวิถีแห่งเทพ มันสามารถใช้เสริมฮวงจุ้ยได้ ในสมัยโบราณนั้นมีผู้ฝึกตนวิถีแห่งเทพอยู่ไม่น้อย ทว่าในปัจจุบันพวกเขาเหล่านั้นต่างกลับกลายเป็นแค่เรื่องเล่าในตำนานเท่านั้น บางทีการค้นพบสิ่งๆ นี้อาจจะมีความหมายอะไรบางอย่างซ่อนอยู่</Desc>
+			<Item.FabaoSuffix>ศักดิ์สิทธิ์</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

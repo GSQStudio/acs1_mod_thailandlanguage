@@ -1,0 +1,100 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rabbit">
+			<DisplayName>กระต่าย</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: กระต่าย</Desc>
+			<TalkBefore>แอว๊ก แอว๊ก</TalkBefore>
+			<TalkAfter> แอว๊ก~!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="Chicken">
+			<DisplayName>ไก่</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: ไก่</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+			<TalkBefore>กุ๊ก กุ๊ก กุ๊ก</TalkBefore>
+			<TalkAfter> กะต๊าก!</TalkAfter>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>หมาป่า</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: หมาป่า</Desc>
+			<TalkBefore>โฮ่ง โฮ่ง</TalkBefore>
+			<TalkAfter> โฮ่ง!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>งู</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: งู</Desc>
+			<TalkBefore>ฟ่อ</TalkBefore>
+			<TalkAfter> ฟ่ออออ!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>หมูป่า</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: หมูป่า</Desc>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+			<TalkBefore>อู๊ด อู๊ด</TalkBefore>
+			<TalkAfter> อู๊ด!</TalkAfter>
+		</Text>
+		<Text Name="Bear">
+			<DisplayName>หมี</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: หมี</Desc>
+			<TalkBefore>โฮก โฮก</TalkBefore>
+			<TalkAfter> โฮกกก!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="Turtle">
+			<DisplayName>เต่า</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: เต่า</Desc>
+			<TalkBefore>อืมมมม</TalkBefore>
+			<TalkAfter> อืมม!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>กบ</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: กบ</Desc>
+			<TalkBefore>อ๊บ อ๊บ</TalkBefore>
+			<TalkAfter> อ๊บ!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="Fei">
+			<DisplayName>เฟย</DisplayName>
+			<Desc>อุณหภูมิที่นี่ไม่ค่อยผันผวน ทำให้ดึงดูดเฟยให้มาอาศัยอยู่ที่นี่</Desc>
+		</Text>
+		<Text Name="Lushu">
+			<DisplayName>ลู่ซู</DisplayName>
+			<Desc>อุณหภูมิที่นี่ผันผวนเป็นอย่างมาก ทำให้ดึงดูดลู่ซูให้มาอาศัยอยู่ที่นี่</Desc>
+		</Text>
+		<Text Name="Cat">
+			<DisplayName>แมว</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: แมว</Desc>
+			<TalkBefore>เหมียว เหมียว</TalkBefore>
+			<TalkAfter> เหมียว!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="Cattle">
+			<DisplayName>กระทิง</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: กระทิง</Desc>
+			<TalkBefore>ม่อ ม๊อออ</TalkBefore>
+			<TalkAfter> ม๊อออ!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+		<Text Name="Tiger">
+			<DisplayName>เสือ</DisplayName>
+			<Desc>สัตว์ธรรมดาทั่วไป: เสือ</Desc>
+			<TalkBefore>โฮก โฮก</TalkBefore>
+			<TalkAfter> โฮกก!</TalkAfter>
+			<MaleName>ตัวผู้</MaleName>
+			<FemaleName>ตัวเมีย</FemaleName>
+		</Text>
+	</List>
+</Texts>

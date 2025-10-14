@@ -1,0 +1,133 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LeadExperienceAddtion">
+			<DisplayName>โบนัสพื้นเพตัวละคร</DisplayName>
+		</Text>
+		<Text Name="BaseWorkSpeed">
+			<DisplayName>ประสิทธิภาพพื้นฐานการทำงาน</DisplayName>
+			<DisplayValue>{0}/วิ</DisplayValue>
+			<Desc>ความเร็วในการทำงานพื้นฐานของตัวละคร ระบุจำนวนงานที่สามารถทำได้ต่อวินาที</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="BaseEmotionAddV">
+			<DisplayName>ค่าพื้นฐานของสภาพอารมณ์</DisplayName>
+			<DisplayValue>{0}</DisplayValue>
+			<Desc>ค่าพื้นฐานสภาพอารมณ์ของตัวละคร</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="MaxAge">
+			<DisplayName>อายุขัย</DisplayName>
+			<DisplayValue>{0}</DisplayValue>
+			<Desc>อายุสูงสุดที่ตัวละครสามารถมีชีวิตอยู่ได้</Desc>
+		</Text>
+		<Text Name="AgeCostSpeed">
+			<DisplayName>อัตราการลดลงของอายุขัย</DisplayName>
+			<Desc>ความเร็วชีวิตของตัวละครที่ลดลงไปตามระยะเวลา</Desc>
+		</Text>
+		<Text Name="VisionRadius">
+			<DisplayName>ระยะการรับรู้</DisplayName>
+			<DisplayValue>{0:N2} เมตร</DisplayValue>
+			<Desc>ระยะทางสูงสุดที่ตัวละครสามารถรับรู้สิ่งรอบตัวได้</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="MoveSpeed">
+			<DisplayName>ความเร็วการเคลื่อนที่</DisplayName>
+			<DisplayValue>{0:N2} เมตร/วิ</DisplayValue>
+			<Desc>ความเร็วการเคลื่อนที่ของตัวละคร</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="ComfyTMin">
+			<DisplayName>อุณหภูมิต่ำสุดที่เหมาะสม</DisplayName>
+			<Desc>อุณหภูมิต่ำสุดที่ทำให้ตัวละครรู้สึกสบายตัว(</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="ComfyTMax">
+			<DisplayName>อุณหภูมิสูงสุดที่เหมาะสม</DisplayName>
+			<Desc>อุณหภูมิสูงสุดที่ทำให้ตัวละครรู้สึกสบายตัว</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="ToleranceTMin">
+			<DisplayName>อุณหภูมิต่ำสุดที่ทนได้</DisplayName>
+			<Desc>อุณหภูมิต่ำสุดที่ไม่ส่งผลต่อสุขภาพของตัวละคร</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="ToleranceTMax">
+			<DisplayName>อุณหภูมิสูงสุดที่ทนได้</DisplayName>
+			<Desc>อุณหภูมิสูงสุดที่ไม่ส่งผลต่อสุขภาพของตัวละคร</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="RecoveryPower">
+			<DisplayName>ความทนทานธรรมชาติ</DisplayName>
+			<DisplayValue>{0}%/วิ</DisplayValue>
+			<Desc>อัตราการฟื้นตัวจากโรคและการบาดเจ็บตามธรรมชาติของตัวละคร</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="PainTolerance">
+			<DisplayName>ความอดทนต่อความเจ็บปวด</DisplayName>
+			<Desc>ระดับความเจ็บปวดสูงสุดที่ตัวละครสามารถทนได้</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="IntelligenceSkillEXPConstant">
+			<DisplayName>ความเร็วในการเรียนรู้</DisplayName>
+			<Desc>จำนวนประสบการณ์ที่ตัวละครได้รับจากการฝึกฝน ยังส่งผลต่อความเร็วในการได้รับค่าแนวคิดของผู้ฝึกตนวิถีเซียนอีกด้วย</Desc>
+			<FunctionKind>ค่าสถานะในการฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="EmotionAmplificationFactor">
+			<DisplayName>ตัวคูณสภาพอารมณ์</DisplayName>
+		</Text>
+		<Text Name="FavourChangeSpeedRate">
+			<DisplayName>อัตราการเปลี่ยนแปลงความชื่นชอบ</DisplayName>
+		</Text>
+		<Text Name="NightmareHappenPercent">
+			<DisplayName>โอกาสเกิดฝันร้าย</DisplayName>
+			<Desc>โอกาสที่ตัวละครจะฝันร้าย</Desc>
+		</Text>
+		<Text Name="NiceDreamHappenPercent">
+			<DisplayName>โอกาสเกิดฝันดี</DisplayName>
+			<Desc>โอกาสที่ตัวละครจะฝันดี</Desc>
+		</Text>
+		<Text Name="FatigueConsumeConstant">
+			<DisplayName>โบนัสการใช้พลังงาน</DisplayName>
+			<Desc>โบนัสการใช้พลังงานของตัวละคร</Desc>
+		</Text>
+		<Text Name="FatigueRecoveryConstant">
+			<DisplayName>โบนัสการเติมพลังงาน</DisplayName>
+			<Desc>โบนัสการเติมพลังงานของตัวละคร</Desc>
+		</Text>
+		<Text Name="NutritionConsumeConstant">
+			<DisplayName>โบนัสการบริโภคอาหาร</DisplayName>
+			<Desc>โบนัสการบริโภคอาหารของตัวละคร</Desc>
+		</Text>
+		<Text Name="NutritionRecoveryConstant">
+			<DisplayName>โบนัสการเติมเต็มสารอาหาร</DisplayName>
+			<Desc>โบนัสการเติมเต็มสารอาหารของตัวละคร</Desc>
+		</Text>
+		<Text Name="WaterConsumeConstant">
+			<DisplayName>โบนัสการดื่มน้ำ</DisplayName>
+			<Desc>โบนัสการดื่มน้ำของตัวละคร</Desc>
+		</Text>
+		<Text Name="WaterRecoveryConstant">
+			<DisplayName>โบนัสการดับกระหาย</DisplayName>
+			<Desc>โบนัสการดับกระหายของตัวละคร</Desc>
+		</Text>
+		<Text Name="HappyConsumeConstant">
+			<DisplayName>โบนัสการพักผ่อนหย่อนใจ</DisplayName>
+			<Desc>โบนัสการพักผ่อนหย่อนใจของตัวละคร</Desc>
+		</Text>
+		<Text Name="HappyRecoveryConstant">
+			<DisplayName>โบนัสความพึงพอใจในการพักผ่อนหย่อนใจ</DisplayName>
+			<Desc>โบนัสความพึงพอใจในการพักผ่อนหย่อนใจของตัวละคร</Desc>
+		</Text>
+		<Text Name="PracticeFoodConsumeConstant">
+			<DisplayName>โบนัสการใช้แกนธาตุ</DisplayName>
+			<Desc>โบนัสการใช้แกนธาตุของตัวละคร</Desc>
+		</Text>
+		<Text Name="PracticeFoodRecoveryConstant">
+			<DisplayName>โบนัสการเติมเต็มของพลังกาย</DisplayName>
+			<Desc>โบนัสการเติมเต็มของพลังกายของตัวละคร</Desc>
+		</Text>
+		<Text Name="MagicDamageRecoveryPowerAddV">
+			<DisplayName>ความทนทานธรรมชาติสำหรับอาการบาดเจ็บภายใน</DisplayName>
+		</Text>
+	</List>
+</Texts>

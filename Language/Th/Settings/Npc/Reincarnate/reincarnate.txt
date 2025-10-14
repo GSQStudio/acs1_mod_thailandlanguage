@@ -1,0 +1,124 @@
+ID	IsHide	LastName	FristName	Desc	Race	SpecialYG	Sex	Age	BodyType	Hair	Beard	ClothesStuff	BodyColor	BackStory1	BackStory2	BackStory3	Feature1	Feature2	Feature3	Experience1	Experience2	Experience3	Experience4	Relation1	Relation2	Relation3
+
+-1	2			ผู้กลับชาติมาเกิดที่สูญเสียตัวตนของพวกเขา ไม่มีใครรู้ว่าพวกเขาเป็นใครหรือมาจากไหน (ว่างเปล่า)			1																			
+1	1	จื่อ	เฟยหยู่				1	45	1	10	5		3	200045	200046	200027	LunHui_1	LunHui_2		Experiences6	Experiences11	Experiences13				
+2	0	โจว	กงจื่อ				1	22	1	9			3	200043	200044	200028	LunHui_4									
+3	0	ซู่	อู๋กุ่ย	This Reincarnator is in commemoration of the spring of 2017.			1	27	1	8			3	200023	200035		LunHui_5									
+4	0	หยาง	Big	This Reincarnator is in commemoration of the spring of 2017.			1	32	2	3			3	200023	200034		LunHui_2	HighMan								
+5	0	ตู่	ตู๋				1	27	1	2			3	23	200026											
+6	0	ลู่	ลู่				1	26	1	7			3	200025	610											
+7	0	หยิน	หวง	This Reincarnator is in commemoration of the spring of 2017.			1	45	2	8	2		2	200023	200024		LunHui_2									
+8	0	ซัง	ซัง				2	18	1	5			1	200036	200037		Enthusiasm	Sensitive	Strong							
+9	0	อี้ซือ	ปู้โกว				2	18	2	2			1	200038	200039	200030										
+10	0	เย่	ชิงซิน				2	18	1	1			3	200040	200041											
+11	0	จาง	ซือไห่				1	34	2	8	2		1	200049	200050	200031										
+12	0	เซียนหยู๋	ฉี				1	23	1	1			1	200047	200048	200029										
+13	2	เฟิง	จื่อไห่				1									200032										
+14	0	เยว่	เหมา				1	29	1	8			1	200051	200052	200033	LunHui_14									
+15	0	ปู้	ฮวากู่				1	23	1					200053	200054											
+16	0	ชางฉุ่ย	ชือกวา				1	99	1	9	3		1	200055	200056											
+17	0	จิน	อวี๋				2	18	1	5			1	200061	200062											
+18	0	เจี้ยน	เหนียนซาน				1	27	1	10			0	200063	200064					Experiences11						
+19	0	เซียน	ฮ่าว				1	27	1	3			3	200065	200066	200067				LunHui_Experiences3						
+20	0	เสวีย	อี้				1	27	1	4			3	200068	200069	200070										
+1000	0	พิมหมิง	หวานซานหลาง	Indie game developer and the producer of indie game documentary Indie Games in China.			1	40	1					200003	200004											
+1001	0	เสี่ยวหลิน	เจิ้งเสวีย	Main protagonist of the Cheney Wood detective game series.			1	27	1					200001	200002		FacialScar	Optimistic	Careful							
+1002	0	หวัง	เมียวอี้	Producer of the indie game WILL: A Wonderful World.			2	18	1					200005	200006		Pessimism	Warrior		LunHui_Experiences2						
+1003	0	หวัง	ลัวจู๋	Original gaming video creator.			1	28	1	1	-1		0	200117	200118		BanLove	LunHui_36	LunHui_37	LunHui_Experiences4				1004|Spouse		
+1004	0	เหมียน	เหมียน	Fashion and journal blogger.			2	27	1	3			1	200119	200120		BanLove			Experiences29				1003|Spouse		
+1005	0	ไก้	ซือเต๋อ	Character from the game My Time At Portia.			1	23	1					200007	200008		LunHui_Kong_1	Artist	LunHui_Kong_2							
+1006	0	อา	ลั่ว	Character from the game My Time At Portia.			1	28	1					200009	200010		LunHui_Kong_3									
+1007	0	อ้าย	หมี่ลี่	Character from the game My Time At Portia.			2	20	1					200011	200012		Optimistic									
+1008	0	หยิน	เหอ	Chief editor of the gaming website 3DM.			1	24	1					200013	200014		HealthOverdraft1	Optimistic	LunHui_Kong_4							
+1009	0	อา	จิ่ว	Well-known speaker in Chinese indie game circle.			2	19	1					200015	200016		Optimistic	Strong	Affinity							
+1010	0	เยว่	หยาง	Major character from the game Change.			2	22	1			Item_PurpleCloth		200017	200018		Strong	Affinity								
+1011	0	หนานกง	หยาน	Major character from the game Wuxia archive: Crisis escape.			2	18	1					200019	200020		LunHui_38									
+1012	0	สัว	เสี่ยวเจี้ยน	Major character from the game Hermitage Strange Case Files.			1	25	1					200021	200022		LunHui_Kong_3	LunHui_Kong_10	LunHui_17							
+1013	0	เสี่ยว	เซี่ยหมี	Main protagonist from the games Heroes of Jin Yong and Ho Tu Lo Shu: The Books of Dragon.			1	18	1	4			3	200057	200058					LunHui_Experiences1						
+1014	0	ซู	ฉางหลง	Producer of the games Heroes of Jin Yong and Ho Tu Lo Shu: The Books of Dragon.			1	50	1	9	1		3	200059	200060											
+1015	0	หลี่	ฉางหลง	Character from the game Hanjia Jianghu.			1	28	2	3	1			200071	200072		LunHui_20									
+1016	0	ตง	ชื่อจง	Character from the game Hanjia Jianghu.			1	26	2	1				200073	200074		LunHui_21									
+1017	0	จาง	อวีเฟิง	Character from the game Hanjia Jianghu.			1	24	1	7				200075	200076		LunHui_22									
+1018	0	เฉินเว่ย	กุ่ยหมิง	Popular mashup-video content creator of Bilibili.			1	30	2	1				200077	200078		HighMan	LunHui_Kong_5								
+1019	0	อ้าย	ตี้	Main heroine of the game ~Eddy Violet~.			2	17	1	2		Item_PurpleCloth		200079	200080		LowMan	LunHui_24								
+1020	0	โจวหยู่	หลินปิ่น	Developer of the game Zhouyou.			1	40	1	8				200081	200082		LunHui_Kong_6									
+1021	0	หยวน	เผิง	Producer of the game Super Phantom Cat.			1	16	1	7				200083	200084											
+1022	0	หนานกวา	เซียนเฉิง	Mr. Pumpkin Adventure			1	16	1	6				200085	200086		LowMan	HealthOverdraft1								
+1023	0	หมี	จือเชิง	Popular Sina weibo micro-blogger and Bilibili content creator.			1	30	1	8				200089	200090		LunHui_Kong_7	LunHui_25		LunHui_Experiences5						
+1024	0	โป๋	ไช่เชิง	Composer for the games Dark Blade, Rainblood and The Furious Yama.			1	55	1	10	5			200091	200092		GoodMentality	LunHui_Kong_9		Experiences31						
+1025	0	หู	ชือฉี	Main character of the game Mr Husky.			1	20	1	11				200093	200094		LunHui_26									
+1026	0	อวี	อวี	Popular gaming streamer on Bilibili.			1	17	2	3				200095	200096		LunHui_27									
+1027	0	อ้าย	หลี่	Popular gaming streamer on Bilibili.			2	17	1	5				200097	200098		LunHui_28			Experiences8						
+1028	0	เหลย	เตี้ยน	Co-founder and video editor of the game media website VGtime.			1	25	1	9				200099	200100		Reader	LunHui_29								
+1029	0	ต้า	หลี่	Popular streamer and video editor on the game media website VGtime.			1	34	3	1				200101	200102		Warrior	LunHui_Kong_3								
+1030	0	เฉิน	ซิงหาน	Well-known game producer.			1	22	1	1				200103	200104		Strong	Anatman	LunHui_30							
+1032	0	โกว	ซู	Administrator of the well known ACG community forum Stage1st.			1	40	1	3				200107	200108		LunHui_Kong_2	LunHui_31								
+1033	0	อ้าย	สืออี้	The personification of ACG forum Stage1st known as S1 Musume.			2	18	1	1				200109	200110		LunHui_32	LunHui_33	Careful							
+1034	0	กงเฉิง	จุน	Producer of the games Tun Town 2, Swords of Legends and Swords of Legends 2.			1	40	1	3				200111	200112		LunHui_34	LunHui_35	LunHui_17	Experiences11						
+1035	0	หยู๋โถว	จุน	BOSS character from the game DYING: Reborn.			1	18	1	8				200113	200114		DarkPatience	LunHui_2	Cruel							
+1036	0	หนิ่วหวัง	เหยียน	Popular gaming streamer.			2	18	1	5				200115	200116		Industrious	Optimistic	Strong							
+1037	0	มู่	เฟย	Founder of the indie game studio RocketPunch Games and producer of the game Code: HARDCORE.			1	31	1	8				200087	200088		LunHui_Kong_6	Careful	LunHui_Kong_8							
+1038	0	ซัน	จา	Popular comic book artist and digital painter.			1	30	1	3				200123	200124		Lazy	LunHui_5	LunHui_24							
+1039	0	เซี่ยวเหยา	ซานเหริน	Popular content creator on Bilibili.			1	29	1	1				200121	200122		LunHui_39			LunHui_Experiences6						
+1040	0	ป้าน	จือเหยียน	Popular gaming streamer.			1	16	1	4	-1			200125	200126											
+1041	0	เหวิน	จื่อ	Major character from the game Tricolour Lovestory.			2	17	1	5			1	200127	200128		HeartKnot	BeautifulFace1	DeepPotential	Experiences11	Experiences26					
+1042	0	โม่	เสี่ยวจู	Major character from the game Tricolour Lovestory.			2	17	1	2			1	200129	200130											
+1043	0	เฟินหมี่	ฉางมู่	Admin at SteamCN.			1	17	1	7			0	200131	200132		HeartKnot	Craftsman	LunHui_40							
+1044	0	เฟยคุน	เขอเป่ย	Comes from a fantastic village called Mo.			2	20	1	5			1	200133	200134		BanLove	LunHui_41						1045|Spouse		
+1045	0	เมียว	ฟ่าน	Comes from a fantastic village called Mo.			1	19	1	3			1	200135	200136		BanLove	LunHui_34						1044|Spouse		
+1046	0	จู	เสี่ยวฉาน	Comes from a fantastic village called Mo.			2	19	1	3			3	200137	200138		Artist	NoHeavyWork	Deaf							
+1047	0	ชือจื่อ	โถว	Comes from a fantastic village called Mo.			1	31	3	9	5		3	200139	200140		BanLove	SonOfDestiny	GoodMentality					1048|Spouse		
+1048	0	จิง	เซียง	Comes from a fantastic village called Mo.			2	22	1	5			1	200141	200142		BanLove	SonOfDestiny	Optimistic					1047|Spouse		
+1049	0	ถาน	เซียว	Comes from a fantastic village called Mo.			2	150	1	5		Item_WhiteCloth	1	200145	200146		LunHui_Kong_12	LunHui_Kong_2	LunHui_24							
+1050	0	ติว	จื่อ	Comes from a fantastic village called Mo.			1	28	1	9	2		0	200147	200148		Affinity	Artist								
+1051	0	น่าหลัน	เยว่	Comes from a fantastic village called Mo.			1	27	1	3	-1		0	200149	200150		Artist	Reader	BeautifulFace1							
+1052	0	หลิว	เจินฮ่าว	Producer of the game Chinese Parents.			1	18	1	1			0	200151	200152		Optimistic	LunHui_43								
+1053	0	หู	เสวียเฟย	Streamer Afei from douyu.com.			1	27	1				3	200153	200154		LunHui_40	Warrior								
+1054	0	อู๋เยี่ย	โม๋โม่ฉา	Streamer Wuye Momocha from douyu.com.			1	18	1				3	200155	200156		LunHui_Kong_6	Careful	LunHui_20	Experiences29						
+1055	0	ปู้	หยุนลี่	Comes from a fantastic village called Mo.			1	30	1	8	-1		3	200157	200158		Optimistic	LunHui_Kong_11								
+1056	0	หยิน	จื่อ	Streamer Yanzi from douyu.com.			1	25	1	7	-1		0	200159	200160		LunHui_20	LunHui_4	LunHui_44							
+1057	0	กุ้ย	ฟู่	Streamer Guifu from Huya.com.			1	16	1	3	-1		0	200161	200162		UglyFace2	LunHui_Kong_13		LunHui_Experiences7						
+1058	0	กู่	ลั่ว	Producer of the game Christmas Tina, and founder of the AVGSpirits magazine.			1	18	1	4	-1		0	200163	200164		LunHui_45	LunHui_46		Experiences4						
+1059	0	เสิน	จงเหริน	Voice Actor			1	18	1	4	-1		0	200165	200166		LunHui_Kong_3	LunHui_47		Experiences4						
+1060	0	หลิน	โล้วหยิน	Who is she?			2	18	1	5	-1		0	200167	200168		LunHui_48	LunHui_49								
+1061	0	ไช้	เกอจื่อ	A random game streamer passing by.			1	27	1	10	-1		0	200169	200170		LunHui_35	LunHui_50		Experiences4						
+1062	0	ซุน	หย๋าหลง	Xiaoxiao, streamer of Deyunse channel 1. He is the Dark Swordmaster in DNF and ex-teamleader of IG' LOL esport team. Best game commentator of the year.			1	30	1	8	-1		0	200171	200172		SonOfDestiny	LunHui_20		LunHui_Experiences8	Experiences3	Experiences29	Experiences9	1063|Friend		
+1063	0	หลี่	ฮ่าวอวี	Xika, streamer of Deyunse channel 1. He is the teamleader of PE esport team of LOL, also known as Copy Ninja Xixika.			1	25	3	1	-1		0	200173	200174		LunHui_51	LunHui_52	LunHui_53	Experiences4				1062|Friend		
+1064	0	ตู่กู	ซิง	Still Ash from Bilibili.com.			1	18	1	3	-1		0	200175	200176		LunHui_54	Enthusiasm		LunHui_Experiences9						
+1065	0	ลู่	ฟู่เหริน	The magical lady Lu, manipulating fate magically.			2	31	1	5	-1	Item_PurpleCloth	0	200177	200178		LunHui_55			LunHui_Experiences10						
+1066	0	หยาง	ซู	Streamer Yang Shu from Douyu.com.			1	18	1	1	-1		0	200179	200180		LunHui_Kong_2	LunHui_56		LunHui_Experiences11	Experiences7					
+1067	0	นัวหวา	ถาง	Content creator of the gaming channel on Bilibili.com			1	29	1	3	-1		0	200181	200182		LunHui_58	LunHui_59		Experiences9	Experiences3	Experiences10				
+1068	0	โจว	ต๋า	Winner of the Crippled Body, Strong Spirit Ascension competition in closed beta: Enter your name.			1	18	1	10	-1		0	200183	200184		LunHui_60	LunHui_61		Experiences14	Experiences29	LunHui_Experiences12				
+1069	0	เสินเสิน	หยู่เย่	Lucky winner from the Amazing Cultivation Simulator forum of Baidu Tieba.			1	26	2	3	-1		1	200185	200186					Experiences30	LunHui_Experiences13					
+1070	0	จุน	เหอ	Streamer Junhe from Douyu.com, who is a master of the Unus Sword Technique.			1	19	1				1	200187	200188		LunHui_Kong_14	LunHui_4	LunHui_62	LunHui_Experiences14						
+1071	0	ถีรา	มิสุ	Disciple of the He Sect, he was young disciple serving the Supreme Lord Laozi.			1	20	1				1	200189	200190		LunHui_63									
+1072	0	เฉียน	เสี่ยวเฉียน	Disciple of He sect, she was a princess from Fengtian.			2	18	1				1	200191	200192		YinBody	BeautifulFace2	DragonBlood							
+1073	0	หลิน	ฮวา	Taoist of Supreme Clarity			1	18	1			Item_BlackCloth	0	200193	200194		Enthusiasm			LunHui_Experiences15						
+1074	0	เสี่ยว	โหลว	Popular streamer and commentator.			2	18	1		-1	Item_WhiteCloth	1	200195	200196		LunHui_Kong_15	LunHui_66	LunHui_67							
+1075	0	เฟยหยู๋	เซียนกวาง	Popular content creator on Bilibili. Preacher of the Demon School of Taiyi.			1	28	1	10	3		0	200197	200198		Reader	Optimistic		Experiences4	Experiences29	Experiences14				
+2001	0	เถียน	โกว				1	25	1	8	-1			200143	200144											
+2002	2	ชือซง	จื่อ	One of the ancient immortals, also known as Left Saint.			1																			
+2003	2	หนิงเฟิง	จื่อ	One of the ancient immortals, also known as Spiritualist Longqiao.			1																			
+2004	2	ฉี	ซูหมิง	Character from the novel Zu Warriors from the Magic Mountain, one of the three immortals from the East Sea.			1																			
+2005	2	เสวียน	เจินจือ	Character from the novel Zu Warriors from the Magic Mountain, one of the three immortals from the East Sea.			1																			
+2006	2	ขู่ฉิง	โถวถัว	Character from the novel Zu Warriors from the Magic Mountain, one of the three immortals from the East Sea.			1																			
+2007	2	ไป๋	กู่อวี	Character from the novel Zu Warriors from the Magic Mountain, one of the two elders from Mt. Song.			1																			
+2008	2	จู	เหมย	Character from the novel Zu Warriors from the Magic Mountain, one of the two elders from Mt. Song.			1																			
+3001	2	เสี่ยว	ฉาง	Popular streamer and commentator.			2	20	1	3				200105	200106											
+5001	1	จาน	อี้	From Eveofchaos's [i][color=#D06508]Birth of the Demonic Sword[/color][/i]			1	16	2	3	-1		1	500001	500002		Distrust	LeftHanded								
+5002	1	จาน	เอ้อ	From Les01's [i][color=#D06508]The Forgotten Princess[/color][/i]	YGCat	1	2	16	1		-1		1	500003	500004		Cat_Elegant	Tiger_Pier								
+5003	1	จาน	ซาน	From Les01's [i][color=#D06508]The Forgotten Princess[/color][/i]	YGChicken	1	1	16	1		-1		2	500005	500006		Rabbit_Fast									
+5004	1	จาน	ซือ	From Moloxiv's [i][color=#D06508]Number One Dungeon Supplier[/color][/i]	YGPanda	1	1	16	3		-1		1	500007	500008		Panda1	Panda2								
+5005	1	จาน	อู่	From Reili's [i][color=#D06508]Nanomancer Reborn - I've become a snow girl?[/color][/i]			2	16	1	3	-1		1	500009	500010		Wolf_Calm	LunHui_Kong_16								
+5006	1	จาน	หลิ่ว	From schreient's [i][color=#D06508]ALINEA[/color][/i]			1	16	1		-1		1	500011	500012		Sensitive	BeautifulFace2								
+10000	2	ผู้ฝึกตน	ลึกลับ				1	75	2	10	2		3													
+10001	1	ฉิว	ซือ				2	22	1	2			1	7	502	200042	Sys_YuSheTeXing3			Experiences4	Experiences29	Experiences24		10002|Spouse		
+10002	1	จางซุน	ซัน				1	22	2	8			3	46	512	200042	Sys_YuSheTeXing1	Industrious						10001|Spouse		
+10003	1	เหวินเหริน	อวี				1	17	1	1			0	14	521	200042	Sys_YuSheTeXing2	Feminization								
+10004	1	ซุย	เหวินหยาน				2	19	1	5			1	51	552	200042	Sys_YuSheTeXing4	DeepPotential	Artist							
+	0	ตัวละครที่สร้างโดยสมาชิกชุมชน Tap 【弦断心散】	1	Ye	Broken String	18	1	1	-1	0						Experiences29	Experiences13	LunHui_Experiences7				
+	0	ผู้ไร้เทียมทานแห่งยุคปีศาจ	1	Yuan	Yu Leng	18	1	1	-1	0						Experiences30						
+	0	ตำนานการเหินสู่เซียนแห่งยุคปีศาจ	1	Qi	Lin	18	1	1	-1	0												
+	0	ศิษย์แท้คนแรกแห่งยุคปีศาจ	1	Amazing	You	18	1	1	-1	0							Experiences24	Experiences14				
+	0	ผู้พิชิตที่รวดเร็วที่สุดแห่งยุคปีศาจ	1	Dusk Sky	Snowy Desire	18	1	1	-1	0												
+	0	นักปราบปีศาจคนแรกแห่งยุคปีศาจ	1	Zi	Harsh	18	1	1	-1	0						Experiences11	Experiences6					

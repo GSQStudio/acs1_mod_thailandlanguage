@@ -1,0 +1,119 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Hungry1">
+			<DisplayName>หิวจนแทบบ้า</DisplayName>
+			<Desc>ได้โปรดขออาหารให้ข้า อะไรก็ได้ ได้โปรด!</Desc>
+			<StoryDesc>รู้สึกว่าการที่ต้องทนหิวโดยปราศจากอาหารนั้นมันทำให้ผู้คนแทบบ้า</StoryDesc>
+		</Text>
+		<Text Name="Hungry2">
+			<DisplayName>หิวสุดๆ</DisplayName>
+			<Desc>ข้าหิวมากกกก มีอะไรให้ข้ากินหรือไม่?</Desc>
+			<StoryDesc>รู้สึกหิวจนแสบท้องแสบไส้</StoryDesc>
+		</Text>
+		<Text Name="Hungry3">
+			<DisplayName>หิว</DisplayName>
+			<Desc>ข้าหิวจริงๆ ขออะไรให้ข้ากินหน่อย?</Desc>
+			<StoryDesc>รู้สึกว่ามันยากที่จะมีสมาธิเมื่อคนๆ หนึ่งรู้สึกหิว</StoryDesc>
+		</Text>
+		<Text Name="Hungry4">
+			<DisplayName>ท้องอืด</DisplayName>
+			<Desc>ข้ากินมากเกินไปจนรู้สึกแน่นท้อง</Desc>
+			<StoryDesc>รู้สึกว่าการกินมากเกินก็สามารถทำให้รู้สึกไม่สบายตัวได้</StoryDesc>
+		</Text>
+		<Text Name="Thirsty1">
+			<DisplayName>กระหายน้ำสุดขีด</DisplayName>
+			<Desc>ข้ากระหายน้ำมากจนรู้สึกเหมือนกับว่าวิญญาณกำลังจะออกจากร่างกาย</Desc>
+			<StoryDesc>รู้สึกว่าริมฝีปากแตกเพราะร่างกายขาดน้ำมากเกินไป</StoryDesc>
+		</Text>
+		<Text Name="Thirsty2">
+			<DisplayName>กระหายน้ำ</DisplayName>
+			<Desc>ขอน้ำให้ข้าหน่อย ได้โปรด...</Desc>
+			<StoryDesc>รู้สึกกระหายน้ำจนเสียงแหบ</StoryDesc>
+		</Text>
+		<Text Name="Thirsty3">
+			<DisplayName>คอแห้ง</DisplayName>
+			<Desc>ข้ารู้สึกคอแห้งสุดๆ ข้าควรดื่มน้ำเพื่อดับกระหาย</Desc>
+			<StoryDesc>รู้สึกกลืนลำบากนิดหน่อย</StoryDesc>
+		</Text>
+		<Text Name="Fatigue1">
+			<DisplayName>เหนื่อยสุดๆ</DisplayName>
+			<Desc>ข้ารู้สึกเหมือนกับว่าข้าอาจเป็นลมได้ทุกเมื่อ</Desc>
+			<StoryDesc>รู้สึกว่าความอ่อนเพลียทำให้เกิดอาการง่วงนอนและอาจนำไปสู่การเป็นลมได้</StoryDesc>
+		</Text>
+		<Text Name="Fatigue2">
+			<DisplayName>เหนื่อยมาก</DisplayName>
+			<Desc>ถ้าข้าไม่พักซักหน่อยละก็ ข้าอาจเป็นลมได้</Desc>
+			<StoryDesc>รู้สึกว่าการขยี้ตาเป็นสิ่งที่ทำได้เพื่อให้ตื่นตัว</StoryDesc>
+		</Text>
+		<Text Name="Fatigue3">
+			<DisplayName>เหนื่อย</DisplayName>
+			<Desc>ถ้าได้นอนหลับซักหน่อยก็คงจะดี</Desc>
+			<StoryDesc>รู้สึกการถ้าหากได้นอนพักซักหน่อยก็จะสามารถหยุดอาการหาวได้</StoryDesc>
+		</Text>
+		<Text Name="Entertainment1">
+			<DisplayName>เบื่อจนแทบบ้า</DisplayName>
+			<Desc>วันคืนอันแสนน่าเบื่อ ชีวิตช่างไร้ความหมายจริงๆ</Desc>
+			<StoryDesc>รู้สึกเบื่อจนแทบคลั่ง</StoryDesc>
+		</Text>
+		<Text Name="Entertainment2">
+			<DisplayName>เบื่อสุดๆ</DisplayName>
+			<Desc>โลกใบนี้มันไม่มีอะไรที่น่าสนใจอีกแล้วงั้นรึ</Desc>
+			<StoryDesc>รู้สึกว่าสิ่งเดียวที่ทำได้เพื่อคลายความเบื่อหน่ายก็คือการแกว่งแขนไปมา</StoryDesc>
+		</Text>
+		<Text Name="Entertainment3">
+			<DisplayName>เบื่อ</DisplayName>
+			<Desc>ข้าควรหาอะไรทำเพื่อแก้เบื่อ</Desc>
+			<StoryDesc>รู้สึกว่าความเบื่อหน่ายทำให้ผู้คนรู้สึกหงุดหงิด</StoryDesc>
+		</Text>
+		<Text Name="Entertainment4">
+			<DisplayName>ค่อนข้างเบื่อ</DisplayName>
+			<Desc>เฮ้อ มันค่อนข้างน่าเบื่อเล็กน้อย แต่ช่างน้อยชีวิตก็ค่อนข้างสงบสุข</Desc>
+			<StoryDesc>รู้สึกว่าถึงแม้ว่าจะน่าเบื่อไปบ้าง แต่ชีวิตก็สงบสุขดี</StoryDesc>
+		</Text>
+		<Text Name="Entertainment5">
+			<DisplayName>น่าสนใจ</DisplayName>
+			<Desc>ชีวิตดูน่าค้นหาและเต็มไปด้วยความสุข</Desc>
+			<StoryDesc>รู้สึกว่าชีวิตช่างมีชีวิตชีวา</StoryDesc>
+		</Text>
+		<Text Name="Entertainment6">
+			<DisplayName>สีสันแห่งชีวิต</DisplayName>
+			<Desc>ชีวิตช่างมีสีสัน มีเรื่องราวมากมายให้ตั้งตารอในแต่ละวัน</Desc>
+			<StoryDesc>รู้สึกว่าความหลากหลายในชีวิตทำให้ผู้คนมีความสุข</StoryDesc>
+		</Text>
+		<Text Name="JoinSchool">
+			<DisplayName>ครั้งแรกที่หน้าสำนัก</DisplayName>
+			<Desc>ข้าต้องเข้าร่วมให้ได้ ความใฝ่ฝันของข้าคือการกลายเป็นเซียนอมตะ!!</Desc>
+			<StoryDesc>รู้สึกตื่นเต้นจนหยุดยิ้มไม่ได้</StoryDesc>
+		</Text>
+		<Text Name="NoTool">
+			<DisplayName>ต้องการเครื่องมือ</DisplayName>
+			<Desc>คนเราควรใช้มือเปล่าๆ [TXT] รึไง? โอ้ยเจ็บมือชะมัด</Desc>
+			<StoryDesc>รู้สึกว่าการไม่มีเครื่องมือที่เหมาะสมในการทำงานทำให้รู้สึกหงุดหงิดจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="BeKick">
+			<DisplayName>ถูกขับไล่</DisplayName>
+			<Desc>ข้าทำอะไรผิดงั้นรึ ทำไมถึงทำกับข้าเช่นนี้?</Desc>
+			<StoryDesc>รู้สึกโกรธจนแทบระเบิดหลังจากถูกขับไล่ออกจากสำนัก</StoryDesc>
+		</Text>
+		<Text Name="Iamdying">
+			<DisplayName>อายุไขกำลังจะหมด</DisplayName>
+			<Desc>ข้ากำลังจะตาย</Desc>
+			<StoryDesc>รู้สึกวิตกกังวลถึงบั้นปลายชีวิต</StoryDesc>
+		</Text>
+		<Text Name="WalkerBeHelp">
+			<DisplayName>ถูกช่วยเหลือ</DisplayName>
+			<Desc>บนโลกใบนี้ยังคงมีคนดีๆ อยู่อีกมาก</Desc>
+			<StoryDesc>ความรู้สึกที่ได้รับความช่วยเหลือนั่นคือความรู้สึกซาบซึ้ง</StoryDesc>
+		</Text>
+		<Text Name="WalkerBeKick">
+			<DisplayName>ถูกขับไล่</DisplayName>
+			<Desc>นี่มันบ้าไปแล้ว!</Desc>
+			<StoryDesc>รู้สึกโกรธจนแทบบ้าหลังจากถูกขับไล่ออกจากสำนัก</StoryDesc>
+		</Text>
+		<Text Name="BeSale">
+			<DisplayName>ถูกขาย</DisplayName>
+			<Desc>ข้าทำอะไรผิดงั้นรึ ทำไมถึงทำกับข้าเช่นนี้?</Desc>
+			<StoryDesc>รู้สึกโกรธจนแทบระเบิดหลังจากถูกขายไปให้ใครบางคน</StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,34 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mine">
+			<DisplayName>ขุดเหมือง</DisplayName>
+		</Text>
+		<Text Name="Pickup">
+			<DisplayName>เก็บรวบรวม</DisplayName>
+		</Text>
+		<Text Name="Cutoff">
+			<DisplayName>ตัด</DisplayName>
+		</Text>
+		<Text Name="Eat">
+			<DisplayName>กิน</DisplayName>
+		</Text>
+		<Text Name="Dialog">
+			<DisplayName>พูดคุย</DisplayName>
+		</Text>
+		<Text Name="Interact">
+			<DisplayName>โต้ตอบ</DisplayName>
+		</Text>
+		<Text Name="Equip">
+			<DisplayName>สวมใส่</DisplayName>
+		</Text>
+		<Text Name="Attack">
+			<DisplayName>โจมตี</DisplayName>
+		</Text>
+		<Text Name="Slaughter">
+			<DisplayName>สังหาร</DisplayName>
+		</Text>
+		<Text Name="SlaughterBoss">
+			<DisplayName>ขุด</DisplayName>
+		</Text>
+	</List>
+</Texts>

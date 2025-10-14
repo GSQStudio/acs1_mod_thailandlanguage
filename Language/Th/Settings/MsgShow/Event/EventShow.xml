@@ -1,0 +1,56 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="t1">
+			<DisplayName>สภาพอากาศทั่วไป</DisplayName>
+			<Desc>สภาพอากาศทั่วไป</Desc>
+		</Text>
+		<Text Name="t2">
+			<DisplayName>สภาพอากาศที่หาได้ยาก</DisplayName>
+			<Desc>สภาพอากาศที่หาได้ยาก</Desc>
+		</Text>
+		<Text Name="t3">
+			<DisplayName>สมบัติร่วงหล่นจากฟ้า</DisplayName>
+			<Desc>สมบัติร่วงหล่นจากฟ้า</Desc>
+		</Text>
+		<Text Name="t8">
+			<DisplayName>แนะนำศิษย์</DisplayName>
+			<Desc>แนะนำศิษย์</Desc>
+		</Text>
+		<Text Name="t_vistor">
+			<DisplayName>เหตุการณ์ผู้มาเยือน</DisplayName>
+			<Desc>เหตุการณ์ผู้มาเยือน</Desc>
+		</Text>
+		<Text Name="t5">
+			<DisplayName>สัตว์ป่าโจมตี</DisplayName>
+			<Desc>สัตว์ป่าโจมตี</Desc>
+		</Text>
+		<Text Name="t6">
+			<DisplayName>ศัตรูกำลังมา</DisplayName>
+			<Desc>ศัตรูกำลังมา</Desc>
+		</Text>
+		<Text Name="t7">
+			<DisplayName>สัตว์อสูรบุกโจมตี</DisplayName>
+			<Desc>สัตว์อสูรบุกโจมตี</Desc>
+		</Text>
+		<Text Name="s_fabao">
+			<DisplayName>ความลับ - ค้นพบอาวุธวิเศษ</DisplayName>
+			<Desc>ความลับ - ค้นพบอาวุธวิเศษ</Desc>
+		</Text>
+		<Text Name="s_miji">
+			<DisplayName>ความลับ - ค้นพบคัมภีร์ลับ</DisplayName>
+			<Desc>ความลับ - ค้นพบคัมภีร์ลับ</Desc>
+		</Text>
+		<Text Name="s_daotong">
+			<DisplayName>ความลับ - ค้นพบวิชาบ่มเพาะโบราณ</DisplayName>
+			<Desc>ความลับ - ค้นพบวิชาบ่มเพาะโบราณ</Desc>
+		</Text>
+		<Text Name="s_dongfu">
+			<DisplayName>ความลับ - ค้นพบถ้ำลับ</DisplayName>
+			<Desc>ความลับ - ค้นพบถ้ำลับ</Desc>
+		</Text>
+		<Text Name="s_zhengxie">
+			<DisplayName>ความลับ - ร่องรอยผู้เลื่องชื่อ</DisplayName>
+			<Desc>ความลับ - ร่องรอยผู้เลื่องชื่อ</Desc>
+		</Text>
+	</List>
+</Texts>

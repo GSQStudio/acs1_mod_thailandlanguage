@@ -1,0 +1,280 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Lv4_ProtectTime">
+			<DisplayName>ระยะเวลาการคุ้มครอง</DisplayName>
+			<Desc>เหตุการณ์บังเอิญในการผจญภัยจะไม่มีเกิดขึ้นในช่วงระยะเวลาที่ปลอดภัย</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>ไม่มีระยะเวลาปลอดภัย</Values.0.Desc>
+			<Values.1.Name>สั้น</Values.1.Name>
+			<Values.1.Desc>ระยะเวลาปลอดภัย: 75 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>ระยะเวลาปลอดภัย: 150 วัน</Values.2.Desc>
+			<Values.3.Name>ยาวนาน</Values.3.Name>
+			<Values.3.Desc>ระยะเวลาปลอดภัย: 300 วัน</Values.3.Desc>
+			<Values.4.Name>ตลอดกาล</Values.4.Name>
+			<Values.4.Desc>เหตุการณ์จะไม่เกิดขึ้นเลยตลอดเกม</Values.4.Desc>
+		</Text>
+		<Text Name="Lv4_IntervalMin">
+			<DisplayName>ระยะห่างอย่างน้อย</DisplayName>
+			<Desc>เมื่อเกิดเหตุการณ์บังเอิญเกิดขึ้นในการผจญภัยขึ้นแล้ว มันจะไม่เกิดขึ้นอีกภายในช่วงระยะเวลาขั้นต่ำนี้</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างน้อย: 10 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างน้อย: 20 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างน้อย: 30 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Lv4_IntervalMax">
+			<DisplayName>ระยะห่างอย่างมาก</DisplayName>
+			<Desc>เมื่อไม่มีเหตุการณ์บังเอิญในการผจญภัยเกิดขึ้นเลยภายในช่วงระยะเวลาที่กำหนด เหตุการณ์ในครั้งต่อไปจะเกิดเหตุการณ์บังเอิญในการผจญภัยอย่างแน่นอน</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างมาก: 35 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างมาก: 50 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างมาก: 75 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="EnemyLv2_ProtectTime">
+			<DisplayName>ระยะเวลาการคุ้มครอง</DisplayName>
+			<Desc>ศัตรูที่แข็งแกร่งจะไม่ปรากฏตัวออกมาภายในช่วงระยะเวลาปลอดภัย</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>จะไม่มีมีระยะเวลาในการคุ้มครอง</Values.0.Desc>
+			<Values.1.Name>สั้น</Values.1.Name>
+			<Values.1.Desc>ระยะเวลาปลอดภัย: 30 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>ระยะเวลาปลอดภัย: 60 วัน</Values.2.Desc>
+			<Values.3.Name>ยาวนาน</Values.3.Name>
+			<Values.3.Desc>ระยะเวลาปลอดภัย: 120 วัน</Values.3.Desc>
+			<Values.4.Name>ยาวนานมาก</Values.4.Name>
+			<Values.4.Desc>ระยะเวลาปลอดภัย: 240 วัน</Values.4.Desc>
+			<Values.5.Name>ตลอดกาล</Values.5.Name>
+			<Values.5.Desc>เหตุการณ์จะไม่เกิดขึ้นเลยตลอดเกม</Values.5.Desc>
+		</Text>
+		<Text Name="EnemyLv2_IntervalMin">
+			<DisplayName>ระยะห่างอย่างน้อย</DisplayName>
+			<Desc>เมื่อเกิดเหตุการณ์ศัตรูที่แข็งแกร่งขึ้นแล้ว มันจะไม่เกิดขึ้นอีกภายในช่วงระยะเวลาขั้นต่ำนี้</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างน้อย: 12 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างน้อย: 20 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างน้อย: 28 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="EnemyLv2_IntervalMax">
+			<DisplayName>ระยะห่างอย่างมาก</DisplayName>
+			<Desc>เมื่อไม่มีเหตุการณ์ศัตรูที่แข็งแกร่งเกิดขึ้นเลยภายในช่วงระยะเวลาที่กำหนด เหตุการณ์ในครั้งต่อไปจะเกิดเหตุการณ์ศัตรูที่แข็งแกร่งขึ้นอย่างแน่นอน</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างมาก: 30 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างมาก: 40 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างมาก: 50 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Lv3_ProtectTime">
+			<DisplayName>ระยะเวลาการคุ้มครอง</DisplayName>
+			<Desc>เหตุการณ์หายากจะไม่เกิดขึ้นในช่วงระยะเวลาปลอดภัย</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>จะไม่มีมีระยะเวลาในการคุ้มครอง</Values.0.Desc>
+			<Values.1.Name>สั้น</Values.1.Name>
+			<Values.1.Desc>ระยะเวลาปลอดภัย: 25 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>ระยะเวลาปลอดภัย: 50 วัน</Values.2.Desc>
+			<Values.3.Name>ยาวนาน</Values.3.Name>
+			<Values.3.Desc>ระยะเวลาปลอดภัย: 100 วัน</Values.3.Desc>
+			<Values.4.Name>ยาวนานมาก</Values.4.Name>
+			<Values.4.Desc>ระยะเวลาปลอดภัย: 200 วัน</Values.4.Desc>
+			<Values.5.Name>ตลอดกาล</Values.5.Name>
+			<Values.5.Desc>เหตุการณ์จะไม่เกิดขึ้นเลยตลอดเกม</Values.5.Desc>
+		</Text>
+		<Text Name="Lv3_IntervalMin">
+			<DisplayName>ระยะห่างอย่างน้อย</DisplayName>
+			<Desc>เมื่อเกิดเหตุการณ์หายากขึ้น มันจะไม่เกิดขึ้นอีกภายในช่วงระยะเวลาขั้นต่ำนี้</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างน้อย: 5 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างน้อย: 20 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างน้อย: 35 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Lv3_IntervalMax">
+			<DisplayName>ระยะห่างอย่างมาก</DisplayName>
+			<Desc>เมื่อไม่มีเหตุการณ์หายากเกิดขึ้นเลยภายในช่วงระยะเวลาที่กำหนด เหตุการณ์ในครั้งต่อไปจะเกิดเหตุการณ์หายากขึ้นอย่างแน่นอน</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างมาก: 40 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างมาก: 55 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างมาก: 70 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Secrets_ProtectTime">
+			<DisplayName>ระยะเวลาการคุ้มครอง</DisplayName>
+			<Desc>เหตุการณ์ลับจะไม่เกิดขึ้นในช่วงระยะเวลาปลอดภัย</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>จะไม่มีมีระยะเวลาในการคุ้มครอง</Values.0.Desc>
+			<Values.1.Name>สั้น</Values.1.Name>
+			<Values.1.Desc>ระยะเวลาปลอดภัย: 15 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>ระยะเวลาปลอดภัย: 45 วัน</Values.2.Desc>
+			<Values.3.Name>ยาวนาน</Values.3.Name>
+			<Values.3.Desc>ระยะเวลาปลอดภัย: 75 วัน</Values.3.Desc>
+			<Values.4.Name>ตลอดกาล</Values.4.Name>
+			<Values.4.Desc>เหตุการณ์จะไม่เกิดขึ้นเลยตลอดเกม</Values.4.Desc>
+		</Text>
+		<Text Name="Secrets_IntervalMin">
+			<DisplayName>ระยะห่างอย่างน้อย</DisplayName>
+			<Desc>เมื่อเกิดเหตุการณ์ลับขึ้น มันจะไม่เกิดขึ้นอีกภายในช่วงระยะเวลาขั้นต่ำนี้</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างน้อย: 1 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างน้อย: 3 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างน้อย: 5 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Secrets_IntervalMax">
+			<DisplayName>ระยะห่างอย่างมาก</DisplayName>
+			<Desc>เมื่อไม่มีเหตุการณ์ลับเกิดขึ้นเลยภายในช่วงระยะเวลาที่กำหนด เหตุการณ์ในครั้งต่อไปจะเกิดเหตุการณ์ลับขึ้นอย่างแน่นอน</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างมาก: 7 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างมาก: 9 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างมาก: 15 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Join_ProtectTime">
+			<DisplayName>ระยะเวลาการคุ้มครอง</DisplayName>
+			<Desc>เหตุการณ์ผู้มาเยี่ยมเยือนจะไม่เกิดขึ้นในช่วงระยะเวลาปลอดภัย</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>จะไม่มีมีระยะเวลาในการคุ้มครอง</Values.0.Desc>
+			<Values.1.Name>สั้น</Values.1.Name>
+			<Values.1.Desc>ระยะเวลาปลอดภัย: 5 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>ระยะเวลาปลอดภัย: 25 วัน</Values.2.Desc>
+			<Values.3.Name>ยาวนาน</Values.3.Name>
+			<Values.3.Desc>ระยะเวลาปลอดภัย: 75 วัน</Values.3.Desc>
+			<Values.4.Name>ตลอดกาล</Values.4.Name>
+			<Values.4.Desc>เหตุการณ์จะไม่เกิดขึ้นเลยตลอดเกม</Values.4.Desc>
+		</Text>
+		<Text Name="Join_IntervalMin">
+			<DisplayName>ระยะห่างอย่างน้อย</DisplayName>
+			<Desc>เมื่อเกิดเหตุการณ์ผู้มาเยี่ยมเยือนขึ้น มันจะไม่เกิดขึ้นอีกภายในช่วงระยะเวลาขั้นต่ำนี้</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างน้อย: 1 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างน้อย: 3 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างน้อย: 5 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Join_IntervalMax">
+			<DisplayName>ระยะห่างอย่างมาก</DisplayName>
+			<Desc>เมื่อไม่มีเหตุการณ์ผู้มาเยี่ยมเยือนเกิดขึ้นเลยภายในช่วงระยะเวลาที่กำหนด เหตุการณ์ในครั้งต่อไปจะเกิดเหตุการณ์ผู้มาเยี่ยมเยือนขึ้นอย่างแน่นอน</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างมาก: 7 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างมาก: 9 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างมาก: 15 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Enemy_ProtectTime">
+			<DisplayName>ระยะเวลาการคุ้มครอง</DisplayName>
+			<Desc>เหตุการณ์ศัตรูจะไม่เกิดขึ้นในช่วงระยะเวลาปลอดภัย</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>จะไม่มีมีระยะเวลาในการคุ้มครอง</Values.0.Desc>
+			<Values.1.Name>สั้น</Values.1.Name>
+			<Values.1.Desc>ระยะเวลาปลอดภัย: 6 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>ระยะเวลาปลอดภัย: 12 วัน</Values.2.Desc>
+			<Values.3.Name>ยาวนาน</Values.3.Name>
+			<Values.3.Desc>ระยะเวลาปลอดภัย: 24 วัน</Values.3.Desc>
+			<Values.4.Name>ตลอดกาล</Values.4.Name>
+			<Values.4.Desc>เหตุการณ์จะไม่เกิดขึ้นเลยตลอดเกม</Values.4.Desc>
+		</Text>
+		<Text Name="Enemy_IntervalMin">
+			<DisplayName>ระยะห่างอย่างน้อย</DisplayName>
+			<Desc>เมื่อเกิดเหตุการณ์ศัตรูขึ้น มันจะไม่เกิดขึ้นอีกภายในช่วงระยะเวลาขั้นต่ำนี้</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างน้อย: 2 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างน้อย: 5 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างน้อย: 8 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Enemy_IntervalMax">
+			<DisplayName>ระยะห่างอย่างมาก</DisplayName>
+			<Desc>เมื่อไม่มีเหตุการณ์ศัตรูเกิดขึ้นเลยภายในช่วงระยะเวลาที่กำหนด เหตุการณ์ในครั้งต่อไปจะเกิดเหตุการณ์ศัตรูขึ้นอย่างแน่นอน</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างมาก: 10 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างมาก: 17 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างมาก: 24 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Lv1_ProtectTime">
+			<DisplayName>ระยะเวลาการคุ้มครอง</DisplayName>
+			<Desc>เหตุการณ์ทั่วไปจะไม่เกิดขึ้นในช่วงระยะเวลาปลอดภัย</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>จะไม่มีมีระยะเวลาในการคุ้มครอง</Values.0.Desc>
+			<Values.1.Name>สั้น</Values.1.Name>
+			<Values.1.Desc>ระยะเวลาปลอดภัย: 5 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>ระยะเวลาปลอดภัย: 15 วัน</Values.2.Desc>
+			<Values.3.Name>ยาวนาน</Values.3.Name>
+			<Values.3.Desc>ระยะเวลาปลอดภัย: 60 วัน</Values.3.Desc>
+			<Values.4.Name>ตลอดกาล</Values.4.Name>
+			<Values.4.Desc>เหตุการณ์จะไม่เกิดขึ้นเลยตลอดเกม</Values.4.Desc>
+		</Text>
+		<Text Name="Lv1_IntervalMin">
+			<DisplayName>ระยะห่างอย่างน้อย</DisplayName>
+			<Desc>เมื่อเกิดเหตุการณ์ทั่วไปขึ้น มันจะไม่เกิดขึ้นอีกภายในช่วงระยะเวลาขั้นต่ำนี้</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างน้อย: 1 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างน้อย: 3 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างน้อย: 5 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Lv1_IntervalMax">
+			<DisplayName>ระยะห่างอย่างมาก</DisplayName>
+			<Desc>เมื่อไม่มีเหตุการณ์ทั่วไปเกิดขึ้นเลยภายในช่วงระยะเวลาที่กำหนด เหตุการณ์ในครั้งต่อไปจะเกิดเหตุการณ์ทั่วไปขึ้นอย่างแน่นอน</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างมาก: 6 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างมาก: 8 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างมาก: 10 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Lv2_ProtectTime">
+			<DisplayName>ระยะเวลาการคุ้มครอง</DisplayName>
+			<Desc>เหตุการณ์ระดับสูงจะไม่เกิดขึ้นในช่วงระยะเวลาปลอดภัย</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>จะไม่มีมีระยะเวลาในการคุ้มครอง</Values.0.Desc>
+			<Values.1.Name>สั้น</Values.1.Name>
+			<Values.1.Desc>ระยะเวลาปลอดภัย: 5 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>ระยะเวลาปลอดภัย: 15 วัน</Values.2.Desc>
+			<Values.3.Name>ยาวนาน</Values.3.Name>
+			<Values.3.Desc>ระยะเวลาปลอดภัย: 60 วัน</Values.3.Desc>
+			<Values.4.Name>ตลอดกาล</Values.4.Name>
+			<Values.4.Desc>เหตุการณ์จะไม่เกิดขึ้นเลยตลอดเกม</Values.4.Desc>
+		</Text>
+		<Text Name="Lv2_IntervalMin">
+			<DisplayName>ระยะห่างอย่างน้อย</DisplayName>
+			<Desc>เมื่อเกิดเหตุการณ์ระดับสูงขึ้น มันจะไม่เกิดขึ้นอีกภายในช่วงระยะเวลาขั้นต่ำนี้</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างน้อย: 3 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างน้อย: 7 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างน้อย: 11 วัน</Values.2.Desc>
+		</Text>
+		<Text Name="Lv2_IntervalMax">
+			<DisplayName>ระยะห่างอย่างมาก</DisplayName>
+			<Desc>เมื่อไม่มีเหตุการณ์ระดับสูงเกิดขึ้นเลยภายในช่วงระยะเวลาที่กำหนด เหตุการณ์ในครั้งต่อไปจะเกิดเหตุการณ์ระดับสูงขึ้นอย่างแน่นอน</Desc>
+			<Values.0.Name>สั้น</Values.0.Name>
+			<Values.0.Desc>ระยะห่างอย่างมาก: 15 วัน</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ระยะห่างอย่างมาก: 20 วัน</Values.1.Desc>
+			<Values.2.Name>ยาวนาน</Values.2.Name>
+			<Values.2.Desc>ระยะห่างอย่างมาก: 25 วัน</Values.2.Desc>
+		</Text>
+	</List>
+</Texts>

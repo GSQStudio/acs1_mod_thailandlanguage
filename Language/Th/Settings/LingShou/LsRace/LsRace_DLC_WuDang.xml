@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu">
+			<PossibleMagic.0.DisplayName>หลอมกลั่น</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>เต่าดำดูดซับสารอาหารได้อย่างมีประสิทธิภาพ และเปลี่ยนสิ่งเจือปนให้กลายเป็นหินวิญญาณ</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>ลมหายใจที่สงบสุข</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>ใช้กับตัวละครพันธมิตรเพื่อที่ช่วยให้พวกเขาไม่ต้องกินอาหาร,ดื่มน้ำ หรือนอนหลับเป็นเวลา 3 วัน ข้อเสียคือพวกเขาจะเคลื่อนไหวช้าลง\n[color=#FF0000]ต้องเติบโตเต็มที่ก่อน[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>บังสวรรค์</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>เลื่อนทัณฑ์เปลี่ยนร่างของพันธมิตรออกไปโดยแลกกับอายุไขของพวกเขา\n[color=#FF0000]ต้องการค่าจิตวิญญาณ 50 เพื่อใช้งาน[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>ดินธรรมชาติ</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>เปลี่ยนพื้นที่ให้เป็นดินวิญญาณโดยใช้การเติบโตและโภชนาการของตัวเอง อย่างไรก็ตามน้ำในบริเวณใกล้เคียงจะกลายเป็นน้ำธรรมดา\n[color=#FF0000]ต้องการปราณ 100 เพื่อใช้งาน[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]ต้องการ พรระดับต่ำ[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]ต้องการ คำสาประดับต่ำ[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]ต้องการ พรระดับกลาง[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]ต้องการ คำสาประดับกลาง[/color]</PossibleSkill.3.Desc>
+			<PossibleSkill.4.Desc>[color=#FF0000]ต้องการ พรระดับสูง[/color]</PossibleSkill.4.Desc>
+			<PossibleSkill.5.Desc>[color=#FF0000]ต้องการ คำสาประดับสูง[/color]</PossibleSkill.5.Desc>
+		</Text>
+	</List>
+</Texts>
