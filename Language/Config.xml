@@ -1,7 +1,7 @@
 <Languages><List>
-	<Language Name="OfficialThailand">
-		<DisplayName>ภาษาไทย</DisplayName>
-		<Icon>thflag</Icon>
+	<Language Name="ThaiTranslation">
+		<DisplayName>Thai</DisplayName>
+		<Icon>thflag.png</Icon>
 		<!--0:CNMODE 1:ENMODE-->
 		<UIMode>1</UIMode>
 		<Desc>Language Example</Desc>
@@ -11,10 +11,10 @@
 		<FamilyPostposition>false</FamilyPostposition>
 		 <!--change the labelword in StoryTxt -->
 		<Labels>
-			<li Label="[ENHIM]" SecondPersonF="her" SecondPersonM="him"/>
-			<li Label="[ENHERS]" SecondPersonF="hers" SecondPersonM="his"/>
-			<li Label="[ENHIM2]" ThirdPersonF="her" ThirdPersonM="him"/>
-			<li Label="[ENHERS2]" ThirdPersonF="hers" ThirdPersonM="his"/>
+			<li Label="[ENHIM]" SecondPersonF="นาง" SecondPersonM="เขา"/>
+			<li Label="[ENHERS]" SecondPersonF="ของนาง" SecondPersonM="ของเขา"/>
+			<li Label="[ENHIM2]" ThirdPersonF="นาง" ThirdPersonM="เขา"/>
+			<li Label="[ENHERS2]" ThirdPersonF="ของนาง" ThirdPersonM="ของเขา"/>
 		</Labels>
-	</Language>	
+	</Language>
 </List></Languages>
