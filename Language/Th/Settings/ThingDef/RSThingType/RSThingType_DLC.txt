@@ -1,4 +1,0 @@
-ItemName	Type
-Item_BambooShoot	อาหาร
-Item_Bamboo	วัสดุ
-Item_BambooLeftover	วัสดุ

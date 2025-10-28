@@ -1,3 +1,0 @@
-ItemName	Type
-Item_WuDang_HuangJing	สมุนไพร
-Item_WuDang_HuangJingFen	สมุนไพร
