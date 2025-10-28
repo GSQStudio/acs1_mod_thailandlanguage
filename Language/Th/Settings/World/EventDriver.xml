@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Template">
+			<DisplayName>แม่แบบ</DisplayName>
+			<Types.0.DisplayName>เหตุวาสนา</Types.0.DisplayName>
+			<Types.0.Desc>รวมถึง ร่องรอยอสูรโบราณ และร่องรอยผู้ฝึกตนยุคโบราณ</Types.0.Desc>
+			<Types.1.DisplayName>เหตุศัตรูทรงพลัง</Types.1.DisplayName>
+			<Types.1.Desc>รวมถึงเหตุผู้ฝึกตนบุก และอสูรบุกที่มีความยากสูง</Types.1.Desc>
+			<Types.2.DisplayName>เหตุหายาก</Types.2.DisplayName>
+			<Types.2.Desc>รวมถึงเหตุสภาพอากาศที่ยาก การพบพานผู้รับใช้เวท และสมบัติขั้นสูงที่ถูกขุดพบ</Types.2.Desc>
+			<Types.3.DisplayName>เหตุลับลี้</Types.3.DisplayName>
+			<Types.3.Desc>รวมถึง บัญชาปรากฏ และ บัญชาปรากฏ</Types.3.Desc>
+			<Types.4.DisplayName>เหตุผู้มาเยือน</Types.4.DisplayName>
+			<Types.4.Desc>รวมถึง ผู้ลี้ภัยขอเข้าร่วม คำร้องของผู้ผ่านทาง และผู้มาเยือนเซียน</Types.4.Desc>
+			<Types.5.DisplayName>เหตุศัตรู</Types.5.DisplayName>
+			<Types.5.Desc>รวมถึง การบุกของผู้ฝึกตน และการบุกของอสูร</Types.5.Desc>
+			<Types.6.DisplayName>เหตุทั่วไป</Types.6.DisplayName>
+			<Types.6.Desc>รวมถึง เหตุสภาพอากาศ และการเปลี่ยนแปลงบรรยากาศของสำนัก</Types.6.Desc>
+			<Types.7.DisplayName>เหตุขั้นสูง</Types.7.DisplayName>
+			<Types.7.Desc>รวมถึง เหตุสภาพอากาศพิเศษ สมบัติถูกขุดพบ และกระแสชี่ปะทุ</Types.7.Desc>
+		</Text>
+		<Text Name="EasyFate">
+			<DisplayName>สงบสุข</DisplayName>
+		</Text>
+		<Text Name="NormalFate">
+			<DisplayName>ท้าทาย</DisplayName>
+		</Text>
+		<Text Name="HardFate">
+			<DisplayName>อำมหิต</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,137 @@
+ItemName	Descript
+Item_Dan_IncreaseLife3	อยู่ในขวด, ยืดอายุ, สีเหลืองอ่อน
+Item_Dan_IncreaseLife4	ในน้ำเต้า, ยืดอายุ, สีฟ้า
+Item_Dan_Ling2	สีม่วง, ทรงกลม, ฐานการบ่มเพาะ
+Item_Dan_IncreaseLife5	สีฟ้า, ทรงกลม, ทัณฑ์สวรรค์
+Item_Dan_IncreaseNeckCountdown1	น้ำเต้า, สีแดง, ทัณฑ์สวรรค์
+Item_ParasolWood	ไม้, แข็ง, สมบัติวิญญาณ
+Item_Dan_PracticeSpeed	ไฟ, ความเร็ว, อยู่ในขวด
+Item_Dan_Defense	ป้องกัน, ทรงกลม, สีส้ม
+Item_CopperBlock1	สี่เหลี่ยม, ไฟ, สมบัติวิญญาณ
+Item_Dan_CureHuoDamage	ทรงกลม, รักษา, สีม่วง
+Item_Dan_CureTuDamage	ทรงกลม, รักษา, สีส้ม
+Item_Dan_CureShuiDamage	ผง, น้ำ, สีฟ้า
+Item_Dan_CureMuDamage	ทรงกลม, สีคราม, รักษา
+Item_Dan_CureFiveElementDamage	อยู่ในขวด, รักษา, สีส้ม
+Item_EarthEssence_1	ในน้ำเต้า, สีฟ้า, รักษา
+Item_Dan_FiveBaseFromLife	ทรงกลม, สีม่วง, ลดอายุ
+Item_Dan_DredgeQi	อยู่ในขวด, รักษา, ธาตุดิน
+Item_RedGinseng	รากพืช, สีแดง, ฐานการบ่มเพาะ
+Item_LingWood	ไม้, สีฟ้า, สมบัติวิญญาณ
+Item_HardWood	ไม้, สีเหลือง
+Item_Dan_PracticeRate	เม็ดเล็กๆ, ธาตุทอง, จำกัด
+Item_Dan_IncreaseLife1	ยืดอายุ, ในน้ำเต้า, ไม้
+Item_Dan_IncreaseLife2	ยืดอายุ, ผง, ธาตุน้ำ
+Item_BasePracticeDrug	ค่าสถานะพื้นฐานทั้งห้า, อยู่ในขวด, ธาตุน้ำ
+Item_LingMuXueJie	พลังกาย, ผง, สีฟ้า
+Item_Dan_CalmDown	สภาวะจิต, เม็ดเล็กๆ, สีฟ้า
+Item_Dan_Happiness	สีน้ำตาล, สภาวะจิต, เม็ดเล็กๆ
+Item_Dan_FiveBase2	ค่าสถานะพื้นฐานทั้งห้า, ธาตุดิน, อยู่ในขวด
+Item_Dan_FiveBase1	ค่าสถานะพื้นฐานทั้งห้า, อยู่ในขวด, สีทอง
+Item_Dan_FiveBase3	ไฟ, ค่าสถานะพื้นฐานทั้งห้า, อยู่ในขวด
+Item_Dan_FiveBase4	ไม้, ค่าสถานะพื้นฐานทั้งห้า, อยู่ในขวด
+Item_Dan_FiveBase5	น้ำ, ค่าสถานะพื้นฐานทั้งห้า, อยู่ในขวด
+Item_Dan_IncreaseNeckCountdown2	ผง, ทัณฑ์สวรรค์, ธาตุทอง
+Item_Dan_CureJinDamage	กล่อง, สีขาว, รักษา
+Item_ShuiEssence	สีขาว, ทรงกลม, วิญญาณ
+Item_HuoEssence	ไฟ, ทรงกลม, วิญญาณ
+Item_JinEssence	สีน้ำตาล, ทรงกลม, วิญญาณ
+Item_MuEssence	สีน้ำตาล, วิญญาณ, ไม้
+Item_TuEssence	สีน้ำตาล, ธาตุดิน, วิญญาณ
+Item_LifeStream	ของเหลว, ยืดอายุ, สีแดง
+Item_EarthEssence	ของเหลว, โปร่งใส, ฐานการบ่มเพาะ
+Item_SkyStone	หิน, วิญญาณ, ธาตุดิน
+Item_StarEssence	วิญญาณ, หิน, ธาตุทอง
+Item_SoulPearl	วิญญาณ, น้ำ, ทรงกลม
+Item_EarthEssence1	ฐานการบ่มเพาะ, ของเหลว, สีแดง
+Item_Dan_LongDan1	สีฟ้า, ทรงกลม, ธาตุน้ำ
+Item_Dan_FengDan1	สีแดง, ทรงกลม, ธาตุไฟ
+Item_YanDaoGuo	เมล็ดเต๋า, ไม้, สีม่วง
+Item_QieDaoGuo	บาปกรรม, ไม้, สีฟ้า
+Item_Dan_TreeEXP	ทรงกลม, โปร่งใส, แนวคิด
+Item_Dan_ExtremeLofty	ในน้ำเต้า, สีทอง, รักษา
+Item_ExtremeJade	แข็ง, สีฟ้า, วิญญาณ
+Item_XianDaoShenNian	ทรงกลม, ศักยภาพ, สีเขียว
+Item_XianDaoXieNian	ทรงกลม, ศักยภาพ, สีม่วง
+Item_Dan_HundredRefine	สีทอง, ทรงกลม, การบ่มเพาะ
+Item_Dan_ZhuLongDan1	วิญญาณย่อย, หลากสี, ทรงกลม
+Item_ThunderAir	ทรงกลม, กินไม่ได้, ทัณฑ์สวรรค์
+Item_XianBone	กระดูก, เมล็ดเต๋า, ไม่มีธาตุ
+Item_ZaoHuaYuZi	สีคราม, ไม่มีธาตุ, แก่น
+Item_Dan_LingYuanZhong	สีคราม, วิญญาณ, ไม่มีธาตุ
+Item_Dan_ReBorn_4	ทรงกลม, สีแดง, ยืดอายุ
+Item_BenYuan_None	ไม่มีธาตุ, เมล็ดเต๋า, แก่น
+Item_BenYuan_Jin	สีทอง, เมล็ดเต๋า, แก่น
+Item_BenYuan_Mu	สีเขียว, เมล็ดเต๋า, แก่น
+Item_BenYuan_Shui	สีฟ้า, เมล็ดเต๋า, แก่น
+Item_BenYuan_Huo	สีแดง, เมล็ดเต๋า, แก่น
+Item_BenYuan_Tu	สีน้ำตาล, เมล็ดเต๋า, แก่น
+Item_Yao_RabbitLuck	น้ำ, ปุกปุย
+Item_Yao_WolfAtk	ธาตุทอง, แข็ง
+Item_Yao_SnakeHanLin	น้ำ, แข็ง
+Item_Yao_BearPiMao	ไฟ, ปุกปุย
+Item_Yao_TurtleKe	แข็ง, ธาตุดิน
+Item_BoarMeat	ธาตุดิน, สีน้ำตาล, อาหาร
+Item_StrangeMush	ไม้, สีน้ำตาล, อาหาร
+Item_MillVell	ไม้, ปุกปุย
+Item_SewingDefender	ไม้, แข็ง
+Item_PerfumeBag	ไม้, สภาวะจิต
+Item_StoneCutter	ธาตุทอง, ความเร็ว
+Item_Handkerchief	ปุกปุย, ไม่มีธาตุ
+Item_Bracelet	แข็ง, ไม่มีธาตุ
+Item_SmallBell	แข็ง, ไม่มีธาตุ
+Item_SysAxe	แข็ง, ไม่มีธาตุ
+Item_SysPickaxe	แข็ง, ไม่มีธาตุ
+Item_SysSickle	แข็ง, ไม่มีธาตุ
+[ANIMAL]	กล่อง, สีเหลี่ยม
+Item_BossFeng_TouYu	ไฟ, ปุกปุย, สัตว์ร้าย
+Item_BossFeng_WeiYu	ปุกปุย, สัตว์ร้าย, สมบัติวิญญาณ
+Item_BossFeng_HongYu	แนวคิด, สัตว์ร้าย, สีแดง
+Item_BossLong_Jiao	สัตว์ร้าย, แข็ง, ทักษะอาวุธวิเศษ
+Item_BossLong_NiLin	แนวคิด, น้ำ, สัตว์ร้าย
+Item_BossLong_Jing	แข็ง, สมบัติวิญญาณ, สัตว์ร้าย
+Item_BossZhuLong_Eye	สัตว์ร้าย, ลูกกลอน
+Item_BossZhuLong_LongYu	โกลาหล, ความต้านทาน, สัตว์ร้าย
+Item_BossZhuLong_TianLin	ป้องกัน, สัตว์ร้าย
+Item_Dan_FenShen1	โบราณ, สีแดง, วิญญาณย่อย
+Item_Dan_FenShen2	โชคชะตา, สีแดง, วิญญาณย่อย
+Item_Dan_FenShen3	สภาวะจิต, สีแดง, วิญญาณย่อย
+Item_Yao_CatSoul	ลูกกลอน, สีฟ้า, วิญญาณย่อย
+Item_WhiteHair	ตำรา, สีฟ้า, สีขาว
+Item_BossFeng_HuoYu	สมบัติวิญญาณ, สีแดง, สัตว์ร้าย
+Item_BossFeng_GangYu	ไฟ, สัตว์ร้าย
+Item_BossFeng_Gu	กระดูก, แข็ง, สัตว์ร้าย
+Item_DragonScale	สีฟ้า, สมบัติวิญญาณ, สัตว์ร้าย
+Item_BossLong_Zhua	แหลมคม, สัตว์ร้าย
+Item_BossLong_Lin	สีฟ้า, ป้องกัน, สัตว์ร้าย
+Item_BossZhuLong_BaiLin	สีขาว, สัตว์ร้าย
+Item_BossZhuLong_HeiLin	สีดำ, สัตว์ร้าย
+Item_BossFeng_Meat	อาหาร, สัตว์ร้าย, สีแดง
+Item_BossLong_Meat	อาหาร, หลากสี, สัตว์ร้าย
+Item_BossZhuLong_Meat	เมล็ดเต๋า, อาหาร, สัตว์ร้าย
+Item_Dan_Restore	ฟื้นฟู, สีเหลือง, ผง
+Item_Dan_SwordBall	ลูกกลอน, สีฟ้า
+Item_Dan_Ling3	ผง, สีเหลือง
+Item_Dan_Thin	เม็ดเล็กๆ, สีฟ้า, รูปร่างหน้าตา
+Item_Dan_FaceLock	เม็ดเล็กๆ, สีแดง, รูปร่างหน้าตา
+Item_Dan_FaceUnLock	เม็ดเล็กๆ, ธาตุดิน, รูปร่างหน้าตา
+Item_Dan_Soul1	เม็ดเล็กๆ, แนวคิด, อายุขัย
+Item_Dan_Soul2	เม็ดเล็กๆ, ไฟ, แนวคิด
+Item_Dan_Soul3	เม็ดเล็กๆ, ธาตุดิน, แนวคิด
+Item_Dan_Soul4	เม็ดเล็กๆ, สติปัญญา, แนวคิด
+Item_QiZhi	การรู้แจ้ง, ขวด, ธาตุน้ำ
+Item_Fall_LingZhi	การรู้แจ้ง, ขวด, ธาตุทอง
+Item_Winter_LingZhi	การรู้แจ้ง, ขวด, ไอหนาว
+Item_Spring_LingZhi	การรู้แจ้ง, ขวด, ไม้
+Item_Summer_LingZhi	การรู้แจ้ง, ขวด, ธาตุไฟ
+Item_Earth_LingZhi	การรู้แจ้ง, ขวด, ธาตุดิน
+Item_SoulCrystalYou	มณีวิญญาณ, ไม่มีธาตุ, การเจ็บปวด
+Item_SoulCrystalNing	มณีวิญญาณ, ไม่มีธาตุ, ความสงบ
+Item_SoulCrystalLing	มณีวิญญาณ, ไม่มีธาตุ, ความสุข
+Item_GodPractice_MiJuan	ตำรา, ไม่มีธาตุ
+Item_สีม่วงGanodermaLucidum	สีม่วง, วิญญาณ, อาหาร
+Item_HorseFromFei	ปุกปุย,ไม่มีธาตุ,ธาตุน้ำ
+Item_HorseFromLuShu	ปุกปุย,ไม่มีธาตุ,ธาตุไฟ
+Item_WuDang_HuangJingFen	ผง. สีขาว. ไม้
+Item_Dan_WuQiNoHunger2	ทรงกลม. อาหาร. ไม้
+Item_Dan_SanHuaHuangJing	ไม้. ปราณ. สีเหลือง

@@ -1,0 +1,157 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MapSize">
+			<DisplayName>ขนาดแผนที่</DisplayName>
+			<Values.0.Name>เล็ก</Values.0.Name>
+			<Values.0.Desc>ขนาดแผนที่: 96x96</Values.0.Desc>
+			<Values.1.Name>กลาง</Values.1.Name>
+			<Values.1.Desc>ขนาดแผนที่: 128x128</Values.1.Desc>
+			<Values.2.Name>ใหญ่</Values.2.Name>
+			<Values.2.Desc>ขนาดแผนที่: 196x196</Values.2.Desc>
+		</Text>
+		<Text Name="ThunderAddion">
+			<DisplayName>ความยากของทัณฑ์สวรรค์</DisplayName>
+			<Desc>ระดับความยากของทัณฑ์สวรรค์</Desc>
+			<Values.0.Name>ต่ำมาก</Values.0.Name>
+			<Values.0.Desc>0.25x ความยากของทัณฑ์สวรรค์</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>0.7x ความยากของทัณฑ์สวรรค์</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>1x ความยากของทัณฑ์สวรรค์</Values.2.Desc>
+			<Values.3.Name>สูง</Values.3.Name>
+			<Values.3.Desc>1.2x ความยากของทัณฑ์สวรรค์</Values.3.Desc>
+			<Values.4.Name>สูงมาก</Values.4.Name>
+			<Values.4.Desc>1.4x ความยากของทัณฑ์สวรรค์</Values.4.Desc>
+		</Text>
+		<Text Name="FightDifficultCoefficient">
+			<DisplayName>ความยากในการต่อสู้</DisplayName>
+			<Desc>ระดับความยากของผู้ฝึกตน, สัตว์อสูร, อสูรบรรพกาล, ผู้ฝึกตนโบราณ, และสำนัก</Desc>
+			<Values.0.Name>ต่ำมาก</Values.0.Name>
+			<Values.0.Desc>0.33x ความยากในการต่อสู้</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>0.67x ความยากในการต่อสู้</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>1x ความยากในการต่อสู้</Values.2.Desc>
+			<Values.3.Name>สูง</Values.3.Name>
+			<Values.3.Desc>1.33x ความยากในการต่อสู้</Values.3.Desc>
+			<Values.4.Name>สูงมาก</Values.4.Name>
+			<Values.4.Desc>1.67x ความยากในการต่อสู้</Values.4.Desc>
+		</Text>
+		<Text Name="LiveDifficulty">
+			<DisplayName>ความยากในการเอาตัวรอด</DisplayName>
+			<Desc>ความเร็วในการเจริญเติบโตของพืชและจำนวนผลิตพืชผล</Desc>
+			<Values.0.Name>ต่ำมาก</Values.0.Name>
+			<Values.0.Desc>2x อัตราการเจริญเติบโตของพืช 2x จำนวนผลิตพืชผล</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>1.5x อัตราการเจริญเติบโตของพืช 1.5x จำนวนผลิตพืชผล</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>1x อัตราการเจริญเติบโตของพืช 1x จำนวนผลิตพืชผล</Values.2.Desc>
+		</Text>
+		<Text Name="BaseMood">
+			<DisplayName>อารมณ์พื้นฐาน</DisplayName>
+			<Desc>ค่าอารมณ์พื้นฐานของตัวละครในขณะที่พวกเขาอยู่ในสถานะปกติ</Desc>
+			<Values.0.Name>สูงมาก</Values.0.Name>
+			<Values.0.Desc>2x อารมณ์พื้นฐาน</Values.0.Desc>
+			<Values.1.Name>สูง</Values.1.Name>
+			<Values.1.Desc>1.5x อารมณ์พื้นฐาน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>1x อารมณ์พื้นฐาน</Values.2.Desc>
+		</Text>
+		<Text Name="WorkAddp">
+			<DisplayName>ประสิทธิภาพการทำงานขั้นพื้นฐาน</DisplayName>
+			<Desc>ความเร็วส่วนใหญ่ในการทำงานของตัวละคร</Desc>
+			<Values.0.Name>เร็วมาก</Values.0.Name>
+			<Values.0.Desc>2x ประสิทธิภาพการทำงาน</Values.0.Desc>
+			<Values.1.Name>เร็ว</Values.1.Name>
+			<Values.1.Desc>1.5x ประสิทธิภาพการทำงาน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>1x ประสิทธิภาพการทำงาน</Values.2.Desc>
+		</Text>
+		<Text Name="PracticeAddp">
+			<DisplayName>ความเร็วในการบ่มเพาะ</DisplayName>
+			<Desc>ความเร็วในการบ่มเพาะปราณของตัวละคร</Desc>
+			<Values.0.Name>เร็วมาก</Values.0.Name>
+			<Values.0.Desc>2x ความเร็วในการบ่มเพาะ</Values.0.Desc>
+			<Values.1.Name>เร็ว</Values.1.Name>
+			<Values.1.Desc>1.5x ความเร็วในการบ่มเพาะ</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>1x ความเร็วในการบ่มเพาะ</Values.2.Desc>
+		</Text>
+		<Text Name="MapExploringAddp">
+			<DisplayName>ความเร็วในการบินผจญภัย</DisplayName>
+			<Desc>ความเร็วที่ตัวละครทำการผจญภัยให้เสร็จสิ้น</Desc>
+			<Values.0.Name>เร็วมาก</Values.0.Name>
+			<Values.0.Desc>2x ความเร็วในผจญภัย</Values.0.Desc>
+			<Values.1.Name>เร็ว</Values.1.Name>
+			<Values.1.Desc>1.5x ความเร็วในผจญภัย</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>1x ความเร็วในผจญภัย</Values.2.Desc>
+		</Text>
+		<Text Name="TreeExpAddtion">
+			<DisplayName>ค่าแนวคิด</DisplayName>
+			<Desc>ค่าแนวคิดที่ตัวละครต้องใช้ในการเรียนรู้วิชาต่างๆ</Desc>
+			<Values.0.Name>ต่ำมาก</Values.0.Name>
+			<Values.0.Desc>0.5x ค่าแนวคิด</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>0.75x ค่าแนวคิด</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>1x ค่าแนวคิด</Values.2.Desc>
+		</Text>
+		<Text Name="AverageTimePerEvent">
+			<DisplayName>ระยะห่างของเหตุการณ์</DisplayName>
+			<Desc>ระยะห่างของเหตุการณ์ที่เกิดขึ้น</Desc>
+			<Values.0.Name>นานมาก</Values.0.Name>
+			<Values.0.Desc>โดยเฉลี่ยแล้ว จะมีเหตุการณ์หนึ่งเหตุการณ์เกิดขึ้นในทุกๆ 3 วัน</Values.0.Desc>
+			<Values.1.Name>นาน</Values.1.Name>
+			<Values.1.Desc>โดยเฉลี่ยแล้ว จะมีเหตุการณ์หนึ่งเหตุการณ์เกิดขึ้นในทุกๆ 2.5 วัน</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>โดยเฉลี่ยแล้ว จะมีเหตุการณ์หนึ่งเหตุการณ์เกิดขึ้นในทุกๆ 2 วัน</Values.2.Desc>
+			<Values.3.Name>สั้น</Values.3.Name>
+			<Values.3.Desc>โดยเฉลี่ยแล้ว จะมีเหตุการณ์หนึ่งเหตุการณ์เกิดขึ้นในทุกๆ 1.5 วัน</Values.3.Desc>
+			<Values.4.Name>สั้นมาก</Values.4.Name>
+			<Values.4.Desc>โดยเฉลี่ยแล้ว จะมีเหตุการณ์หนึ่งเหตุการณ์เกิดขึ้นในทุกๆ 1 วัน</Values.4.Desc>
+		</Text>
+		<Text Name="DoubleRate">
+			<DisplayName>เหตุการณ์ซ้อน 2 ชั้น</DisplayName>
+			<Desc>แม้ว่าจะมีเหตุการณ์หนึ่งเกิดขึ้น ทว่ามันก็ยังมีโอกาสที่จะเกิดเหตุการณ์อื่นๆ ซ้อนเข้ามาได้อีกครั้ง</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>เหตุการณ์ซ้อนจะไม่เกิดขึ้น</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>มีโอกาส 10% ที่จะเกิดเหตุการณ์ซ้อนกัน 2 เหตุการณ์</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>มีโอกาส 20% ที่จะเกิดเหตุการณ์ซ้อนกัน 2 เหตุการณ์</Values.2.Desc>
+			<Values.3.Name>สูง</Values.3.Name>
+			<Values.3.Desc>มีโอกาส 30% ที่จะเกิดเหตุการณ์ซ้อนกัน 2 เหตุการณ์</Values.3.Desc>
+			<Values.4.Name>สูงมาก</Values.4.Name>
+			<Values.4.Desc>มีโอกาส 40% ที่จะเกิดเหตุการณ์ซ้อนกัน 2 เหตุการณ์</Values.4.Desc>
+		</Text>
+		<Text Name="TripleRate">
+			<DisplayName>เหตุการณ์ซ้อน 3 ชั้น</DisplayName>
+			<Desc>แม้ว่าจะมีเหตุการณ์หนึ่งเกิดขึ้น ทว่ามันก็ยังมีโอกาสที่จะเกิดเหตุการณ์อื่นๆ ซ้อนเข้ามาได้อีก 2 ครั้ง</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>เหตุการณ์ซ้อนกัน 3 เหตุการณ์จะไม่เกิดขึ้น</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>มีโอกาส 5% ที่จะเกิดเหตุการณ์ซ้อนกันกัน 3 เหตุการณ์</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>มีโอกาส 10% ที่จะเกิดเหตุการณ์ซ้อนกันกัน 3 เหตุการณ์</Values.2.Desc>
+			<Values.3.Name>สูง</Values.3.Name>
+			<Values.3.Desc>มีโอกาส 15% ที่จะเกิดเหตุการณ์ซ้อนกันกัน 3 เหตุการณ์</Values.3.Desc>
+			<Values.4.Name>สูงมาก</Values.4.Name>
+			<Values.4.Desc>มีโอกาส 20% ที่จะเกิดเหตุการณ์ซ้อนกันกัน 3 เหตุการณ์</Values.4.Desc>
+		</Text>
+		<Text Name="BlankWeight">
+			<DisplayName>ไม่มีเหตุการณ์</DisplayName>
+			<Desc>เมื่อมีเหตุการณ์เกิดขึ้น มีโอกาสที่เหตุการณ์นี้จะไม่เกิดขึ้นอีก</Desc>
+			<Values.0.Name>สูงมาก</Values.0.Name>
+			<Values.0.Desc>มีโอกาส 60% ที่เหตุการณ์จะไม่เกิดขึ้นอีก</Values.0.Desc>
+			<Values.1.Name>สูง</Values.1.Name>
+			<Values.1.Desc>มีโอกาส 45% ที่เหตุการณ์จะไม่เกิดขึ้นอีก</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>มีโอกาส 30% ที่เหตุการณ์จะไม่เกิดขึ้นอีก</Values.2.Desc>
+			<Values.3.Name>ต่ำ</Values.3.Name>
+			<Values.3.Desc>มีโอกาส 15% ที่เหตุการณ์จะไม่เกิดขึ้นอีก</Values.3.Desc>
+			<Values.4.Name>ไม่มี</Values.4.Name>
+			<Values.4.Desc>เหตุการณ์จะเกิดขึ้นได้ตลอด</Values.4.Desc>
+		</Text>
+	</List>
+</Texts>

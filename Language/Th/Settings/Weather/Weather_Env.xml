@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YinChaos">
+			<DisplayName>ราตรีนิรันดร์ (ศิลาจารึก)</DisplayName>
+		</Text>
+		<Text Name="Hotpot_Heat">
+			<DisplayName>คลื่นความร้อน (รอยแยกแห่งภูติ)</DisplayName>
+			<StoryDesc>รอยแยกแห่งภูติอยู่ในสภาวะที่ไม่เสถียร มันจึงปล่อยคลื่นความร้อนออกมาอย่างไม่อาจควบคุมได้</StoryDesc>
+		</Text>
+		<Text Name="ColdHole_Cold">
+			<DisplayName>คลื่นความเย็น (เตาเหมันต์)</DisplayName>
+			<StoryDesc>เตาเหมันต์อยู่ในสภาวะที่ไม่เสถียร มันจึงปล่อยคลื่นความเย็นออกมาอย่างไม่อาจควบคุมได้</StoryDesc>
+		</Text>
+		<Text Name="Lightning_DragonHole">
+			<DisplayName>พายุสายฟ้า (ถ้ำลึกลับ)</DisplayName>
+		</Text>
+		<Text Name="DustStorm_Dimu">
+			<DisplayName>พายุทราย (ศาลเจ้าแม่ธรณี)</DisplayName>
+		</Text>
+	</List>
+</Texts>

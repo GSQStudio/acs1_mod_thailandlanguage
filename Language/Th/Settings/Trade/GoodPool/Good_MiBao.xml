@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BaiManMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>พัดสวรรค์</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>ทุกๆ การโจมตี 10 ครั้ง มันจะร่ายปราณเวทโจมตีศัตรู</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="TianJiMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>ลูกเต๋าไม้ศักดิ์สิทธิ์</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>ยกระดับทักษะเกราะปราณขึ้นมา 8 ระดับ</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="HeiShanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>หอกละอองดาว</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>8% ของความเสียหายที่ทำได้จะเปลี่ยนเป็นปราณให้กับอาวุธวิเศษ</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="ZhengYiMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>ยันต์ห้าอักษร</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>ทุกๆ การโจมตี 5 ครั้ง ลดคูลดาวน์ของสกิลลง 1 วินาที</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="JiuHuaMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>ธงทองคำดำ</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>เพิ่มความเสียหายให้กับเป้าหมายที่มีธาตุไม้ขึ้นมา 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="WuLianMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>ธงไม้เหลือง</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>เพิ่มความเสียหายให้กับเป้าหมายที่มีธาตุดินขึ้นมา 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="ShuShanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>ธงวารีม่วง</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>เพิ่มความเสียหายให้กับเป้าหมายที่มีธาตุไฟขึ้นมา 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="KunLunMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>ธงปฐพีแดง</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>เพิ่มความเสียหายให้กับเป้าหมายที่มีธาตุน้ำขึ้นมา 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="XianKongMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>ธงเพลิงเขียว</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>เพิ่มความเสียหายให้กับเป้าหมายที่มีธาตุทองขึ้นมา 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="DanXiaMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>กระบี่พันธะเทพ</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>เพิ่มความเสียหาย 1.25 เท่า เมื่อทำการโจมตีอาวุธวิเศษของศัตรู</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="HeHuanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>จักรแห่งศรัทธา</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>มันไม่สามารถใช้ในการโจมตีใดๆ ได้ ทว่ามันจะคอยหมุนวนอยู่รอบๆ ร่างกายของผู้ที่เป็นเจ้าของเพื่อทำการป้องกันการโจมตีของศัตรู</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+	</List>
+</Texts>

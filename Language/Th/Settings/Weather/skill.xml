@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="jiaolong_baoyu">
+			<DisplayName>พายุฝน (มังกรวารี)</DisplayName>
+			<StoryDesc>พายุฝนกำลังก่อความหายนะ</StoryDesc>
+		</Text>
+		<Text Name="xiongfeng_lieyang">
+			<DisplayName>แสงแดดจ้า (หงส์เพลิง)</DisplayName>
+			<StoryDesc>พระอาทิตย์กำลังส่องแสงอยู่เบื้องบน (ไม่สามารถเปลี่ยนสภาพอากาศปัจจุบันได้)</StoryDesc>
+		</Text>
+		<Text Name="xiongfeng_suneye">
+			<DisplayName>ดวงตาตะวัน</DisplayName>
+			<StoryDesc>อุณหภูมิบริเวณนี้จะเพิ่มสูงขึ้นอย่างต่อเนื่อง</StoryDesc>
+		</Text>
+		<Text Name="zhulong_day">
+			<DisplayName>ทิวานิรันดร์แห่งหยาง</DisplayName>
+		</Text>
+		<Text Name="zhulong_night">
+			<DisplayName>ราตรีนิรันดร์แห่งหยิน</DisplayName>
+		</Text>
+		<Text Name="zhulong_day_begin">
+			<DisplayName>ทิวานิรันดร์แห่งหยาง</DisplayName>
+		</Text>
+		<Text Name="zhulong_night_begin">
+			<DisplayName>ราตรีนิรันดร์แห่งหยิน</DisplayName>
+		</Text>
+	</List>
+</Texts>

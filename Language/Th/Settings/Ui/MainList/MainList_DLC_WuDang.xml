@@ -1,0 +1,155 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu_Carve">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="RedWallDownLeft">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallUpLeft">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallMidUp">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallMidRight">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallVertical">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallVerticalHalf">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallHorizontal">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallDownLeftTiny">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallUpLeftTiny">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallDownLeftS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallUpLeftS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallMidUpS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallMidRightS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallVerticalS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallVerticalHalfS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallHorizontalS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallDownLeftTinyS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="RedWallUpLeftTinyS">
+			<Type>โครงสร้าง</Type>
+			<Label>พิเศษ</Label>
+		</Text>
+		<Text Name="ZhenWuCarve">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="TurTleMonu">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="IncenseTripod">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="RedWallGate">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="RedWallDrum">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="WuDangBigGate">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="WuDangScreen">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="WuDangFlag">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="WuDangXiangLu">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="WuDangPuTuan">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="WuDangXianHeDeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="WuDangDivine">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="WuDangJinDian">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_ChaShu1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ChaShu2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_WuDangSong1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_WuDangSong2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_WuDangSong3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_WuDangSong4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+	</List>
+</Texts>

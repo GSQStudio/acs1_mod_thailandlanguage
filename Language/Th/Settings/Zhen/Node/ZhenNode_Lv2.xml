@@ -1,0 +1,310 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv2_4_1">
+			<DisplayName>สวรรค์และปฐพี</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_2">
+			<DisplayName>สายลมและสายฟ้า</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_3">
+			<DisplayName>หยินเปลี่ยนหยาง</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_4">
+			<DisplayName>หยางเปลี่ยนหยิน</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_5">
+			<DisplayName>หยินบริสุทธิ์</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_6">
+			<DisplayName>หยางบริสุทธิ์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_1">
+			<DisplayName>สวรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_2">
+			<DisplayName>ปฐพี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_3">
+			<DisplayName>วารี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_4">
+			<DisplayName>อัคคี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_5">
+			<DisplayName>อัสนี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_6">
+			<DisplayName>วายุ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_7">
+			<DisplayName>ภูผา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_8">
+			<DisplayName>หนองน้ำ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_9">
+			<DisplayName>สร้างสวรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_10">
+			<DisplayName>กำเนิดโลก</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_11">
+			<DisplayName>น้ำสุดหยั่ง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_12">
+			<DisplayName>ไฟไร้ดับ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_13">
+			<DisplayName>สายฟ้าเกรี้ยว</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_14">
+			<DisplayName>สายลมอ่อนโยน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_15">
+			<DisplayName>ภูเขามั่นคง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_16">
+			<DisplayName>บึงสุขสันต์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_17">
+			<DisplayName>สันติ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_18">
+			<DisplayName>อำนาจ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_19">
+			<DisplayName>ความเจริญ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_20">
+			<DisplayName>ความอุดม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_21">
+			<DisplayName>คาดหวัง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_22">
+			<DisplayName>ปณิธาน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_23">
+			<DisplayName>สงเคราะห์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_24">
+			<DisplayName>ซบเซา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_25">
+			<DisplayName>กระตือรือร้น</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_26">
+			<DisplayName>จากแยก</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_27">
+			<DisplayName>ก้าวหน้า</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_28">
+			<DisplayName>ผสานรวม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_29">
+			<DisplayName>รวบรวม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_30">
+			<DisplayName>ไตร่ตรอง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_31">
+			<DisplayName>บริสุทธิ์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_32">
+			<DisplayName>หวนคืน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_33">
+			<DisplayName>อบอุ่น</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_34">
+			<DisplayName>กลืนกิน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_35">
+			<DisplayName>ต้นกล้า</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_36">
+			<DisplayName>ติดตาม</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_37">
+			<DisplayName>ขยาย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_38">
+			<DisplayName>ล่าถอย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_39">
+			<DisplayName>ถ่อมตัว</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_40">
+			<DisplayName>ส่วนเกิน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_41">
+			<DisplayName>พเนจร</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_42">
+			<DisplayName>อุปสรรค</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_43">
+			<DisplayName>การดึงดูด</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_44">
+			<DisplayName>การพัฒนา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_45">
+			<DisplayName>มิตรภาพ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_46">
+			<DisplayName>ถล้ำลึก</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_47">
+			<DisplayName>ฟุ่มเฟือย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_48">
+			<DisplayName>มารยาท</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_49">
+			<DisplayName>สมบูรณ์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_50">
+			<DisplayName>ปฏิวัติ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_51">
+			<DisplayName>ครอบครัว</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_52">
+			<DisplayName>ขัดแย้ง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_53">
+			<DisplayName>กองทัพ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_54">
+			<DisplayName>อิสรภาพ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_55">
+			<DisplayName>ละเลย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_56">
+			<DisplayName>ไม่สมบูรณ์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_57">
+			<DisplayName>ลำบาก</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_58">
+			<DisplayName>แพร่กระจาย</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_59">
+			<DisplayName>ย่างก้าว</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_60">
+			<DisplayName>เข้าใกล้</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_61">
+			<DisplayName>เจ้าสาว</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_62">
+			<DisplayName>ลดลง</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_63">
+			<DisplayName>ผู้ต่อต้าน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_64">
+			<DisplayName>ขีดจำกัด</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_65">
+			<DisplayName>ความซื่อสัตย์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_66">
+			<DisplayName>เผชิญหน้า</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_67">
+			<DisplayName>สู่สวรรค์</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_68">
+			<DisplayName>ระยะเวลา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_69">
+			<DisplayName>ภัยพิบัติ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_70">
+			<DisplayName>เตา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_71">
+			<DisplayName>บ่อน้ำ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_72">
+			<DisplayName>เหนือกว่า</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_1">
+			<DisplayName>ทักษะกระบี่จักรวาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_2">
+			<DisplayName>ทักษะเวทจักรวาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_3">
+			<DisplayName>ทักษะเกราะจักรวาล</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_4">
+			<DisplayName>ทักษะกระบี่ปฐพี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_5">
+			<DisplayName>ทักษะเวทปฐพี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_6">
+			<DisplayName>ทักษะเกราะปฐพี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_7">
+			<DisplayName>ทักษะกระบี่อัสนี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_8">
+			<DisplayName>ทักษะเวทอัสนี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_9">
+			<DisplayName>ทักษะเกราะอัสนี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_10">
+			<DisplayName>ทักษะกระบี่วายุ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_11">
+			<DisplayName>ทักษะเวทวายุ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_12">
+			<DisplayName>ทักษะเกราะวายุ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_13">
+			<DisplayName>ทักษะกระบี่วารี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_14">
+			<DisplayName>ทักษะเวทวารี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_15">
+			<DisplayName>ทักษะเกราะวารี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_16">
+			<DisplayName>ทักษะกระบี่อัคคี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_17">
+			<DisplayName>ทักษะเวทอัคคี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_18">
+			<DisplayName>ทักษะเกราะอัคคี</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_19">
+			<DisplayName>ทักษะกระบี่ภูผา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_20">
+			<DisplayName>ทักษะเวทภูผา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_21">
+			<DisplayName>ทักษะเกราะภูผา</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_22">
+			<DisplayName>ทักษะกระบี่แปรผัน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_23">
+			<DisplayName>ทักษะเวทแปรผัน</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_24">
+			<DisplayName>ทักษะเกราะแปรผัน</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,162 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>ว่าง</DisplayName>
+		</Text>
+		<Text Name="zhuxianzhen">
+			<DisplayName>ค่ายกลสังหารเซียน</DisplayName>
+			<Description>นี่คือค่ายกลที่ทรงพลังมากที่สุดนับแต่โบราณกาล เมื่อนำไปใช้งานมันจะกลายเป็นรัศมีแสงสี่ทิศ โดยแต่ละทิศจะมีกระบี่แต่ละเล่มลอยอยู่เหนือมันและทำการล้อมรอบตรงกลางอย่างสมบูรณ์ เมื่อถูกกระตุ่นด้วยวิญยาณก่อเกิด กระบี่ทั้งสี่จะตอบสนองต่อผู้ใช้และค่ายกลก็จะปลดปล่อยรัศมีกระบี่ออกมาทำลานศัตรู แม้แต่เซียนแท้ก็มิอาจกล่าวได้ว่าจะรอดชีวิตเมื่ออยู่ต่อหน้าค่ายกลนี้</Description>
+			<NodeName.0>แกนหลักสังหารเซียน</NodeName.0>
+			<NodeName.1>สังหารเซียน</NodeName.1>
+			<NodeName.2>มรณะ</NodeName.2>
+			<NodeName.3>ไร้จุดจบ</NodeName.3>
+			<NodeName.4>อมตะ</NodeName.4>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มความเสถียร</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>ได้รับเวท: สังหารเซียน</SuitEffect.3.Description>
+		</Text>
+		<Text Name="qixingzhen">
+			<DisplayName>ค่ายกลผู้พิชิต</DisplayName>
+			<Description>ค่ายกลแห่งเซียนที่ว่ากันว่ามันถูกส่งต่อมาจากจักรพรรดิ์นักรบผู้ขับไล่ปีศาจแห่งสวรรค์ชั้นที่เก้า มันสามารถใช้พลังจากดวงดาวทั้งเจ็ดเพื่อสร้างเป็นอาณาเขตกระบี่ทองคำได้ มันมีพลังในการขจัดมารร้ายและมันเป็นค่ายกลที่เหล่าปีศาจและมารต่างหวาดกลัวกันเป็นอย่างมาก</Description>
+			<NodeName.0>กระบี่รัศมีสวรรค์</NodeName.0>
+			<NodeName.1>กระบี่แกนสวรรค์</NodeName.1>
+			<NodeName.2>กระบี่หยกสวรรค์</NodeName.2>
+			<NodeName.3>กระบี่ไข่มุกสวรรค์</NodeName.3>
+			<NodeName.4>กระบี่ตาชั่งสวรรค์</NodeName.4>
+			<NodeName.5>กระบี่กระจ่างสวรรค์</NodeName.5>
+			<NodeName.6>กระบี่แสงสวรรค์</NodeName.6>
+			<SuitEffect.0.Description>เพิ่มทักษะปราณเวท</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มความเสถียร</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มความสามารถการใช้งานค่ายกล</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มทักษะปราณเวท</SuitEffect.3.Description>
+			<SuitEffect.4.Description>ได้รับเวท: อาณาเขตกระบี่ทองคำ</SuitEffect.4.Description>
+		</Text>
+		<Text Name="wufangbumiezhen">
+			<DisplayName>ค่ายกลสวรรค์และโลก</DisplayName>
+			<Description>มหาค่ายกลที่มีพื้นฐานมาจากธงทั้งห้าที่ถือกำเนิดมาตั้งแต่จุดเริ่มต้นของเวลา ธงทิศเหนืออีกาดำ ธงทิศใต้เพลิงกัลป์ผลาญปฐพี ธงตรงกลางผลท้อเหลือง ธงทิศตะวันตกเมฆาขาว ส่วนธงทิศตะวันออกบัวเขียว การรวมกันของธาตุทั้งห้าก่อให้เกิดอาณาเขตแห่งความกว้างใหญ่ไพศาลที่ไม่อาจฝ่าเข้ามาได้โดยกฎแห่งธรรมชาติ</Description>
+			<NodeName.0>แกนหลักค่ายกลสวรรค์และโลก</NodeName.0>
+			<NodeName.1>เมฆาขาว</NodeName.1>
+			<NodeName.2>บัวเขียว</NodeName.2>
+			<NodeName.3>อีกาดำ</NodeName.3>
+			<NodeName.4>เพลิงกัลป์ผลาญปฐพี</NodeName.4>
+			<NodeName.5>ผลท้อเหลือง</NodeName.5>
+			<SuitEffect.0.Description>เพิ่มเกราะปราณ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มความเสถียร</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มเกราะปราณ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>ได้รับเวท: อาณาเขตไร้สิ้นสุด</SuitEffect.3.Description>
+		</Text>
+		<Text Name="liuyuzhen">
+			<DisplayName>ค่ายกลจักรพรรดิ์เทวะ</DisplayName>
+			<Description>ค่ายกาลพิธีกรรมแห่งศาลสวรรค์ เมื่อสร้างค่ายกลนี้ มันจะเผยให้เห็นที่พำนักอันบริสุทธิ์ของเทพเจ้าทั้งหกแห่งศาลสวรรค์ เปลี่ยนอาณาจักรมนุษย์ให้กลายเป็นสรวงสวรรค์ ขับกล่อมผู้คนให้มีความสามัคคีทางจิตวิญญาณ</Description>
+			<NodeName.0>ค่ายกลจักรพรรดิ์หยก</NodeName.0>
+			<NodeName.1>ค่ายกลจักรพรรดิ์ขั่วโลก</NodeName.1>
+			<NodeName.2>ค่ายกลจักรพรรดิ์ดาวเหนือ</NodeName.2>
+			<NodeName.3>ค่นกลเอกปฐมกาล</NodeName.3>
+			<NodeName.4>ค่ายกลเทวะนิรันดร์</NodeName.4>
+			<NodeName.5>ค่ายกลจักรพรรดิ์โลก</NodeName.5>
+			<SuitEffect.0.Description>เพิ่มความเสถียร</SuitEffect.0.Description>
+			<SuitEffect.1.Description>ได้รับเวท: อาณาเขตสวรรค์เทวะ</SuitEffect.1.Description>
+		</Text>
+		<Text Name="longxingzhen">
+			<DisplayName>ค่ายกลบงการมังกร</DisplayName>
+			<Description>ค่ายกลอันมหัศจรรย์ที่มีพื้นฐานมาจากการศึกษาร่างของมังกรวารี ว่ากันว่ามันเป็นค่ายกลที่ใช้ควบคุมมังกร เมื่อนำไปใช้งาน มันสามารถดึงพลังปราณจากวิญญาณมังกรเพื่อทำใช้ปราณเวทมังกรอันทรงพลังได้</Description>
+			<NodeName.0>ผนึกแห่งเกล็ดมังกรต้องห้าม</NodeName.0>
+			<NodeName.1>ผนึกแห่งเขามังกร</NodeName.1>
+			<NodeName.2>ผนึกแห่งเขามังกร</NodeName.2>
+			<NodeName.3>ผนึกแห่งกรงเล็บมังกร</NodeName.3>
+			<NodeName.4>ผนึกแห่งกรงเล็บมังกร</NodeName.4>
+			<NodeName.5>ผนึกแห่งเกร็ดมังกร</NodeName.5>
+			<NodeName.6>ผนึกแห่งกรงเล็บมังกร</NodeName.6>
+			<NodeName.7>ผนึกแห่งกรงเล็บมังกร</NodeName.7>
+			<NodeName.8>ผนึกแห่งหางมังกร</NodeName.8>
+			<SuitEffect.0.Description>ได้รับเวท: มังกรสวรรค์</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะปราณเวท</SuitEffect.1.Description>
+			<SuitEffect.2.Description>ได้รับเวท: เทวะสังหาร</SuitEffect.2.Description>
+		</Text>
+		<Text Name="fengjianzhen">
+			<DisplayName>ค่ายกลกระบี่หงส์เพลิง</DisplayName>
+			<Description>ค่ายกลอันมหัศจรรย์ที่มีพื้นฐานมาจากการศึกษาร่างของหงส์เพลิง ว่ากันว่ามันเป็นค่ายกลที่ใช้ควบคุมหงส์เพลิง เมื่อนำไปใช้งาน มันสามารถดึงพลังปราณจากวิญญาณหงส์เพลิงเพื่อใช้ปราณเวทหงส์เพลิงอันทรงพลังได้</Description>
+			<NodeName.0>เกราะปราณอัคคีเที่ยงแท้</NodeName.0>
+			<NodeName.1>เกราะปราณการลืมเลือน</NodeName.1>
+			<NodeName.2>เกราะปราณปกคลุม</NodeName.2>
+			<NodeName.3>เกราะปราณกระดูกทมิฬ</NodeName.3>
+			<NodeName.4>เกราะปราณขนนกเพลิง</NodeName.4>
+			<NodeName.5>เกราะปราณขนนกเพลิง</NodeName.5>
+			<NodeName.6>เกราะปราณกระดูกทมิฬ</NodeName.6>
+			<NodeName.7>เกราะปราณขนนกเพลิง</NodeName.7>
+			<NodeName.8>เกราะปราณขนนกเพลิง</NodeName.8>
+			<SuitEffect.0.Description>ได้รับเวท: กระบี่หงส์เพลิงเทวะ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.1.Description>
+			<SuitEffect.2.Description>ได้รับเวท: นิพพาน</SuitEffect.2.Description>
+		</Text>
+		<Text Name="yinyangzhen">
+			<DisplayName>ค่ายกลหยินหยาง</DisplayName>
+			<Description>ผังค่ายกลที่ได้รับแรงบันดาลใจมาจากกระแสปราณระหว่างสวรรค์และโลก ว่ากันว่าค่ายกลนี้คือตัวแทนของหยินและหยาง การปรับแต่งพลังงานแห่งหยินและหยางทำให้ค่ายกลนี่หยืดหยุ่นอย่างหาที่เปรียบ</Description>
+			<NodeName.0>บัญญัติสวรรค์ทมิฬ</NodeName.0>
+			<NodeName.1>กฎแห่งหยิน</NodeName.1>
+			<NodeName.2>กฎแห่งหยาง</NodeName.2>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะปราณเวท</SuitEffect.1.Description>
+			<SuitEffect.2.Description>เพิ่มเกราะปราณ</SuitEffect.2.Description>
+			<SuitEffect.3.Description>เพิ่มความสามารถการใช้งานค่ายกล</SuitEffect.3.Description>
+			<SuitEffect.4.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.4.Description>
+		</Text>
+		<Text Name="sanyinzhen">
+			<DisplayName>ค่ายกลปราณทมิฬ</DisplayName>
+			<Description>ค่ายกลที่มีแนวคิดมาจากการศึกษาพรสวรรค์ทั้งสาม ได้แก่ สวรรค์,โลกและมนุษย์ ว่ากันว่าค่ายกลนี้ใช้ปราณหยินบริสุทธิ์ในการสร้าง มันสามารถเพิ่มพลังให้แก่ผู้ใช้เป็นอย่างมาก</Description>
+			<NodeName.0>ปราณหยินสวรรค์</NodeName.0>
+			<NodeName.1>ปราณหยินโลก</NodeName.1>
+			<NodeName.2>ปราณหยินมนุษย์</NodeName.2>
+			<SuitEffect.0.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มทักษะปราณเวท</SuitEffect.1.Description>
+		</Text>
+		<Text Name="bamen_ji">
+			<DisplayName>ค่ายกลกระบี่อเวจี: ชีวิต</DisplayName>
+			<Description>กล่าวกันว่าเป็นค่ายกลที่ใช้กฎแห่งประตูแปดทิศ เพิ่มพลังป้องกันของเกราะปราณโดยการดึงพลังมาจากประตูแห่งชีวิต</Description>
+			<NodeName.0>ประตูแห่งอนันต์</NodeName.0>
+			<NodeName.1>ประตูแห่งความสงบ</NodeName.1>
+			<NodeName.2>ประตูแห่งชีวิต</NodeName.2>
+			<SuitEffect.0.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.0.Description>
+		</Text>
+		<Text Name="bamen_xiong">
+			<DisplayName>ค่ายกลกระบี่อเวจี: ความตาย</DisplayName>
+			<Description>กล่าวกันว่าเป็นค่ายกลที่ใช้กฎแห่งประตูแปดทิศ เพิ่มพลังทักษะอาวุธวิญยาณของผู้ใช้โดยการดึงพลังมาจากประตูแห่งความตาย</Description>
+			<NodeName.0>ประตูแห่งความตาย</NodeName.0>
+			<NodeName.1>ประตูแห่งภัยพิบัติ</NodeName.1>
+			<NodeName.2>ประตูแห่งการทำลาย</NodeName.2>
+			<SuitEffect.0.Description>เพิ่มทักษะอาวุธวิเศษ</SuitEffect.0.Description>
+		</Text>
+		<Text Name="bamen_zhong">
+			<DisplayName>ค่ายกลกระบี่อเวจี: วัฏจักรเป็นตาย</DisplayName>
+			<Description>กล่าวกันว่าเป็นค่ายกลที่ใช้กฎแห่งประตูแปดทิศ สร้างค่ายกลโดยปรับแต่งความสมดุลของวัฏจักรเป็นตาย</Description>
+			<NodeName.0>ประตูแห่งเอกเทศ</NodeName.0>
+			<NodeName.1>ประตูแห่งความงดงาม</NodeName.1>
+			<SuitEffect.0.Description>เพิ่มความเสถียร</SuitEffect.0.Description>
+		</Text>
+		<Text Name="jiayimushenzhen">
+			<DisplayName>ค่ายกลพฤกษาวิญญาณ</DisplayName>
+			<Description>ค่ายกลที่สร้างโดยแกนปฐมกาลแห่งไม้วิญญาณตะวันออก ว่ากันว่ามันเป็นค่ายกลที่มีความสามารถในการปลุกพลังปราณแห่งสวรรค์และโลกได้ ช่วยเพิ่มพลังในการฟื้นฟูของสิ่งมีชีวิตทั้งมวล</Description>
+			<NodeName.0>ยอดไม้วิญญาณ</NodeName.0>
+			<NodeName.1>กิ่งไม้วิญญาณ</NodeName.1>
+			<NodeName.2>ใบไม้วิญญาณ</NodeName.2>
+			<NodeName.3>ลำต้นไม้วิญญาณ</NodeName.3>
+			<NodeName.4>รากไม้วิญญาณ</NodeName.4>
+			<SuitEffect.0.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มความสามารถการใช้งานค่ายกล</SuitEffect.1.Description>
+			<SuitEffect.2.Description>ได้รับเวท: อาณาเขตไม้วิญญาณ</SuitEffect.2.Description>
+		</Text>
+		<Text Name="wuyuezhen">
+			<DisplayName>ค่ายกลแห่งการบรรจบ</DisplayName>
+			<Description>ค่ายกลที่สร้างโดยแกนวิญญาณแห่งดินแดนทั้งห้า ยามใช้งานมันจะดึงพลังมาดินแดนทั้งห้าจากทิศต่างๆ มาสร้างเป็นอาณาเขตป้องกันที่ไม่อาจทำลายได้</Description>
+			<NodeName.0>ยอดเขามรกต</NodeName.0>
+			<NodeName.1>หน้าผา</NodeName.1>
+			<NodeName.2>เกาะร้าง</NodeName.2>
+			<NodeName.3>วิหาร</NodeName.3>
+			<NodeName.4>สรวงสวรรค์</NodeName.4>
+			<SuitEffect.0.Description>เพิ่มเกราะปราณ</SuitEffect.0.Description>
+			<SuitEffect.1.Description>เพิ่มประสิทธิภาพของค่ายกล</SuitEffect.1.Description>
+			<SuitEffect.2.Description>ได้รับเวท: อาณาเขตห้าดินแดน</SuitEffect.2.Description>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,8 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="WuDangMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>เสาค้ำสวรรค์</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>ทุกๆ การโจมตี 20 ครั้ง มันจะเข้าโจมตีร่างกายของศัตรูด้วยตัวของมันเอง อีกทั้งยังเป็นการโจมตีที่ทะลุเกราะปราณและสามารถสร้างความเสียหายเพิ่มเติมได้อีกด้วย</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+	</List>
+</Texts>

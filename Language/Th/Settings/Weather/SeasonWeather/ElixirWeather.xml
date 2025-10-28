@@ -1,0 +1,132 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_Elixir_Base">
+			<DisplayName>ความอิ่มตัวแห่งปราณโอสถ</DisplayName>
+			<StoryDesc>ปราณโอสถแผ่ซึมไปทั่วอากาศ ทำให้ลิงชี่ (พลังวิญญาณ) มีความเคลื่อนไหวมากขึ้น</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Wu">
+			<DisplayName>ปราณดั้งเดิม</DisplayName>
+			<StoryDesc>ปราณโอสถแผ่ซึมไปทั่วอากาศ ทำให้ลิงชี่ (พลังวิญญาณ) มีความเคลื่อนไหวมากขึ้น</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Jin">
+			<DisplayName>ปราณโลหะ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Mu">
+			<DisplayName>ปราณไม้</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Shui">
+			<DisplayName>ปราณน้ำ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Huo">
+			<DisplayName>ปราณไฟ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Tu">
+			<DisplayName>ปราณดิน</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMu">
+			<DisplayName>ปราณสูญสิ้น</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShui">
+			<DisplayName>ปราณเชี่ยวกราก</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuo">
+			<DisplayName>ปราณหลอมละลาย</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinTu">
+			<DisplayName>ปราณสะสม</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShui">
+			<DisplayName>ปราณกำเนิด</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuo">
+			<DisplayName>ปราณเปลวเพลิงลุกโชน</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuTu">
+			<DisplayName>ปราณทรงตัว</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuo">
+			<DisplayName>ปราณเปลวเพลิงร่วงโรย</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiTu">
+			<DisplayName>ปราณเอ่อล้น</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_HuoTu">
+			<DisplayName>ปราณเถ้าถ่าน</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuShui">
+			<DisplayName>ปราณเจี่ยไม้</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuHuo">
+			<DisplayName>ปราณอี้ไม้</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuTu">
+			<DisplayName>ปราณจีดิน</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiHuo">
+			<DisplayName>ปราณซินโลหะ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiTu">
+			<DisplayName>ปราณเหรินน้ำ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuoTu">
+			<DisplayName>ปราณขุยโลหะ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiHuo">
+			<DisplayName>ปราณปิ่งไฟ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiTu">
+			<DisplayName>ปราณกุ่ยน้ำ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuoTu">
+			<DisplayName>ปราณอู่ดิน</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuoTu">
+			<DisplayName>ปราณติงไฟ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoJin">
+			<DisplayName>ปราณตัดขาดโลหะ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoMu">
+			<DisplayName>ปราณตัดขาดไม้</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoShui">
+			<DisplayName>ปราณตัดขาดน้ำ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoHuo">
+			<DisplayName>ปราณตัดขาดไฟ</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoTu">
+			<DisplayName>ปราณตัดขาดดิน</DisplayName>
+			<StoryDesc>ปราณโอสถอันเข้มข้นแผ่กระจายไปทั่วอากาศ</StoryDesc>
+		</Text>
+	</List>
+</Texts>

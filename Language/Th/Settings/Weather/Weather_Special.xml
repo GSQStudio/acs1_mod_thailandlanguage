@@ -1,0 +1,155 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LingUpWave_Sp">
+			<DisplayName>กระแสปราณ</DisplayName>
+			<StoryDesc>กระแสปราณหนาแน่นขึ้นทั่วทั้งแผ่นดิน</StoryDesc>
+		</Text>
+		<Text Name="FireRain">
+			<DisplayName>ฝนตกกลางๆ</DisplayName>
+		</Text>
+		<Text Name="Rainstorm_Teach">
+			<DisplayName>พายุฝน</DisplayName>
+			<StoryDesc>พายุฝนกำลังก่อความหายนะ</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Teach2">
+			<DisplayName>พายุฝน</DisplayName>
+			<StoryDesc>พายุฝนกำลังก่อความหายนะ</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_Hack">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+			<StoryDesc>เนื่องจากการแทรกแซงพลังลึกลับบางอย่าง จึงทำให้จู่ๆ ก็ปรากฏพายุสายฟ้าขึ้นมาอย่างกะทันหัน</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_AllSeason">
+			<DisplayName>พายุฝน</DisplayName>
+			<StoryDesc>พายุฝนกำลังก่อความหายนะ</StoryDesc>
+		</Text>
+		<Text Name="Fohn_AllSeason">
+			<DisplayName>พายุลมร้อน</DisplayName>
+			<StoryDesc>สายลมร้อนกำลังพัดผ่านเข้ามา</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_AllSeason">
+			<DisplayName>พายุทราย</DisplayName>
+			<StoryDesc>ท้องฟ้ามืดลงเมื่อฝุ่นและทรายลอยอยู่เต็มอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Miasma_AllSeason">
+			<DisplayName>อากาศเป็นพิษ</DisplayName>
+			<StoryDesc>ละอองเกสรพิษลอยฟุ้งกระจายอยู่บนชั้นบรรยากาศ</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_AllSeason">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+			<StoryDesc>ฟ้าแลบฟ้าร้องสะท้านก้องกังวานจากผินฟ้าลงมาสู่ผืนดินราวกับสายฟ้ากับเต้นรำอยู่บนฟากฟ้า</StoryDesc>
+		</Text>
+		<Text Name="JinLingMiMan">
+			<DisplayName>กลุ่มก้อนปราณธาตุทอง</DisplayName>
+			<StoryDesc>ปราณธาตุทองแผ่กระจายไปทั่วทั้งอาณาบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="MuLingMiMan">
+			<DisplayName>กลุ่มก้อนปราณธาตุไม้</DisplayName>
+			<StoryDesc>ปราณธาตุไม้แผ่กระจายไปทั่วทั้งอาณาบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="ShuiLingMiMan">
+			<DisplayName>กลุ่มก้อนปราณธาตุน้ำ</DisplayName>
+			<StoryDesc>ปราณธาตุน้ำแผ่กระจายไปทั่วทั้งอาณาบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="HuoLingMiMan">
+			<DisplayName>กลุ่มก้อนปราณธาตุไฟ</DisplayName>
+			<StoryDesc>ปราณธาตุไฟแผ่กระจายไปทั่วทั้งอาณาบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="TuLingMiMan">
+			<DisplayName>กลุ่มก้อนปราณธาตุดิน</DisplayName>
+			<StoryDesc>ปราณธาตุดินแผ่กระจายไปทั่วทั้งอาณาบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Big">
+			<DisplayName>คลื่นปราณ</DisplayName>
+			<StoryDesc>คลื่นกระแสปราณแผ่กระจายไปทั่วทั้งอาณาบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="LingRarefiedWave_Big">
+			<DisplayName>ปราณแห้งเหือด</DisplayName>
+			<StoryDesc>ปราณในยามนี้แห้งเหือดเป็นอย่างมาก</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_Drought">
+			<DisplayName>อากาศร้อนนรกแตก</DisplayName>
+			<StoryDesc>อุณหภูมิที่สูงขึ้นอย่างผิดปกติ</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_HighTemp">
+			<DisplayName>ภัยแล้งที่ยาวนาน</DisplayName>
+			<StoryDesc>ภัยแล้งนี้ดูเหมือนจะเลวร้ายลงเรื่อยๆ</StoryDesc>
+		</Text>
+		<Text Name="DimCave">
+			<DisplayName>ถ้ำ</DisplayName>
+			<StoryDesc>ถ้ำที่มืดสนิท มองไม่เห็นแม้แต่ฝ่ามือของตัวเอง</StoryDesc>
+		</Text>
+		<Text Name="ForestRain">
+			<DisplayName>ฝนตก</DisplayName>
+			<StoryDesc>ฝนกำลังตกในป่าฝน</StoryDesc>
+		</Text>
+		<Text Name="LightSnow_Fov">
+			<DisplayName>หิมะตกปลอยๆ</DisplayName>
+			<StoryDesc>หิมะโปรยปรายลงมาในอากาศ ส่องประกายระยิบระยับบนผืนแผ่นดิน</StoryDesc>
+		</Text>
+		<Text Name="SunSet">
+			<DisplayName>แสงอัสดง</DisplayName>
+			<StoryDesc>พระอาทิตย์อัสดง</StoryDesc>
+		</Text>
+		<Text Name="DustPlace">
+			<DisplayName>พายุทราย</DisplayName>
+			<StoryDesc>ท้องฟ้ามืดลงเมื่อฝุ่นและทรายลอยอยู่เต็มอากาศ</StoryDesc>
+		</Text>
+		<Text Name="EverSnow">
+			<DisplayName>หิมะตกปลอยๆ</DisplayName>
+			<StoryDesc>หิมะโปรยปรายลงมาในอากาศ ส่องประกายระยิบระยับบนผืนแผ่นดิน</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>ปราณแห่งวารี</DisplayName>
+			<StoryDesc>พื้นที่แห่งนี้อยู่ภายใต้อาณาเขตปราณแห่งวารี</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_BeiDouJianJie">
+			<DisplayName>กระบี่ทองคำตัดดารา</DisplayName>
+			<StoryDesc>พื้นที่แห่งนี้อยู่ภายใต้อาณาเขตกระบี่ทองคำตัดดารา</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>ปราณแห่งเพลิง</DisplayName>
+			<StoryDesc>พื้นที่แห่งนี้อยู่ภายใต้อาณาเขตปราณแห่งเพลิง</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Mutation">
+			<DisplayName>ปราณพวยพุ่ง</DisplayName>
+			<StoryDesc>พลังปราณพวยพุ่งขึ้นฟ้า แผ่ซ่านทั่วหล้าไร้สิ้นสุด</StoryDesc>
+		</Text>
+		<Text Name="Yang_Mutation">
+			<DisplayName>ดินแดนหยางสูงสุด</DisplayName>
+			<StoryDesc>ดินแดนอันสุกสว่างด้วยพลังหยางเข้มข้นถึงขีดสุด</StoryDesc>
+		</Text>
+		<Text Name="Yin_Mutation">
+			<DisplayName>ดินแดนหยินสูงสุด</DisplayName>
+			<StoryDesc>ที่ใดแสงอาทิตย์มิอาจส่องถึง ที่นั่นคือดินแดนหยินสูงสุด พลังเย็นเยียบแผ่ซ่านทั่วฟ้าดิน</StoryDesc>
+		</Text>
+		<Text Name="MouldRains_Mutation">
+			<DisplayName>ฤดูฝน</DisplayName>
+			<StoryDesc>ฝนโปรยปรายลงมาทั่วแผ่นดิน</StoryDesc>
+		</Text>
+		<Text Name="Drought_Mutation">
+			<DisplayName>ฤดูแล้ง</DisplayName>
+			<StoryDesc>ดวงตะวันแผดเผาทุกสิ่งเบื้องล่างด้วยความร้อนแรง</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Mutation">
+			<DisplayName>พายุฝน</DisplayName>
+			<StoryDesc>พายุฝนฟ้าคะนองรุนแรง</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_Mutation">
+			<DisplayName>พายุทราย</DisplayName>
+			<StoryDesc>ท้องฟ้ามืดลงเมื่อฝุ่นและทรายลอยอยู่เต็มอากาศ</StoryDesc>
+		</Text>
+		<Text Name="Miasma_Mutation">
+			<DisplayName>ละอองพิษ</DisplayName>
+			<StoryDesc>ละอองเกสรพิษลอยฟุ้งกระจายอยู่บนชั้นบรรยากาศ</StoryDesc>
+		</Text>
+		<Text Name="LightningStormNoLong_Mutation">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+			<StoryDesc>ฟ้าแลบฟ้าร้องสะท้านก้องกังวานจากผินฟ้าลงมาสู่ผืนดินราวกับสายฟ้ากับเต้นรำอยู่บนฟากฟ้า</StoryDesc>
+		</Text>
+		<Text Name="FohnNoFeng_Mutation">
+			<DisplayName>พายุลมร้อน</DisplayName>
+			<StoryDesc>สายลมร้อนกำลังพัดผ่านเข้ามา</StoryDesc>
+		</Text>
+	</List>
+</Texts>

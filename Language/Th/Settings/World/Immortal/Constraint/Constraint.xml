@@ -1,0 +1,348 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TwoRandom">
+			<DisplayName>ลงเรือลำเดียวกัน</DisplayName>
+			<Desc>ในขณะที่หนีจากการฆ่าล้างสำนัก ได้มีศิษย์สายนอกสองคนที่รู้จักแต่ท่าน ได้ขอเข้าร่วมกับท่าน</Desc>
+		</Text>
+		<Text Name="Coma50">
+			<DisplayName>ร่วมหัวจมท้าย</DisplayName>
+			<Desc>ในขณะที่หนีจากการฆ่าล้างสำนัก ศิษย์สายนอกที่ได้รับบาดเจ็บสาหัสคนหนึ่งได้ขอร้องให้ท่านพาเขาไปด้วย</Desc>
+		</Text>
+		<Text Name="Thunder100">
+			<DisplayName>ความเป็นหนึ่งเดียว</DisplayName>
+			<Desc>ในขณะที่หนีจากการฆ่าล้างสำนัก เผ่าอสูรคนหนึ่งที่ได้เปลี่ยนร่างเป็นครึ่งอสูรเรียบร้อยแล้วได้ขอติดตามท่านไปด้วย ทว่าเขาจะต้องเผชิญหน้ากับทัณฑ์สวรรค์ในอีก 100 วันต่อจากนี้</Desc>
+		</Text>
+		<Text Name="HardLeave">
+			<DisplayName>เกือบเอาชีวิตไม่รอด</DisplayName>
+			<Desc>ในขณะที่หนีจากการฆ่าล้างสำนัก ศิษย์สายนอกของสำนักไท้อี้หลายคนที่ท่านเองก็รู้จักเพียงเล็กน้อยเท่านั้นขอเข้าร่วมทางกับท่าน และท่านก็ไม่มีทางเลือกอื่นนอกจากต้องพาพวกเขาไปด้วย</Desc>
+		</Text>
+		<Text Name="HotSummer">
+			<DisplayName>ฤดูร้อนที่โครตร้อน</DisplayName>
+			<Desc>เนื่องจากสภาพอากาศไม่ปกติ ฤดูร้อนจึงร้อนยิ่งกว่าปกติ</Desc>
+		</Text>ย
+		<Text Name="ColdWinter">
+			<DisplayName>ฤดูหนาวที่โครตหนาว</DisplayName>
+			<Desc>เนื่องจากสภาพอากาศไม่ปกติ ฤดูหนาวจึงหนาวยิ่งกว่าปกติ</Desc>
+		</Text>
+		<Text Name="OffensiveThunder">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+			<Desc>เนื่องจากสภาพแวดล้อมทางภูมิศาสตร์ที่ผิดปกติ ฟ้าผ่าที่นี่จึงรุนแรงปิดปกติ และมีแนวโน้มที่จะโจมตีผู้คนบ่อยขึ้น</Desc>
+		</Text>
+		<Text Name="HardNature">
+			<DisplayName>สภาพอากาศเลวร้าย</DisplayName>
+			<Desc>สภาพภูมิอากาศที่นี่โดยทั่วไปจะเลวร้ายกว่าปกติ</Desc>
+		</Text>
+		<Text Name="MoreYaoShou2">
+			<DisplayName>จำนวนสัตว์อสูรเพิ่มขึ้น 1</DisplayName>
+			<Desc>เพิ่มจำนวนสัตว์อสูรขึ้นมาอีก 1 ตัวในแผนที่เริ่มต้น</Desc>
+		</Text>
+		<Text Name="MoreYaoShou3">
+			<DisplayName>จำนวนสัตว์อสูรเพิ่มขึ้น 2</DisplayName>
+			<Desc>เพิ่มจำนวนสัตว์อสูรขึ้นมาอีก 2 ตัวในแผนที่เริ่มต้น</Desc>
+		</Text>
+		<Text Name="MoreYaoShou4">
+			<DisplayName>จำนวนสัตว์อสูรเพิ่มขึ้น 3</DisplayName>
+			<Desc>เพิ่มจำนวนสัตว์อสูรขึ้นมาอีก 3 ตัวในแผนที่เริ่มต้น</Desc>
+		</Text>
+		<Text Name="YaoGuaiMore">
+			<DisplayName>คลื่นสัตว์อสูร</DisplayName>
+			<Desc>เพิ่มจำนวนสัตว์อสูรมากขึ้นในแผนที่เริ่มต้น</Desc>
+		</Text>
+		<Text Name="BuildMoreCost">
+			<DisplayName>ช่างก่อสร้างอ่อนหัด</DisplayName>
+			<Desc>วัสดุที่จำเป็นต้องใช้ในการก่อสร้างสิ่งปลูกสร้างเพิ่มขึ้นเป็น 2 เท่า</Desc>
+		</Text>
+		<Text Name="BuildSlow">
+			<DisplayName>ทุ่มเทมากเกินจำเป็น</DisplayName>
+			<Desc>การก่อสร้างช้ากว่าปกติถึง 3 เท่า</Desc>
+		</Text>
+		<Text Name="BuildLessHp">
+			<DisplayName>ผุกร่อน</DisplayName>
+			<Desc>ความทนทานของสิ่งก่อสร้างลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="HardBuild">
+			<DisplayName>สิ่งก่อสร้างที่ซับซ้อน</DisplayName>
+			<Desc>ปัญหาทั่วไปเกี่ยวกับสิ่งปลูกสร้างจะเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="InferiorFengShui">
+			<DisplayName>ฮวงจุ้ยสูญหาย</DisplayName>
+			<Desc>ผังดวงดาวจะแสดงเฉพาะผลลัพธ์ของฮวงจุ้ยเท่านั้นและไม่แสดงรายละเอียดของฮวงจุ้ย</Desc>
+		</Text>
+		<Text Name="InferiorDan">
+			<DisplayName>วิชาโอสถที่หายไป</DisplayName>
+			<Desc>โอกาสที่จะล้มเหลวเมื่อปรุงยาและหลอมโอสถเพิ่มขึ้นและวัตถุดิบที่จำเป็นในการปรุงเพิ่มขึ้นเป็น 2 เท่า</Desc>
+		</Text>
+		<Text Name="LostPractice">
+			<DisplayName>ยุคมืดของการฝึกตน</DisplayName>
+			<Desc>วิธีการฝึกบ่มเพาะบางอย่างได้หายไปจากโลก</Desc>
+		</Text>
+		<Text Name="FastRot">
+			<DisplayName>อากาศแห่งการเสื่อมสลาย</DisplayName>
+			<Desc>อัตราการสลายตัวของสิ่งของเพิ่มขึ้นเป็น 2 เท่า</Desc>
+		</Text>
+		<Text Name="HighPrice">
+			<DisplayName>ราคาพุ่งทะยาน</DisplayName>
+			<Desc>ราคาของสิ่งต่างๆ เพิ่มขึ้นเป็น 2 เท่า</Desc>
+		</Text>
+		<Text Name="LessGain">
+			<DisplayName>สิ่งของขาดแคลน</DisplayName>
+			<Desc>จำนวนสิ่งของในแผนที่ลดน้อยลง</Desc>
+		</Text>
+		<Text Name="SourceLimit">
+			<DisplayName>ขาดแคลนทรัพยากร</DisplayName>
+			<Desc>ทรัพยากรทั่วไปหายากมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="LessWalker">
+			<DisplayName>สำนักรกร้าง</DisplayName>
+			<Desc>จะมีคนธรรมดาเดินทางผ่านมาที่สำนักได้น้อยลง</Desc>
+		</Text>
+		<Text Name="LessMember">
+			<DisplayName>สำนักอันแสนธรรมดา</DisplayName>
+			<Desc>จำนวนสูงสุดของศิษย์ลดลง</Desc>
+		</Text>
+		<Text Name="LessZhaolan">
+			<DisplayName>ยุ่งจนไม่มีเวลา</DisplayName>
+			<Desc>เหล่าคนธรรมดานั้นยุ่งอยู่กับกิจกรรมในชีวิตประจำวันมากกว่าที่จะสนใจการบำเพ็ญตน ทำให้จำนวนศิษย์ที่สมัครเข้ามาในสำนักลดน้อยลง</Desc>
+		</Text>
+		<Text Name="LessFiveBase">
+			<DisplayName>ขาดแคลนผู้มีความสามารถ</DisplayName>
+			<Desc>เหล่าคนธรรมดานั้นมีพรสวรรค์ในการฝึกตนน้อยลง</Desc>
+		</Text>
+		<Text Name="DaoShuai">
+			<DisplayName>ช่วงเวลาที่ยากลำบาก</DisplayName>
+			<Desc>การเชิญชวนศิษย์ที่มีความสามารถนั้นจะทำได้ยากยิ่งกว่าเดิมมาก</Desc>
+		</Text>
+		<Text Name="LessWalkTrader">
+			<DisplayName>เส้นทางที่ยากลำบาก</DisplayName>
+			<Desc>พ่อค้าจะเดินทางมาที่สำนักน้อยครั้งลง</Desc>
+		</Text>
+		<Text Name="LessWalkLStone">
+			<DisplayName>วิกฤตค่าเงิน</DisplayName>
+			<Desc>พ่อค้าจะพกพาหินวิญญาณน้อยลง</Desc>
+		</Text>
+		<Text Name="StrictWalker">
+			<DisplayName>ข้อเสนอที่จำกัด</DisplayName>
+			<Desc>สำหรับเดินทางมาแต่ละครั้ง พ่อค้าที่เดินทางจะซื้อสินค้าจากท่านเพียงประเภทเดียวเท่านั้น</Desc>
+		</Text>
+		<Text Name="StrictWTrader">
+			<DisplayName>พ่อค้าหน้าเลือด</DisplayName>
+			<Desc>เงื่อนไขในการทำการค้าขายกับพ่อค้านั้นยุ่งยากมากขึ้น</Desc>
+		</Text>
+		<Text Name="MoreElementWeather">
+			<DisplayName>ความโกลาหลของธาตุทั้งห้า</DisplayName>
+			<Desc>ภัยธรรมชาติห้าธาตุจะปรากฏขึ้นบ่อยขึ้น</Desc>
+		</Text>
+		<Text Name="LessLingWeather">
+			<DisplayName>ปราณอันแห้งเหือด</DisplayName>
+			<Desc>ภัยแห่งปราณแห้งเหือดจะปรากฏบ่อยและนานมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="ForeverNight20">
+			<DisplayName>หยินหยางขาดสมดุล</DisplayName>
+			<Desc>ราตรีนิรันดร์จะปรากฏขึ้นทุกปีในเวลาที่กำหนด</Desc>
+		</Text>
+		<Text Name="TianDaoWenLuan">
+			<DisplayName>ความผิดปกติของเต๋าสวรรค์</DisplayName>
+			<Desc>ภัยธรรมชาติทวีความรุนแรงขึ้น</Desc>
+		</Text>
+		<Text Name="PetReviveInterval">
+			<DisplayName>วิญญาณอสูรที่อ่อนแอ</DisplayName>
+			<Desc>เวลาฟื้นคืนชีพของอสูรวิญญาณนานขึ้น</Desc>
+		</Text>
+		<Text Name="PetLingMax">
+			<DisplayName>เส้นชีพจรปราณบาดเจ็บ</DisplayName>
+			<Desc>จำนวนปราณสูงสุดของอสูรวิญญาณลดน้อยลง</Desc>
+		</Text>
+		<Text Name="PetFabao">
+			<DisplayName>แก่นอสูรที่อ่อนแอ</DisplayName>
+			<Desc>พลังของแก่นอสูรและปราณเวทของอสูรวิญญาณลดน้อยลง</Desc>
+		</Text>
+		<Text Name="PetWeak">
+			<DisplayName>อสูรวิญญาณที่บอบบาง</DisplayName>
+			<Desc>ความแข็งแกร่งของอสูรวิญญาณลดน้อยลง</Desc>
+		</Text>
+		<Text Name="FavorDown">
+			<DisplayName>การต่อสู้ของผู้แทน</DisplayName>
+			<Desc>การส่งผู้แทนสำนักไปยังเมืองต่างๆ จะไปลดความสัมพันธ์กับสำนักอื่น</Desc>
+		</Text>
+		<Text Name="ColdMan">
+			<DisplayName>หัวใจน้ำแข็ง</DisplayName>
+			<Desc>ตัวละครในอาณาจักรมนุษย์นั้นมีแนวโน้มที่จะมีบุคลิกปิดกั้นตนเองบ่อยขึ้น</Desc>
+		</Text>
+		<Text Name="NoTeacher">
+			<DisplayName>ตนเป็นที่พึ่งแห่งตน</DisplayName>
+			<Desc>ผู้ฝึกตนลึกลับจะไม่ปรากฏตัวออกมา</Desc>
+		</Text>
+		<Text Name="ColdMortal">
+			<DisplayName>โลกอันหนาวเหน็บ</DisplayName>
+			<Desc>โลกกลายเป็นสถานที่ที่หนาวเย็น</Desc>
+		</Text>
+		<Text Name="YaoComing1">
+			<DisplayName>เผ่าอสูรบุกโจมตี: 160 วัน</DisplayName>
+			<Desc>เผ่าอสูรจะบุกโจมตีสำนักของท่านหลังจากผ่านไป 160 วัน</Desc>
+		</Text>
+		<Text Name="YaoComing2">
+			<DisplayName>เผ่าอสูรบุกโจมตี: 120 วัน</DisplayName>
+			<Desc>เผ่าอสูรจะบุกโจมตีสำนักของท่านหลังจากผ่านไป 120 วัน</Desc>
+		</Text>
+		<Text Name="YaoComing3">
+			<DisplayName>เผ่าอสูรบุกโจมตี: 80 วัน</DisplayName>
+			<Desc>เผ่าอสูรจะบุกโจมตีสำนักของท่านหลังจากผ่านไป 80 วัน</Desc>
+		</Text>
+		<Text Name="YaoGuaiComing">
+			<DisplayName>เป้าหมายอันโอชะ</DisplayName>
+			<Desc>ฝูงของสัตว์อสูรจะพุ่งเป้ามาที่สำนักของท่านมากขึ้น</Desc>
+		</Text>
+		<Text Name="KillerComing1">
+			<DisplayName>ผู้ตามล่าศิษย์สำนักไท้อี้: 250 วัน</DisplayName>
+			<Desc>แม้ว่าสำนักไท้อี้จะล่มสลายไปแล้ว ทว่าก็ยังมีบุคคลปริศนาจำนวนหนึ่งที่ได้ออกตามล่าหาศิษย์ที่เหลือรอดไปได้ บุคคลปริศนากลุ่มนี้จะหาท่านเจอหลังจากผ่านไป 250 วัน</Desc>
+		</Text>
+		<Text Name="KillerComing2">
+			<DisplayName>ผู้ตามล่าศิษย์สำนักไท้อี้: 200 วัน</DisplayName>
+			<Desc>แม้ว่าสำนักไท้อี้จะล่มสลายไปแล้ว ทว่าก็ยังมีบุคคลปริศนาจำนวนหนึ่งที่ได้ออกตามล่าหาศิษย์ที่เหลือรอดไปได้ บุคคลปริศนากลุ่มนี้จะหาท่านเจอหลังจากผ่านไป 200 วัน</Desc>
+		</Text>
+		<Text Name="KillerComing3">
+			<DisplayName>ผู้ตามล่าศิษย์สำนักไท้อี้: 150 วัน</DisplayName>
+			<Desc>แม้ว่าสำนักไท้อี้จะล่มสลายไปแล้ว ทว่าก็ยังมีบุคคลปริศนาจำนวนหนึ่งที่ได้ออกตามล่าหาศิษย์ที่เหลือรอดไปได้ บุคคลปริศนากลุ่มนี้จะหาท่านเจอหลังจากผ่านไป 150 วัน</Desc>
+		</Text>
+		<Text Name="KillerComing">
+			<DisplayName>ผู้ตามล่าศิษย์สำนักไท้อี้</DisplayName>
+			<Desc>แม้ว่าสำนักไท้อี้จะล่มสลายไปแล้ว ทว่าก็ยังมีบุคคลปริศนาจำนวนหนึ่งที่ได้ออกตามล่าหาศิษย์ที่เหลือรอดไปได้</Desc>
+		</Text>
+		<Text Name="SoonDragon1">
+			<DisplayName>ถ้ำลึกลับ: 160 วัน</DisplayName>
+			<Desc>ถ้ำลึกลับจะปรากฏขึ้นมาหลังจากผ่านไป 160 วัน</Desc>
+		</Text>
+		<Text Name="SoonDragon2">
+			<DisplayName>ถ้ำลึกลับ: 80 วัน</DisplayName>
+			<Desc>ถ้ำลึกลับจะปรากฏขึ้นมาหลังจากผ่านไป 80 วัน</Desc>
+		</Text>
+		<Text Name="SoonDragon3">
+			<DisplayName>ถ้ำลึกลับ: 30 วัน</DisplayName>
+			<Desc>ถ้ำลึกลับจะปรากฏขึ้นมาหลังจากผ่านไป 30 วัน</Desc>
+		</Text>
+		<Text Name="SoonDragon">
+			<DisplayName>ถ้ำแห่งหายนะ</DisplayName>
+			<Desc>ถ้ำลึกลับจะปรากฏขึ้นมาเร็วกว่าเดิม</Desc>
+		</Text>
+		<Text Name="RequiredSacrifice">
+			<DisplayName>มังกรคลั่ง</DisplayName>
+			<Desc>ถ้ำลึกลับไม่อาจจะถูกสะกดได้อีกต่อไป</Desc>
+		</Text>
+		<Text Name="Basfff">
+			<DisplayName>มังกรแห่งความโลภ</DisplayName>
+			<Desc>ถ้ำลึกลับต้องการเครื่องสักการะมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="ThunderBeast">
+			<DisplayName>อัสนีหายนะ</DisplayName>
+			<Desc>พายุสายฟ้าจะเกิดบ่อยขึ้น</Desc>
+		</Text>
+		<Text Name="StrictDragon">
+			<DisplayName>ความเอาแต่ใจของมังกร</DisplayName>
+			<Desc>การจัดการเกี่ยวกับถ้ำลึกลับจะจัดการได้ยุ่งยากมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="LowerPointEvent">
+			<DisplayName>นโยบายที่ยุ่งยาก</DisplayName>
+			<Desc>เหตุการณ์นโยบายเกิดขึ้นน้อยลง</Desc>
+		</Text>
+		<Text Name="MoreBuilding">
+			<DisplayName>ชีวิตแห่งความหรูหรา</DisplayName>
+			<Desc>ต้นทุนของการก่อสร้างของผู้แทนสำนักเพิ่มมากขึ้นเป็น 2 เท่า</Desc>
+		</Text>
+		<Text Name="MorePolicy">
+			<DisplayName>ปัญหาการทุจริต</DisplayName>
+			<Desc>ต้นทุนของนโยบายต่างๆ เพิ่มขึ้นเป็น 2 เท่า</Desc>
+		</Text>
+		<Text Name="MoreMortal">
+			<DisplayName>การบริหารที่ยากลำบาก</DisplayName>
+			<Desc>ปัญหาทั่วไปเกี่ยวกับผู้แทนสำนักนั้นยากต่อการจัดการมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="LowFavor">
+			<DisplayName>ดูถูกเหยียดหยาม</DisplayName>
+			<Desc>ความชื่นชอบเริ่มต้นที่สำนักต่างๆ ที่มีต่อท่านลดน้อยลง</Desc>
+		</Text>
+		<Text Name="HardFavor">
+			<DisplayName>ความเย่อหยิ่ง</DisplayName>
+			<Desc>ความชื่นชอบของสำนักต่างๆ เพิ่มได้ยากมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="MorePoint">
+			<DisplayName>ไม่มีตัวตน</DisplayName>
+			<Desc>ค่าความสัมพันธ์ที่ต้องการในการแลกเปลี่ยนกับสำนักต่างๆ เพิ่มมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="ColdRealm">
+			<DisplayName>เซียนที่แล้งน้ำใจ</DisplayName>
+			<Desc>การทำการค้าขายโดยทั่วไปกับสำนักต่างๆ ทำได้ยากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="NoLimit1">
+			<DisplayName>ศัตรูอันแข็งแกร่ง</DisplayName>
+			<Desc>ศัตรูที่มาบุกโจมตีท่านแข็งแกร่งมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="NoLimit">
+			<DisplayName>ศัตรูอันแข็งแกร่ง</DisplayName>
+			<Desc>ศัตรูที่มาบุกโจมตีท่านแข็งแกร่งมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="SchoolPower1">
+			<DisplayName>พลังแห่งสำนัก 3 เท่า</DisplayName>
+			<Desc>พลังของสำนักของ NPC ในโลกแห่งผู้ฝึกตนเพิ่มขึ้นมาอีก 200%</Desc>
+		</Text>
+		<Text Name="SchoolPower2">
+			<DisplayName>พลังแห่งสำนัก 6 เท่า</DisplayName>
+			<Desc>พลังของสำนักของ NPC ในโลกแห่งผู้ฝึกตนเพิ่มขึ้นมาอีก 500%</Desc>
+		</Text>
+		<Text Name="SchoolPower3">
+			<DisplayName>พลังแห่งสำนัก 9 เท่า</DisplayName>
+			<Desc>พลังของสำนักของ NPC ในโลกแห่งผู้ฝึกตนเพิ่มขึ้นมาอีก 800%</Desc>
+		</Text>
+		<Text Name="SchoolPower">
+			<DisplayName>พลังแห่งฟ้าดิน</DisplayName>
+			<Desc>ความแข็งแกร่งโดยรวมของสำนักของ NPC เพิ่มมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="DragonPower1">
+			<DisplayName>พลังของมังกรวารีเพิ่มขึ้น 2 เท่า</DisplayName>
+			<Desc>พลังของมังกรวารีเพิ่มมากกว่าเดิม 2 เท่า</Desc>
+		</Text>
+		<Text Name="DragonPower2">
+			<DisplayName>พลังของมังกรวารีเพิ่มขึ้น 3 เท่า</DisplayName>
+			<Desc>พลังของมังกรวารีเพิ่มมากกว่าเดิม 3 เท่า</Desc>
+		</Text>
+		<Text Name="DragonPower3">
+			<DisplayName>พลังของมังกรวารีเพิ่มขึ้น 4 เท่า</DisplayName>
+			<Desc>พลังของมังกรวารีเพิ่มมากกว่าเดิม 4 เท่า</Desc>
+		</Text>
+		<Text Name="DragonPower">
+			<DisplayName>พลังแห่งวารี</DisplayName>
+			<Desc>มังกรวารีแข็งแกร่งมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="FengPower1">
+			<DisplayName>พลังของหงส์เพลิงเพิ่มขึ้น 2 เท่า</DisplayName>
+			<Desc>พลังของหงส์เพลิงเพิ่มมากกว่าเดิม 2 เท่า</Desc>
+		</Text>
+		<Text Name="FengPower2">
+			<DisplayName>พลังของหงส์เพลิงเพิ่มขึ้น 3 เท่า</DisplayName>
+			<Desc>พลังของหงส์เพลิงเพิ่มมากกว่าเดิม 3 เท่า</Desc>
+		</Text>
+		<Text Name="FengPower3">
+			<DisplayName>พลังของหงส์เพลิงเพิ่มขึ้น 4 เท่า</DisplayName>
+			<Desc>พลังของหงส์เพลิงเพิ่มมากกว่าเดิม 4 เท่า</Desc>
+		</Text>
+		<Text Name="FengPower">
+			<DisplayName>พลังแห่งอัคคี</DisplayName>
+			<Desc>หงส์เพลิงแข็งแกร่งมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="ZhulongPower1">
+			<DisplayName>พลังของมังกรเทียนเพิ่มมากกว่าเดิม 2 เท่า</DisplayName>
+			<Desc>พลังของมังกรเทียนเพิ่มมากกว่าเดิม 2 เท่า</Desc>
+		</Text>
+		<Text Name="ZhulongPower2">
+			<DisplayName>พลังของมังกรเทียนเพิ่มมากกว่าเดิม 3 เท่า</DisplayName>
+			<Desc>พลังของมังกรเทียนเพิ่มมากกว่าเดิม 3 เท่า</Desc>
+		</Text>
+		<Text Name="ZhulongPower3">
+			<DisplayName>พลังของมังกรเทียนเพิ่มมากกว่าเดิม 4 เท่า</DisplayName>
+			<Desc>พลังของมังกรเทียนเพิ่มมากกว่าเดิม 4 เท่า</Desc>
+		</Text>
+		<Text Name="ZhulongPower">
+			<DisplayName>พลังแห่งหยินหยาง</DisplayName>
+			<Desc>มังกรเทียนแข็งแกร่งมากยิ่งขึ้น</Desc>
+		</Text>
+	</List>
+</Texts>

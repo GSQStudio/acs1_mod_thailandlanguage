@@ -1,0 +1,148 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SunnyDay">
+			<DisplayName>ท้องฟ้าแจ่มใส</DisplayName>
+			<StoryDesc>ท้องฟ้าปลอดโปร่ง อากาศสดใส</StoryDesc>
+		</Text>
+		<Text Name="Overcast">
+			<DisplayName>มีเมฆ</DisplayName>
+			<StoryDesc>เมฆหนาทึบปกคลุมท้องฟ้าเบื้องบน</StoryDesc>
+		</Text>
+		<Text Name="LightRain">
+			<DisplayName>ฝนตกปลอยๆ</DisplayName>
+			<StoryDesc>สายฝนโปรยปรายตกลงมาอย่างแผ่วเบา</StoryDesc>
+		</Text>
+		<Text Name="HeavyRain">
+			<DisplayName>ฝนตกหนัก</DisplayName>
+			<StoryDesc>ฝนตกลงมาอย่างกับฟ้ารั่ว ทั่วทั้งบริเวณเต็มไปด้วยแอ่งน้ำเจิ่งนอง</StoryDesc>
+		</Text>
+		<Text Name="LightSnow">
+			<DisplayName>หิมะตกปลอยๆ</DisplayName>
+			<StoryDesc>หิมะโปรยปรายลงมาในอากาศ ส่องประกายระยิบระยับบนผืนแผ่นดิน</StoryDesc>
+		</Text>
+		<Text Name="HeavySnow">
+			<DisplayName>หิมะตกหนัก</DisplayName>
+			<StoryDesc>หิมะตกหนักและมีลมหนาวพัดกระหน่ำเข้ามา</StoryDesc>
+		</Text>
+		<Text Name="DenseFog">
+			<DisplayName>หมอกหนา</DisplayName>
+			<StoryDesc>ละอองหมอกมาบรรจบกันบนท้องฟ้า ส่งผลให้มีหมอกหนาทึบปกคลุมไปทั่วบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="Melancholy">
+			<DisplayName>บรรยากาศมืดมน</DisplayName>
+			<StoryDesc>อารมณ์มืดมนแทรกซึมอยู่ในอากาศ</StoryDesc>
+		</Text>
+		<Text Name="SpringAir">
+			<DisplayName>กลิ่นอายฤดูใบไม้ผลิ</DisplayName>
+			<StoryDesc>กลิ่นสดชื่นของฤดูใบไม้ผลิแผ่กระจายไปทั่วดินแดน</StoryDesc>
+		</Text>
+		<Text Name="HarvestAir">
+			<DisplayName>ฤดูเก็บเกี่ยว</DisplayName>
+			<StoryDesc>ได้เวลาเก็บเกี่ยว บรรยากาศที่ครึกครื้นกำลังจะมาถึง</StoryDesc>
+		</Text>
+		<Text Name="Ambiguous">
+			<DisplayName>บรรยากาศแห่งรัก</DisplayName>
+			<StoryDesc>กลิ่นอายแห่งความรักแผ่กระจายไปทั่วทั้งอาณาบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="Impetuous">
+			<DisplayName>บรรยากาศคึกคัก</DisplayName>
+			<StoryDesc>บรรยากาศแห่งความคึกคักปั่นป่วน</StoryDesc>
+		</Text>
+		<Text Name="MouldRains">
+			<DisplayName>ฤดูฝน</DisplayName>
+			<StoryDesc>ฝนโปรยปรายลงมาทั่วแผ่นดิน</StoryDesc>
+		</Text>
+		<Text Name="Drought">
+			<DisplayName>ฤดูแล้ง</DisplayName>
+			<StoryDesc>ดวงตะวันแผดเผาทุกสิ่งเบื้องล่างด้วยความร้อนแรง</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm">
+			<DisplayName>พายุฝน</DisplayName>
+			<StoryDesc>พายุฝนฟ้าคะนองรุนแรง</StoryDesc>
+		</Text>
+		<Text Name="Fohn">
+			<DisplayName>พายุลมร้อน</DisplayName>
+			<StoryDesc>สายลมร้อนกำลังพัดผ่านเข้ามา</StoryDesc>
+		</Text>
+		<Text Name="DustStorm">
+			<DisplayName>พายุทราย</DisplayName>
+			<StoryDesc>ท้องฟ้ามืดลงเมื่อฝุ่นและทรายลอยอยู่เต็มอากาศ</StoryDesc>
+		</Text>
+		<Text Name="LingRarefiedWave">
+			<DisplayName>ปราณแห้งเหือด</DisplayName>
+			<StoryDesc>ช่วงเวลาที่ปราณธรรมชาติแห้งเหือดได้มาถึงแล้ว</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave">
+			<DisplayName>ปราณพวยพุ่ง</DisplayName>
+			<StoryDesc>พลังปราณพวยพุ่งขึ้นฟ้า แผ่ซ่านทั่วหล้าไร้สิ้นสุด</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Little">
+			<DisplayName>กลุ่มก้อนปราณ</DisplayName>
+			<StoryDesc>ปราณได้แผ่กระจายไปทั่วทั้งอาณาบริเวณ</StoryDesc>
+		</Text>
+		<Text Name="HeatWave">
+			<DisplayName>คลื่นความร้อน</DisplayName>
+			<StoryDesc>คลื่นความร้อนลุกโชนแผดเผาอย่างไม่ลดละ</StoryDesc>
+		</Text>
+		<Text Name="ColdWave">
+			<DisplayName>คลื่นความเย็น</DisplayName>
+			<StoryDesc>ลมหนาวและพายุน้ำแข็งพัดผ่านเข้ามา</StoryDesc>
+		</Text>
+		<Text Name="HeatWaveInWinter">
+			<DisplayName>ลมอุ่น</DisplayName>
+			<StoryDesc>อาทิตย์อัสดงทอแสงในฤดูหนาวเมื่อกระแสลมอุ่นๆ ได้พัดผ่านเข้ามา</StoryDesc>
+		</Text>
+		<Text Name="ColdWaveInSummer">
+			<DisplayName>ลมหนาว</DisplayName>
+			<StoryDesc>สายลมเย็นอันแสนสดชื่นได้พัดผ่านเข้ามาในฤดูร้อน</StoryDesc>
+		</Text>
+		<Text Name="PermanentNight">
+			<DisplayName>ราตรีนิรันดร์</DisplayName>
+			<StoryDesc>เป็นค่ำคืนที่ยาวนานราวกับว่ามันไม่มีจุดสิ้นสุด</StoryDesc>
+		</Text>
+		<Text Name="Miasma">
+			<DisplayName>ละอองเป็นพิษ</DisplayName>
+			<StoryDesc>ละอองเกสรพิษลอยฟุ้งกระจายอยู่บนชั้นบรรยากาศ</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+			<StoryDesc>ฟ้าแลบฟ้าร้องสะท้านก้องกังวานจากผินฟ้าลงมาสู่ผืนดินราวกับสายฟ้ากับเต้นรำอยู่บนฟากฟ้า</StoryDesc>
+		</Text>
+		<Text Name="LightningStormNoLong">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+			<StoryDesc>ฟ้าแลบฟ้าร้องสะท้านก้องกังวานจากผินฟ้าลงมาสู่ผืนดินราวกับสายฟ้ากับเต้นรำอยู่บนฟากฟ้า</StoryDesc>
+		</Text>
+		<Text Name="FohnNoFeng">
+			<DisplayName>พายุลมร้อน</DisplayName>
+			<StoryDesc>สายลมร้อนกำลังพัดผ่านเข้ามา</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Long">
+			<DisplayName>พายุฝน</DisplayName>
+			<StoryDesc>พายุฝนฟ้าคะนองรุนแรง</StoryDesc>
+		</Text>
+		<Text Name="LuShu_SunnyDay">
+			<DisplayName>ท้องฟ้าแจ่มใส (พลังแห่งลู่ซู)</DisplayName>
+			<StoryDesc>ท้องฟ้าปลอดโปร่ง อากาศสดใส</StoryDesc>
+		</Text>
+		<Text Name="Fei_HeavyRain">
+			<DisplayName>ฝนตกหนัก (พลังแห่งเฟย)</DisplayName>
+			<StoryDesc>ฝนตกลงมาอย่างกับฟ้ารั่ว ทั่วทั้งบริเวณเต็มไปด้วยแอ่งน้ำเจิ่งนอง</StoryDesc>
+		</Text>
+		<Text Name="Fei_Overcast">
+			<DisplayName>เมฆหนา (พลังแห่งเฟย)</DisplayName>
+			<StoryDesc>เมฆหนาทึบปกคลุมท้องฟ้าเบื้องบน</StoryDesc>
+		</Text>
+		<Text Name="MuYu_LightRain">
+			<DisplayName>ฝนตกปลอยๆ (โดยกระบี่เชิญพิรุณ)</DisplayName>
+			<StoryDesc>สายฝนโปรยปรายตกลงมาอย่างแผ่วเบา</StoryDesc>
+		</Text>
+		<Text Name="SpringFestival">
+			<DisplayName>เทศกาลฤดูใบไม้ผลิ</DisplayName>
+			<StoryDesc>ยามเมื่อเทศกาลฤดูใบไม้ผลิมาถึง ทั่วทั้งอาณาจักรต่างก็เต็มไปด้วยบรรยากาศแห่งการเฉลิมฉลอง</StoryDesc>
+		</Text>
+		<Text Name="ZuShiBiHu">
+			<DisplayName>กลิ่นอายแห่งปราณสวรรค์</DisplayName>
+			<StoryDesc>นี่คือกลิ่นอายแห่งปราณสวรรค์ มันเป็นช่วงเวลาที่เหมาะแก่การบ่มเพาะ</StoryDesc>
+		</Text>
+	</List>
+</Texts>

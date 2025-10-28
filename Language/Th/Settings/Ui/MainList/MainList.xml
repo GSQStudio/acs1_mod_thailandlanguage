@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Texts Type="Other">
+	<List>
+		<Text Name="Wall">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="Barrier">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="Barrier2">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="Door">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="WoodRoof">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="StoneRoof">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="Door_WanYao">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="YaoRoof">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="WoodRoof_SpringFestival">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="StoneRoof_SpringFestival">
+			<Type>โครงสร้าง</Type>
+		</Text>
+		<Text Name="Bed">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="Table">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="SmallTable">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="DoubleBed">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="WaterTank">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="Building_Tomb">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="Building_BigTomb">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="Building_ItemShelf">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="Building_ShuZhuangTai">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="MaterialWorkPlace">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="WorkPlace">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="PuppetPlace">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="Bonfire">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="Well">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="Kitchen">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="HandWorkTable">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="WoodShed">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="StoneMaker">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="MedicineTable">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="WeaponMaker">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="Furnace">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="MillStone">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="TailorTable">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="TextileTable">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="CalligraphyTable">
+			<Type>การงาน</Type>
+		</Text>
+		<Text Name="BasePracticePlace">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="ExploreBackPlace">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="TrainingDummy">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Building_BookShelf_CangJing">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="FengShui">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="RefiningCushion">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="DanStove">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Building_XiaoDanLu1">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Building_XiaoDanLu2">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Cushion">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Building_MagicCushion">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="TheGate">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Building_SacrificialTable">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Building_Zhong">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Build_TheBigGate">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Build_KunLunFang">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Build_BaiManFang">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Build_WanYaoMen">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Building_Spring2021_1">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Building_BigSwordPillar">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="SmallPool">
+			<Type>สำนัก</Type>
+		</Text>
+		<Text Name="Candlestick">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Lantern1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Lantern">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Lantern3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Lantern4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Lantern5">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Lantern6">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="StreetLight">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="StreetLight1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="StreetLight2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Lantern_S1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_DiMuJiDeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_QingShaDeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_HuangLongDengTai">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_LianHuaDengTai">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_XieXiDeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_KuLouDeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_XiongKuiDeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_YaoHuoPen">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_ChangMingDeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_5">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_6">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_7">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_8">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_9">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_Spring2021_10">
+			<Type>ของตกแต่ง</Type>
+			<Label>ไฟประดับ</Label>
+		</Text>
+		<Text Name="Building_BigTripod">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_SmallTripod">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_BigCenser">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_SmallCenser">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_BigVase">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_SmallVase">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_MoWenHuaPing">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_Screen1">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_XiePingFeng">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_BookShelf">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_ShaZhang1">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_ShaZhang2">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_JuXingXiangLu">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_HuoDing">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_JiaShan1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_JiaShan2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_PenZai1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_PenZai2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_KuLouHuaPing">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_QiShi1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_QiShi2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_QiShi3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_QiShi4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_QiShi5">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_QiShi6">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi5">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi6">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi5">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_LingShu1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_LingShu2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_LingShu3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_LingShu4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_LingShu5">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_LingShu6">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ZiXiaoJuShu">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_TaoShu1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_TaoShu2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_TaoShu3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_YuShu1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_YuShu2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_YuShu3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_YuShu4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_YuShu5">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_YuShu6">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_GuMu1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_GuMu2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_GuMu3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_GuMu4">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_GuMu5">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_GuMu6">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_LuoTuoCao">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_CongRong1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_CongRong2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ต้นไม้หายาก</Label>
+		</Text>
+		<Text Name="Building_Flag1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_Flag2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_Flag3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_Gu">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_ShiBei">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_Tower2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_Tower">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_LingDiShuiChi">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_LianFaTan">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_TaiXuanBingZhu">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_YanDiTai">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_TengLongZhu">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_JianYiFuDiao">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_ShuiLianTai">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_DiMuMiXue">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_QiShaJianZhu">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_QingTongFanQi">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_DiMuJiQi">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_MoMenJiQi">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_MoMenJiQi1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian1">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian2">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian3">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_TianSheQi">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_JuXingShouGu">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_LongXingYuanPan">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_YaoShouDing">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_YaoZuXingJia">
+			<Type>ของตกแต่ง</Type>
+			<Label>ทัศนียภาพ</Label>
+		</Text>
+		<Text Name="Building_StoneMan">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_StoneLion">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_StoneLion2">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_StoneLion3">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_Statue1">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_Statue2">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_Statue3">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_QingTongLong">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_QingTongShouXiangLu">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_XieLongDiaoXiang">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_MoZhuaDiaoSu">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_DiMuKuiShou">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_YaoZuDiaoXiang">
+			<Type>ของตกแต่ง</Type>
+			<Label>รูปปั้น</Label>
+		</Text>
+		<Text Name="Building_SleeveSpace">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_SleeveSpace1">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_BaBaoGongDe_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_ShuShanJianChi_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_LingYuFeng_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_QiShaShenBei_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="Building_YaoZuYiHai_Our">
+			<Type>อุปกรณ์มหัศจรรย์</Type>
+		</Text>
+		<Text Name="TicTacToe">
+			<Type>การละเล่น</Type>
+		</Text>
+		<Text Name="CageShelf">
+			<Type>การละเล่น</Type>
+		</Text>
+		<Text Name="GoTable">
+			<Type>การละเล่น</Type>
+		</Text>
+		<Text Name="GuzhengTable">
+			<Type>การละเล่น</Type>
+		</Text>
+		<Text Name="Firecracker">
+			<Type>การละเล่น</Type>
+		</Text>
+		<Text Name="RemoveFloor">
+			<Type>ปูพื้น</Type>
+			<Display>รื้อถอนพื้น</Display>
+			<Desc>[color=#0000FF]การรื้อถอนพื้น[/color]([keycode]RemoveFloor[/keycode])\nทำลายพื้ที่เคยปูทั้งหมด \nประเภทงาน: การก่อสร้าง</Desc>
+		</Text>
+		<Text Name="Carpet1">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor30">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor31">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor32">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor33">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor1">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor2">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor3">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor4">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor5">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor6">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor7">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor8">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor9">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor10">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor11">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor12">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor13">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor14">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor15">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor16">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor17">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor18">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor19">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor20">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor21">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor22">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor23">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor24">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor25">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor26">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor27">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor28">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="Floor29">
+			<Type>ปูพื้น</Type>
+		</Text>
+		<Text Name="LsDogHouse">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LsDog_Carve">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LsFox_Carve">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LsDragon_Carve">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LsPhoenix_Carve">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LingShouShitPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LSEnemyCarryPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LSVistorCarryPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LSEnemyBodyCarryPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LSWaiBodyCarryPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LSVistorBodyCarryPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LSNeiBodyCarryPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LSMortalBodyCarryPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="LSMortalCarryPlace">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+		<Text Name="AreaStorage">
+			<Type>พื้นที่</Type>
+			<Display>พื้นที่เก็บของ</Display>
+			<Desc>ลากวางเพื่อสร้างพื้นที่เก็บของ ตัวละครจะนำสิ่งของมาวางยังพื้นที่เก็บของที่กำหนด \nประเภทงาน: กรรมกร</Desc>
+		</Text>
+		<Text Name="AreaPlant">
+			<Type>พื้นที่</Type>
+			<Display>พื้นที่เพาะปลูก</Display>
+			<Desc>ลากวางเพื่อสร้างพื้นที่เพาะปลูก ตัวละครจะทำงานเพาะปลูกพืชที่นี่ \nประเภทงาน: เกษตรกรรม</Desc>
+		</Text>
+		<Text Name="DiscipleAreaPlant">
+			<Type>พื้นที่</Type>
+			<Display>สวนสมุนไพร</Display>
+			<Desc>ลากวางเพื่อสร้างสวนสมุนไพร ตัวละครจะทำการเพาะปลูกสมุนไพรที่นี่ \nประเภทงาน: เกษตรกรรม</Desc>
+		</Text>
+		<Text Name="AreaBreeding">
+			<Type>พื้นที่</Type>
+			<Display>ทุ่งเลี้ยงสัตว์</Display>
+			<Desc>ลากวางเพื่อสร้างทุ่งเลี้ยงสัตว์ สัตว์ป่าจะถูกนำมาเลี้ยงยังพื้นที่แห่งนี้</Desc>
+		</Text>
+		<Text Name="AreaTrade">
+			<Type>พื้นที่</Type>
+			<Display>พื้นที่ค้าขาย</Display>
+			<Desc>ลากวางเพื่อสร้างพื้นที่ค้าขาย</Desc>
+		</Text>
+		<Text Name="RemoveStorageArea">
+			<Type>พื้นที่</Type>
+			<Display>ยกเลิกพื้นที่เก็บของ</Display>
+			<Desc>ทำการยกเลิกพื้นที่เก็บของ</Desc>
+		</Text>
+		<Text Name="RemovePlantArea">
+			<Type>พื้นที่</Type>
+			<Display>ยกเลิกพื้นที่เพาะปลูก</Display>
+			<Desc>ทำการยกเลิกพื้นที่เพาะปลูก</Desc>
+		</Text>
+		<Text Name="RemoveDiscipleAreaPlant">
+			<Type>พื้นที่</Type>
+			<Display>ยกเลิกสวนสมุนไพร</Display>
+			<Desc>ทำการยกเลิกสวนสมุนไพร</Desc>
+		</Text>
+		<Text Name="RemoveAreaBreeding">
+			<Type>พื้นที่</Type>
+			<Display>ยกเลิกทุ่งเลี้ยงสัตว์</Display>
+			<Desc>ทำการยกเลิกทุ่งเลี้ยงสัตว์</Desc>
+		</Text>
+		<Text Name="RemoveAreaTrade">
+			<Type>พื้นที่</Type>
+			<Display>ยกเลิกพื้นที่ค้าขาย</Display>
+			<Desc>ทำการยกเลิกพื้นที่ค้าขาย</Desc>
+		</Text>
+		<Text Name="AreaTang">
+			<Type>พื้นที่</Type>
+			<Display>พื้นที่สาขา</Display>
+			<Desc>ลากวางเพื่อสร้างพื้นที่สาขา ตัวละครจะได้รับ bonus effect ในสาขาของตัวเอง</Desc>
+		</Text>
+		<Text Name="RemoveTangArea">
+			<Type>พื้นที่</Type>
+			<Display>ยกเลิกพื้นที่สาขา</Display>
+			<Desc>ทำการยกเลิกพื้นที่สาขา</Desc>
+		</Text>
+		<Text Name="FillSoil">
+			<Type>พื้นที่</Type>
+		</Text>
+		<Text Name="FillShallowWater">
+			<Type>พื้นที่</Type>
+		</Text>
+		<Text Name="FillFertileSoil">
+			<Type>พื้นที่</Type>
+		</Text>
+		<Text Name="BlueprintCreat">
+			<Type>พิมพ์เขียว</Type>
+			<Label>ทั้งหมด</Label>
+			<Display>สร้างพิมพ์เขียว</Display>
+			<Desc>สร้างพิมพ์เขียวอาคาร</Desc>
+		</Text>
+		<Text Name="_BlueprintCreat">
+			<Type>Blueprint</Type>
+			<Label>Default Blueprint</Label>
+			<Display>Create Blueprint</Display>
+			<Desc>Create Building Blueprint</Desc>
+		</Text>
+		<Text Name="MyBlueprintCreat">
+			<Type>พิมพ์เขียว</Type>
+			<Label>พิมพ์เขียวของข้า</Label>
+			<Display>สร้างพิมพ์เขียว</Display>
+			<Desc>สร้างพิมพ์เขียวอาคาร</Desc>
+		</Text>
+		<Text Name="Harvest">
+			<Display>เก็บเกี่ยว</Display>
+			<Desc>[color=#0000FF]เก็บเกี่ยวพืช[/color]([keycode]Harvest[/keycode])\nเก็บเกี่ยวพืช ผัก ผลไม้ \nประเภทงาน: เกษตรกรรม</Desc>
+		</Text>
+		<Text Name="Log">
+			<Display>ตัดไม้</Display>
+			<Desc>[color=#0000FF]ตัดไม้[/color]([keycode]Log[/keycode])\nตัดไม้เพื่อรับไม้ฟืน \nประเภทงาน: ช่างไม้</Desc>
+		</Text>
+		<Text Name="Mine">
+			<Display>ขุดแร่</Display>
+			<Desc>[color=#0000FF]ขุดแร่[/color]([keycode]Mine[/keycode])\nขุดแร่จากเหมืองเพื่อรับหินและแร่ \nประเภทงาน: งานเหมือง</Desc>
+		</Text>
+		<Text Name="Cutoff">
+			<Display>กำจัด</Display>
+			<Desc>[color=#0000FF]กวาดพื้นที่[/color]([keycode]Cutoff[/keycode])\nทำความสะอาดพื้นที่ \nประเภทงาน: ช่างไม้</Desc>
+		</Text>
+		<Text Name="Dismantle">
+			<Display>ทำลาย</Display>
+			<Desc>[color=#0000FF]ทำลายสิ่งปลูกสร้าง[/color]([keycode]Dismantle[/keycode])\nทำลายสิ่งปลูกสร้างที่เลือก \nประเภทงาน: การก่อสร้าง</Desc>
+		</Text>
+		<Text Name="Explore">
+			<Display>สำรวจ</Display>
+			<Desc>[color=#0000FF]สำรวจพื้นที่[/color]([keycode]Explore[/keycode])\nทำการสำรวจพื้นที่ที่ถูกปลกคลุมด้วยหมอกดำ ตัวละครจะใช้พลังงานมากกว่าปกติในการสำรวจ \nประเภทงาน: ล่า</Desc>
+		</Text>
+		<Text Name="Hunting">
+			<Display>ล่า</Display>
+			<Desc>[color=#0000FF]ล่าสัตว์ป่า[/color]([keycode]Hunting[/keycode])\nล่าและชำแหละสัตว์ป่า \nประเภทงาน: ล่า</Desc>
+		</Text>
+		<Text Name="Melting">
+			<Display>กลั่น</Display>
+			<Desc>[color=#0000FF]กลั่นวัตถุ[/color] ([keycode]Melting[/keycode])\nศิษย์สายในจะทำการกลั่นวัตถุที่กำหนดเป็นหินวิญญาณ \nทุกๆ ปราณ 5,000 หน่วยที่แฝงอยู่ในวัตถุจะถูกแปลงเป็นหินวิญญาณได้ 1 ก้อน\nถ้าวัตถุชิ้นนั้นคืออาวุธวิเศษ ยิ่งระดับของมันสูงมากเท่าไรจำนวนหินวิญญาณที่ได้รับก็จะมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="CancelCMD">
+			<Display>ยกเลิก</Display>
+			<Desc>[color=#0000FF]ยกเลิกคำสั่ง[/color] ([keycode]CancelCMD[/keycode])\nยกเลิกคำสั่งในพื้นที่ที่กำหนด</Desc>
+		</Text>
+		<Text Name="ClearPlant">
+			<Display>เพาะปลูก</Display>
+			<Desc>[color=#0000FF]Remove Plant[/color]\nนำพืชทั้งหมดออกมาพื้นที่ที่กำหนด</Desc>
+		</Text>
+		<Text Name="ClearMine ">
+			<Display>ขุดแร่</Display>
+			<Desc>[color=#0000FF]Remove Ore[/color]\nยกเลิกการขุดแร่ในพื้นที่ที่กำหนด</Desc>
+		</Text>
+		<Text Name="ClearBuilding">
+			<Display>ทำลาย</Display>
+			<Desc>[color=#0000FF]Demolish Building[/color]\nทำลายสิ่งก่อสร้างที่ถูกเลือก</Desc>
+		</Text>
+		<Text Name="ClearFloor">
+			<Display>ปูพื้น</Display>
+			<Desc>[color=#0000FF]Remove Floorboards[/color]\nทำลายการปูพื้นในพื้นที่ที่ถูกเลือก</Desc>
+		</Text>
+		<Text Name="ClearItem">
+			<Display>ลบ</Display>
+			<Desc>[color=#0000FF]Remove Item[/color]\nยกเลิกการเลือกวัตถุในพื้นที่ที่กำหนด</Desc>
+		</Text>
+		<Text Name="ReBuilding">  
+			<Display>สร้างใหม่</Display>  
+			<Desc>[color=#0000FF]สร้างสิ่งปลูกสร้างขึ้นใหม่[/color]\nสร้างสิ่งปลูกสร้างทั้งหมดในพื้นที่ขึ้นใหม่\nประเภทงาน: ก่อสร้าง</Desc>  
+		</Text>  
+		<Text Name="ItemBan">  
+			<Display>ห้าม</Display>  
+			<Desc>[color=#0000FF]ห้ามใช้งานไอเทม[/color]\nยกเลิก/เปิดใช้งานการห้ามไอเทม ขึ้นอยู่กับว่าไอเทมแรกในพื้นที่ที่เลือกถูกห้ามอยู่หรือไม่</Desc>  
+		</Text>  
+		<Text Name="Dismantle2">  
+			<Display>สร้างใหม่</Display>  
+			<Desc>[color=#0000FF]ซ่อมแซมอาคาร[/color] ([keycode]Dismantle[/keycode])\nซ่อมแซมอาคารในพื้นที่ที่กำหนด \nประเภทงาน: การก่อสร้าง</Desc>  
+		</Text>  
+		<Text Name="CancelCMD2">  
+			<Display>ห้าม</Display>  
+			<Desc>[color=#0000FF]ห้าม[/color] ([keycode]CancelCMD[/keycode])\nยกเลิกหรือเลือกคำสั่งห้ามแตะต้องวัตถุ โดยจะขึ้นอยู่กับว่าวัตถุชิ้นนั้นถูกห้ามอยู่หรือไม่</Desc>  
+		</Text>  
+	</List>  
+</Texts>

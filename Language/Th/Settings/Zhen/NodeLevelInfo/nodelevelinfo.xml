@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="0">
+			<DisplayName>แกนย่อย ระดับ0</DisplayName>
+		</Text>
+		<Text Name="1">
+			<DisplayName>แกนย่อย ระดับ1</DisplayName>
+		</Text>
+		<Text Name="2">
+			<DisplayName>แกนย่อย ระดับ2</DisplayName>
+		</Text>
+		<Text Name="3">
+			<DisplayName>แกนย่อย ระดับ3</DisplayName>
+		</Text>
+		<Text Name="4">
+			<DisplayName>แกนย่อย ระดับ4</DisplayName>
+		</Text>
+	</List>
+</Texts>

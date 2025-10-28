@@ -1,0 +1,116 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<Descript>ว่าง</Descript>
+			<Tip>ว่าง</Tip>
+		</Text>
+		<Text Name="StabilityBasev">
+			<Descript>ฐานความเสถียรค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityBasep">
+			<Descript>ฐานความเสถียรค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="StabilityAddv">
+			<Descript>ความเสถียรค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityAddp">
+			<Descript>ความเสถียรค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasev">
+			<Descript>ฐานทักษะอาวุธวิเศษ {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasep">
+			<Descript>ฐานทักษะอาวุธวิเศษ {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddv">
+			<Descript>ทักษะอาวุธวิเศษ {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddp">
+			<Descript>ทักษะอาวุธวิเศษ {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasev">
+			<Descript>ฐานทักษะปราณเวท {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasep">
+			<Descript>ฐานทักษะปราณเวท {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddv">
+			<Descript>ทักษะปราณเวท {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddp">
+			<Descript>ทักษะปราณเวท {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildBasev">
+			<Descript>ฐานเกราะปราณ {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildBasep">
+			<Descript>ฐานเกราะปราณ {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildAddv">
+			<Descript>เกราะปราณ {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildAddp">
+			<Descript>เกราะปราณ {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasev">
+			<Descript>ฐานการใช้งาน {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasep">
+			<Descript>ฐานการใช้งาน {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddv">
+			<Descript>การใช้งาน {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddp">
+			<Descript>การใช้งาน {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasev">
+			<Descript>ฐานประสิทธิภาพค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasep">
+			<Descript>ฐานประสิทธิภาพค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddv">
+			<Descript>ประสิทธิภาพค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddp">
+			<Descript>ประสิทธิภาพค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasev">
+			<Descript>ขนาดค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasep">
+			<Descript>ขนาดค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddv">
+			<Descript>ขนาดค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddp">
+			<Descript>ขนาดค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasev">
+			<Descript>ภาระค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasep">
+			<Descript>ภาระค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddv">
+			<Descript>ภาระค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddp">
+			<Descript>ภาระค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasev">
+			<Descript>ฐานพลังงานสูงสุดค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasep">
+			<Descript>ฐานพลังงานสูงสุดค่ายกล {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddv">
+			<Descript>พลังงานสูงสุดค่ายกล {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddp">
+			<Descript>พลังงานสูงสุดค่ายกล {1}{0:P2}</Descript>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,30 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BambooBed">
+			<Type>ของใช้</Type>
+		</Text>
+		<Text Name="BambooLight">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_BambooScreen1">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_BambooScreen2">
+			<Type>ของตกแต่ง</Type>
+			<Label>เฟอร์นิเจอร์</Label>
+		</Text>
+		<Text Name="Building_WaterWheel">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="Building_BambooPavilion">
+			<Type>ของตกแต่ง</Type>
+			<Label>ของแต่งสวน</Label>
+		</Text>
+		<Text Name="LsPanda_Carve">
+			<Type>สัตว์เลี้ยง</Type>
+		</Text>
+	</List>
+</Texts>

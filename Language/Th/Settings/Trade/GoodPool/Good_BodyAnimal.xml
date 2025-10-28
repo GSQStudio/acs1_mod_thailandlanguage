@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyAnimal">
+			<IVNUMBER.0.Animal.DisplayName>กรงกระต่าย</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>ภายในนั้นมีกระต่ายที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>กรงไก่</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>ภายในนั้นมีไก่ที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>กรงหมาป่า</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>ภายในนั้นมีหมาป่าที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>กรงงู</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>ภายในนั้นมีงูที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>กรงหมูป่า</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>ภายในนั้นมีมูป่าที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.4.Animal.Tip>
+			<IVNUMBER.5.Animal.DisplayName>กรงหมี</IVNUMBER.5.Animal.DisplayName>
+			<IVNUMBER.5.Animal.Tip>ภายในนั้นมีหมีที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.5.Animal.Tip>
+			<IVNUMBER.6.Animal.DisplayName>กรงเต่า</IVNUMBER.6.Animal.DisplayName>
+			<IVNUMBER.6.Animal.Tip>ภายในนั้นมีเต่าที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.6.Animal.Tip>
+			<IVNUMBER.7.Animal.DisplayName>กรงกบ</IVNUMBER.7.Animal.DisplayName>
+			<IVNUMBER.7.Animal.Tip>ภายในนั้นมีกบที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.7.Animal.Tip>
+			<IVNUMBER.8.Animal.DisplayName>กรงแมว</IVNUMBER.8.Animal.DisplayName>
+			<IVNUMBER.8.Animal.Tip>ภายในนั้นมีแมวที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.8.Animal.Tip>
+			<IVNUMBER.9.Animal.DisplayName>กรงกระทิง</IVNUMBER.9.Animal.DisplayName>
+			<IVNUMBER.9.Animal.Tip>ภายในนั้นมีกระทิงที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.9.Animal.Tip>
+			<IVNUMBER.10.Animal.DisplayName>กรงเสือ</IVNUMBER.10.Animal.DisplayName>
+			<IVNUMBER.10.Animal.Tip>ภายในนั้นมีเสือที่อยู่ในสภาวะตื่นรู้ มันได้รับความเข้าใจเกี่ยวกับวิชาบ่มเพาะของผู้ฝึกตนวิถีกายาอมตะ</IVNUMBER.10.Animal.Tip>
+		</Text>
+	</List>
+</Texts>

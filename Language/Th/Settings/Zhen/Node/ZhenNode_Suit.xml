@@ -1,0 +1,202 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="zhuxian_0">
+			<DisplayName>แกนหลักสังหารเซียน</DisplayName>
+		</Text>
+		<Text Name="zhuxian_1">
+			<DisplayName>สังหารเซียน</DisplayName>
+		</Text>
+		<Text Name="zhuxian_2">
+			<DisplayName>มรณะ</DisplayName>
+		</Text>
+		<Text Name="zhuxian_3">
+			<DisplayName>ไร้จุดจบ</DisplayName>
+		</Text>
+		<Text Name="zhuxian_4">
+			<DisplayName>อมตะ</DisplayName>
+		</Text>
+		<Text Name="qixing_0">
+			<DisplayName>รัศมีสวรรค์</DisplayName>
+		</Text>
+		<Text Name="qixing_1">
+			<DisplayName>แกนสวรรค์</DisplayName>
+		</Text>
+		<Text Name="qixing_2">
+			<DisplayName>หยกสวรรค์</DisplayName>
+		</Text>
+		<Text Name="qixing_3">
+			<DisplayName>ไข่มุกสวรรค์</DisplayName>
+		</Text>
+		<Text Name="qixing_4">
+			<DisplayName>ตาชั่งสวรรค์</DisplayName>
+		</Text>
+		<Text Name="qixing_5">
+			<DisplayName>กระจ่างสวรรค์</DisplayName>
+		</Text>
+		<Text Name="qixing_6">
+			<DisplayName>แสงสวรรค์</DisplayName>
+		</Text>
+		<Text Name="wufang_0">
+			<DisplayName>แกนหลักค่ายกลสวรรค์และโลก</DisplayName>
+		</Text>
+		<Text Name="wufang_1">
+			<DisplayName>เมฆาขาว</DisplayName>
+		</Text>
+		<Text Name="wufang_2">
+			<DisplayName>บัวเขียว</DisplayName>
+		</Text>
+		<Text Name="wufang_3">
+			<DisplayName>อีกาดำ</DisplayName>
+		</Text>
+		<Text Name="wufang_4">
+			<DisplayName>เพลิงกัลป์ผลาญปฐพี</DisplayName>
+		</Text>
+		<Text Name="wufang_5">
+			<DisplayName>ผลท้อสีเหลือง</DisplayName>
+		</Text>
+		<Text Name="liuyu_0">
+			<DisplayName>ค่ายกลจักรพรรดิ์หยก</DisplayName>
+		</Text>
+		<Text Name="liuyu_1">
+			<DisplayName>ค่ายกลจักรพรรดิ์ขั่วโลก</DisplayName>
+		</Text>
+		<Text Name="liuyu_2">
+			<DisplayName>ค่ายกลจักรพรรดิ์ดาวเหนือ</DisplayName>
+		</Text>
+		<Text Name="liuyu_3">
+			<DisplayName>ค่นกลเอกปฐมกาล</DisplayName>
+		</Text>
+		<Text Name="liuyu_4">
+			<DisplayName>ค่ายกลเทวะนิรันดร์</DisplayName>
+		</Text>
+		<Text Name="liuyu_5">
+			<DisplayName>ค่ายกลจักรพรรดิ์โลก</DisplayName>
+		</Text>
+		<Text Name="longxing_0">
+			<DisplayName>ผนึกแห่งเกล็ดมังกรต้องห้าม</DisplayName>
+		</Text>
+		<Text Name="longxing_1">
+			<DisplayName>ผนึกแห่งเขามังกร</DisplayName>
+		</Text>
+		<Text Name="longxing_2">
+			<DisplayName>ผนึกแห่งเขามังกร</DisplayName>
+		</Text>
+		<Text Name="longxing_3">
+			<DisplayName>ผนึกแห่งกรงเล็บมังกร</DisplayName>
+		</Text>
+		<Text Name="longxing_4">
+			<DisplayName>ผนึกแห่งกรงเล็บมังกร</DisplayName>
+		</Text>
+		<Text Name="longxing_5">
+			<DisplayName>ผนึกแห่งเกร็ดมังกร</DisplayName>
+		</Text>
+		<Text Name="longxing_6">
+			<DisplayName>ผนึกแห่งกรงเล็บมังกร</DisplayName>
+		</Text>
+		<Text Name="longxing_7">
+			<DisplayName>ผนึกแห่งกรงเล็บมังกร</DisplayName>
+		</Text>
+		<Text Name="longxing_8">
+			<DisplayName>ผนึกแห่งหางมังกร</DisplayName>
+		</Text>
+		<Text Name="fengjian_0">
+			<DisplayName>เกราะปราณอัคคีเที่ยงแท้</DisplayName>
+		</Text>
+		<Text Name="fengjian_1">
+			<DisplayName>เกราะปราณการลืมเลือน</DisplayName>
+		</Text>
+		<Text Name="fengjian_2">
+			<DisplayName>เกราะปราณปกคลุม</DisplayName>
+		</Text>
+		<Text Name="fengjian_3">
+			<DisplayName>เกราะปราณกระดูกทมิฬ</DisplayName>
+		</Text>
+		<Text Name="fengjian_4">
+			<DisplayName>เกราะปราณขนนกเพลิง</DisplayName>
+		</Text>
+		<Text Name="fengjian_5">
+			<DisplayName>เกราะปราณขนนกเพลิง</DisplayName>
+		</Text>
+		<Text Name="fengjian_6">
+			<DisplayName>เกราะปราณกระดูกทมิฬ</DisplayName>
+		</Text>
+		<Text Name="fengjian_7">
+			<DisplayName>เกราะปราณขนนกเพลิง</DisplayName>
+		</Text>
+		<Text Name="fengjian_8">
+			<DisplayName>เกราะปราณขนนกเพลิง</DisplayName>
+		</Text>
+		<Text Name="yinyang_0">
+			<DisplayName>บัญญัติสวรรค์ทมิฬ</DisplayName>
+		</Text>
+		<Text Name="yinyang_1">
+			<DisplayName>กฎแห่งหยิน</DisplayName>
+		</Text>
+		<Text Name="yinyang_2">
+			<DisplayName>กฎแห่งหยาง</DisplayName>
+		</Text>
+		<Text Name="sanyin_0">
+			<DisplayName>ปราณหยินสวรรค์</DisplayName>
+		</Text>
+		<Text Name="sanyin_1">
+			<DisplayName>ปราณหยินโลก</DisplayName>
+		</Text>
+		<Text Name="sanyin_2">
+			<DisplayName>ปราณหยินมนุษย์</DisplayName>
+		</Text>
+		<Text Name="bamen_0">
+			<DisplayName>ประตูแห่งอนันต์</DisplayName>
+		</Text>
+		<Text Name="bamen_1">
+			<DisplayName>ประตูแห่งความสงบ</DisplayName>
+		</Text>
+		<Text Name="bamen_2">
+			<DisplayName>ประตูแห่งชีวิต</DisplayName>
+		</Text>
+		<Text Name="bamen_3">
+			<DisplayName>ประตูแห่งความตาย</DisplayName>
+		</Text>
+		<Text Name="bamen_4">
+			<DisplayName>ประตูแห่งภัยพิบัติ</DisplayName>
+		</Text>
+		<Text Name="bamen_5">
+			<DisplayName>ประตูแห่งการทำลาย</DisplayName>
+		</Text>
+		<Text Name="bamen_6">
+			<DisplayName>ประตูแห่งเอกเทศ</DisplayName>
+		</Text>
+		<Text Name="bamen_7">
+			<DisplayName>ประตูแห่งความงดงาม</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_0">
+			<DisplayName>ลำต้นไม้วิญญาณ</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_1">
+			<DisplayName>ยอดไม้วิญญาณ</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_2">
+			<DisplayName>กิ่งไม้วิญญาณ</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_3">
+			<DisplayName>ใบไม้วิญญาณ</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_4">
+			<DisplayName>รากไม้วิญญาณ</DisplayName>
+		</Text>
+		<Text Name="wushan_0">
+			<DisplayName>รูปลักษณ์แห่งยอดเขาหยก</DisplayName>
+		</Text>
+		<Text Name="wushan_1">
+			<DisplayName>รูปลักษณ์ของหยาดน้ำ</DisplayName>
+		</Text>
+		<Text Name="wushan_2">
+			<DisplayName>รูปลักษณ์แห่งเกาะรกร้าง</DisplayName>
+		</Text>
+		<Text Name="wushan_3">
+			<DisplayName>รูปลักษณ์แห่งวิหารศักดิ์สิทธิ์</DisplayName>
+		</Text>
+		<Text Name="wushan_4">
+			<DisplayName>รูปลักษณ์แห่งสรวงสวรรค์</DisplayName>
+		</Text>
+	</List>
+</Texts>
