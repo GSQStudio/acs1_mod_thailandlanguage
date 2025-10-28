@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_XuanWuShield">
+			<DisplayName>โล่เกราะทมิฬ</DisplayName>
+			<Desc>เพิ่มพลังของเกราะปราณให้แก่พันธมิตรและร่างลี้ลับของตนเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuBreak">
+			<DisplayName>ควบคุมรอยแยกมิติ</DisplayName>
+			<Desc>ลดพลังของเกราะปราณแลความทนทานของร่างลี้ลับของศัตรูเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuWater">
+			<DisplayName>คลื่นทมิฬ</DisplayName>
+		</Text>
+		<Text Name="LsXuanWuFire">
+			<DisplayName>เพลิงสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Ls_XuanWuForm">
+			<DisplayName>รูปแบบเต่า</DisplayName>
+			<Desc>เพิ่มความเสถียรของค่ายกลและมอบพลังงานให้แก่ค่ายกล สามารใช้ได้เฉพาะตอนที่ใช้ค่ายกลยามต่อสู้</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuDefac">
+			<DisplayName>รูปแบบเสรี</DisplayName>
+			<Desc>เปิดเผยแกนย่อยของค่ายกลศัตรู</Desc>
+		</Text>
+	</List>
+</Texts>

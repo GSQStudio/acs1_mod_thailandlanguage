@@ -1,0 +1,94 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Fat">
+			<RaceExtra.0.Lv.0.SName>ผอม</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>ผอมมาก ความเร็วในการเคลื่อนเพิ่มขึ้นมาก</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>ผอม</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>ค่อนข้างผอม ความเร็วในการเคลื่อนเพิ่มขึ้นเล็กน้อย</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>รูปร่างสมส่วน</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>ไม่อ้วนไม่ผอม</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>ค่อนข้างอ้วน</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>มันดูอ้วนไปหน่อย ปริมารปราณสูงสุดเพิมขึ้นเล็กน้อย แต่ความเร็วในการเคลื่อนที่ก็ลดลงเช่นกัน</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>อ้วนมาก</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>มันดูอ้วนมาก ปริมารปราณสูงสุดเพิมขึ้นอย่างมีนัยสำคัญ แต่ความเร็วในการเคลื่อนที่ก็ลดลงอย่างมีนัยสำคัญเช่นกัน</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Stronger">
+			<RaceExtra.0.Lv.0.SName>หนังหุ้มกระดูก</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>ผอมแห้งหนังติดกระดูก คูลดาวน์ของปราณเวทลดลงอย่างมีนัยสำคัญ</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>กล้ามเนื้อลีบ</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>ผอมแต่ไม่ถึงกับหนังหุ้มกระดูก คูลดาวน์ของปราณเวทลดลงเล็กน้อย</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>รูปร่างปกติ</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>ไม่แห้ง แต่ก็ไม่มีกล้ามเนื้อ</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>มีกล้ามเล็กน้อย</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>มีกล้ามเนื้ออยู่บ้าง แก่นอสูรแข็งแกร่งขึ้นเล็กน้อย</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>กล้ามเป็นมัดๆ</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>มีกล้ามเป็นมัด ล่ำบึกรูปร่างดี แก่นอสูรแข็งแกร่งขึ้นอย่างมีนัยสำคัญ</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Justice">
+			<RaceExtra.0.Lv.0.SName>จิตมาร</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>จิตมาร: ลดเกราะปราณอย่างมีนัยสำคัญ ในขณะที่เพิ่มพลังของปราณเวทและแก่นอสูรอย่างมีนัยสำคัญเช่นกัน</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>ชั่วร้าย</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>ชั่วร้าย: ลดเกราะปราณเล็กน้อย ในขณะที่เพิ่มพลังของปราณเวทและแก่นอสูรเล็กน้อยเช่นกัน</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>ไม่ดีไม่ชั่ว</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>กลางๆ ยังแยกไม่ออกว่าดีหรือเลวกันแน่</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>จิตใจดี</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>จิตใจดี: เพิ่มเกราะปราณเล็กน้อย ในขณะที่ลดพลังของปราณเวทและแก่นอสูรเล็กน้อยเช่นกัน</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>จิตเทพ</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>จิตเทพ: เพิ่มเกราะปราณอย่างมีนัยสำคัญ ในขณะที่ลดพลังของปราณเวทและแก่นภายอย่างมีนัยสำคัญเช่นกัน</RaceExtra.0.Lv.4.Desc>
+			<RaceExtra.1.Lv.0.SName>จิตมาร</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>จิตมาร: ลดเกราะปราณอย่างมีนัยสำคัญ ในขณะที่เพิ่มพลังของปราณเวทและแก่นอสูรอย่างมีนัยสำคัญ เพิ่มอัตราการเผาผลาญอาหารและดูดซับน้ำนัยสำคัญ ในขณะที่ลดอัตราดูดซึมสารอาหารอย่างมีนัยสำคัญเช่นกัน</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>ชั่วร้าย</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>จิตมาร: ลดเกราะปราณเล็กน้อย ในขณะที่เพิ่มพลังของปราณเวทและแก่นอสูรเล็กน้อย เพิ่มอัตราการเผาผลาญอาหารและดูดซับน้ำ ในขณะที่ลดมอัตราดูดซึมสารอาหาร</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>ค่อนข้างเลว</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>เริ่มสัมผัสได้ถึงความชั่วร้ายในจิตใจ</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.1.Lv.3.SName>ค่อนข้างดี</RaceExtra.1.Lv.3.SName>
+			<RaceExtra.1.Lv.3.Desc>เริ่มสัมผัสได้ถึงความดีในจิตใจ</RaceExtra.1.Lv.3.Desc>
+			<RaceExtra.1.Lv.4.SName>จิตใจดี</RaceExtra.1.Lv.4.SName>
+			<RaceExtra.1.Lv.4.Desc>จิตใจดี: เพิ่มเกราะปราณเล็กน้อย ในขณะที่ลดพลังของปราณเวทและแก่นอสูรเล็กน้อยเช่นกัน ลดอัตราการเผาผลาญอาหารและดูดซับน้ำ ในขณะที่เพิ่มอัตราดูดซึมสารอาหาร</RaceExtra.1.Lv.4.Desc>
+			<RaceExtra.1.Lv.5.SName>จิตเทพ</RaceExtra.1.Lv.5.SName>
+			<RaceExtra.1.Lv.5.Desc>จิตเทพ: เพิ่มเกราะปราณอย่างมีนัยสำคัญ ในขณะที่ลดพลังของปราณเวทและแก่นภายอย่างมีนัยสำคัญเช่นกัน ลดอัตราการเผาผลาญอาหารและดูดซับน้ำนัยสำคัญ ในขณะที่เพิ่มอัตราดูดซึมสารอาหารอย่างมีนัยสำคัญเช่นกัน</RaceExtra.1.Lv.5.Desc>
+		</Text>
+		<Text Name="NeiDan">
+			<RaceExtra.0.Lv.2.SpecialAbility.0.Desc>เมื่อโจมตีศัตรู มีโอกาส 1% ที่จะสร้างความเสียหายเพิ่มเติมเท่ากับ 30% ของปริมาณปราณของเป้าหมายในขณะนั้น</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
+			<RaceExtra.1.Lv.2.SpecialAbility.0.Desc>ทุกๆ การโจมตี 9 ครั้งจะร่ายปราณเวทให้ศัตรูที่เป็นเป้าหมาย</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="GrowPercent">
+			<RaceExtra.0.Lv.0.SName>มังกรน้ำ</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>ครอบครองพลังส่วนเล็กๆ จากพลังทั้งหมดของมังกร</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>มังกรน้ำ</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>ครอบครองพลังส่วนหนึ่ง จากพลังทั้งหมดของมังกร</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>มังกรน้ำ</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>ครอบครองพลังทั้งหมดของมังกร</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.1.Lv.0.SName>หงส์เพลิง</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>ครอบครองพลังส่วนเล็กๆ จากพลังทั้งหมดของหงส์เพลิง</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>หงส์เพลิง</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>ครอบครองพลังส่วนหนึ่ง จากพลังทั้งหมดของหงส์เพลิง</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>หงส์เพลิง</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>ครอบครองพลังทั้งหมดของหงส์เพลิง</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.2.Lv.0.SName>จิ้งจอกเก้าหาง</RaceExtra.2.Lv.0.SName>
+			<RaceExtra.2.Lv.0.Desc>ครอบครองพลังส่วนเล็กๆ จากพลังทั้งหมดของจิ้งจอกเก้าหาง</RaceExtra.2.Lv.0.Desc>
+			<RaceExtra.2.Lv.1.SName>จิ้งจอกเก้าหาง</RaceExtra.2.Lv.1.SName>
+			<RaceExtra.2.Lv.1.Desc>ครอบครองพลังส่วนหนึ่ง จากพลังทั้งหมดของจิ้งจอกเก้าหาง</RaceExtra.2.Lv.1.Desc>
+			<RaceExtra.2.Lv.2.SName>จิ้งจอกเก้าหาง</RaceExtra.2.Lv.2.SName>
+			<RaceExtra.2.Lv.2.Desc>ครอบครองพลังทั้งหมดของจิ้งจอกเก้าหาง</RaceExtra.2.Lv.2.Desc>
+			<RaceExtra.3.Lv.0.SName>สุนัขสวรรค์</RaceExtra.3.Lv.0.SName>
+			<RaceExtra.3.Lv.0.Desc>ครอบครองพลังส่วนเล็กๆ จากพลังทั้งหมดของสุนัขสวรรค์</RaceExtra.3.Lv.0.Desc>
+			<RaceExtra.3.Lv.1.SName>สุนัขสวรรค์</RaceExtra.3.Lv.1.SName>
+			<RaceExtra.3.Lv.1.Desc>ครอบครองพลังส่วนหนึ่ง จากพลังทั้งหมดของสุนัขสวรรค์</RaceExtra.3.Lv.1.Desc>
+			<RaceExtra.3.Lv.2.SName>สุนัขสวรรค์</RaceExtra.3.Lv.2.SName>
+			<RaceExtra.3.Lv.2.Desc>ครอบครองพลังทั้งหมดของสุนัขสวรรค์</RaceExtra.3.Lv.2.Desc>
+			<RaceExtra.4.Lv.0.SName>หมีแพนด้า</RaceExtra.4.Lv.0.SName>
+			<RaceExtra.4.Lv.0.Desc>ปลุกสมดุลพลังของหยินและหยางได้เล็กน้อย</RaceExtra.4.Lv.0.Desc>
+			<RaceExtra.4.Lv.1.SName>หมีแพนด้า</RaceExtra.4.Lv.1.SName>
+			<RaceExtra.4.Lv.1.Desc>ปลุกสมดุลพลังของหยินและหยางได้พอประมาณ</RaceExtra.4.Lv.1.Desc>
+			<RaceExtra.4.Lv.2.SName>หมีแพนด้า</RaceExtra.4.Lv.2.SName>
+			<RaceExtra.4.Lv.2.Desc>ปลุกสมดุลพลังของหยินและหยางได้อย่างสมบูรณ์</RaceExtra.4.Lv.2.Desc>
+			<RaceExtra.5.Lv.0.SName>เต่าดำ</RaceExtra.5.Lv.0.SName>
+			<RaceExtra.5.Lv.0.Desc>ครอบครองพลังส่วนเล็กๆ จากพลังทั้งหมดของเต่าดำ</RaceExtra.5.Lv.0.Desc>
+			<RaceExtra.5.Lv.1.SName>เต่าดำ</RaceExtra.5.Lv.1.SName>
+			<RaceExtra.5.Lv.1.Desc>ครอบครองพลังส่วนหนึ่ง จากพลังทั้งหมดของเต่าดำ</RaceExtra.5.Lv.1.Desc>
+			<RaceExtra.5.Lv.2.SName>เต่าดำ</RaceExtra.5.Lv.2.SName>
+			<RaceExtra.5.Lv.2.Desc>ครอบครองพลังทั้งหมดของเต่าดำ</RaceExtra.5.Lv.2.Desc>
+		</Text>
+	</List>
+</Texts>

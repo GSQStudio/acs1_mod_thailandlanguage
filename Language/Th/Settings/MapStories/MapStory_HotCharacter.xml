@@ -1,0 +1,115 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="HotStory_Fun_LingWu">
+			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+			<Selections.1.Display>ได้รับความรู้ความเข้าใจ</Selections.1.Display>
+		</Text>
+		<Text Name="HotStory_Fun_LingWu_DuShu">
+			<DisplayName>ค้นหา</DisplayName>
+			<Desc>ในขณะที่กำลังอ่านตำราโบราณอยู่นั้น จู่ๆ [NAME] ก็ได้ค้นพบอะไรบางอย่างที่ไม่ธรรมดา</Desc>
+			<Selections.0.Display>ก้าวไปสู่ความรู้แจ้ง</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu">
+			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingGan">
+			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu">
+			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu_Feed">
+			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingFailed">
+			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingSucceed">
+			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_LingWu">
+			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Brokening">
+			<DisplayName>วิญญาณรู้แจ้งทะลวงขอบเขต</DisplayName>
+			<Desc>หลังจากที่ [NAME] ทะลวงขอบเขตได้ [ENHIM]ก็ได้รับความรู้บางอย่างจากกฎแห่งสวรรค์และโลก</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenSucceed">
+			<DisplayName>วิญญาณรู้แจ้ง</DisplayName>
+			<Desc>หลังจากที่ [NAME] ทะลวงขอบเขตได้ [ENHIM]ก็ได้รับความรู้บางอย่างจากกฎแห่งสวรรค์และโลก</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenFailed">
+			<DisplayName>วิญญาณรู้แจ้ง</DisplayName>
+			<Desc>[NAME] ถึงแม้ว่า [NAME] จะไม่สามารถทะลวงขอบเขตได้ ทว่า[ENHIM]กลับพบความรู้บางอย่างจากกฎแห่งสวรรค์และโลก</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Golding">
+			<DisplayName>วิญญาณรู้แจ้งแห่งแก่นทองคำ</DisplayName>
+			<Desc>[NAME] ได้เข้าสู่สภาวะสมาธิคนฟ้ารวมหนึ่งในระหว่างที่กำลังผนึกสร้างแก่นทองคำ</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_GoldSucceed">
+			<DisplayName>วิญญาณรู้แจ้ง</DisplayName>
+			<Desc>หลังจากที่ [NAME] ทำการผนึกสร้างแก่นทองคำได้สำเร็จ [ENHIM]ก็ได้รับความรู้แจ้งบางอย่างเกี่ยวกับกฎแห่งเต๋า</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_ThunderSucceed">
+			<DisplayName>Tribulation วิญญาณรู้แจ้ง</DisplayName>
+			<Desc>[NAME] สามารถผ่านทัณฑ์สวรรค์มาได้และได้รับความรู้แจ้งบางอย่างเกี่ยวกับเต๋า</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDan">
+			<DisplayName>วิญญาณรู้แจ้งแก่นแท้โอสถ</DisplayName>
+			<Desc>[NAME] ได้ปลุกสภาวะวิญญาณรู้แจ้งในขณะที่กำลังทำการหลอมโอสถ</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDanFailed">
+			<DisplayName>วิญญาณรู้แจ้งแก่นแท้โอสถ</DisplayName>
+			<Desc>[NAME] ทำการหลอมโอสถล้มเหลวทว่า[ENHIM]กลับได้เรียนรู้ถึงส่วนหนึ่งของแก่นแท้ในการหลอมโอสถ</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Refining">
+			<DisplayName>วิญญาณรู้แจ้งแก่นแท้การหลอมอาวุธวิเศษ</DisplayName>
+			<Desc>[NAME] ได้ปลุกสภาวะวิญญาณรู้แจ้งในขณะที่กำลังทำการหลอมอาวุธวิเศษ</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningGod">
+			<DisplayName>วิญญาณรู้แจ้งแก่นแท้การหลอมอาวุธวิเศษ</DisplayName>
+			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของการหลอมอาวุธวิเศษ!</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningFailed">
+			<DisplayName>วิญญาณรู้แจ้งแก่นแท้การหลอมอาวุธวิเศษ</DisplayName>
+			<Desc>[NAME] ทำการหลอมอาวุธวิเศษล้มเหลวทว่า[ENHIM]กลับได้เรียนรู้ถึงส่วนหนึ่งของแก่นแท้ในการหลอมอาวุธวิเศษ</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Fei_LingWu">
+			<DisplayName>จู่ๆ ก็รู้แจ้งแนวคิดของธรรมชาติ</DisplayName>
+			<Desc>จู่ [NAME] ก็ได้รับความรู้ความเข้าใจบางอย่างในขณะที่กำลังเล่นกับเฟย</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_LuShu_LingWu">
+			<DisplayName>จู่ๆ ก็รู้แจ้งแนวคิดของธรรมชาติ</DisplayName>
+			<Desc>จู่ [NAME] ก็ได้รับความรู้ความเข้าใจบางอย่างในขณะที่กำลังเล่นกับลู่ชู</Desc>
+			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

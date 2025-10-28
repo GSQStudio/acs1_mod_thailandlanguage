@@ -1,0 +1,91 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobMine">
+			<DisplayName>ขุดแร่</DisplayName>
+		</Text>
+		<Text Name="JobCarry">
+			<DisplayName>ขนย้าย</DisplayName>
+		</Text>
+		<Text Name="JobBuild">
+			<DisplayName>สร้าง</DisplayName>
+		</Text>
+		<Text Name="JobFixBuilding">
+			<DisplayName>ซ่อม</DisplayName>
+		</Text>
+		<Text Name="JobMoveBuilding">
+			<DisplayName>ไปสร้าง</DisplayName>
+		</Text>
+		<Text Name="JobSetupBuilding">
+			<DisplayName>วางโครง</DisplayName>
+		</Text>
+		<Text Name="JobPlant">
+			<DisplayName>ปลูก</DisplayName>
+		</Text>
+		<Text Name="JobOutFire">
+			<DisplayName>ดับไฟ</DisplayName>
+		</Text>
+		<Text Name="JobHarvest">
+			<DisplayName>เก็บเกี่ยว</DisplayName>
+		</Text>
+		<Text Name="JobCutoff">
+			<DisplayName>กำจัด</DisplayName>
+		</Text>
+		<Text Name="JobCutoffTree">
+			<DisplayName>ตัดไม้</DisplayName>
+		</Text>
+		<Text Name="JobSeachItem">
+			<DisplayName>ค้นหา</DisplayName>
+		</Text>
+		<Text Name="JobSeachNpc">
+			<DisplayName>ค้นหา</DisplayName>
+		</Text>
+		<Text Name="JobCarryOut">
+			<DisplayName>นำไป</DisplayName>
+		</Text>
+		<Text Name="JobDismantle">
+			<DisplayName>รื้อถอน</DisplayName>
+		</Text>
+		<Text Name="JobMakeItem">
+			<DisplayName>สร้าง</DisplayName>
+		</Text>
+		<Text Name="JobRemoveFloor">
+			<DisplayName>รื้อถอนพื้น</DisplayName>
+		</Text>
+		<Text Name="JobTreatHim">
+			<DisplayName>รักษา</DisplayName>
+		</Text>
+		<Text Name="JobCarryToBed">
+			<DisplayName>นำไปยังเตียง</DisplayName>
+		</Text>
+		<Text Name="JobFeedHim">
+			<DisplayName>ดูแล</DisplayName>
+		</Text>
+		<Text Name="JobCarryWater">
+			<DisplayName>ตักน้ำ</DisplayName>
+		</Text>
+		<Text Name="JobExplore">
+			<DisplayName>สำรวจ</DisplayName>
+		</Text>
+		<Text Name="JobBuryHim">
+			<DisplayName>ฝัง</DisplayName>
+		</Text>
+		<Text Name="JobHunting">
+			<DisplayName>ล่า</DisplayName>
+		</Text>
+		<Text Name="JobSlaughter">
+			<DisplayName>ชำแหละ</DisplayName>
+		</Text>
+		<Text Name="JobKill">
+			<DisplayName>สังหาร</DisplayName>
+		</Text>
+		<Text Name="JobMoveNpc">
+			<DisplayName>ขนย้าย</DisplayName>
+		</Text>
+		<Text Name="JobCleanFloor">
+			<DisplayName>ปัดกวาด</DisplayName>
+		</Text>
+		<Text Name="JobSacrifice">
+			<DisplayName>สักการะ</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,48 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_Start">
+			<DisplayName>สร้างอำนาจของสำนักขึ้นมาใหม่</DisplayName>
+			<Desc>ทุกคนที่นี่เคยบูชาสำนักไท้อี้ ทว่าในตอนนี้สำนักไท้อี้ได้ล่มสลายไปแล้ว ดังนั้นพวกเขาในตอนนี้จึงขาดสิ่งยึดเหนี่ยว</Desc>
+			<Selections.0.Display>สอบถาม</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Accelerate">
+			<DisplayName>ใช้แรงงานคน</DisplayName>
+			<Desc>[NAME] ได้ดูแลคนงาน</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_TreasureHunt">
+			<DisplayName>ล่าสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ออกล่าสมบัติ</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="Outs1">
+			<DisplayName>ระหว่างทาง</DisplayName>
+			<Desc>[NAME] ได้ถูกปล้น</Desc>
+			<Selections.0.Display>ให้หินวิญญาณแก่พวกมัน</Selections.0.Display>
+			<Selections.1.Display>เจรจา</Selections.1.Display>
+		</Text>
+		<Text Name="Outs2">
+			<DisplayName>ระหว่างทาง</DisplayName>
+			<Desc>ระหว่างทาง [NAME] ได้พบผู้ลี้ภัยบางกลุ่ม ช่างน่าสงสารที่พวกเขาไม่มีบ้านให้กลับ</Desc>
+			<Selections.0.Display>มอบหินวิญญาณให้แก่พวกเขา</Selections.0.Display>
+			<Selections.1.Display>เจรจา</Selections.1.Display>
+		</Text>
+		<Text Name="Outs3">
+			<DisplayName>ระหว่างทาง</DisplayName>
+			<Desc>ระหว่างทาง [NAME] ได้พบกลุ่มของชาวนางกำลังถูกรังแกโดยผู้ฝึกตนบางกลุ่ม</Desc>
+			<Selections.0.Display>ให้หินวิญญาณแก่พวกมัน</Selections.0.Display>
+			<Selections.1.Display>เจรจา</Selections.1.Display>
+			<Selections.2.Display>ทำเป็นมองไม่เห็น</Selections.2.Display>
+		</Text>
+		<Text Name="CollectFaith">
+			<DisplayName>รวบรวมความศรัทธา</DisplayName>
+			<Desc>มีเหล่าสาวกอยู่ที่นี่ พวกเราสามารถเก็บรวบรวมความศรัทธาจากพวกเขาได้</Desc>
+			<Selections.0.Display>รับมา</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_GoodMood">
+			<DisplayName>เจดีย์มรกต</DisplayName>
+			<Desc>เหล่าสานุศิษย์สามารถเพลิดเพลินผ่อนคลายได้ที่เจดีย์มรกต</Desc>
+			<Selections.0.Display>ตามสบาย</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

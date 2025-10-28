@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Default">
+			<Fragment.Random.0.Format.0>{0}: ได้รับความเข้าใจเล็กน้อย </Fragment.Random.0.Format.0>
+			<Fragment.Random.0.Format.1>{0}: ได้รับความเข้าใจบางอย่าง</Fragment.Random.0.Format.1>
+			<Fragment.Random.0.Format.2>{0}: เริ่มซึมซับความคิด</Fragment.Random.0.Format.2>
+			<Fragment.Random.1.Format.0>{0}ถูกเรียกกลับ</Fragment.Random.1.Format.0>
+			<Fragment.Random.2.Format.0>{0}รู้สึกคลุมเคลือ</Fragment.Random.2.Format.0>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TSheildSkill">
+			<DisplayName>เพิ่มพลังป้องกัน</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong5_1">
+			<DisplayName>โล่โลหิตเทพ</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong4_1">
+			<DisplayName>โล่วิญญาณ</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong11_1">
+			<DisplayName>โล่เทวะ</DisplayName>
+		</Text>
+	</List>
+</Texts>

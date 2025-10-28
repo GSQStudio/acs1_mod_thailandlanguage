@@ -1,0 +1,50 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="GodStory_1">
+			<DisplayName>เผยแพร่คำสอน</DisplayName>
+			<Desc>ในขณะที่ออกเดินทาง [NAME] ได้คอยเผยแพร่คำสอนและช่วยเหลือผู้คนที่ไม่มีพื้นฐานการบ่มเพาะมาตลอดระยะเวลาที่เดินทาง</Desc>
+			<Selections.0.Display>ไม่เป็นไรก็ดีแล้ว</Selections.0.Display>
+		</Text>
+		<Text Name="GodStory_2">
+			<DisplayName>เผยแพร่คำสอน</DisplayName>
+			<Desc>ในขณะที่ออกเดินทาง [NAME] ได้พบเจอผู้คนที่ไม่มีพื้นฐานที่กำลังต้องการความช่วยเหลือและได้ช่วยเหลือพวกเขาเหล่านั้น</Desc>
+			<Selections.0.Display>ไม่เป็นไรก็ดีแล้ว</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_1">
+			<DisplayName>สงครามแดนมนุษย์</DisplayName>
+			<Desc>[NAME] ได้เร่งรีบไปยัง[PLACE]และพบว่าที่นี่มีผู้ประสบภัยจากสงครามที่ทุกข์ทรมานอยู่มากมาย</Desc>
+			<Selections.0.Display>เรียกร้องให้หยุดทำสงคราม</Selections.0.Display>
+			<Selections.1.Display>หยุดสงครามด้วยการใช้กำลัง</Selections.1.Display>
+			<Selections.1.Tip>แก่นทองคำ</Selections.1.Tip>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_2">
+			<DisplayName>ภัยพิบัติโรคระบาด</DisplayName>
+			<Desc>[NAME] ได้เร่งรีบไปยัง[PLACE]และพบว่าที่นี่กำลังมีโรคระบาดที่รุนแรงแพร่กระจายไปทั่ว ชาวเมืองมากมายต่างก็ล้มตายลงไป.</Desc>
+			<Selections.0.Display>ช่วยรักษาชาวเมือง</Selections.0.Display>
+			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
+			<Selections.1.Display>ทำการปิดเมืองและกักตัวผู้ป่วย</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_3">
+			<DisplayName>ไอมารในแดนมนุษย์</DisplayName>
+			<Desc>[NAME] ได้เร่งรีบไปยัง[PLACE]และพบว่าที่นี่นั้นมีไอมารรวมตัวกันอยู่อย่างหนาแน่น ผู้คนที่นี่ต่างตกอยู่ในความโกลาหลวุ่นวาย</Desc>
+			<Selections.0.Display>วางแผนขับไล่ไอมาร</Selections.0.Display>
+			<Selections.1.Display>ใช้กำลังขับไล่ไอมาร</Selections.1.Display>
+			<Selections.1.Tip>แก่นทองคำ</Selections.1.Tip>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_4">
+			<DisplayName>ภัยพิบัติทางธรรมชาติ</DisplayName>
+			<Desc>ในขณะที่ [NAME] ได้เร่งรีบไปยัง[PLACE] [ENHIM]พบว่าสถานการณ์ของที่นี่ค่อนข้างวุ่นวายเป็นอย่างมาก ผู้คนต่างกรีดร้องด้วยความหวาดกลัวและพยายามจะหนีจากภัยพิบัติ</Desc>
+			<Selections.0.Display>ช่วยชาวเมือง</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_Gong_God_1">
+			<DisplayName>วิชาที่หายสาบสูญ</DisplayName>
+			<Desc>เมื่อ [NAME] ได้มาถึงยังหุบเขาที่ถูกกล่าวถึง ทันใดนั้นก็มีสายฟ้าจางๆ ผ่าลงมาซึ่งมันแตกต่างไปจากสายฟ้าแกติทั่วไป ดูเหมือนว่าจะมีบางอย่างที่ไม่ธรรมดาอยู่ที่นี่</Desc>
+			<Selections.0.Display>ตรวจสอบหุบเขา</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,10 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="TradeAuction">
+			<DisplayName>โรงประมูล</DisplayName>
+			<Desc>มาถึงยัง [PLACE] [NAME] ได้ค้นพบโรงประมูล</Desc>
+			<Selections.0.Display>เข้าร่วมการประมูล</Selections.0.Display>
+			<Selections.1.Display>ออก</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

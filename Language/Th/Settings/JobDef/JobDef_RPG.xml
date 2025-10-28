@@ -1,0 +1,52 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobAIPathMove">
+			<DisplayName>เดิน</DisplayName>
+		</Text>
+		<Text Name="JobRPGAIFree">
+			<DisplayName>เตร็ดเตร่</DisplayName>
+		</Text>
+		<Text Name="JobRPGAIStay">
+			<DisplayName>หยุดพัก</DisplayName>
+		</Text>
+		<Text Name="JobRPGAIRoute">
+			<DisplayName>ลาดตระเวน</DisplayName>
+		</Text>
+		<Text Name="JobRPGAIPatrol">
+			<DisplayName>ท่องเที่ยว</DisplayName>
+		</Text>
+		<Text Name="JobRPGPlayerMove">
+			<DisplayName>เดิน</DisplayName>
+		</Text>
+		<Text Name="JobRPGOpt">
+			<DisplayName>เดิน</DisplayName>
+		</Text>
+		<Text Name="JobRPGMine">
+			<DisplayName>ขุดแร่</DisplayName>
+		</Text>
+		<Text Name="JobRPGCutoff">
+			<DisplayName>ตัดไม้</DisplayName>
+		</Text>
+		<Text Name="JobRPGPickup">
+			<DisplayName>รวบรวม</DisplayName>
+		</Text>
+		<Text Name="JobRPGEat">
+			<DisplayName>กิน</DisplayName>
+		</Text>
+		<Text Name="JobRPGDialog">
+			<DisplayName>พูดคุย</DisplayName>
+		</Text>
+		<Text Name="JobRPGEquip">
+			<DisplayName>สวมใส่</DisplayName>
+		</Text>
+		<Text Name="JobRPGPassiveMove">
+			<DisplayName>เดิน</DisplayName>
+		</Text>
+		<Text Name="JobRPGMoveTo">
+			<DisplayName>เดินไปยัง</DisplayName>
+		</Text>
+		<Text Name="JobRPGSlaughter">
+			<DisplayName>ชำแหละ</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ATarget">
+			<DisplayName>การตระหนักรู้</DisplayName>
+		</Text>
+		<Text Name="AScene">
+			<DisplayName>ความมีเหตุผล</DisplayName>
+		</Text>
+		<Text Name="AEmotion">
+			<DisplayName>ความเข้าใจ</DisplayName>
+		</Text>
+		<Text Name="FNode">
+			<DisplayName>ผลึกแห่งปัญญา</DisplayName>
+		</Text>
+	</List>
+</Texts>

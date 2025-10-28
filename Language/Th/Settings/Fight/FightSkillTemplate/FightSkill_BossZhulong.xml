@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Zhulong_fennu">
+			<DisplayName>โกรธ</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shennian">
+			<DisplayName>อัสนีแห่งเทพ</DisplayName>
+		</Text>
+		<Text Name="Zhulong_zuinie">
+			<DisplayName>อัสนีแห่งบาป</DisplayName>
+		</Text>
+		<Text Name="Zhulong_yehuotuxi">
+			<DisplayName>ปราณแห่งกรรม</DisplayName>
+		</Text>
+		<Text Name="Zhulong_xinmotuxi">
+			<DisplayName>ปราณแห่งมาร</DisplayName>
+		</Text>
+		<Text Name="Zhulong_guangzhishenpan">
+			<DisplayName>แสงพิพากษา</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shenanzhiyuan">
+			<DisplayName>เนตรอเวจี</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shenanzhiyuan_bomb">
+			<DisplayName>เนตรอเวจี</DisplayName>
+		</Text>
+		<Text Name="Zhulong_guangzhishenpan_bomb">
+			<DisplayName>แสงพิพากษา</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,237 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_BoxFind1">
+			<DisplayName>เปิดกล่อง</DisplayName>
+			<Desc>[NAME] พบกล่องเก่าๆ ที่มีของที่มีประโยชน์อยู่ข้างใน</Desc>
+		</Text>
+		<Text Name="Story_BoxFind2">
+			<DisplayName>ค้นศพ</DisplayName>
+			<Desc>[NAME] ค้นศพอย่างระมัดระวังและพบว่าไม่มีอะไรอื่นนอกจากอาวุธที่สามารถใช้ได้</Desc>
+		</Text>
+		<Text Name="Story_BoxFind3">
+			<DisplayName>ค้นศพ</DisplayName>
+			<Desc>[NAME] ค้นศพอย่างระมัดระวัง และได้มีแสงวาบแสงหนึ่งพุ่งเข้าไปยังสมองของ [NAME] [NAME]รู้สึกแปลกใจเป็นอย่างมากเมื่อมีภาพของวิธีการบ่มเพาะปรากฏขึ้นมาในความทรงจำ \n\n[color=#000000]"นี่มันเกิดอะไรขึ้นกันแน่? วิชาบ่มเพาะเหล่านี้มาจากไหน? เกิดอะไรขึ้นกับคนผู้นี้ก่อนที่เขาจะตาย? "[/color]\n ในขณะที่กำลังรู้สึกประหลาดใจ [NAME] ก็อดตั้งคำถามเหล่านี้ขึ้นมาในความคิดไม่ได้ \n\nน่าเสียดายที่เหตุการณ์เกี่ยวกับคนผู้นี้นั้นเป็นอดีตที่ไม่อาจหาคำตอบได้...</Desc>
+		</Text>
+		<Text Name="Story_BoxFind4">
+			<DisplayName>ค้นศพ</DisplayName>
+			<Desc>[NAME] ค้นศพอย่างระมัดระวังและพบว่าไม่มีอะไรอื่นนอกจากอาวุธที่สามารถใช้ได้</Desc>
+		</Text>
+		<Text Name="Story_Item_StoneBox">
+			<DisplayName>กล่องหิน</DisplayName>
+			<Desc>กล่องหินที่นักบวชลัทธิเต๋าผู้ลึกลับมอบให้ท่านนั้นมีขนาดประมาณ 1 ตารางฟุต ไม่ว่าจะเป็นน้ำหรือว่าไฟก็ไม่อาจผ่านเข้าไปข้างในได้ มันดูราวกับว่าไม่ใช่ของบนโลกใบนี้ ภายนอกของมันมีแสงระยิบระยับจางๆ นี่คงไม่ใช่สิ่งของธรรมดาเป็นแน่</Desc>
+			<Selections.0.Display>เปิดอย่างระมัดระวัง</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_StoneBox1">
+			<DisplayName>กล่องหิน</DisplayName>
+			<Desc>กล่องหินที่จางเอ้อหวาจากหมู่บ้านหนานปิงได้ค้นพบจากศพที่อยู่ในบริเวณตีนเขาของภูเขาจันทร์เพ็ญ มันมีกระบี่ยาวที่มีลวดลายของน้ำเต้าประดับอยู่ ไม่ต้องสงสัยเลยว่าสิ่งนี้คือตราสัญลักษณ์ของศิษย์คนหนึ่งจากสำนักไท้อี้ และ [NAME] ก็จดจำเจ้าของกระบี่เล่มนี้ได้ เขาค่อนข้างเป็นคนดีเลยทีเดียว...</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_StoneBox2">
+			<DisplayName>กล่องโบราณ</DisplayName>
+			<Desc>กล่องหินที่ขุดออกมาได้จากภูเขาหินแร่ มันดูเหมือนว่าจะอยู่ที่นั่นมานานหลายทศวรรษแล้ว ใครจะรู้บ้างว่าในนั้นมันมีอะไรอยู่</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_FaBaoBox">
+			<DisplayName>กล่องสมบัติไท้อี้</DisplayName>
+			<Desc>ในคืนที่สำนักไท้อี้ถูกโจมตี ท่านไม่อาจทนเห็นสมบัติทั้งหมดถูกปล้นไปได้ ดังนั้นท่านจึงบุกเข้าไปยังหออาวุธวิเศษและนำมันใส่กล่องออกมาได้บางส่วน</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_DanBox">
+			<DisplayName>กล่องสมบัติไท้อี้</DisplayName>
+			<Desc>ในคืนที่สำนักไท้อี้ถูกโจมตี ท่านไม่อาจทนเห็นสมบัติทั้งหมดถูกปล้นไปได้ ดังนั้นท่านจึงบุกเข้าไปยังห้องเก็บโอสถและนำมันใส่กล่องออกมาได้บางส่วน</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_MiJiBox">
+			<DisplayName>กล่องสมบัติไท้อี้</DisplayName>
+			<Desc>ในคืนที่สำนักไท้อี้ถูกโจมตี ท่านไม่อาจทนเห็นสมบัติทั้งหมดถูกปล้นไปได้ ดังนั้นท่านจึงบุกเข้าไปยังห้องเก็บตำราและนำมันใส่กล่องออกมาได้บางส่วน</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_FuBox">
+			<DisplayName>กล่องสมบัติไท้อี้</DisplayName>
+			<Desc>ในคืนที่สำนักไท้อี้ถูกโจมตี ท่านไม่อาจทนเห็นสมบัติทั้งหมดถูกปล้นไปได้ ดังนั้นท่านจึงบุกเข้าไปยังห้องเก็บยันต์วิเศษและนำมันใส่กล่องออกมาได้บางส่วน</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_LunHui_Box1">
+			<DisplayName>กล่องยันต์วิเศษ</DisplayName>
+			<Desc>กล่องวิเศษที่แม่นางลู่มักจะพกติดตัวไปด้วย ข้างในกล่องมียันต์วิเศษลึกลับอยู่สามแผ่น</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_LunHui_Box2">
+			<DisplayName>กล่องยันต์วิเศษ</DisplayName>
+			<Desc>กล่องวิเศษที่หยางฉู่มักจะพกติดตัวไปด้วย ข้างในกล่องมียันต์วิเศษที่หายากมากอยู่หนึ่งแผ่น</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_ZuShiZhiCi">
+			<DisplayName>ของขวัญจากปรมาจารย์</DisplayName>
+			<Desc>ของขวัญจากปรมาจารย์ มันมีขุมทรัพย์ซ่อนอยู่ในนั้น</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_BenYuan">
+			<DisplayName>ปรับแต่งอักษรสวรรค์</DisplayName>
+			<Desc>สำหรับการปรับแต่งอักษรสวรรค์นั้นจะต้องใช้วิชาบ่มเพาะที่เหมาะสมและฝึกมันจนถึงระดับสูงสุด มิเช่นนั้นก็อย่าหวังว่าจะทำสำเร็จ ยิ่งมีเมล็ดเต๋ามากเท่าไร โอกาสสำเร็จก็ยิ่งสูงมากเท่านั้น ทว่าหากท่านล้มเหลวท่านจะได้รับผลสะท้อนกลับและได้รับความโกรธเกรี้ยวจากสวรรค์ แต้มบาปของท่านจะเพิ่มขึ้น ท่านแน่ใจหรือไม่ว่าจะทำการปรับแต่งอักษรสวรรค์?</Desc>
+			<Selections.0.Display>ปรับแต่ง</Selections.0.Display>
+			<Selections.1.Display>ล้มเลิก</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_SuoYingZhiJuan">
+			<DisplayName>ม้วนคัมภีร์โลกใบเล็ก</DisplayName>
+			<Desc>บันทึกสิ่งที่ดีเลิศของสิ่งมีชีวิตทั้งหมดตั้งแต่กำเนิดสวรรค์และโลกจวบจนถึงปัจจุบัน หากท่านสามารถรู้ชื่อจริงของสิ่งมีชีวิตที่เกี่ยวข้องได้ ท่านก็สามารถเรียกมันออกมาจากม้วนภาพได้ มันเป็นหนึ่งในสิบสองขุมทรัพย์วิญญาณโกลาหลซึ่งถือกำเนิดมาพร้อมกับโลก</Desc>
+			<Selections.0.Display>ล้มเลิก</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_BossSoulItem">
+			<DisplayName>แนวคิด</DisplayName>
+			<Desc>[NAME] พยายามหาข้อมูลที่เป็นประโยชน์จากมัน</Desc>
+			<Selections.0.Display>ใช้วิญญาณปฐมกาล</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_OldSchool_Letter">
+			<DisplayName>จดหมายลึกลับ</DisplayName>
+			<Desc>นี่คือจดหมายที่ถูกทิ้งเอาไว้โดยคนที่ช่วยชีวิตท่าน ในขณะที่ท่านหลบหนีการล่มสลายของสำนักไท้อี้</Desc>
+			<Selections.0.Display>อ่าน</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin">
+			<DisplayName>ตรวจสอบ</DisplayName>
+			<Desc>มันดูเหมือนไม่มีอะไรผิดปกติ แต่ใครจะรู้ว่ามันมีอะไรซ่อนอยุ่</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>ทำลาย</Selections.1.Display>
+			<Selections.2.Display>ไม่เสี่ยงดีกว่า</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin1">
+			<DisplayName>ทำลาย</DisplayName>
+			<Desc>แม้ว่า [NAME] จะไม่รู้ว่าสิ่งของชิ้นนี้มันอันตรายแค่ไหน แต่เมื่อ[ENHIM]พยายามที่จะทำลายมัน ทันใดนั้นความรู้สึกหวาดกลัวที่ไม่อาจบรรยายได้ผุดขึ้นมาในความคิด... จะเกิดอะไรขึ้นหากสิ่งนี้ถูกทำลาย ? นี่ข้าสมควรทำลายมันหรือไม่? (หากท่านยืนยันที่จะทำลายมัน สัตว์อสูรโบราณจะถูกปลดปล่อยออกมา สำนักของท่านอาจจะถูกทำลายอย่างสมบูรณ์ถ้าหากท่านไม่ได้เตรียมพร้อมมากเพียงพอ โปรดคิดให้ถี่ถ้วนในการตัดสินใจ)</Desc>
+			<Selections.0.Display>ทำลาย</Selections.0.Display>
+			<Selections.1.Display>ไม่เสี่ยงดีกว่า</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin2">
+			<DisplayName>ทำลาย</DisplayName>
+			<Desc>[NAME] ทำลายของชิ้นนี้แล้ว ทว่าก็ไม่มีอะไรเกิดขึ้น</Desc>
+			<Selections.0.Display>เฮ้อ..</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Eat_StrangeMush">
+			<DisplayName>ลองชิมดู</DisplayName>
+			<Desc>[NAME] ต้องการที่จะลองชิมเห็ดแปลกๆ ด้วยความสงสัยใคร่รู้</Desc>
+			<Selections.0.Display>ลองเสี่ยงกินดู</Selections.0.Display>
+			<Selections.1.Display>ไม่เสี่ยงดีกว่า</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_ZhenTu">
+			<DisplayName>วิเคราะห์แนวคิด</DisplayName>
+			<Desc>[NAME] พยายามวิเคราะห์ผังรูปแบบค่ายกล</Desc>
+			<Selections.0.Display>วิเคราะห์ผังรูปแบบค่ายกล</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu">
+			<DisplayName>ตรวจสอบของชิ้นนี้</DisplayName>
+			<Desc>[NAME] พยายามตรวจสอบของชิ้นนี้</Desc>
+			<Selections.0.Display>ตรวจสอบของชิ้นนี้</Selections.0.Display>
+			<Selections.1.Display>ปลดผนึก</Selections.1.Display>
+			<Selections.2.Display>ยอมแพ้</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu1">
+			<DisplayName>ตรวจสอบของชิ้นนี้</DisplayName>
+			<Desc>[NAME] รู้สึกว่าผนึกของวัตถุชิ้นนี้ดูคุ้นมาก มันดูเหมือนว่า[ENHIM]เคยเห็นมันมาก่อน</Desc>
+			<Selections.0.Display>ตรวจสอบอย่างระมัดระวัง</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu2">
+			<DisplayName>กลายเป็นขี้เถ้าและสลายไป</DisplayName>
+			<Desc>หลังจากที่ท่านเล่นท่วงทำนองแห่งสวรรค์ วัตถุจากอีกโลกหนึ่งเริ่มถูกปฏิเสธโดยสวรรค์ของโลกใบนี้ และมันก็ค่อยๆ กลายเป็นขี้เถ้าและสลายไป</Desc>
+			<Selections.0.Display>ตรวจสอบอย่างระมัดระวัง</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan">
+			<DisplayName>คัมภีร์โบราณ</DisplayName>
+			<Desc>ม้วนคัมภีร์ลึกลับที่สืบทอดมาแต่โบราณ ไม่ทราบเนื้อหาที่อยู่ข้างใน</Desc>
+			<Selections.0.Display>อ่าน</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan_1">
+			<DisplayName>เรียนรู้</DisplayName>
+			<Desc>หน้าหนังสือที่บันทึกเกี่ยวกับผู้ฝึกตนวิถีเทพจากโบราณ มันดูเหมือนว่าจะรวบรวมเวทบางชนิดเอาไว้</Desc>
+			<Selections.0.Display>อ่าน</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_God_Guard">
+			<DisplayName>ปรับแต่ง</DisplayName>
+			<Desc>[NAME] พยายามที่จะปรับแต่งของชิ้นนี้</Desc>
+			<Selections.0.Display>ปรับแต่ง</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan_2">
+			<DisplayName>ปลดผนึก</DisplayName>
+			<Desc>[NAME] พยายามที่จะปลดผนึกของชิ้นนี้</Desc>
+			<Selections.0.Display>ปลดผนึก</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Gong12">
+			<DisplayName>ตรวจสอบคัมภีร์</DisplayName>
+			<Desc>[NAME] ตรวจสอบคัมภีร์อย่างระมัดระวัง</Desc>
+			<Selections.0.Display>ได้รับวิชาบ่มเพาะ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Body_Gong_2">
+			<DisplayName>ตรวจสอบคัมภีร์</DisplayName>
+			<Desc>[NAME] ตรวจสอบคัมภีร์อย่างระมัดระวัง</Desc>
+			<Selections.0.Display>ได้รับวิชาบ่มเพาะ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Body_Gong_5">
+			<DisplayName>ตรวจสอบคัมภีร์</DisplayName>
+			<Desc>[NAME] ตรวจสอบคัมภีร์อย่างระมัดระวัง</Desc>
+			<Selections.0.Display>ได้รับวิชาบ่มเพาะ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_God_GongAll">
+			<DisplayName>ตรวจสอบบันทึกสมบัติ</DisplayName>
+			<Desc>[NAME] ตรวจสอบบันทึกสมบัติอย่างระมัดระวัง</Desc>
+			<Selections.0.Display>ได้รับวิชาบ่มเพาะ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_SpringBox">
+			<DisplayName>ของขวัญเทศกาล</DisplayName>
+			<Desc>พยายามเปิดของชิ้นนี้</Desc>
+			<Selections.0.Display>เปิด</Selections.0.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_1">
+			<DisplayName>ขอให้รุ่งเรื่องมั่งคั่งเงินทองไหลมาเทมา</DisplayName>
+			<Desc>ภายใต้ผลกระทบจากวิถีแห่งสวรรค์จากโลกอื่น ทำให้เกิดการเปลี่ยนแปลงบางอย่างกับวิถีสวรรค์แห่งโลกใบนี้เช่นกัน แม้แต่มังกรเทียนที่เป็นตัวแทนหยินและหยาง,สวรรค์และโลกก็ไม่อาจอยู่เฉยได้ ดูเหมือนว่าเขาจะสนใจวัตถุโลหะกลมๆ ที่ถูกเรียกว่า "เหรียญ" ที่มาจากต่างโลกอยู่ไม่น้อยเลยทีเดียว และเนื่องจากเหรียญอันนี้ได้เก็บรวบรวมความปราถนาเกี่ยวกับความมั่งคั่งจากต่างโลกเอาไว้ ดังนั้นมังกรเทียนจึงสามารถใช้พลังแห่งความปรารถนาเพื่อสร้างมั่งคั่งให้แก่ท่านได้</Desc>
+			<Selections.0.Display>หินวิญญาณจำนวนมาก</Selections.0.Display>
+			<Selections.1.Display>วัตถุดิบจำนวนมาก</Selections.1.Display>
+			<Selections.2.Display>ไม้จำนวนมาก</Selections.2.Display>
+			<Selections.3.Display>หินจำนวนมาก</Selections.3.Display>
+			<Selections.4.Display>เหล็กจำนวนมาก</Selections.4.Display>
+			<Selections.5.Display>ช่างเถอะ ด้วยความศรัทธาที่ข้ามีต่อสรวงสวรรค์ ดังนั้นข้าไม่ต้องการอะไรตอบแทนจากท่าน!</Selections.5.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_2">
+			<DisplayName>ขอโอสถวิเศษ</DisplayName>
+			<Desc>ภายใต้ผลกระทบจากวิถีแห่งสวรรค์จากโลกอื่น ทำให้เกิดการเปลี่ยนแปลงบางอย่างกับวิถีสวรรค์แห่งโลกใบนี้เช่นกัน แม้แต่มังกรเทียนที่เป็นตัวแทนหยินและหยาง,สวรรค์และโลกก็ไม่อาจอยู่เฉยได้ ดูเหมือนว่าเขาจะสนใจวัตถุโลหะกลมๆ ที่ถูกเรียกว่า "เหรียญ" ที่มาจากต่างโลกอยู่ไม่น้อยเลยทีเดียว และเนื่องจากเหรียญอันนี้ได้เก็บรวบรวมความปราถนาเกี่ยวกับสุขภาพจากต่างโลกเอาไว้ ดังนั้นมังกรเทียนจึงสามารถใช้พลังแห่งความปรารถนาเพื่อสร้างโอสถวิเศษบางอย่างให้แก่ท่านได้</Desc>
+			<Selections.0.Display>โอสถธาตุทอง 1 ชุด</Selections.0.Display>
+			<Selections.1.Display>โอสถธาตุไม้ 1 ชุด</Selections.1.Display>
+			<Selections.2.Display>โอสถธาตุน้ำ 1 ชุด</Selections.2.Display>
+			<Selections.3.Display>โอสถธาตุไฟ 1 ชุด</Selections.3.Display>
+			<Selections.4.Display>โอสถธาตุดิน 1 ชุด</Selections.4.Display>
+			<Selections.5.Display>แกนพฤกษา 15 อัน</Selections.5.Display>
+			<Selections.6.Display>หยาดปฐพี 3 หยด</Selections.6.Display>
+			<Selections.7.Display>โอสถเทวะขจัดโรคา 1 เม็ด</Selections.7.Display>
+			<Selections.8.Display>โอสถและยาอายุวัฒนะ 1 ชุด</Selections.8.Display>
+			<Selections.9.Display>โอสถรู้แจ้ง 1 เม็ด</Selections.9.Display>
+			<Selections.10.Display>ช่างเถอะ ด้วยความศรัทธาที่ข้ามีต่อสรวงสวรรค์ ดังนั้นข้าไม่ต้องการอะไรตอบแทนจากท่าน!</Selections.10.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_3">
+			<DisplayName>ขอเครื่องแต่งกายวิเศษ</DisplayName>
+			<Desc>ภายใต้ผลกระทบจากวิถีแห่งสวรรค์จากโลกอื่น ทำให้เกิดการเปลี่ยนแปลงบางอย่างกับวิถีสวรรค์แห่งโลกใบนี้เช่นกัน แม้แต่มังกรเทียนที่เป็นตัวแทนหยินและหยาง,สวรรค์และโลกก็ไม่อาจอยู่เฉยได้ ดูเหมือนว่าเขาจะสนใจวัตถุโลหะกลมๆ ที่ถูกเรียกว่า "เหรียญ" ที่มาจากต่างโลกอยู่ไม่น้อยเลยทีเดียว และเนื่องจากเหรียญอันนี้ได้เก็บรวบรวมความปราถนาเกี่ยวกับชุดวิเศษจากต่างโลกเอาไว้ ดังนั้นมังกรเทียนจึงสามารถใช้พลังแห่งความปรารถนาเพื่อสร้างเป็นชุดวิเศษให้แก่ท่านได้</Desc>
+			<Selections.0.Display>ชุดบุรุษเสริมพลังป้องกัน</Selections.0.Display>
+			<Selections.1.Display>ชุดบุรุษเสริมปราณเวท</Selections.1.Display>
+			<Selections.2.Display>ชุดบุรุษเสริมความสามารถในการหลอม</Selections.2.Display>
+			<Selections.3.Display>ชุดบุรุษที่ช่วยปกปิดสวรรค์ได้</Selections.3.Display>
+			<Selections.4.Display>ชุดบุรุษที่ช่วยขับไล่จิตมารและยกสภาวะจิต</Selections.4.Display>
+			<Selections.5.Display>ชุดสตรีเสริมพลังป้องกัน</Selections.5.Display>
+			<Selections.6.Display>ชุดสตรีเสริมปราณเวท</Selections.6.Display>
+			<Selections.7.Display>ชุดสตรีเสริมความสามารถการหลอม</Selections.7.Display>
+			<Selections.8.Display>ชุดสตรีที่ช่วยปกปิดสวรรค์ได้</Selections.8.Display>
+			<Selections.9.Display>ชุดสตรีที่ช่วยขับไล่จิตมารและยกสภาวะจิต</Selections.9.Display>
+			<Selections.10.Display>ช่างเถอะ ด้วยความศรัทธาที่ข้ามีต่อสรวงสวรรค์ ดังนั้นข้าไม่ต้องการอะไรตอบแทนจากท่าน!</Selections.10.Display>
+		</Text>
+		<Text Name="Story_Item_ChunYangWuJiGong">
+			<DisplayName>ศึกษาคัมภีร์</DisplayName>
+			<Desc>พยายามทำความเข้าใจคัมภีร์ลับเล่มนี้</Desc>
+			<Selections.0.Display>บ่มเพาะสายหลัก</Selections.0.Display>
+			<Selections.1.Display>บ่มเพาะสวนกระแส</Selections.1.Display>
+			<Selections.2.Display>ไม่เป็นไร</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_SupplyBox">
+			<DisplayName>กล่องเสบียง</DisplayName>
+			<Desc>นี่คือกล่องที่เปล่งประกายและพิเศษ</Desc>
+			<Selections.0.Display>เปิดอย่างระมัดระวัง</Selections.0.Display>
+			<Selections.1.Display>ทุบเปิดทันที</Selections.1.Display>
+			<Selections.2.Display>เปิด</Selections.2.Display>
+			<Selections.3.Display>ไม่</Selections.3.Display>
+		</Text>
+	</List>
+</Texts>

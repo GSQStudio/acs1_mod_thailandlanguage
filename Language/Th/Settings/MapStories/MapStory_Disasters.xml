@@ -1,0 +1,62 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Disaster_Drought">
+			<DisplayName>ภัยแล้ง</DisplayName>
+			<Desc>พื้นที่นี้กำลังประสบภัยแล้ง</Desc>
+			<Selections.0.Display>ช่วยเหลือบรรเทาภัยพิบัติ</Selections.0.Display>
+			<Selections.1.Display>ซ้ำเติมภัยพิบัติ</Selections.1.Display>
+			<Selections.2.Display>ปลอบใจชาวบ้าน</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_Flood">
+			<DisplayName>น้ำท้วม</DisplayName>
+			<Desc>พื้นที่นี้กำลังประสบภัยน้ำท้วม</Desc>
+			<Selections.0.Display>ช่วยเหลือบรรเทาภัยพิบัติ</Selections.0.Display>
+			<Selections.1.Display>ซ้ำเติมภัยพิบัติ</Selections.1.Display>
+			<Selections.2.Display>ปลอบใจชาวบ้าน</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_Siberia">
+			<DisplayName>ภัยหนาว</DisplayName>
+			<Desc>พื้นที่นี้กำลังถูกคลื่นความเย็นเข้าโจมตี</Desc>
+			<Selections.0.Display>ช่วยเหลือบรรเทาภัยพิบัติ</Selections.0.Display>
+			<Selections.1.Display>ซ้ำเติมภัยพิบัติ</Selections.1.Display>
+			<Selections.2.Display>ปลอบใจชาวบ้าน</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_EarthQuake">
+			<DisplayName>แผ่นดินไหว</DisplayName>
+			<Desc>พื้นที่นี้กำลังเกิดแผ่นดินไหว</Desc>
+			<Selections.0.Display>ช่วยเหลือบรรเทาภัยพิบัติ</Selections.0.Display>
+			<Selections.1.Display>ซ้ำเติมภัยพิบัติ</Selections.1.Display>
+			<Selections.2.Display>ปลอบใจชาวบ้าน</Selections.2.Display>
+		</Text>
+		<Text Name="Place_Drought">
+			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
+			<Desc>[NAME] ได้ตัดสินใจจัดการกับภัยแล้ง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="Place_Flood">
+			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
+			<Desc>[NAME] ได้ตัดสินใจจัดการกับน้ำท้วม</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="Place_Siberia">
+			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
+			<Desc>[NAME] ได้ตัดสินใจจัดการกับคลื่นความเย็น</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="Place_EarthQuake">
+			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
+			<Desc>[NAME] ได้ตัดสินใจจัดการกับแผ่นดินไหว</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="MapStory_DroughtFinish">
+			<DisplayName>ภัยพิบัติจบลงแล้ว</DisplayName>
+			<Desc>ภัยพิบัติกินเวลานานหลายวัน ชาวบ้านต่างพบเจอกับความอดอยาก มีหลายคนได้เสียชีวิต บ้างก็หลบหนี การเกษตรได้รับความเสียหายอย่างหนัก</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="MapStory_DroughtSolve">
+			<DisplayName>ภัยพิบัติจบลงแล้ว</DisplayName>
+			<Desc>ด้วยความพยายามอย่างหนัก ในที่สุดภัยพิบัติก็อยู่ภายใต้การควบคุม</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

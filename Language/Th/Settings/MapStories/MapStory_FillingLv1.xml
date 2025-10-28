@@ -1,0 +1,366 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="TESTALL">
+			<DisplayName>เซียนฟื้นตื่น</DisplayName>
+			<Desc>ตั้งแต่กระแสน้ำพันปีได้พัดผ่านเข้ามาได้ผู้ฝึกตนโบราณได้ปรากฏตัวขึ้นทุกหนทุกแห่ง รวบรวมข้อมูลให้มากที่สุดเท่าที่เป็นไปได้ เซียนหลายคนได้ปรากฏตัวขึ้นมาบนโลกนี้อีกครั้งแล้ว</Desc>
+			<Selections.0.Display>เซียนฟื้นตื่น</Selections.0.Display>
+		</Text>
+		<Text Name="BaseFillingStory">
+			<DamageCache.0.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.0.DescTags>
+			<DamageCache.1.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.1.DescTags>
+			<DamageCache.2.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.2.DescTags>
+			<DamageCache.3.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.3.DescTags>
+			<DamageCache.4.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.4.DescTags>
+			<DamageCache.5.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.5.DescTags>
+			<DamageCache.6.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.6.DescTags>
+			<DamageCache.7.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.7.DescTags>
+			<DamageCache.8.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.8.DescTags>
+			<DamageCache.9.DescTags>อาวุธวิเศษปะทะกัน</DamageCache.9.DescTags>
+			<DamageCache.10.DescTags>ความเสียหายธาตุทอง</DamageCache.10.DescTags>
+			<DamageCache.11.DescTags>ความเสียหายธาตุทอง</DamageCache.11.DescTags>
+			<DamageCache.12.DescTags>ความเสียหายธาตุทอง</DamageCache.12.DescTags>
+			<DamageCache.13.DescTags>ความเสียหายธาตุทอง</DamageCache.13.DescTags>
+			<DamageCache.14.DescTags>ความเสียหายธาตุทอง</DamageCache.14.DescTags>
+			<DamageCache.15.DescTags>ความเสียหายธาตุไม้</DamageCache.15.DescTags>
+			<DamageCache.16.DescTags>ความเสียหายธาตุไม้</DamageCache.16.DescTags>
+			<DamageCache.17.DescTags>ความเสียหายธาตุไม้</DamageCache.17.DescTags>
+			<DamageCache.18.DescTags>ความเสียหายธาตุไม้</DamageCache.18.DescTags>
+			<DamageCache.19.DescTags>ความเสียหายธาตุไม้</DamageCache.19.DescTags>
+			<DamageCache.20.DescTags>ความเสียหายธาตุไม้</DamageCache.20.DescTags>
+			<DamageCache.21.DescTags>ความเสียหายธาตุน้ำ</DamageCache.21.DescTags>
+			<DamageCache.22.DescTags>ความเสียหายธาตุน้ำ</DamageCache.22.DescTags>
+			<DamageCache.23.DescTags>ความเสียหายธาตุน้ำ</DamageCache.23.DescTags>
+			<DamageCache.24.DescTags>ความเสียหายธาตุน้ำ</DamageCache.24.DescTags>
+			<DamageCache.25.DescTags>ความเสียหายธาตุน้ำ</DamageCache.25.DescTags>
+			<DamageCache.26.DescTags>ความเสียหายธาตุไฟ</DamageCache.26.DescTags>
+			<DamageCache.27.DescTags>ความเสียหายธาตุไฟ</DamageCache.27.DescTags>
+			<DamageCache.28.DescTags>ความเสียหายธาตุไฟ</DamageCache.28.DescTags>
+			<DamageCache.29.DescTags>ความเสียหายธาตุไฟ</DamageCache.29.DescTags>
+			<DamageCache.30.DescTags>ความเสียหายธาตุไฟ</DamageCache.30.DescTags>
+			<DamageCache.31.DescTags>ความเสียหายธาตุดิน</DamageCache.31.DescTags>
+			<DamageCache.32.DescTags>ความเสียหายธาตุดิน</DamageCache.32.DescTags>
+			<DamageCache.33.DescTags>ความเสียหายธาตุดิน</DamageCache.33.DescTags>
+			<DamageCache.34.DescTags>ความเสียหายธาตุดิน</DamageCache.34.DescTags>
+			<DamageCache.35.DescTags>ความเสียหายธาตุดิน</DamageCache.35.DescTags>
+			<DamageCache.36.DescTags>ความเสียหายธาตุดิน</DamageCache.36.DescTags>
+		</Text>
+		<Text Name="Free_Base">
+			<DisplayName>เดินเล่น</DisplayName>
+			<Desc>[NAME] ค้นพบสถานที่ที่มีทิวทัศน์สวยงามเป็นอย่างมากและได้วางอาวุธวิเศษ[ITS]ลง หลังจากนั้นจึงเดินออกไปชมทิวทัศน์รอบๆ</Desc>
+		</Text>
+		<Text Name="Free_1">
+			<DisplayName>จิบชา</DisplayName>
+			<Desc>[NAME] ได้ผ่านมายังเมืองเล็กๆ แห่งหนึ่งและรู้สึกเหนื่อยเล็กน้อย [ENHIM]ได้เก็บซ่อนปราณของตัวเองแสร้งทำเป็นคนธรรมดาและเข้าไปจิบชาในโรงน้ำชาของหมู่บ้าน</Desc>
+		</Text>
+		<Text Name="Free_2">
+			<DisplayName>พักผ่อน</DisplayName>
+			<Desc>ระหว่างทาง [NAME] รู้สึกเหนื่อยเล็กน้อยจึงตัดสินใจงีบหลับใต้ต้นไม้</Desc>
+		</Text>
+		<Text Name="Join_Base">
+			<DisplayName>เข้าร่วมเทศกาลชะตาเซียน</DisplayName>
+			<Desc>[NAME] ได้พบคนธรรมดาบางคนที่อาจจะมีพรสวรรค์ในการบ่มเพาะและได้แจ้งที่ตั้งของสำนัก[ITS] ให้คนกลุ่มนั้นก่อนที่จะบินจากไป</Desc>
+		</Text>
+		<Text Name="Kidnap_Base">
+			<DisplayName>ลักพาตัวคนธรรมดา</DisplayName>
+			<Desc>[NAME] ร่ายเวทและทำการลักพาตัวคนธรรมดากลุ่มหนึ่งไป</Desc>
+		</Text>
+		<Text Name="Join_1">
+			<DisplayName>เข้าร่วมเทศกาลชะตาเซียน</DisplayName>
+			<Desc>[NAME] ค้นพบผู้เยาว์ที่มีความสามารถอย่างไม่น่าเชื่อพบต้นอ่อนที่มีความสามารถอันยอดเยี่ยม ดังนั้นจึงแสดงปาฏิหาริย์บางอย่างในความฝันของพวกเขาและได้มอบโชคชะตาในการบำเพ็ญตนเป็นเซียนให้ หากศิษย์คนนี้สนใจที่จะแสวงหาความเป็นอมตะละก็ เขาอาจจะมาถึงนิกายในอีกหนึ่งหรือสองวันข้างหน้า</Desc>
+		</Text>
+		<Text Name="Join_2">
+			<DisplayName>เข้าร่วมเทศกาลชะตาเซียน</DisplayName>
+			<Desc>[NAME] ได้พบเจอกับความอาฆาตทุก ๆครั้งทุกๆ ที่พระจันทณ์กลายเป็นสีน้ำเงิน เมื่อเห็นคนที่ถูกตามล่าและตระหนักว่าชะตากรรมของพวกเขาดูเหมือนจะผูกติดอยู่กับสำนัก [NAME] ก็ร่ายคาถาเพื่อช่วยเหลือพวกเขาและนำพวกเขาไปยังสำนัก</Desc>
+		</Text>
+		<Text Name="Visit_Base">
+			<DisplayName>โอกาสเผชิญหน้า</DisplayName>
+			<Desc>[NAME] ได้เจอกลุ่มลูกศิษย์ของ[SCHOOL]เข้ามาทักทาย[ENHIM]ขณะที่เดินอยู่บนถนน</Desc>
+			<Selections.0.Display>เข้าไปหา</Selections.0.Display>
+			<Selections.1.Display>พูดคุยอย่างเป็นมิตร</Selections.1.Display>
+			<Selections.2.Display>พูดคุยเล็กน้อย</Selections.2.Display>
+			<Selections.3.Display>เยาะเย้ย</Selections.3.Display>
+			<Selections.4.Display>เยาะเย้ย</Selections.4.Display>
+			<Selections.5.Display>ไม่สนใจ</Selections.5.Display>
+			<Selections.6.Display>ยั่วยุ</Selections.6.Display>
+			<Selections.6.Tip>แก่นทองคำ</Selections.6.Tip>
+			<Selections.7.Display>ยั่วยุ</Selections.7.Display>
+			<Selections.7.Tip>แก่นทองคำ</Selections.7.Tip>
+			<Selections.8.Display>ไม่สนใจ</Selections.8.Display>
+			<Selections.8.Tip>แก่นทองคำ</Selections.8.Tip>
+			<Selections.9.Display>ไม่สนใจ</Selections.9.Display>
+			<Selections.9.Tip>แก่นทองคำ</Selections.9.Tip>
+		</Text>
+		<Text Name="Visit_1">
+			<DisplayName>โอกาสเผชิญหน้า</DisplayName>
+			<Desc>[NAME] พบผู้อาวุโสจาก[SCHOOL]ในขณะที่กำลังเดินอยู่บนท้องถนน</Desc>
+			<Selections.0.Display>เข้าไปหา</Selections.0.Display>
+			<Selections.1.Display>ทักทาย</Selections.1.Display>
+			<Selections.2.Display>พูดคุยเล็กน้อย</Selections.2.Display>
+			<Selections.3.Display>ลอบโจมตี</Selections.3.Display>
+			<Selections.3.Tip>แก่นทองคำ</Selections.3.Tip>
+			<Selections.4.Display>ลอบโจมตี</Selections.4.Display>
+			<Selections.4.Tip>แก่นทองคำ</Selections.4.Tip>
+			<Selections.5.Display>โจมตี</Selections.5.Display>
+			<Selections.5.Tip>แก่นทองคำ</Selections.5.Tip>
+			<Selections.6.Display>ไม่สนใจ</Selections.6.Display>
+			<Selections.7.Display>ยั่วยุ</Selections.7.Display>
+			<Selections.7.Tip>แก่นทองคำ</Selections.7.Tip>
+			<Selections.8.Display>ยั่วยุ</Selections.8.Display>
+			<Selections.8.Tip>แก่นทองคำ</Selections.8.Tip>
+			<Selections.9.Display>ไม่สนใจ</Selections.9.Display>
+			<Selections.9.Tip>แก่นทองคำ</Selections.9.Tip>
+			<Selections.10.Display>ไม่สนใจ</Selections.10.Display>
+			<Selections.10.Tip>แก่นทองคำ</Selections.10.Tip>
+		</Text>
+		<Text Name="Visit_2">
+			<DisplayName>เยี่ยมชมสำนัก</DisplayName>
+			<Desc>เมื่อ [NAME] รู้ว่า[SCHOOL]อยู่ใกล้ๆ นี้ [ENHIM]ก็ได้มุ่งหน้าไปยัง[SCHOOL]ทันที</Desc>
+			<Selections.0.Display>เข้าไป</Selections.0.Display>
+			<Selections.1.Display>เข้าเยี่ยมเจ้าสำนัก</Selections.1.Display>
+			<Selections.2.Display>เข้าเยี่ยมเจ้าสำนัก</Selections.2.Display>
+			<Selections.3.Display>ได้รับความไว้วางใจจากวังเหนือนภา</Selections.3.Display>
+			<Selections.4.Display>ความลับของถ้ำอัสนีกึกก้อง</Selections.4.Display>
+			<Selections.5.Display>ทักทาย</Selections.5.Display>
+			<Selections.6.Display>ทักทาย</Selections.6.Display>
+			<Selections.7.Display>ทักทาย</Selections.7.Display>
+			<Selections.8.Display>ทักทาย</Selections.8.Display>
+			<Selections.9.Display>ทักทาย</Selections.9.Display>
+			<Selections.9.Tip>ขอบเขตวิญญาณปฐมกาลหรือมีความสัมพันธ์ที่ดี</Selections.9.Tip>
+			<Selections.10.Display>ลอบเข้าไป</Selections.10.Display>
+			<Selections.10.Tip>ขอบเขตวิญญาณปฐมกาลและมีโชคที่สูง</Selections.10.Tip>
+			<Selections.11.Display>ไม่สนใจ</Selections.11.Display>
+		</Text>
+		<Text Name="Story_Base">
+			<DisplayName>ดินแดนมนุษย์</DisplayName>
+			<Desc>[NAME] ได้ผ่านมายังเมืองเล็ก ๆ แห่งหนึ่ง และมีความรู้สึกสนุกจึงตัดสินใจปลอมตัวเป็นคนธรรมดาและเดินหายเข้าไปในเมือง</Desc>
+			<Selections.0.Display>เที่ยวเล่นในดินแดนมนุษย์</Selections.0.Display>
+			<Selections.1.Display>ก่อความวุ่นวายในดินแดนมนุษย์</Selections.1.Display>
+			<Selections.2.Display>จากไป</Selections.2.Display>
+		</Text>
+		<Text Name="Story_1">
+			<DisplayName>ดินแดนมนุษย์</DisplayName>
+			<Desc>[NAME] สังเกตว่ามีหญิงชรากำลังขัดแท่งเหล็กอยู่ริมแม่น้ำ</Desc>
+			<Selections.0.Display>สอบถาม (เจตนาดี)</Selections.0.Display>
+			<Selections.1.Display>ท่านได้รับความเข้าใจบางอย่าง</Selections.1.Display>
+			<Selections.2.Display>สอบถาม (เจตนาร้าย)</Selections.2.Display>
+			<Selections.3.Display>เป็นนางอีกแล้ว</Selections.3.Display>
+			<Selections.4.Display>เป็นนางอีกแล้ว</Selections.4.Display>
+			<Selections.5.Display>เป็นนางอีกแล้ว</Selections.5.Display>
+		</Text>
+		<Text Name="Story_2">
+			<DisplayName>ดินแดนมนุษย์</DisplayName>
+			<Desc>[NAME] ดูเหมือนจะถูกลิขิตให้มาพบจุดชมวิวแห่งนี้ซึ่งอบอวลไปด้วยความงดงามของธรรมชาติ [IT]นั่งลงตรงนั้นและกำลังคิดว่าจะเป็นไปได้ไหมที่จะได้รับความรู้แจ้งจากสถานที่แห่งนี้</Desc>
+			<Selections.0.Display>ทำสมาธิค้นหาแนวคิดแห่งเต๋า</Selections.0.Display>
+			<Selections.0.Tip>ใช้สติปัญญา</Selections.0.Tip>
+			<Selections.1.Display>ดูดซับปราณ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_3">
+			<DisplayName>ดินแดนมนุษย์</DisplayName>
+			<Desc>[NAME] พบเห็นสัตว์อสูรสองตัวต่อสู้กันอยู่กลางอากาศ ดูเหมือนว่าสัตว์ร้ายทั้งสองจะมีวิธีการต่อสู้ที่แปลกประหลาดยิ่ง ราวกับว่ามันเป็นการต่อสู้ระหว่างสัตว์ร้ายจากต่างโลก [NAME] ทั้งรู้สึกตื่นเต้นและรู้สึกทึ่ง ดูเหมือนว่าการต่อสู้ระหว่างสัตว์อสูรทั้งสองนี้ได้ซ่อนความลึกลับบางอย่างไว้</Desc>
+			<Selections.0.Display>เลียนแบบสัตว์อสูร</Selections.0.Display>
+			<Selections.0.Tip>ใช้การรับรู้</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="GoodFight_Base">
+			<DisplayName>หายนะจากโรคระบาด</DisplayName>
+			<Desc>[NAME] ได้ผ่านไปยังเมืองแห่งหนึ่งและพบว่าเมืองแห่งนี้กำลังเกิดโรคระบาดอยู่ ดูเหมือนว่าที่ประตูเมืองจะมีผู้ฝึกตนบางคนกำลังช่วยเหลือชาวเมืองเพื่อควบคุมโรคระเบิดอยู่ ทว่าดูสถานการณ์ยังคงเลวร้ายลงทุกที่และดูเหมือนว่าพวกเขาจะควบคุมมันได้ไม่นานอีกแล้ว</Desc>
+			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
+			<Selections.1.Display>ช่วยเหลืออย่างไม่จริงใจ</Selections.1.Display>
+			<Selections.1.Tip>พื้นฐานลมปราณ</Selections.1.Tip>
+			<Selections.2.Display>ช่วยเหลืออย่างไม่จริงใจ</Selections.2.Display>
+			<Selections.2.Tip>สร้างแก่นลมปราณ</Selections.2.Tip>
+			<Selections.3.Display>ไม่สนใจ</Selections.3.Display>
+		</Text>
+		<Text Name="GoodFight_1">
+			<DisplayName>การต่อสู้ระหว่างธรรมะและอธรรม</DisplayName>
+			<Desc>[NAME] มองเห็นแสงสว่างวาบและได้ยินเสียงระเบิดดังอยู่ไม่ใกล้ไม่ไกล ดูเหมือนว่ามีคนกำลังสู้กันอยู่</Desc>
+			<Selections.0.Display>โจมตีลูกศิษย์ของสำนักมาร</Selections.0.Display>
+			<Selections.0.Tip>สร้างแก่นลมปราณ</Selections.0.Tip>
+			<Selections.1.Display>โจมตีลูกศิษย์ของสำนักมาร</Selections.1.Display>
+			<Selections.1.Tip>สร้างแก่นลมปราณ</Selections.1.Tip>
+			<Selections.2.Display>โจมตีลูกศิษย์ของสำนักธรรมะ</Selections.2.Display>
+			<Selections.2.Tip>สร้างแก่นลมปราณ</Selections.2.Tip>
+			<Selections.3.Display>โจมตีลูกศิษย์ของสำนักธรรมะ</Selections.3.Display>
+			<Selections.3.Tip>สร้างแก่นลมปราณ</Selections.3.Tip>
+			<Selections.4.Display>ไม่สนใจ</Selections.4.Display>
+		</Text>
+		<Text Name="BadFight_Base">
+			<DisplayName>ค่ายกลมารหลอมกลั่นวิญญาณ</DisplayName>
+			<Desc>[NAME] ผ่านมายังเมืองแห่งหนึ่งและพบว่ามันมีวิญญาณอาฆาตมากมายอยู่บริเวณนี้ ดูเหมือนว่าจะมีใครบางคนกำลังฝึกฝนวิชามารอยู่</Desc>
+			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
+			<Selections.1.Display>ช่วยเหลืออย่างไม่จริงใจ</Selections.1.Display>
+			<Selections.1.Tip>แก่นทองคำ</Selections.1.Tip>
+			<Selections.2.Display>หยุดพวกเขา</Selections.2.Display>
+			<Selections.2.Tip>แก่นทองคำ</Selections.2.Tip>
+			<Selections.3.Display>ไม่สนใจ</Selections.3.Display>
+		</Text>
+		<Text Name="BadFight_1">
+			<DisplayName>การต่อสู้ระหว่างธรรมะและอธรรม</DisplayName>
+			<Desc>[NAME] มองเห็นแสงสว่างวาบและได้ยินเสียงระเบิดดังอยู่ไม่ใกล้ไม่ไกล ดูเหมือนว่ามีคนกำลังสู้กันอยู่</Desc>
+			<Selections.0.Display>โจมตีลูกศิษย์ของสำนักมาร</Selections.0.Display>
+			<Selections.0.Tip>สร้างแก่นลมปราณ</Selections.0.Tip>
+			<Selections.1.Display>โจมตีลูกศิษย์ของสำนักมาร</Selections.1.Display>
+			<Selections.1.Tip>สร้างแก่นลมปราณ</Selections.1.Tip>
+			<Selections.2.Display>โจมตีลูกศิษย์ของสำนักธรรมะ</Selections.2.Display>
+			<Selections.2.Tip>สร้างแก่นลมปราณ</Selections.2.Tip>
+			<Selections.3.Display>โจมตีลูกศิษย์ของสำนักธรรมะ</Selections.3.Display>
+			<Selections.3.Tip>สร้างแก่นลมปราณ</Selections.3.Tip>
+			<Selections.4.Display>ไม่สนใจ</Selections.4.Display>
+		</Text>
+		<Text Name="Treasure_Base">
+			<DisplayName>ค้นหาสมบัติวิเศษ</DisplayName>
+			<Desc>[NAME] บังเอิญไปเจอสถานที่ซ่อนตัวของผู้ฝึกตนบางคน... และดูเหมือนว่ามันจะถูกทิ้งร้างไปนานแล้ว</Desc>
+			<Selections.0.Display>เดินไปดู</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Treasure_1">
+			<DisplayName>พบสระลึกลับ</DisplayName>
+			<Desc>[NAME] เหนื่อยล้าหลังจากที่เดินทางติดต่อกันหลายวัน เย็นวันนั้น[ENHIM]ได้เจอสระน้ำลึกที่มีทิวทัศน์สวยงามแห่งหนึ่งจึงตัดสินใจหยุดพักในบริเวณนี้ ในคืนนั้น [NAME] ร้สึกประหลาดใจมากที่มีแสงสว่างจางๆ ปรากฏอยู่ในบ่อน้ำแห่งนั้น</Desc>
+			<Selections.0.Display>เดินไปดู</Selections.0.Display>
+			<Selections.0.Tip>บ่มเพาะปราณ</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Find_Base">
+			<DisplayName>รวบรวมทรัพยากร</DisplayName>
+			<Desc>เมื่อ [NAME] เดินทางเมื่อถึงยังสถานที่แห่งหนึ่ง [ENHIM]พบว่าสถานที่แห่งนี้มีหลายสิ่งที่ค่อนข้างมีประโยชน์</Desc>
+			<Selections.0.Display>เก็บรวบรวม</Selections.0.Display>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="City_Base">
+			<DisplayName>เมือง</DisplayName>
+			<Desc>[NAME] ได้เดินทางมาถึง[PLACE]และได้พบว่าที่นี่มีประชากรอาศัยอยู่อย่างหนาแน่นและมีธุรกิจกำลังเฟื่องฟูเป็นอย่างมาก</Desc>
+			<Selections.0.Display>ค้นหาศิษย์</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชคและเสน่ห์</Selections.0.Tip>
+			<Selections.1.Display>ปล้นคนธรรมดา</Selections.1.Display>
+			<Selections.2.Display>ช่วยเหลือผู้คน</Selections.2.Display>
+			<Selections.3.Display>ซื้อวัสดุสิ่งของ</Selections.3.Display>
+			<Selections.4.Display>จากไป</Selections.4.Display>
+		</Text>
+		<Text Name="Business_Base">
+			<DisplayName>ซื้อวัสดุสิ่งของ</DisplayName>
+			<Desc>[NAME] พบว่าที่นี่มีตลาดที่กำลังเฟื่องฟูเป็นอย่างมากและด้วยราคาสินค้าที่ถูกกว่าปกติ [ENHIM]จึงตัดสินใจซื้ออะไรบางกลับติดไม้ติดมือกลับไป</Desc>
+			<Selections.0.Display>ซื้ออาหาร</Selections.0.Display>
+			<Selections.1.Display>ซื้อหินอ่อน</Selections.1.Display>
+			<Selections.2.Display>ซื้อไม้แปรรูป</Selections.2.Display>
+			<Selections.3.Display>ซื้อแร่เหล็ก</Selections.3.Display>
+			<Selections.4.Display>ซื้อฝ้าย</Selections.4.Display>
+		</Text>
+		<Text Name="Highfind_Base">
+			<DisplayName>ค้นหาสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ยินข่าวมาว่ามีสิ่งของบางอย่างใน[PLACE] ที่มีประโยชน์ต่อการฝึกตน</Desc>
+			<Selections.0.Display>ค้นหา</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Secret_Base">
+			<DisplayName>มองหาเบาะแส</DisplayName>
+			<Desc>[NAME] ได้นผ่านมายัง[PLACE]ในขณะที่กำลังเดินทางอยู่และได้พบว่าคนในพื้นที่กำลังพูดคุยเกี่ยวกับอะไรบางอย่างอยู่</Desc>
+			<Selections.0.Display>สอบถามข้อมูล</Selections.0.Display>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Place_Base">
+			<DisplayName>ค้นหาสถานที่</DisplayName>
+			<Desc>[NAME] ได้ยินมาว่ามีสถานที่ที่น่าสนใจอยู่ใกล้ๆ กับ[PLACE] ดังนั้น[ENHIM]จึงตัดสินใจเดินทางไปค้นหาสถานที่แห่งนั้น</Desc>
+			<Selections.0.Display>ค้นหาสถานที่เงียบสงบ</Selections.0.Display>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Cold">
+			<DisplayName>พบเจอดินแดนหิมะโดยบังเอิญ</DisplayName>
+			<Desc>[NAME] ดูเหมือนจะถูกลิขิตให้มาพบจุดชมวิวแห่งนี้ซึ่งอบอวลไปด้วยความงดงามของธรรมชาติ [IT]นั่งลงตรงนั้นและกำลังคิดว่าจะเป็นไปได้ไหมที่จะได้รับความรู้แจ้งจากสถานที่แห่งนี้</Desc>
+			<Selections.0.Display>หยั่งรู้แนวคิด</Selections.0.Display>
+			<Selections.0.Tip>ใช้สติปัญญา</Selections.0.Tip>
+			<Selections.1.Display>ดูดซับปราณ</Selections.1.Display>
+			<Selections.2.Display>มันหนาวเกินไป</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Cold2">
+			<DisplayName>พบเจอดินแดนหิมะโดยบังเอิญ</DisplayName>
+			<Desc>[NAME] พบเห็นสัตว์อสูรสองตัวต่อสู้กันอยู่กลางอากาศ ดูเหมือนว่าสัตว์ร้ายทั้งสองจะมีวิธีการต่อสู้ที่แปลกประหลาดยิ่ง ราวกับว่ามันเป็นการต่อสู้ระหว่างสัตว์ร้ายจากต่างโลก [NAME] ทั้งรู้สึกตื่นเต้นและรู้สึกทึ่ง ดูเหมือนว่าการต่อสู้ระหว่างสัตว์อสูรทั้งสองนี้ได้ซ่อนความลึกลับบางอย่างไว้</Desc>
+			<Selections.0.Display>เลียนแบบสัตว์อสูร</Selections.0.Display>
+			<Selections.0.Tip>ใช้การรับรู้</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+			<Selections.2.Display>มันหนาวเกินไป</Selections.2.Display>
+		</Text>
+		<Text Name="Secret_Cold_Base">
+			<DisplayName>มองหาเบาะแส</DisplayName>
+			<Desc>[NAME] ได้เดินทางไปยัง[PLACE]และ[IT]ได้ยินข่าวลือบางอย่างที่กำลังแพร่สะพัดกันในหมู่ชาวเมือง</Desc>
+			<Selections.0.Display>สอบถามข้อมูล</Selections.0.Display>
+			<Selections.0.Tip>ต้านทานความหนาว</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Place_Cold_Base">
+			<DisplayName>ค้นหาสถานที่</DisplayName>
+			<Desc>[NAME] ได้ยินมาว่ามีสถานที่ที่น่าสนใจอยู่ใกล้ๆ กับ[PLACE] ดังนั้น[ENHIM]จึงตัดสินใจเดินทางไปค้นหาสถานที่แห่งนั้น</Desc>
+			<Selections.0.Display>ค้นหาสถานที่เงียบสงบ</Selections.0.Display>
+			<Selections.0.Tip>ต้านทานความหนาว</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Find_Cold_Base">
+			<DisplayName>รวบรวมทรัพยากร</DisplayName>
+			<Desc>ในขณะที่ [NAME] กำลังเดินทางอยู่ [ENHIM]บังเอิญสังเกตเห็นบางสิ่งมีอยู่รอบๆ [PLACE] ซึ่งมันค่อนข้างมีประโยชน์ต่อสำนัก</Desc>
+			<Selections.0.Display>เก็บรวบรวมทรัพยากรท้องถิ่น</Selections.0.Display>
+			<Selections.0.Tip>ต้านทานความหนาว</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+		</Text>
+		<Text Name="Highfind_Cold_Base">
+			<DisplayName>ค้นหาสมบัติ</DisplayName>
+			<Desc>[NAME] ได้ยินข่าวมาว่ามีสิ่งของบางอย่างใน[PLACE] ที่มีประโยชน์ต่อการฝึกตน</Desc>
+			<Selections.0.Display>ค้นหา</Selections.0.Display>
+			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
+			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
+			<Selections.2.Display>มันหนาวเกินไป</Selections.2.Display>
+		</Text>
+		<Text Name="Visit_Old_Base">
+			<DisplayName>โอกาสเผชิญหน้า</DisplayName>
+			<Desc>[NAME] ได้เจอกลุ่มลูกศิษย์ของ[SCHOOL]เข้ามาทักทาย[ENHIM]ขณะที่อยู่เดินบนถนน</Desc>
+			<Selections.0.Display>พูดคุยอย่างเป็นมิตร</Selections.0.Display>
+			<Selections.1.Display>พูดคุยเล็กน้อย</Selections.1.Display>
+			<Selections.2.Display>เยาะเย้ย</Selections.2.Display>
+			<Selections.3.Display>เยาะเย้ย</Selections.3.Display>
+			<Selections.4.Display>ไม่สนใจ</Selections.4.Display>
+			<Selections.5.Display>ยั่วยุ</Selections.5.Display>
+			<Selections.5.Tip>แก่นทองคำ</Selections.5.Tip>
+			<Selections.6.Display>ยั่วยุ</Selections.6.Display>
+			<Selections.6.Tip>แก่นทองคำ</Selections.6.Tip>
+			<Selections.7.Display>ไม่สนใจ</Selections.7.Display>
+			<Selections.7.Tip>แก่นทองคำ</Selections.7.Tip>
+			<Selections.8.Display>ไม่สนใจ</Selections.8.Display>
+			<Selections.8.Tip>แก่นทองคำ</Selections.8.Tip>
+		</Text>
+		<Text Name="Visit_Old_1">
+			<DisplayName>โอกาสเผชิญหน้า</DisplayName>
+			<Desc>[NAME] พบผู้อาวุโสจาก[SCHOOL]ในขณะที่กำลังเดินอยู่บนท้องถนน</Desc>
+			<Selections.0.Display>ทักทาย</Selections.0.Display>
+			<Selections.1.Display>พูดคุยเล็กน้อย</Selections.1.Display>
+			<Selections.2.Display>ลอบโจมตี</Selections.2.Display>
+			<Selections.2.Tip>แก่นทองคำ</Selections.2.Tip>
+			<Selections.3.Display>ลอบโจมตี</Selections.3.Display>
+			<Selections.3.Tip>แก่นทองคำ</Selections.3.Tip>
+			<Selections.4.Display>โจมตี</Selections.4.Display>
+			<Selections.4.Tip>แก่นทองคำ</Selections.4.Tip>
+			<Selections.5.Display>ไม่สนใจ</Selections.5.Display>
+			<Selections.6.Display>ยั่วยุ</Selections.6.Display>
+			<Selections.6.Tip>แก่นทองคำ</Selections.6.Tip>
+			<Selections.7.Display>ยั่วยุ</Selections.7.Display>
+			<Selections.7.Tip>แก่นทองคำ</Selections.7.Tip>
+			<Selections.8.Display>ไม่สนใจ</Selections.8.Display>
+			<Selections.8.Tip>แก่นทองคำ</Selections.8.Tip>
+			<Selections.9.Display>ไม่สนใจ</Selections.9.Display>
+			<Selections.9.Tip>แก่นทองคำ</Selections.9.Tip>
+		</Text>
+		<Text Name="Visit_Old_2">
+			<DisplayName>เยี่ยมชมสำนัก</DisplayName>
+			<Desc>เมื่อ [NAME] รู้ว่า[SCHOOL]อยู่ใกล้ๆ นี้ [ENHIM]ก็ได้มุ่งหน้าไปยัง[SCHOOL]ทันที</Desc>
+			<Selections.0.Display>เข้าเยี่ยมเจ้าสำนัก</Selections.0.Display>
+			<Selections.1.Display>ทักทาย</Selections.1.Display>
+			<Selections.2.Display>ทักทาย</Selections.2.Display>
+			<Selections.3.Display>ทักทาย</Selections.3.Display>
+			<Selections.4.Display>ทักทาย</Selections.4.Display>
+			<Selections.5.Display>ทักทาย</Selections.5.Display>
+			<Selections.5.Tip>ขอบเขตวิญญาณปฐมกาลหรือมีความสัมพันธ์ที่ดี</Selections.5.Tip>
+			<Selections.6.Display>ลอบเข้าไป</Selections.6.Display>
+			<Selections.6.Tip>ขอบเขตวิญญาณปฐมกาลหรือมีโชคที่สูง</Selections.6.Tip>
+			<Selections.7.Display>ไม่สนใจ</Selections.7.Display>
+		</Text>
+	</List>
+</Texts>

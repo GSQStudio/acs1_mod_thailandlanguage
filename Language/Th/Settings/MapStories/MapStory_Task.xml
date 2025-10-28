@@ -1,0 +1,9 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Sup">
+			<DisplayName>รวมเข้าด้วยกัน</DisplayName>
+			<Desc>รวมเข้าด้วยกัน</Desc>
+			<Selections.0.Display>ไม่มีอะไรเกิดขึ้น...</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

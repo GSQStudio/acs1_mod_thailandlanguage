@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>ว่าง</DisplayName>
+		</Text>
+		<Text Name="TSkillSkill">
+			<DisplayName>เพิ่มพลังปราณเวท</DisplayName>
+		</Text>
+		<Text Name="SkillSkill_Gong10_1">
+			<DisplayName>ประกายแสงตะวัน</DisplayName>
+		</Text>
+	</List>
+</Texts>

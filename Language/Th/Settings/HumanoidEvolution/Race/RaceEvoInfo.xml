@@ -1,0 +1,77 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="All">
+			<PeferEnvironment.Desc>ชอบ</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Snake">
+			<NaiveTalk>ฟ่อ ฟ่ออออ!</NaiveTalk>
+			<PeferEnvironment.LightDesc>ต้องการอยู่ภายในห้อง</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ต้องการอยู่ใกล้สัตวัตัวเล็ก</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ต้องการอยู่ใกล้สัตวัตัวเล็ก\nต้องการห้อง\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Bear">
+			<NaiveTalk>แฮ่ แแฮฮฮ่!</NaiveTalk>
+			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ต้องการอยู่ใกล้ๆสัตว์กินพืช</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ต้องการสัตว์กินพืชอยู่ใกล้ๆ\nชอบอยู่ข้างนอก\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Rabbit">
+			<NaiveTalk>อิ้ว อิ้ว อิ้ววว!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>ต้องการหญ้าอยู่ใกล้ๆ</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ชอบอยู่ร่าวมกับเผ่าพันธ์เดียวกัน</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ต้องการหญ้าอยู่ใกล้ๆ,ชอบอยู่ข้างนอก\nชอบอยู่ร่วมกับเผ่าพันธ์เดียวกัน</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Chicken">
+			<NaiveTalk>กุ๊ก กุ๊ก!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>ต้องการอยู่ใกล้ๆต้นข้าว</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ไม่ชอบสัตว์กินเนื้อ</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ต้องการอยู่ใกล้ๆต้นข้าว,ชอบอยู่ข้างนอก\nไม่ชอบสัตว์กินเนื้อ</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Wolf">
+			<NaiveTalk>บลู๊ว บลู๊วววว!</NaiveTalk>
+			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ชอบอยู่ร่วมกับเผ่าพันธ์เดียวกัน</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ชอบอยู่ร่วมกับเผ่าพันธ์เดียวกัน\nชอบอยู่ข้างนอก</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Boar">
+			<NaiveTalk>อ็อกอู๊ด อ็อกอู๊ด!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>ชอบอยู่ใกล้ๆเห็ด</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>ชอบอยู่ใกล้ๆเห็ด\nชอบอยู่ข้างนอก\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Frog">
+			<NaiveTalk>อบ อบ อบ!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>ต้องการอยู่ใกล้ๆดอกบัว</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ไม่ชอบสัตว์กินเนื้อ</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ต้องการอยู่ใกล้ๆดอกบัว,ชอบอยู่ข้างนอก\nไม่ชอบสัตว์กินเนื้อ\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Turtle">
+			<NaiveTalk>ฮ่าว ฮ่าว!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>ต้องการอยู่ใกล้ๆกับต้นอ้อ</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>ชอบอยู่ภายในห้อง</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>ต้องการอยู่ใกล้ๆกับต้นอ้อ,ชอบอยู่ภายในห้อง</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Cat">
+			<NaiveTalk>เหมียว เหมียว!</NaiveTalk>
+			<PeferEnvironment.LightDesc>ชอบอยู่ภายในห้อง</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ไม่ชอบอยู่ใกล้สัตว์อื่น</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ชอบอยู่ภายในห้อง,ไม่ชอบอยู่ใกล้สัตว์อื่น</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Tiger">
+			<NaiveTalk>โฮ้ก โฮ้กกก!</NaiveTalk>
+			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ไม่ชอบอยู่ใกล้สัตว์อื่น</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ชอบอยู่ข้างนอก,ไม่ชอบอยู่ใกล้สัตว์อื่น</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Cattle">
+			<NaiveTalk>ม่อ ม่ออออ!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>ชอบต้นหญ้าสูงๆ</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>ไม่ชอบสัตว์กินเนื้อ</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>ชอบต้นหญ้าสูงๆ,ชอบอยู่ข้างนอก\nไม่ชอบสัตว์กินเนื้อ\n</PeferEnvironment.Desc>
+		</Text>
+	</List>
+</Texts>

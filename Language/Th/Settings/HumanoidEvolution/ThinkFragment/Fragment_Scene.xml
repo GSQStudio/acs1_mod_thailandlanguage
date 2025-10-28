@@ -1,0 +1,152 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SeeTheSky">
+			<DisplayName>มองท้องฟ้า</DisplayName>
+			<SingleFormat.0>ต้องการที่จะโบยบินในขณะที่{0}บนเทือกเขา</SingleFormat.0>
+			<SingleFormat.1>คิดถึงอดีตที่หมองหม่นยามเมื่อ{0}.</SingleFormat.1>
+		</Text>
+		<Text Name="HearEarthQuake">
+			<DisplayName>ได้ยินเสียงแผ่นดินไหว</DisplayName>
+			<SingleFormat.0>หลังจาก{0}มันก็ไม่มีอะไรเกิดขึ้น</SingleFormat.0>
+			<SingleFormat.1>หลังจาก{0}มันก็มีเสียงแปลกๆ ตามมา</SingleFormat.1>
+		</Text>
+		<Text Name="HearFarThunder">
+			<DisplayName>ได้ยินเสียงฟ้าท้อง</DisplayName>
+			<SingleFormat.0>หลังจาก{0}ฝนก็ตก</SingleFormat.0>
+			<SingleFormat.1>หลังจาก{0}มันก็ไม่มีอะไรเกิดขึ้น</SingleFormat.1>
+		</Text>
+		<Text Name="SmellRain">
+			<DisplayName>ได้กลิ่นฝนตก</DisplayName>
+			<SingleFormat.0>หลังจาก{0}ฝนมันก็ตก</SingleFormat.0>
+			<SingleFormat.1>ฟ้าเริ่มมือหลังจากที่{0}</SingleFormat.1>
+		</Text>
+		<Text Name="SmellDecay">
+			<DisplayName>กลิ่นเหม็นเน่า</DisplayName>
+			<SingleFormat.0>บางทีอะไรบางอย่างส่ง{0}.</SingleFormat.0>
+			<SingleFormat.1>หลังจากได้{0}ทุกอย่างก็ดูย่ำแย่</SingleFormat.1>
+		</Text>
+		<Text Name="HearLoud">
+			<DisplayName>ได้ยินเสียงดัง</DisplayName>
+			<SingleFormat.0>หลังจาก{0}จึงกระโดดสะดุ้งโหยง</SingleFormat.0>
+		</Text>
+		<Text Name="ClimbHigh">
+			<DisplayName>ไต่</DisplayName>
+			<SingleFormat.0>ต้องการ{0}ภูเขา</SingleFormat.0>
+		</Text>
+		<Text Name="SeeStone">
+			<DisplayName>มองดูก้อนหิน</DisplayName>
+			<SingleFormat.0>จดจำ{0}และศึกษาเกี่ยวกับมัน</SingleFormat.0>
+		</Text>
+		<Text Name="Memory">
+			<DisplayName>รำลึก</DisplayName>
+			<SingleFormat.0>หลังจาก{0}บางสิ่งก็รู้สึกเยาว์วัยขึ้น</SingleFormat.0>
+			<SingleFormat.1>ไม่ชอบการ{0}ถึงอดีตอันวุ่นวาย</SingleFormat.1>
+		</Text>
+		<Text Name="SeeDisciples">
+			<DisplayName>เฝ้ามองการแต่งตัว</DisplayName>
+		</Text>
+		<Text Name="SeeSwords">
+			<DisplayName>เฝ้ามองการบิน</DisplayName>
+		</Text>
+		<Text Name="SeeTrain">
+			<DisplayName>เฝ้ามองการนั่ง</DisplayName>
+		</Text>
+		<Text Name="SeePlay">
+			<DisplayName>เฝ้ามองการเล่น</DisplayName>
+		</Text>
+		<Text Name="SeeAround">
+			<DisplayName>เฝ้ามองแสง</DisplayName>
+		</Text>
+		<Text Name="SeeScene">
+			<DisplayName>เที่ยวชมสถานที่</DisplayName>
+		</Text>
+		<Text Name="HearAround">
+			<DisplayName>ฟังดนตรี</DisplayName>
+		</Text>
+		<Text Name="HearWind">
+			<DisplayName>ฟังเสียงลม</DisplayName>
+		</Text>
+		<Text Name="HearChat">
+			<DisplayName>เฝ้ามองการกิน</DisplayName>
+		</Text>
+		<Text Name="HearHeartBeat">
+			<DisplayName>ได้กลิ่นตัวยา</DisplayName>
+		</Text>
+		<Text Name="HearTrain">
+			<DisplayName>เฝ้ามองการทำงาน</DisplayName>
+		</Text>
+		<Text Name="HearStep">
+			<DisplayName>เฝ้ามองการฝึกฝน</DisplayName>
+		</Text>
+		<Text Name="HearWormBeep">
+			<DisplayName>ได้ยินเสียงแมลง</DisplayName>
+		</Text>
+		<Text Name="SmellAround">
+			<DisplayName>ได้กลิ่นธูป</DisplayName>
+		</Text>
+		<Text Name="SmellDirt">
+			<DisplayName>ได้กลินดิน</DisplayName>
+		</Text>
+		<Text Name="SmellSelf">
+			<DisplayName>ได้กลิ่นตัวเอง</DisplayName>
+		</Text>
+		<Text Name="SmellMeal">
+			<DisplayName>ได้กลิ่นอาหาร</DisplayName>
+			<SingleFormat.0>เมื่อ{0}น้ำลายก็เริ่มไหลออกมา</SingleFormat.0>
+		</Text>
+		<Text Name="SmellFire">
+			<DisplayName>ได้กลิ่นไหม้</DisplayName>
+		</Text>
+		<Text Name="LickSelf">
+			<DisplayName>เลียตัวเอง</DisplayName>
+		</Text>
+		<Text Name="Sneeze">
+			<DisplayName>จาม</DisplayName>
+		</Text>
+		<Text Name="Dream">
+			<DisplayName>ฝัน</DisplayName>
+		</Text>
+		<Text Name="PlaySelf">
+			<DisplayName>เล่นสนุก</DisplayName>
+		</Text>
+		<Text Name="DayDream">
+			<DisplayName>ฝันกลางวัน</DisplayName>
+		</Text>
+		<Text Name="Sweat">
+			<DisplayName>เหงื่อออก</DisplayName>
+		</Text>
+		<Text Name="Poo">
+			<DisplayName>ขับถ่าย</DisplayName>
+		</Text>
+		<Text Name="Wander">
+			<DisplayName>ได้กลิ่นหอมหวาน</DisplayName>
+		</Text>
+		<Text Name="Betouch">
+			<DisplayName>ออกล่า</DisplayName>
+			<SingleFormat.0>หวนนึกถึงการวิ่งยาม{0}</SingleFormat.0>
+		</Text>
+		<Text Name="Sleep">
+			<DisplayName>กำลังหลับ</DisplayName>
+		</Text>
+		<Text Name="SeeEast">
+			<DisplayName>มองไปทางทิศตะวันออก</DisplayName>
+			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+		</Text>
+		<Text Name="SeeSouth">
+			<DisplayName>มองไปทางทิศใต้</DisplayName>
+			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+		</Text>
+		<Text Name="SeeWest">
+			<DisplayName>มองไปทางทิศตะวันตก</DisplayName>
+			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+		</Text>
+		<Text Name="SeeNorth">
+			<DisplayName>มองไปทางทิศเหนือ</DisplayName>
+			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+		</Text>
+		<Text Name="SeeDirt">
+			<DisplayName>มองไปยังฝุ่นละออง</DisplayName>
+			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+		</Text>
+	</List>
+</Texts>

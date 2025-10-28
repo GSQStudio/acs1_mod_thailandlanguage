@@ -1,0 +1,164 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_Give1">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>มันเป็นวันที่ดีผู้แทนสำนัก [NAME] ได้นำเหล่าสาวกไปยังถนนในเมืองและแจกจ่ายอาหารให้กับผู้คนที่เดินผ่านไปมา</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give2">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>มันเป็นวันที่ดีผู้แทนสำนัก [NAME] ได้นำเหล่าสาวกไปยังถนนในเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา มีขอทานมากมายเข้ามาขอเงินตลอดสองข้างทางของถนน</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give3">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>มันเป็นวันที่ดีผู้แทนสำนัก [NAME] ได้นำเหล่าสาวกไปยังถนนในเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา ต่อมาเขาก็เห็นสะพานหินถล่มลงมาและผู้คนก็ไม่สามารถเดินผ่านมายังที่นี่ได้อีก</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give4">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>มันเป็นวันที่ดีผู้แทนสำนัก [NAME] ได้นำเหล่าสาวกไปยังถนนในเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา เขาเห็นชาวบ้านสองคนกำลังทะเลาะกันเรื่องหมาตัวหนึ่ง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give5">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้นำเหล่าสาวกเข้าไปยังตัวเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา เขาเห็นชายสองคนกำลังทะเลาะกันเพื่อแย่งชิงสตรีนางหนึ่ง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give6">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้นำเหล่าสาวกเข้าไปยังตัวเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา พวกเขาได้เห็นชายร่างยักษ์สองคนกำลังต่อสู้กัน คนที่เดินผ่านมาได้อธิบายว่า เป็นเพราะชายคนหนึ่งปลูกต้นไม้ แต่ผลของมันกลับตกลงไปยังบ้านของชายอีกคนและชายคนนั้นก็ไม่ยอมมอบมันให้กับชายเจ้าของต้นไม้</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give7">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] กำลังเตรียมตัวที่จะไปทำบุญ ทันใดนั้นก็มีสตรีผู้งดงามคนหนึ่งเดินเข้ามาที่บ้านของผู้แทนสำนัก [NAME] หลังจากนั้นนางได้เริ่มร้องห่มร้องไห้และเล่าว่าลูกของเธอนั้นหายไป</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give8">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] กำลังเตรียมตัวที่จะไปทำบุญ ทันใดนั้นก็มีชายคนหนึ่งได้เข้ามาและขอร้องให้ผู้แทนสำนัก [NAME] ช่วยภรรยาของเขาที่กำลังจะตาย</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give9">
+			<DisplayName>เหตุการณ์พิเศษ</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้เดินทางไปยังสถานที่ที่ค่อนข้างห่างไกลเพื่อเทศนาธรรม ทว่ากลับถูกโจมตีโดยโจรกลุ่มหนึ่ง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give10">
+			<DisplayName>เหตุการณ์พิเศษ</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้ผ่านไปเจอเหล่าสาวกจาก[SCHOOL0] และเห็นว่าพวกเขาให้ทานกับผู้คนที่เดินผ่านไปมา</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give11">
+			<DisplayName>เหตุการณ์พิเศษ</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้ผ่านไปเจอเหล่าสาวกจาก[SCHOOL0] และเห็นว่าพวกเขานั้นกำลังเผยแผ่คำสอนอยู่</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give12">
+			<DisplayName>เหตุการณ์พิเศษ</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้ผ่านไปเจอเหล่าสาวกจาก[SCHOOL0] และเห็นว่าพวกเขานั้นกำลังนั่งสมาธิภาวนากันอยู่</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give13">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้นำเหล่าสาวกเข้าไปยังตัวเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา เขาได้เจอกับบ้านไม้ที่ผุพังหลังหนึ่งและเจ้าของบ้านก็เป็นคนพิการและไม่สามารถซ่อมแซมได้มันได้ด้วยตัวเอง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give14">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้นำเหล่าสาวกเข้าไปยังตัวเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา เขาได้พบเห็นชายคนหนึ่งที่สวมเครื่องแต่งกายจากต่างแดนและกำลังล่อหลอกผู้ที่สัญจรไปมาอยู่</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give15">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้นำเหล่าสาวกเข้าไปยังตัวเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา เขาได้เดินผ่านร้านสุราสองแห่งซึ่งตั้งอยู่ฝั่งตรงข้ามกันและดูเหมือนว่าพวกเขากำลังโต้เถียงเรื่องธุรกิจกันอยู่</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give16">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้นำเหล่าสาวกเข้าไปยังตัวเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา เขาได้พบเข้ากับกลุ่มผู้ลี้ภัยกลุ่มหนึ่ง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give17">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้นำเหล่าสาวกเข้าไปยังตัวเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา เขาเห็นชายคนหนึ่งที่ซึ่งป่วยหนักและกำลังจะตายอยู่ข้างถนน ชายคนนั้นได้อ้อนวอนขอให้ผู้แทนสำนัก [NAME] ช่วยให้เขาพ้นจากความทุกข์</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give18">
+			<DisplayName>สร้างบุญกุศล</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้นำเหล่าสาวกเข้าไปยังตัวเมืองและแจกของบริจาคให้แก่ผู้ที่สัญจรไปมา เขาได้บังเอิญไปแตะโดนชายชราผู้หนึ่ง ต่อมาชายชราคนนั้นได้ทิ้งตัวลงนอนและตะโกนว่า "อ๊าาากกกก! มีคนทำขาของข้าหัก! เจ้านี่มันทำข้าของข้าหัก!"</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon1">
+			<DisplayName>เผยแผ่คำสอน</DisplayName>
+			<Desc>วันนี้เป็นวันที่อากาศดีผู้แทนสำนัก [NAME] ได้เข้าไปในเมืองและเตรียมตัวที่จะเผยแผ่คำสอน</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon2">
+			<DisplayName>เผยแผ่คำสอน</DisplayName>
+			<Desc>วันนี้เป็นวันที่อากาศดีผู้แทนสำนัก [NAME] ได้ทำการเผยแผ่คำสอน ทันใดนั้นก็มีชายคนหนึ่งตะโกนออกมา "นี่เจ้ากำลังพูดเรื่องบ้าอะไรกันอยู่!"</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon3">
+			<DisplayName>เผยแผ่คำสอน</DisplayName>
+			<Desc>วันนี้เป็นวันที่อากาศดีผู้แทนสำนัก [NAME] ได้ทำการเผยแผ่คำสอน ต่อมาได้มีบัณฑิตคนหนึ่งเข้ามาโต้แย้งและบอกว่าสิ่งที่ผู้แทนสำนัก [NAME] พูดนั้นมันผิด... มันมีแต่เรื่องหลอกลวง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon4">
+			<DisplayName>เผยแผ่คำสอน</DisplayName>
+			<Desc>วันนี้เป็นวันที่อากาศดีผู้แทนสำนัก [NAME] ได้ทำการเผยแผ่คำสอน และได้มีสตรีวัยกลางคนคนหนึ่งได้ตบมืออย่างบ้าคลั่ง ทว่าสตรีนางนั้นมิใช่สาวกแต่อย่างใด</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret1">
+			<DisplayName>วางแผนการ</DisplayName>
+			<Desc>วันนี้เป็นวันที่อากาศดีผู้แทนสำนัก [NAME] ได้เดินเข้าไปในศาลาลับและเตรียมแผนการ</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret2">
+			<DisplayName>วางแผนการ</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้พบว่า[SCHOOL0]นั้นกำลังเตรียมที่จะดึงชาวบ้านให้เข้าร่วมด้วยการบริจาคสิ่งของ ดังนั้นผู้แทนสำนัก [NAME] จึงเตรียมแผนการขัดขวาง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret3">
+			<DisplayName>วางแผนการ</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้พบว่า[SCHOOL0]กำลังเตรียมที่จะเผยแพ่คำสอน...ทั้นใดนั้นแผนการอย่างหนึ่งก็ปรากฏเข้ามาในหัวอย่างฉับพลัน</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret4">
+			<DisplayName>วางแผนการ</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ได้พบว่า[SCHOOL0]กำลังเตรียมจัดงานบุญครั้งใหญ่ ดังนั้นผู้แทนสำนัก [NAME] จึงตัดสินใจวางแผนการบางอย่าง....</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp1">
+			<DisplayName>พิธีละกิเลส</DisplayName>
+			<Desc>วันนี้เป็นวันที่อากาศดีผู้แทนสำนัก [NAME] ได้เดินเข้าไปในอารามและเตรียมทำพิธีละกิเลส</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp2">
+			<DisplayName>พิธีละกิเลส</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] เห็นว่าผู้คนต่างใช้ชีวิตอย่างฟุ่มเฟือยจึงตัดสินใจประกอบพิธีละกิเลส</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp3">
+			<DisplayName>พิธีละกิเลส</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] เห็นว่าคนรวยก็อยู่อย่างฟุ่มเฟือย ส่วนคนจนตายข้างถนนโดยที่ไม่มีใครสนใจ ดังนั้นจึงตัดสินใจประกอบพิธีละกิเลสขึ้น</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp4">
+			<DisplayName>พิธีละกิเลส</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] เห็นว่าพวกนอกกฎหมายเต็มบ้านเต็มเมือ ส่วนผู้มีอำนาจกลับปล่อยปละละเลย บางก็สนับสนุนบางพวกมัน ดังนั้นจึงตัดสินใจทำพิธีละกิเลสเพื่อเทศนาคนในเมือง</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp5">
+			<DisplayName>พิธีละกิเลส</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] เห็นว่าพวกทหารแทนที่จะปกป้องกลับข่มเหงชาวบ้านและผู้ถือกฎหมายกลับใช้กฎหมายไปในทางที่ผิด ดังนั้นจึงตัดสินใจทำพิธีละกิเลสขึ้น</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_God1">
+			<DisplayName>ปาฏิหาริย์</DisplayName>
+			<Desc>ผู้แทนสำนัก[NAME] ตัดสินใจว่าวันนี้เป็นวันดีที่จะให้เหล่าสาวกได้เห็นถึงปาฏิหาริย์ของผู้ฝึกตนวิถีเทพ</Desc>
+			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

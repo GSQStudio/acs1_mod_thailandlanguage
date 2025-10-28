@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_OC">
+			<DisplayName>แสงแม่เหล็กต่างโลก</DisplayName>
+		</Text>
+		<Text Name="Ls_Erosion">
+			<DisplayName>หยินหยางกัดกร่อน</DisplayName>
+			<Desc>ลดพลังป้องกันของศัตรูเป็นอย่างมากด้วยพลังแห่งหยินหยาง</Desc>
+		</Text>
+	</List>
+</Texts>

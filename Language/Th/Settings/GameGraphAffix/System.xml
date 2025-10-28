@@ -1,0 +1,40 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="1">
+			<Display>จำนวนผู้เหินสวรรค์: {0}</Display>
+		</Text>
+		<Text Name="2">
+			<Display>สร้างสมบัติวิเศษ: {0} ครั้ง</Display>
+		</Text>
+		<Text Name="3">
+			<Display>วาดยันต์: {0} ครั้ง</Display>
+		</Text>
+		<Text Name="4">
+			<Display>สังหารสิ่งมีชีวิต: {0} ตัว</Display>
+		</Text>
+		<Text Name="5">
+			<Display>เรียนรู้ผ่านตำรา: คัมภีร์ลับ {0} เล่ม</Display>
+		</Text>
+		<Text Name="6">
+			<Display>เวลาเหินสวรรค์ที่เร็วที่สุด: วันที่ {0}</Display>
+		</Text>
+		<Text Name="7">
+			<Display>ปรุงเม็ดยา: {0} ครั้ง</Display>
+		</Text>
+		<Text Name="8">
+			<Display>การผจญภัย: {0} ครั้ง</Display>
+		</Text>
+		<Text Name="9">
+			<Display>ทำอาหาร: {0} ครั้ง</Display>
+		</Text>
+		<Text Name="10">
+			<Display>คะแนนความสำเร็จ: {0}</Display>
+		</Text>
+		<Text Name="11">
+			<Display>จำนวนศิษย์ชั้นในที่เสียชีวิตสะสม: {0}</Display>
+		</Text>
+		<Text Name="12">
+			<Display>ค้นพบสถานที่ใหม่ด้วยตนเองระหว่างการผจญภัย {0} แห่ง</Display>
+		</Text>
+	</List>
+</Texts>

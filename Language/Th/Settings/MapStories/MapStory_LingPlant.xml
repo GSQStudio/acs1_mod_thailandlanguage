@@ -1,0 +1,39 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_LingZhi_YunYangBegin">
+			<DisplayName>ดูแล</DisplayName>
+			<Desc>ในขณะที่ [NAME] ดูแล [HENAME] ก็มีบางสิ่งที่พิเศษเกิดขึ้น</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_YunYangEnd">
+			<DisplayName>ดูแลเสร็จสิ้น</DisplayName>
+			<Desc>เมื่อ [NAME] ดูแล [HENAME] เสร็จแล้ว ก็มีบางสิ่งที่พิเศษเกิดขึ้น</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Chance">
+			<DisplayName>บุญวาสนา</DisplayName>
+			<Desc>มีการเปลี่ยนแปลงเล็กน้อยในด้านสติปัญญาในขณะที่ [NAME] กำลังเติบโต</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Grow">
+			<DisplayName>พืชวิญญาณเติบโตเต็มที่</DisplayName>
+			<Desc>เมื่อรากวิญญาณเติบโตเต็มที่ พลังปราณทั่วทั้งสวรรค์และโลกก็เปลี่ยนไปอย่างกะทันหันและบางสิ่งที่พิเศษก็เกิดขึ้น</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Ripe">
+			<DisplayName>ผลไม้วิญญาณสุกเต็มที่</DisplayName>
+			<Desc>มีปฏิกิริยาบางอย่างเกิดขึ้นอย่างกะทันหันบนสวรรค์และโลกเมื่อพืชวิญญาณสุกงอม ดูเหมือนว่าจะมีบางสิ่งที่พิเศษเกิดขึ้น</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_LingSha">
+			<DisplayName>จิตวิญญาณชั่วร้าย</DisplayName>
+			<Desc>จิตมารของ [NAME] มาถึงขั้นขอบเขตสุดท้ายแล้ว ดูเหมือนว่าจะมีอะไรบางอย่างเกิดขึ้น</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Attack">
+			<DisplayName>การบุกรุกของศัตรู</DisplayName>
+			<Desc>ผลไม้วิญญาณสุกงอมแล้ว ทว่าดูเหมือนว่าจะมีความวุ่นวายอะไรบางอย่างเกิดขึ้น เตรียมตัวให้พร้อม</Desc>
+			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

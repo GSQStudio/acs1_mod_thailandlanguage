@@ -1,0 +1,10 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="RPGOnlineNpc">
+			<DisplayName>ทดสอบ</DisplayName>
+			<Selections.0.Display>อัพโหลดตัวละคร</Selections.0.Display>
+			<Selections.1.Display>สร้างศัตรู</Selections.1.Display>
+			<Selections.2.Display>ออก</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>

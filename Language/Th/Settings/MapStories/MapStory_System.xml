@@ -1,0 +1,136 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="sys_getnothing">
+			<DisplayName>เสียเปล่า</DisplayName>
+			<Desc>พวกเราไม่ได้รับสิ่งใดที่เป็นประโยชน์กลับมาเลย</Desc>
+		</Text>
+		<Text Name="sys_noreaction">
+			<DisplayName>ไม่มีการตอบสนอง</DisplayName>
+			<Desc>ดูเหมือนจะไม่มีการตอบสนองใดๆ</Desc>
+		</Text>
+		<Text Name="sys_brokenneck">
+			<DisplayName>รู้แจ้ง</DisplayName>
+			<Desc>[NAME] จุู่ๆ ก็ได้รับความรู้แจ้งถึงสิ่งหนึ่ง และดูเหมือนว่าสิ่งนั้นจะเป็นวิถีทางการบ่มเพาะบนเส้นทาง[ITS] [IT]ได้รีบนั่งสมาธิอย่างรวดเร็วและคิดทบทวนสิ่งที่เพิ่งได้รู้แจ้งมา</Desc>
+		</Text>
+		<Text Name="sys_openplacelink">
+			<DisplayName>มาถึงเป็นครั้งแรก</DisplayName>
+			<Desc>เมื่อมาถึง[PLACE]เป็นครั้งแรก [NAME] ได้ถามคนในท้องถิ่นเกี่ยวกับสถานแห่งนี้</Desc>
+		</Text>
+		<Text Name="sys_openplace">
+			<DisplayName>ค้นพบสถานที่ใหม่แล้ว</DisplayName>
+			<Desc>หลังจากที่มายัง[PLACE]หลายต่อหลายครั้ง ในที่สุด [NAME] ก็คุ้นเคยกับสถานที่แห่งนี้และค้นพบสถานที่แห่งใหม่ที่น่าสนใจในบริเวณใกล้เคียง</Desc>
+		</Text>
+		<Text Name="sys_test">
+			<DisplayName>รู้แจ้ง</DisplayName>
+			<Desc>[NAME] จุู่ๆ ก็ได้รับความรู้แจ้งถึงสิ่งหนึ่ง และดูเหมือนว่าสิ่งนั้นจะเป็นวิถีทางการบ่มเพาะบนเส้นทาง[ITS] [IT]ได้รีบนั่งสมาธิอย่างรวดเร็วและคิดทบทวนสิ่งที่เพิ่งได้รู้แจ้งมา</Desc>
+		</Text>
+		<Text Name="Story_SoulSeach">
+			<DisplayName>ค้นวิญญาณ</DisplayName>
+			<Desc>[NAME] ได้ทำการค้นวิญญาณบนร่างที่กำลังจะตายของผู้ฝึกตน และพยายามที่จะค้นหาข้อมูลที่เป็นประโยชน์ในวิญญาณของพวกเขา</Desc>
+		</Text>
+		<Text Name="Story_JiangDao">
+			<DisplayName>รู้แจ้งอย่างกระทันหัน</DisplayName>
+			<Desc>[NAME] จมอยู่ในความลึกซึ้งของเต๋า</Desc>
+		</Text>
+		<Text Name="Story_TitleGold">
+			<DisplayName>แก่นทองคำ</DisplayName>
+			<Desc>หลังจากทะลวงมายังขอบเขตแก่นทองคำ [NAME] ก็ได้รับฉายาจากผู้ฝึกตนคนอื่นๆ</Desc>
+		</Text>
+		<Text Name="Story_TitleRandom">
+			<DisplayName>ชื่อเสียงที่กำลังเติบโต</DisplayName>
+			<Desc>หลังจากที่ได้ออกไปผจญภัยนอกสำนัก[ITS] แล้ว [NAME] ก็มีชื่อเสียงเพิ่มขึ้นในหมู่ผู้ฝึกตนคนอื่นๆ</Desc>
+		</Text>
+		<Text Name="Story_sys_BossLong_Wish">
+			<DisplayName>ขอพร</DisplayName>
+			<Desc>สิ่งมีชีวิตลึกลับภายในถ้ำดูเหมือนจะมีพลังมหัศจรรย์บางอย่าง และสามารถขอพรได้โดยแลกกับค่าตอบแทนบางอย่าง อย่างไรก็ตาม มันจะโกรธเป็นอย่ามากถ้าหากว่าคนผู้นั้นไม่สามารถตอบสนองความต้องการของมันได้</Desc>
+			<Selections.0.Display>ขอพรเกี่ยวกับความลับ</Selections.0.Display>
+			<Selections.1.Display>ต้องการพลังปราณ</Selections.1.Display>
+			<Selections.2.Display>ขอพรให้ยกระดับความแข็งแกร่งของตน</Selections.2.Display>
+			<Selections.3.Display>จากไป</Selections.3.Display>
+		</Text>
+		<Text Name="Story_sys_BossLong_WishSuccess">
+			<DisplayName>พรได้รับการตอบรับ</DisplayName>
+			<Desc>สิ่งมีชีวิตลึกลับพอใจกับเครื่องทำความเคารพและบรรดาลคำขอของ [NAME] ให้เป็นจริง</Desc>
+		</Text>
+		<Text Name="System_RobGreateBuilding">
+			<DisplayName>สำคัญของสิ่งมหัศจรรย์</DisplayName>
+			<Desc>[NAME] พยายามจับสาระสำคัญของสิ่งมหัศจรรย์ของเมือง</Desc>
+			<Selections.0.Display>จับสาระสำคัญ</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="System_LearnGreateBuilding">
+			<DisplayName>ทำสมาธิ</DisplayName>
+			<Desc>ว่ากันว่ามีความลับของค่ายกลปริศนาในสิ่งมหัศจรรย์แห่งนี้ และ [NAME] ก็พยายามทำความเข้าใจกฎแห่งสวรรค์และโลกที่อยู่ในภาพเพื่อให้เข้าใจว่ามันคืออะไร</Desc>
+			<Selections.0.Display>ทำสมาธิ</Selections.0.Display>
+			<Selections.0.Tip>ค่าสถานะ/สติปัญญา/โชค/ทักษะค่ายกล</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="System_LearnGreateBuilding_WuDang">
+			<DisplayName>ทำสมาธิ</DisplayName>
+			<Desc>ห้องโถงทองคำแห่งบู๊ตึ้งให้บรรยากาศอันเงียบสงบและรัศมีลึกลับของเทพเจ้า ราวกับว่ามันกำลังสื่อข้อความถึงเหล่าสาวก</Desc>
+			<Selections.0.Display>ทำสมาธิ</Selections.0.Display>
+			<Selections.0.Tip>ค่าสถานะ/สติปัญญา/โชค</Selections.0.Tip>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_ZhenWuShenXiang">
+			<DisplayName>ทำความเคารพ</DisplayName>
+			<Desc>ทำความเคารพรูปปั้นเทพจักรพรรดิ์นักรบเพื่อรับคำแนะนำบางส่วนจากเทพ</Desc>
+			<Selections.0.Display>ทำความเคารพ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="System_EnterQianKunJie">
+			<DisplayName>จักรวาลย่อส่วน</DisplayName>
+			<Desc>สิ่งก่อสร้างวิเศษที่เป็นสมบัติลับของสำนักไท้อี้ มันมีผลึกวิญญาณจักรวาลอยู่ในแกนกลางของมัน ซึ่งภายในมีกฎเกณฑ์แห่งมิติที่สามารถใช้เก็บสิ่งของได้ทุกประเภท และมันมีตราผนึกเล็กๆ เพื่อทำการป้องกันผู้ที่ไม่ได้รับอนุญาตให้ใช้งานอีกด้วย ไม่ว่าคนผู้นั้นจะแข็งแกร่งแค่ไหน เขาก็ไม่สามารถใช้กำลังในการนำของข้างในออกมาได้</Desc>
+			<Selections.0.Display>ใช้จิตศักดิ์สิทธิ์ตรวจสอบ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="System_EnterQianKunJie1">
+			<DisplayName>จักรวาลย่อส่วน</DisplayName>
+			<Desc>[NAME] เพียงแค่ตรวจสอบทางเข้า อีกด้านหนึ่งของตราประทับดูเหมือนจะเป็นพื้นที่ว่างเปล่าที่ไม่มีสิ่งมีชีวิตใดๆ เคลื่อนไหว อีกทั้งยังไม่มีสัญญาณอันตรายใดๆ ปรากฏอยู่เลย</Desc>
+			<Selections.0.Display>เข้าไป</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_NormalTalk">
+			<DisplayName>พูดคุย</DisplayName>
+			<Desc>ชีวิตธรรมดาสามัญนั้นช่างน่าเบื่อแต่ก็สนุกสนาน</Desc>
+			<Selections.0.Display>พูดคุยทั่วไป</Selections.0.Display>
+			<Selections.0.Say>มีอะไรใหม่ๆ บ้าง?</Selections.0.Say>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_DiscipleTalk">
+			<DisplayName>พูดคุย</DisplayName>
+			<Desc>เมื่อคนผู้หนึ่งเลือกเดินในเส้นทางที่มุ่งสู่ความเป็นอมตะ คนผู้นั้นจะต้องก้าวไปข้างหน้าเสมอ ...</Desc>
+			<Selections.0.Display>สอบถาม</Selections.0.Display>
+			<Selections.0.Say>มีข่าวอะไรบ้าง?</Selections.0.Say>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="System_Tribute">
+			<DisplayName>บรรณาการ</DisplayName>
+			<Desc>[NAME] ได้มาถึงยัง [PLACE]พร้อมเก็บบรรณาการประจำปี</Desc>
+			<Selections.0.Display>เก็บบรรณาการ</Selections.0.Display>
+			<Selections.1.Display>จากไป</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_UnlockPlant">
+			<DisplayName>เก็บตัวอย่าง</DisplayName>
+			<Desc>[NAME] พยายามที่จะเก็บตัวอย่างจากของชิ้นนี้</Desc>
+			<Selections.0.Display>เก็บรวบรวม</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_UnlockBuilding">
+			<DisplayName>สังเกตการณ์</DisplayName>
+			<Desc>[NAME]พยายามเรียนรู้วิธีสร้างสิ่งปลูกสร้างชิ้นนี้</Desc>
+			<Selections.0.Display>สังเกตการณ์</Selections.0.Display>
+		</Text>
+		<Text Name="Story_SuperPartItem">
+			<DisplayName>เรียนรู้ความลึกซึ้ง</DisplayName>
+			<Desc>พยายามทำความเข้าใจเกี่ยวกับความรู้ที่ลึกซึ้งของวิธีการหลอมกายาในชิ้นส่วนร่างกายชิ้นนี้</Desc>
+			<Selections.0.Display>ได้รับแนวคิด</Selections.0.Display>
+			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Fight">
+			<DisplayName>แข่งขันกระชับมิตร</DisplayName>
+			<Desc>ขอให้ลูกศิษย์มีการแข่งขันกระชับมิตรที่นี่</Desc>
+			<Selections.0.Display>ต่อสู้</Selections.0.Display>
+			<Selections.1.Display>ไม่ดีกว่า</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
