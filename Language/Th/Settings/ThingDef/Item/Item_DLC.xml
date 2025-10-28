@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BambooShoot" sParam="Item">
+			<ThingName>หน่อไม้ไผ่</ThingName>
+			<Desc>หน่อไม้ไผ่ หน่ออ่อนของต้นไผ่ที่สามารถนำมาประกอบอาหารได้กรุบกรอบและสดชื่น</Desc>
+			<Item.FabaoSuffix>สาย, ม้วนด้าย</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Bamboo" sParam="Item">
+			<ThingName>ไม้ไผ่</ThingName>
+			<Desc>มัดไม้ไผ่ที่ใช้ทำคันเบ็ดและสิ่งปลูกสร้างบางอย่างได้ กินได้เฉพาะแพนด้าเท่านั้น</Desc>
+			<Item.FabaoSuffix>แท่ง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FishStick" sParam="Item">
+			<ThingName>เบ็ดตกปลา</ThingName>
+			<Desc>คันเบ็ดตกปลา ปลาบางชนิดจะถูกดึงดูดด้วยองค์ประกอบเฉพาะและพวกมันก็ปรากฏขึ้นในเวลาที่ต่างกันเท่านั้น นอกจากนี้ ยิ่งคันเบ็ดมีระดับสูงมากเท่าไร อัตราการจับปลาหายากก็จะยิ่งสูงมากขึ้น</Desc>
+			<Item.FabaoSuffix>เบ็ด,เส้น,เอ็น</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PandaJade" sParam="Item">
+			<ThingName>หยกแพนด้า</ThingName>
+			<Desc>หยกที่พบในป่าไผ่โบราณ ดูเหมือนว่ามันจะเป็นหนึ่งในชุดของอุปกรณ์อะไรซักอย่าง</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบหยกแพนด้า</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Panda" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: แพนด้า</ThingName>
+		</Text>
+	</List>
+</Texts>

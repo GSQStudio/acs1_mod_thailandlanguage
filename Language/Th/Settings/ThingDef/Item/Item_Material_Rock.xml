@@ -1,0 +1,57 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBase" sParam="Item">
+			<Item.FabaoSuffix>หิน, ประทับ, ศิลาจารึก, หยกคู่, แผ่น, หอคอย, หินใหญ่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRock" sParam="Item">
+			<ThingName>หินสีน้ำตาล</ThingName>
+			<Desc>หินที่มีสีน้ำตาล มันเป็นวัตถุดิบธรรมดาทั่วไป</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีน้ำตาล</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRock" sParam="Item">
+			<ThingName>หินสีเทา</ThingName>
+			<Desc>หินที่มีสีเทา มันเป็นวัตถุดิบธรรมดาทั่วไป</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีเทา</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Marble" sParam="Item">
+			<ThingName>หินอ่อน</ThingName>
+			<Desc>หินอ่อนเป็นวัสดุหินทั่วไป พื้นผิวของมันค่อนข้างสวยงามและน่าดึงดูด</Desc>
+			<Item.BeMaterial.NamePrefix>หินอ่อน</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Jade" sParam="Item">
+			<ThingName>หยก</ThingName>
+			<Desc>หินเนื้อละเอียดที่ทั้งแข็งและมันวาว มันมีความโปร่งแสงเล็กน้อย พื้นผิวของมันนั้นมีเสน่ห์น่าดึงดูดเป็นอย่างมาก อีกทั้งมันยังเต็มไปด้วยคุณสมบัติทางจิตวิญญาณอีกด้วย</Desc>
+			<Item.BeMaterial.NamePrefix>หยก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeEssence" sParam="Item">
+			<ThingName>แกนหยก</ThingName>
+			<Desc>แกนของหยก มันมีน้ำหนักที่เบา, มีพื้นที่ผิวเรียบ, และมีความสวยงามเป็นอย่างมาก มักถูกใช้สำหรับการประดับตกแต่งในอุปกรณ์หรือสิ่งปลูกสร้างชั้นสูงและในบางครั้งก็สามารถใช้เป็นส่วนผสมในการปรุงยาได้อีกด้วย</Desc>
+			<Item.BeMaterial.NamePrefix>แกนหยก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StoneEssence" sParam="Item">
+			<ThingName>แกนหิน</ThingName>
+			<Desc>แกนของหิน มันมีน้ำหนักที่เบา, มีพื้นที่ผิวเรียบ, และมีความสวยงามเป็นอย่างมาก มักถูกใช้สำหรับการประดับตกแต่งในอุปกรณ์หรือสิ่งปลูกสร้างชั้นสูงและในบางครั้งก็สามารถใช้เป็นส่วนผสมในการปรุงยาได้อีกด้วย</Desc>
+			<Item.BeMaterial.NamePrefix>แกนหิน</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStone" sParam="Item">
+			<ThingName>หินศักดิ์สิทธิ์</ThingName>
+			<Desc>หินหายากชนิดหนึ่งที่กล่าวกันว่ามันถูกขุดขึ้นมาจากเสาที่ตกลงมาจากสรวงสวรรค์ มันมีปราณธาตุดินอันบริสุทธิ์อัดแน่นกันอยู่ภายใน</Desc>
+			<Item.BeMaterial.NamePrefix>หินศักดิ์สิทธิ์</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ExtremeJade" sParam="Item">
+			<ThingName>หยกเทวะ</ThingName>
+			<Desc>สมบัติล้ำค่าที่เป็นที่ต้องการของบรรดาผู้ฝึกตน โดยทั่วไปแล้วมันมักจะปรากฏอยู่ในรูปแบบของแท่งผลึกที่มีสีเขียวอมฟ้า มันมีปราณธาตุดินอันบริสุทธิ์อัดแน่นกันอยู่ภายใน</Desc>
+			<Item.BeMaterial.NamePrefix>หยกเทวะ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStone" sParam="Item">
+			<ThingName>หินวิญญาณ</ThingName>
+			<Desc>หินที่เกิดจากการควบแน่นของปราณที่มีความเข้มข้นสูง ผู้ฝึกตนสามารถใช้มันเพื่อฟื้นฟูปราณได้ 500 หน่วย อีกทั้งยังช่วยยกระดับการดูดซับปราณชั่วระยะเวลาหนึ่ง</Desc>
+			<Item.BeMaterial.NamePrefix>หินวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystal" sParam="Item">
+			<ThingName>ผลึกวิญญาณ</ThingName>
+			<Desc>ผลึกที่เกิดขึ้นจากการควบแน่นของปราณที่มีความเข้มข้นสูง ผู้ฝึกตนสามารถใช้มันเพื่อฟื้นฟูปราณได้ 20,000 หน่วย อีกทั้งยังช่วยยกระดับการดูดซับปราณเป็นอย่างมากชั่วระยะเวลาหนึ่ง</Desc>
+			<Item.BeMaterial.NamePrefix>ผลึกวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

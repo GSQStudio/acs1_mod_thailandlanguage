@@ -1,0 +1,113 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Dice" sParam="Item">
+			<ThingName>ลูกเต๋า</ThingName>
+			<Desc>ลูกเต๋าคู่หนึ่งที่สามารถใช้เพื่อเล่นแก้เบื่อและปรับปรุงสภาพอารมณ์ยามว่าง แต่จะขัดขวางประสิทธิภาพการทำงาน</Desc>
+			<Item.FabaoSuffix>ลูกเต๋า</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SmallBell" sParam="Item">
+			<ThingName>กระดิ่ง</ThingName>
+			<Desc>กระดิ่งเล็กๆ ที่พกติดตัวไปด้วยจะช่วยยกระดับสภาพอารมณ์และดึงดูดความสนใจของผู้อื่น ทำให้พวกเขาสนใจที่จะสื่อสารกับท่านมากขึ้น</Desc>
+			<Item.FabaoSuffix>กระดิ่ง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Bracelet" sParam="Item">
+			<ThingName>กำไลข้อมือ</ThingName>
+			<Desc>กำไลคู่ที่สวมใส่ทำให้ท่านดูมีเสน่ห์มากขึ้น</Desc>
+			<Item.FabaoSuffix>กำไลข้อมือ, แกะสลัก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Handkerchief" sParam="Item">
+			<ThingName>ผ้าเช็ดหน้า</ThingName>
+			<Desc>ผ้าเช็ดหน้า พกติดตัวไว้จะทำให้ท่านดูเป็นสุภาพชนในสายตาคนอื่น</Desc>
+			<Item.FabaoSuffix>ผ้าเช็ดหน้า, ไหม, สิ่งทอ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PerfumeBag" sParam="Item">
+			<ThingName>ซองหอม</ThingName>
+			<Desc>สมุนไพรและเครื่องเทศหอมถุงเล็กๆ ช่วยปรับปรุงสภาพจิตใจเมื่อสวมใส่โดยศิษย์สายใน</Desc>
+			<Item.FabaoSuffix>กระเป๋า</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WhiteHair" sParam="Item">
+			<ThingName>บทกวีแสนเศร้า</ThingName>
+			<Desc>บทกวีแห่งความเศร้าที่ถูกรวบรวมมาเป็นหนังสือ ความเศร้าโศกอย่างรุนแรงจะส่งผลให้ผู้ที่พกพามันจะถูกย้อมด้วยความเศร้าโศกจนผมของพวกเขาจะกลายเป็นสีขาว ซึ่งมันช่วยเพิ่มเสน่ห์ให้แก่ผู้ส่วมใส่</Desc>
+			<Item.FabaoSuffix>เล่ม, หนังสือ, สลิป, ม้วนตำรา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_PerfectWorld" sParam="Item">
+			<ThingName>โลกที่สวยงาม</ThingName>
+			<Desc>กล่องจากต่างโลก ดื่มด่ำไปกับการเล่นเกมที่สนุกและน่าประทับใจ</Desc>
+			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_QiYuanZhiXin" sParam="Item">
+			<ThingName>หัวใจภาวนา</ThingName>
+			<Desc>สมบัติที่ทำขึ้นมาจากการสวดอ้อนวอนของเหล่ามนุษย์ปุถุชนเพื่อขอให้ชีวิตมีแต่ความสุข</Desc>
+			<Item.FabaoSuffix>หัวใจ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
+			<ThingName>เข็มเทพตะวันออก</ThingName>
+			<Desc>วัตถุชิ้นนี้แต่เดิมเป็นกระบี่วิเศษของเซียนอมตะคนหนึ่ง แม้ว่ามันจะสูญเสียพลังทั้งหมดไปในกระบวนการของการกลับชาติมาเกิดพร้อมกับเจ้านายของมัน ทว่าแก่นแท้ที่ไม่ธรรมดาของมันก็ยังคงอยู่</Desc>
+			<Item.FabaoSuffix>เข็ม</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_MuBai_BaiYuShi" sParam="Item">
+			<ThingName>หยกขาว</ThingName>
+			<Desc>ชิ้นส่วนของหินหยกขาวที่เซียนไม้ขาวได้ทิ้งเอาไว้ แม้ว่ามันจะดูธรรมดาเป็นอย่างมาก ทว่ามันสามารถเพิ่มความทนทานตามธรรมชาติของผู้สวมใส่ได้เป็นอย่างมาก</Desc>
+			<Item.FabaoSuffix>ก้อนหิน</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_QingLianShan_SiXiang" sParam="Item">
+			<ThingName>ภาพวาดสี่ฤดู</ThingName>
+			<Desc>แผนภาพลึกลับที่มีพลังมหาศาลซ่อนอยู่ มันถูกทิ้งไว้โดยเซียนชิงเหลียน ผู้ที่พกพามันสามารถใช้พลังปราณแห่งธรรมชาติในการหมุนของฤดูกาลทั้งสี่ในจักรวาลอันไร้ขอบเขตเพื่อหลอกลวงทางสวรรค์ทำให้รอดพ้นจากทัณฑ์สวรรค์เป็นเวลา 9 ปี ถ้าหากในระหว่างนี้ไม่ได้พกพาภาพวาดสี่ฤดูเอาไว้กับตัวเมื่อไร ทัณฑ์สวรรค์ก็จะมาปรากฏต่อหน้าคนผู้นั้นทันที</Desc>
+			<Item.FabaoSuffix>รูปภาพ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Other_PuppetTest" sParam="Item">
+			<ThingName>หุ่นเชิด</ThingName>
+			<Desc>หุ่นเชิดที่ว่ากันว่าเกิดจากการใช้วิธีการลับในการเสริมปราณของไปยังหุ่นเพื่อควบคุมมันได้ตามต้องการตามวิธีการที่มีอยู่ในวิชาบ่มเพาะสิบหกก้าวสู่เซียน</Desc>
+			<Item.FabaoSuffix>หุ่นเชิด</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_RabbitLuck" sParam="Item">
+			<ThingName>เท้าอสูรกระต่าย</ThingName>
+			<Desc>ว่ากันว่ามันจะนำพาความโชคดีมาให้แก่ผู้ที่พกพามัน</Desc>
+		</Text>
+		<Text Name="Item_Yao_WolfAtk" sParam="Item">
+			<ThingName>เขี้ยวอสูรหมาป่า</ThingName>
+			<Desc>เขี้ยวปีศาจหมาป่าที่ไม่บุบสลายและเต็มไปด้วยพลังงานด้านลบ การสวมใส่มันจะเพิ่มพลังของอาวุธวิเศษเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Item_Yao_SnakeHanLin" sParam="Item">
+			<ThingName>เกล็ดอสูรงู</ThingName>
+			<Desc>เกล็กของอสูรงูที่มีปราณหยินอัดกันอยู่อย่างหนาแน่นภายในนั้น ทำให้ผู้ที่พกพามันสามารถทนทานต่อความร้อนได้ดียิ่งขึ้น อีกทั้งมันยังช่วยยกระดับสภาวะจิตอีกด้วย</Desc>
+		</Text>
+		<Text Name="Item_Yao_BearPiMao" sParam="Item">
+			<ThingName>ขนอสูรหมีป่า</ThingName>
+			<Desc>ขนแข็งบริเวณคอของหมูป่าทีมีปราณหยางแฝงอยู่อย่างหนาแน่นภายในนั้น ทำให้ผู้ที่พกพามันสามารถทนทานต่อความเย็นได้ดียิ่งขึ้น อีกทั้งมันยังช่วยเพิ่มความเร็วในการบ่มเพาะอีกด้วย</Desc>
+		</Text>
+		<Text Name="Item_Yao_TurtleKe" sParam="Item">
+			<ThingName>กระดองเต่ายักษ์</ThingName>
+			<Desc>กระดองเต่ายักษ์ที่แข็งแรงทนทานมาก การสวมใส่มันจะเพิ่มความต้านทานความเสียหายจากปราณได้ดีมากยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="Item_Yao_TigerZhui" sParam="Item">
+			<ThingName>กระดูกอสูรพยัคฆ์</ThingName>
+			<Desc>กระดูกของอสูรพยัคฆ์ที่มีพลังอำนาจของความเผด็จการแฝงอยู่ภายใน การสวมใส่มันจะเพิ่มค่าเสน่ห์และเมล็ดเต๋าให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_Yao_CattleJiao" sParam="Item">
+			<ThingName>เขาอสูรกระทิง</ThingName>
+			<Desc>เขาอันแข็งแกร่งของอสูรกระทิง การสวมใส่มันเพิ่มค่าความอีดให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_Yao_ChickenGuan" sParam="Item">
+			<ThingName>มงกุฎทองคำ</ThingName>
+			<Desc>หงอนไก่อันล้ำค่าที่อสูรไก่ได้รวบรวมพลังของแก่นตะวันเอาไว้ภายในนั้น การสวมใส่มันเพิ่มค่าสติปัญญาให้แก่ผู้สวมใส่</Desc>
+		</Text>
+		<Text Name="Item_StoneCutter" sParam="Item">
+			<ThingName>มีดตัดหิน</ThingName>
+			<Desc>มีดที่มีความทื่อเป็นอย่างมาก เดิมทีมันเป็นมีดที่มีไว้ใช้ในการขุดเหมือง มันสามารถเพิ่มความเร็วในการก่อสร้างให้แก่ศิษย์สายนอกได้</Desc>
+		</Text>
+		<Text Name="Item_SewingDefender" sParam="Item">
+			<ThingName>ปลอกแขนเย็บผ้า</ThingName>
+			<Desc>แม้ว่าจะดูเหมือนปลอกแขนธรรมดาทั่วไป ทว่ามันสามารถเร่งงานเย็บได้โดยส่งเสริมแรงที่ศอก</Desc>
+		</Text>
+		<Text Name="Item_MillVell" sParam="Item">
+			<ThingName>หน้ากาก</ThingName>
+			<Desc>หน้ากากที่ทำให้ไม่มีใครจดจำท่านได้เมื่อท่านใช้มันปกปิดใบหน้า ดังนั้นท่านจึงสามารถนวดแป้งหรือเร่งงานฝีมืออื่นๆ ได้ตามที่ท่านต้องการ เนื่องจากไม่มีใครสามารถบอกได้ว่าท่านทำได้ดีหรือไม่</Desc>
+		</Text>
+		<Text Name="Item_Sys_RanSeYu" sParam="Item">
+			<ThingName>หยกย้อม</ThingName>
+			<Desc>หยกชนิดพิเศษ เมื่อเปิดใช้งานด้วยการร่ายคาถา มันจะกลายเป็นควันและติดอยู่กับบุคคลส่งผลให้ถูกตรวจจับได้ยากยิ่งขึ้น อย่างไรก็ตาม ผู้ที่ร่ายสามารถสัมผัสได้ถึงร่อยของมันได้อยู่</Desc>
+			<Item.FabaoSuffix>หยก</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

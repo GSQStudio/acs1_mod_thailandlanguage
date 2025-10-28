@@ -1,0 +1,186 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TestProperty1">
+			<DisplayName>ข้อมูลการทดสอบ</DisplayName>
+		</Text>
+		<Text Name="GlobalEfficiency">
+			<DisplayName>ประสิทธิภาพการทำงานโดยรวม</DisplayName>
+			<Desc>อัตราพื้นฐานการทำงานของผู้ฝึกตนซึ่งส่งผลต่องานทั้งหมดที่พวกเขาทำ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="SmithingInjuredChance">
+			<DisplayName>โอกาสบาดเจ็บจากการตีเหล็ก</DisplayName>
+			<Desc>โอกาสที่จะเกิดอุบัติเหตุที่เป็นอันตรายในขณะที่กำลังทำงานตีเหล็ก</Desc>
+		</Text>
+		<Text Name="MiningInjuredChance">
+			<DisplayName>โอกาสบาดเจ็บจากการขุด</DisplayName>
+			<Desc>โอกาสที่จะเกิดอุบัติเหตุที่เป็นอันตรายในขณะที่กำลังทำงานขุด</Desc>
+		</Text>
+		<Text Name="ConstructInjuredChance">
+			<DisplayName>โอกาสบาดเจ็บจากการก่อสร้าง</DisplayName>
+			<Desc>โอกาสที่จะเกิดอุบัติเหตุที่เป็นอันตรายในขณะที่กำลังทำงานก่อสร้าง</Desc>
+		</Text>
+		<Text Name="DrugProductSpeed">
+			<DisplayName>ความเร็วในการปรุงยา</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการปรุงยา (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="TreatSpeed">
+			<DisplayName>ความเร็วในการรักษา</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการรักษา (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="TreatSuccessChance">
+			<DisplayName>อัตราความสำเร็จในการรักษา</DisplayName>
+			<Desc>ความน่าจะเป็นในการรักษาจะสำเร็จลุล่วงไปด้วยดี การล้มเหลวอาจทำให้อาการบาดเจ็บแย่ลง</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="TreatmentExpectQuality">
+			<DisplayName>ประมาณการการฟื้นตัว</DisplayName>
+			<DisplayValue>{0}%/วิ</DisplayValue>
+			<Desc>ค่าโดยประมาณสำหรับระยะเวลาที่อาการบาดเจ็บจะฟื้นตัวหลังการรักษา อาจแตกต่างกันไปบ้างตามฝีมือของหมอที่ทำการรักษา</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="TreatmentRealQualityPercentMin">
+			<DisplayName>ผลการรักษาต่ำสุด</DisplayName>
+			<Desc>ค่าต่ำสุดแบบสุ่มของผลของการรักษาเมื่อทำการรักษา</Desc>
+		</Text>
+		<Text Name="TreatmentRealQualityPercentMax">
+			<DisplayName>ผลการรักษาสูงสุด</DisplayName>
+			<Desc>ค่าสูงสุดแบบสุ่มของผลของการรักษาเมื่อทำการรักษา</Desc>
+		</Text>
+		<Text Name="CookingSpeed">
+			<DisplayName>ความเร็วการทำอาหาร</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการทำอาหาร (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="ButcherSpeed">
+			<DisplayName>ความเร็วการแล่เนื้อ</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการแล่เนื้อ (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="ButcherYieldEfficiency">
+			<DisplayName>ผลผลิตจากการแล่เนื้อ</DisplayName>
+			<Desc>อัตราส่วนของขนสัตว์และเนื้อสัตว์ที่ได้รับจากการแล่เนื้อ</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="CookingSuccessChance">
+			<DisplayName>อัตราสำเร็จในการปรุงอาหาร</DisplayName>
+			<Desc>อัตราความสำเร็จในการทำอาหาร ความล้มเหลวทำให้เกิดอาหารที่เน่าเสียได้</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="StoneWorkSpeed">
+			<DisplayName>ความเร็วในการแปรรูปหิน</DisplayName>
+			<Desc>ความเร็วในการบดและตัดหิน (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="ConstructionSpeed">
+			<DisplayName>ความเร็วในการก่อสร้าง</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการก่อสร้าง (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="ConstructSuccessChance">
+			<DisplayName>อัตราการสำเร็จในการก่อสร้าง</DisplayName>
+			<Desc>อัตราความสำเร็จในการก่อสร้างสิ่งปลูกสร้างต่างๆ ความล้มเหลวอาจทำให้เกิดการบาดเจ็บได้</Desc>
+		</Text>
+		<Text Name="PlantWorkSpeed">
+			<DisplayName>ความเร็วในการทำงานเกษตร</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการทำงานเกษตร (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="PlantHarvestSpeed">
+			<DisplayName>ความเร็วในการเก็บเกี่ยว</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการทำงานเก็บเกี่ยว (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="PlantHarvestYieldEfficiency">
+			<DisplayName>ผลผลิตการเก็บเกี่ยว</DisplayName>
+			<Desc>ผลผลิตที่ได้จากการเก็บเกี่ยวพืชผล</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="MiningSpeed">
+			<DisplayName>ความเร็วในการขุดเหมือง</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการขุดเหมือง (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="MiningYieldEfficiency">
+			<DisplayName>ผลผลิตจากการขุดเหมือง</DisplayName>
+			<Desc>ผลผลิตที่ได้รับจากการขุดเหมือง</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="MadeQualityAddValue">
+			<DisplayName>การเพิ่มคุณภาพสิ่งประดิษฐ์</DisplayName>
+			<Desc>คุณภาพที่เพิ่มไปยังสิ่งของต่างๆ หลังจากที่สร้างมันออกมา</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="ArtRateValue">
+			<DisplayName>คุณภาพของสิ่งประดิษฐ์โดยประมาณ</DisplayName>
+			<Desc>คุณภาพโดยประมาณของสิ่งประดิษฐ์ที่สร้างขึ้น</Desc>
+		</Text>
+		<Text Name="SmithingSpeed">
+			<DisplayName>ความเร็วการตีเหล็ก</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการตีเหล็ก (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="HandworkSpeed">
+			<DisplayName>ความเร็วของงานฝีมือ</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการงานฝีมือ (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="TailoringSpeed">
+			<DisplayName>ความเร็วในการตัดเย็บ</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการตัดเย็บ (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="ManufactureExpectQuality">
+			<DisplayName>คุณภาพของผลิตภัณฑ์โดยประมาณ</DisplayName>
+			<Desc>คุณภาพโดยประมาณของผลิตภัณฑ์ที่สร้างขึ้น มูลค่าของผลิตภัณฑ์สุดท้ายจะอยู่ภายในค่าประมาณการนี้</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="ManufactureRealQualityPercentMin">
+			<DisplayName>คุณภาพของผลงานสร้างต่ำสุด</DisplayName>
+			<Desc>คุณภาพต่ำสุดที่เป็นไปได้ของสิ่งของที่สร้างขึ้น</Desc>
+		</Text>
+		<Text Name="ManufactureRealQualityPercentMax">
+			<DisplayName>คุณภาพของผลงานสร้างสูงสุด</DisplayName>
+			<Desc>คุณภาพสูงสุดที่เป็นไปได้ของสิ่งของที่สร้างขึ้น</Desc>
+		</Text>
+		<Text Name="SmithingQualityAddValue">
+			<DisplayName>การเพิ่มคุณภาพสิ่งของที่ได้รับจากงานตีเหล็ก</DisplayName>
+			<Desc>คุณภาพที่เพิ่มเข้าไปในสิ่งของที่ได้รับจากงานตีเหล็ก</Desc>
+		</Text>
+		<Text Name="HandworkQualityAddValue">
+			<DisplayName>การเพิ่มคุณภาพสิ่งของที่ได้รับจากงานผีมือ</DisplayName>
+			<Desc>คุณภาพที่เพิ่มเข้าไปในสิ่งของที่ได้รับจากงานผีมือ</Desc>
+		</Text>
+		<Text Name="TailoringQualityAddValue">
+			<DisplayName>การเพิ่มคุณภาพสิ่งของที่ได้รับจากงานตัดเย็บ</DisplayName>
+			<Desc>คุณภาพที่เพิ่มเข้าไปในสิ่งของที่ได้รับจากงานตัดเย็บ</Desc>
+		</Text>
+		<Text Name="CuttingSpeed">
+			<DisplayName>ความเร็วการตัด</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการตัดไม้, ตัดหญ้า, กำจัดวัชพืช, ฯลฯ (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="DisasterFightingSpeed">
+			<DisplayName>ความเร็วในการดับไฟ</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการดับไฟ (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="DisasterFightingSuccessChance">
+			<DisplayName>อัตราความสำเร็จในการดับไฟ</DisplayName>
+			<Desc>อัตราความสำเร็จในการดับไฟ ความล้มเหลวอาจทำให้เกิดการบาดเจ็บได้</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="CleanSpeed">
+			<DisplayName>ความเร็วการทำความสะอาด</DisplayName>
+			<Desc>ความเร็วในการทำงานที่เกี่ยวข้องกับการทำความสะอาด (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+		<Text Name="SocialInclination">
+			<DisplayName>แนวโน้มทางสังคม</DisplayName>
+			<Desc>แนวโน้มที่จะมีส่วนร่วมในพฤติกรรมทางสังคม (สภาพอารมณ์ของตัวละครจะส่งผลกระทบต่อค่านี้)</Desc>
+			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
+		</Text>
+	</List>
+</Texts>

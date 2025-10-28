@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Arena_YingTian">
+			<Nodes.0.Text>ทางเข้า</Nodes.0.Text>
+			<Nodes.1.Text>แท่นบูชาสวรรค์กึกก้องกำลังเปล่งแสงสีฟ้า</Nodes.1.Text>
+			<Nodes.2.Text>เชื่อมต่อสวรรค์(อัพโหลดข้อมูลตัวละคร)</Nodes.2.Text>
+			<Nodes.3.Text>เชิญชวน(ใส่ invite code เพื่อเรียกตัวละครเป้าหมาย)</Nodes.3.Text>
+			<Nodes.4.Text>จากไป</Nodes.4.Text>
+		</Text>
+	</List>
+</Texts>

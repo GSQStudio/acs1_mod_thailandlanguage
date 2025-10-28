@@ -1,0 +1,74 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TerrainBase">
+			<DisplayName>พื้นฐานภูมิประเทศ</DisplayName>
+			<StoryDesc>มันเกิดขึ้นบนท้องถนน</StoryDesc>
+		</Text>
+		<Text Name="Null">
+			<DisplayName>ว่างเปล่า</DisplayName>
+		</Text>
+		<Text Name="Soil">
+			<DisplayName>ดิน</DisplayName>
+			<StoryDesc>มันคือพื้นที่ที่สามารถทำการเพาะปลูกได้</StoryDesc>
+		</Text>
+		<Text Name="Soil_Sand">
+			<DisplayName>ทราย</DisplayName>
+			<StoryDesc>มันคือพื้นที่ที่เต็มไปด้วยทราย</StoryDesc>
+		</Text>
+		<Text Name="Mud">
+			<DisplayName>โคลน</DisplayName>
+			<StoryDesc>มันคือพื้นที่ที่เต็มไปด้วยโคลน</StoryDesc>
+		</Text>
+		<Text Name="BlackB">
+			<DisplayName>ว่างเปล่า</DisplayName>
+			<StoryDesc>มันว่างเปล่า</StoryDesc>
+		</Text>
+		<Text Name="WetLand">
+			<DisplayName>พื้นที่ชุ่มน้ำ</DisplayName>
+			<StoryDesc>มันคือพื้นดินที่ชุ่มน้ำ</StoryDesc>
+		</Text>
+		<Text Name="FertileSoil">
+			<DisplayName>ดินยอดเยี่ยม</DisplayName>
+			<StoryDesc>มันคือพื้นที่ที่สามารถทำการเพาะปลูกได้</StoryDesc>
+		</Text>
+		<Text Name="StoneLand">
+			<DisplayName>พื้นผิวหิน</DisplayName>
+			<StoryDesc>มันอยู่บนพื้นหินที่ขรุขระ</StoryDesc>
+		</Text>
+		<Text Name="SandLand">
+			<DisplayName>พื้นทราย</DisplayName>
+			<StoryDesc>มันอยู่บนพื้นหินที่ขรุขระ</StoryDesc>
+		</Text>
+		<Text Name="LingSoil">
+			<DisplayName>ดินวิญญาณ</DisplayName>
+			<StoryDesc>มันคือพื้นดินที่อุดมไปด้วยปราณธรรมชาติ</StoryDesc>
+		</Text>
+		<Text Name="DepthDepthWater">
+			<DisplayName>น้ำลึก</DisplayName>
+		</Text>
+		<Text Name="DepthWater">
+			<DisplayName>น้ำลึก</DisplayName>
+		</Text>
+		<Text Name="YunHai">
+			<DisplayName>ทะเลหมอก</DisplayName>
+		</Text>
+		<Text Name="ShallowWater">
+			<DisplayName>น้ำตื้น</DisplayName>
+			<StoryDesc>มันคือพื้นที่ที่มีน้ำขังแต่ตื้น</StoryDesc>
+		</Text>
+		<Text Name="BloodWater">
+			<DisplayName>แอ่งเลือด</DisplayName>
+			<StoryDesc>มันคือพื้นที่ที่มักจะพบเห็นได้บ่อยๆ หลังการแล่สัตว์</StoryDesc>
+		</Text>
+		<Text Name="DepthBloodWater">
+			<DisplayName>สระเลือด</DisplayName>
+		</Text>
+		<Text Name="LingWater">
+			<DisplayName>น้ำวิญญาณ</DisplayName>
+			<StoryDesc>มันคือพื้นน้ำที่อุดมไปด้วยปราณธรรมชาติ</StoryDesc>
+		</Text>
+		<Text Name="Sand">
+			<DisplayName>ทราย</DisplayName>
+		</Text>
+	</List>
+</Texts>

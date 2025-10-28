@@ -1,0 +1,22 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="FaBaoBase" sParam="Item">
+			<ThingName>อาวุธวิเศษ</ThingName>
+		</Text>
+		<Text Name="FaBaoTest" sParam="Item">
+			<ThingName>อาวุธวิเศษตัวทดลอง</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ความเสียหายจากแรงกระแทก</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="FightFaBao" sParam="Item">
+			<Desc>อาวุธวิเศษ</Desc>
+			<ThingName>อาวุธวิเศษสำหรับต่อสู้</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>ความเสียหายจากแรงกระแทก</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="TreasureFabao" sParam="Item">
+			<ThingName>ต้นแบบสมบัติอาวุธวิเศษ</ThingName>
+		</Text>
+		<Text Name="JieCloud" sParam="Item">
+			<ThingName>ทัณฑ์เมฆาสวรรค์</ThingName>
+		</Text>
+	</List>
+</Texts>

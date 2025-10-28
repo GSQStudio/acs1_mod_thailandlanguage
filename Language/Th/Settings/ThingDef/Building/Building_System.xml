@@ -1,0 +1,153 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SYS_LOASBUILDING" sParam="Building">
+			<ThingName>สิ่งปลูกสร้างที่สาบสูญ</ThingName>
+			<Desc>สิ่งปลูกสร้างที่หายสาบสูญและไม่มีผู้ใดจดจำได้\n(ว่าง)</Desc>
+		</Text>
+		<Text Name="FillSoil" sParam="Building">
+			<ThingName>ดิน</ThingName>
+			<Desc>สร้างพื้นที่ใหม่ให้เป็นดิน งานเช่นนี้กินเวลานานมาก</Desc>
+		</Text>
+		<Text Name="FillFertileSoil" sParam="Building">
+			<ThingName>ดินยอดเยี่ยม</ThingName>
+			<Desc>สร้างพื้นที่ใหม่ให้กลายเป็นดินยอดเยี่ยม งานเช่นนี้กินเวลานานมาก</Desc>
+		</Text>
+		<Text Name="FillShallowWater" sParam="Building">
+			<ThingName>น้ำตื้น</ThingName>
+			<Desc>สร้างพื้นที่ใหม่ให้กลายเป็นน้ำตื้น งานเช่นนี้กินเวลานานมาก</Desc>
+		</Text>
+		<Text Name="NPCBornPoint_SchoolCore" sParam="Building">
+			<ThingName>จุดเกิดของ NPC หลัก</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Ordinary" sParam="Building">
+			<ThingName>จุดเกิดของคนธรรมดา</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Random" sParam="Building">
+			<ThingName>ผู้ฝึกตนทั่วไป</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Fill" sParam="Building">
+			<ThingName>ผู้ฝึกตน Filler</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_JYMonster" sParam="Building">
+			<ThingName>จุดเกิดของสัตว์อสูร</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Animal" sParam="Building">
+			<ThingName>จุดเกิดของสัตว์ป่า</ThingName>
+		</Text>
+		<Text Name="BDSetPoint_Gong" sParam="Building">
+			<ThingName>จุดเกิดของวิชาบ่มเพาะ</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_RPG" sParam="Building">
+			<ThingName>จุดเกิดของตัวละคร</ThingName>
+		</Text>
+		<Text Name="NormalPoint_RPG" sParam="Building">
+			<ThingName>จุดตรรกะ</ThingName>
+		</Text>
+		<Text Name="BDSetPoint_Outs" sParam="Building">
+			<ThingName>ขยายรากฐานอาคาร</ThingName>
+			<StoryBnts.0.Name>ส่งออกเนื้อหาสิ่งปลูกสร้าง</StoryBnts.0.Name>
+		</Text>
+		<Text Name="FillBuild_Hide" sParam="Building">
+			<Desc>สิ่งปลูกสร้างที่ซ่อนอยู่ใช้เพื่อฟื้นฟูพื้นผิวโลก</Desc>
+		</Text>
+		<Text Name="FillBuild_Empty" sParam="Building">
+			<Desc>สิ่งปลูกสร้างที่ซ่อนอยู่สำหรับวางตำแหน่ง</Desc>
+		</Text>
+		<Text Name="HideBuild_Empty" sParam="Building">
+			<Desc>สิ่งปลูกสร้างที่ซ่อนอยู่สำหรับวางตำแหน่ง มันไม่มีความหมายอย่างอื่น</Desc>
+		</Text>
+		<Text Name="Building_SwordTower" sParam="Building">
+			<ThingName>กระบี่ผู้พิทักษ์</ThingName>
+			<Desc>หอคอยขนาดใหญ่ใต้ดิน ดูเหมือนจะใช้เพื่อปราบปรามบางสิ่งบางอย่าง</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_HenZhiBei" sParam="Building">
+			<ThingName>ศิลาแห่งความเกลียดชัง</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาแห่งความเกลียดชัง" เอาไว้บนตัวมัน ผู้ใครกันที่เขาเกลียดชัง?</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LongZhiBei" sParam="Building">
+			<ThingName>ศิลาจารึกมังกร</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาจารึกมังกร" มันมีกลิ่นที่รุนแรง เป็นไปได้ไหมว่ามีมังกรถูกฝังเอาไว้ที่นี่?</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShouZhiBei" sParam="Building">
+			<ThingName>ศิลาจารึกอสูร</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาจารึกอสูร" เอาไว้บนตัวมัน</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_JiZhiBei" sParam="Building">
+			<ThingName>ศิลาแห่งความสุดยอด</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาแห่งความสุดยอด" เอาไว้บนตัวมัน</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_HuanZhiBei" sParam="Building">
+			<ThingName>ศิลาลวงตา</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาลวงตา" เอาไว้บนตัวมัน</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ZhongBei" sParam="Building">
+			<ThingName>ศิลาแห่งจุดจบ</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาแห่งจุดจบ" เอาไว้บนตัวมัน</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LingBei" sParam="Building">
+			<ThingName>ศิลาแห่งวิญญาณ</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาแห่งวิญญาณ" เอาไว้บนตัวมัน</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_XingBei" sParam="Building">
+			<ThingName>ศิลาดวงดารา</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาดวงดารา" เอาไว้บนตัวมัน</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_MuBei" sParam="Building">
+			<ThingName>ศิลาพฤกษา</ThingName>
+			<Desc>ศิลาจารึกที่ได้สลักคำว่า "ศิลาพฤกษา" เอาไว้บนตัวมัน</Desc>
+			<StoryBnts.0.Name>โต้ตอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามโต้ตอบโดยใช้การรับรู้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TaiYiMen" sParam="Building">
+			<ThingName>ประตูไท้อี้</ThingName>
+			<Desc>ประตูหน้าของสำนักไท้อี้</Desc>
+			<StoryBnts.0.Name>เข้าไป</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>เข้าไปในสำนักไท้อี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="StreetNoLight" sParam="Building">
+			<ThingName>เสาไฟ</ThingName>
+			<Desc>ไฟประดับที่ส่องในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="FireLantern" sParam="Building">
+			<ThingName>โคมไฟ</ThingName>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="GolemLantern" sParam="Building">
+			<ThingName>เสาไฟ</ThingName>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="OddLantern" sParam="Building">
+			<ThingName>โคมไฟ</ThingName>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TaiYiTower" sParam="Building">
+			<ThingName>เจดีย์บูรพา</ThingName>
+			<Desc>เจดีย์อันล้ำค่าของสำนักที่รอดพ้นมาจากภัยพิบัติหายนะ</Desc>
+			<StoryBnts.0.Name>ค้นหา</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามค้นหาขุมทรัพย์ภายใน</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

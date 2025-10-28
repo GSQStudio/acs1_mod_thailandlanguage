@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBlockBase" sParam="Item">
+			<Item.FabaoSuffix>หิน, ผนึก, ศิลาจารึก, หยกคู่, แผ่น, หอคอย, หินใหญ่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRockBlock" sParam="Item">
+			<ThingName>อิฐหินสีน้ำตาล</ThingName>
+			<Desc>อิฐทั่วไปที่ทำมาจากหินสีน้ำตาล มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย ทว่าความสวยงามและความน่าดึงดูดใจของสิ่งที่สร้างออกมานั้นค่อนข้างแย่</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีน้ำตาล</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockBlock" sParam="Item">
+			<ThingName>อิฐหินสีเทา</ThingName>
+			<Desc>อิฐที่ทำมาจากหินสีเทา มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย ทว่าความสวยงามและความน่าดึงดูดใจของสิ่งที่สร้างออกมานั้นมีคุณภาพปานกลาง</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีเทา</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleBlock" sParam="Item">
+			<ThingName>อิฐหินอ่อน</ThingName>
+			<Desc>อิฐที่ทำมาจากหินอ่อน มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย ความสวยงามและความน่าดึงดูดใจของสิ่งที่สร้างออกมานั้นมีคุณภาพดี</Desc>
+			<Item.BeMaterial.NamePrefix>หินอ่อน</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeBlock" sParam="Item">
+			<ThingName>อิฐหยก</ThingName>
+			<Desc>อิฐที่ทำมาจากหยก มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>หยก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneBlock" sParam="Item">
+			<ThingName>อิฐหินศักดิ์สิทธิ์</ThingName>
+			<Desc>อิฐที่ทำมาจากหินศักดิ์สิทธิ์ มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>หินศักดิ์สิทธิ์</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneBlock" sParam="Item">
+			<ThingName>อิฐหินวิญญาณ</ThingName>
+			<Desc>อิฐที่ทำมาจากหินวิญญาณ มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>หินวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalBlock" sParam="Item">
+			<ThingName>อิฐผลึกวิญญาณ</ThingName>
+			<Desc>อิฐที่ทำมาจากผลึกวิญญาณ มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>ผลึกวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,133 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Boss_Jiaowangci" sParam="Item">
+			<ThingName>เขาราชามังกร</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
+			<ThingName>แก่นหงส์เพลิง</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
+			<ThingName>ขนหงส์เพลิง</ThingName>
+		</Text>
+		<Text Name="Item_BossFeng_HuoYu" sParam="Item">
+			<ThingName>ขนเพลิงกัลป์</ThingName>
+			<Desc>ขนนกที่แปลกประหลาด แม้ว่ามันจะไม่ร้อนมากเมื่อสัมผัส แต่มันก็สามารถกระจายความร้อนออกไปได้เรื่อยๆ ทำให้อุณหภูมิของห้องหรือพื้นที่จำกัดอื่นๆ เพิ่มขึ้นอย่างมาก ดูเหมือนว่ามันจะไม่มีประโยชน์อื่นนอกจากจิตวิญญาณอันแข็งแกร่งที่ปกคลุมอยู่</Desc>
+			<Item.FabaoSuffix>ขนนก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_GangYu" sParam="Item">
+			<ThingName>ขนเกราะเหล็กหงส์เพลิง</ThingName>
+			<Desc>ขนนกฟีนิกซ์ที่ไม่บุบสลาย มันมีความร้อนมหาศาลที่อัดแน่นอยู่ภายใน มีความคมและแข็งแรงเป็นอย่างมาก การสวมใส่มันช่วยให้ทนต่อสภาพอากาศที่หนาวเย็นได้ อีกทั้งยังช่วยเพิ่มการหมุนเวียนของลมปราณและเลือด รวมถึงเพิ่มอัตรตราการเผาผลาญอาหารได้เป็นอย่างดี</Desc>
+			<Item.FabaoSuffix>ขนนก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_TouYu" sParam="Item">
+			<ThingName>ขนหงส์เพลิงนิรันดร์</ThingName>
+			<Desc>ขนนกที่งดงามด้วยเปลวไฟนิรันดร์จากศีรษะของหงส์เพลิง มันมีแก่นแท้ของหงส์เพลิงผนึกอยู่ภายใน หงส์เพลิงนั้นเป็นอสูรที่เชี่ยวด้านปราณเวท ดังนั้นผู้ที่สวมใส่ขนหงส์อันนี้จะสามารถยกระดับขีดจำกัดสูงสุดของปราณเวทขึ้นไปอีก 3 ระดับ</Desc>
+			<Item.FabaoSuffix>ขนนก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_WeiYu" sParam="Item">
+			<ThingName>ขนหางหงส์เพลิง</ThingName>
+			<Desc>ขนหางขนาดใหญ่ของหงส์เพลิง ขนหางขนาดใหญ่ของหงส์เพลิง แม้จะมีเปลวไฟวาววับอยู่ที่ปลายของมัน ทว่ามันแทนที่จะร้อนจัดเมื่อสัมผัสแต่มันกลับรู้สึกอบอุ่นพอประมาณ ซึ่งถือว่าได้ว่าอัศจรรย์เป็นอย่างมาก มันอาจจะมีความสามารถพิเศษอะไรบางอย่างหลัง ถ้าหากทำการหลอมมันผ่านกรรมวิธีที่พิเศษ</Desc>
+			<Item.FabaoSuffix>ขนนก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_Gu" sParam="Item">
+			<ThingName>กระดูกหงส์เพลิง</ThingName>
+			<Desc>กระดูกส่วนปีกทั้งสองของหงส์เพลิง พวกมันมีความหนาแน่นสูงทว่ามีน้ำหนักที่เบาเป็นอย่างมาก มันอาจจะมีความสามารถพิเศษอะไรบางอย่างหลัง ถ้าหากทำการหลอมมันผ่านกรรมวิธีที่พิเศษ</Desc>
+			<Item.FabaoSuffix>ขนนก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_HongYu" sParam="Item">
+			<ThingName>หยกหงส์เพลิงสวรรค์</ThingName>
+			<Desc>ต้นกำเนิดพลังของหงส์เพลิง ที่ซึ่งมีจิตวิญญาณปฐมกาลของมันอยู่ภายในนั้น หากผู้ใดทำสื่อสารกับมันด้วยจิตวิญญาณปฐมกาล คนผู้นั้นอาจจะเข้าถึงความลึกลับบางอย่างของมันก็เป็นได้ เมื่อสวมใส่มัน คนผู้นั้นจะได้รับพลังแห่งหงส์เพลิงทำให้ลดความเสียหายจากธาตุไฟลงไป 10%</Desc>
+			<Item.FabaoSuffix>หยก</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เข้าฌาน</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามค้นหาความลึกลับจากมัน</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossFeng_Meat" sParam="Item">
+			<ThingName>เนื้อหงส์เพลิง</ThingName>
+			<Desc>เนื้อและเลือดของหงส์เพลิง หากกินมันเข้าไปจะเพิ่มปริมาณปราณสูงสุดของตนเองขึ้น 25 หน่วยและยืดอายุขัยเป็นเวลา 10 ปี ผลลัพธ์จะลดลงเรื่อยๆ หากกินมันเข้าไปหลายๆ ครั้ง</Desc>
+			<Item.FabaoSuffix>เนื้อ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_DragonScale" sParam="Item">
+			<ThingName>เกล็ดมังกร</ThingName>
+			<Desc>เกล็ดที่ร่วงหล่นจากร่างของมังกร มันสูญเสียคุณสมบัติทางปราณส่วนใหญ่ไป ทว่ากลับจิตวิญญาณที่แข็งแกร่งที่ปกคลุมอยู่</Desc>
+			<Item.FabaoSuffix>เกล็ด</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Jiao" sParam="Item">
+			<ThingName>เขามังกรวารี</ThingName>
+			<Desc>เขาส่วนบนของมังกรวารี ที่ซึ่งเก็บแก่นอสูรของมันเอาไว้ภายใน มังกรวารีนั้นเป็นอสูรที่เชี่ยวชาญในด้านอาวุธวิเศษ การสวมใส่มันจะทำให้คนผู้นั้นได้รับพลังของมังกรวารี ช่วยให้สามารถยกระดับขีดจำกัดสูงสุดของทักษะอาวุธวิเศษขึ้นมา 3 ระดับ</Desc>
+			<Item.FabaoSuffix>เขา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Zhua" sParam="Item">
+			<ThingName>กรงเล็บมังกรวารี</ThingName>
+			<Desc>กรงเล็บที่แหลมคมของมังกรวารี มันมีความคมและซ่อนพลังทำลายล้างที่น่าเหลือเชื่อเอาไว้ มันอาจจะมีความสามารถพิเศษอะไรบางอย่างหลัง ถ้าหากทำการหลอมมันผ่านกรรมวิธีที่พิเศษ</Desc>
+			<Item.FabaoSuffix>เขา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Lin" sParam="Item">
+			<ThingName>เกล็ดมังกรวารี</ThingName>
+			<Desc>เกล็ดที่สมบูรณ์จากร่างของมังกรวารีมังกรวารี วันค่อนข้างที่จะทำลายได้ยากเป็นอย่างมาก ผู้ที่สวมใส่มันจะมีความต้านทานต่อความเสียหายจากปราณเวท</Desc>
+			<Item.FabaoSuffix>เกล็ด</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_NiLin" sParam="Item">
+			<ThingName>เกล็ดย้อนมังกรวารี</ThingName>
+			<Desc>ต้นกำเนิดพลังของมังกรวารี ที่ซึ่งมีจิตวิญญาณปฐมกาลของมันอยู่ภายในนั้น หากผู้ใดทำสื่อสารกับมันด้วยจิตวิญญาณปฐมกาล คนผู้นั้นอาจจะเข้าถึงความลึกลับบางอย่างของมันก็เป็นได้ การสวมใส่มันจะทำให้คนผู้นั้นได้รับพลังของมังกรวารี ทำให้ลดความเสียหายจากธาตุน้ำ 10%</Desc>
+			<Item.FabaoSuffix>เกล็ด</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เข้าฌาน</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามค้นหาความลึกลับจากมัน</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossLong_Jing" sParam="Item">
+			<ThingName>ชีพจรมังกรวารี</ThingName>
+			<Desc>เส้นชีพจรปราณส่วนหางของมังกรวารี มันมีปราณที่หนาแน่อย่างน่าเหลือเชื่ออัดแน่นอยู่ภายในนั้น มันอาจจะมีความสามารถพิเศษอะไรบางอย่างหลัง ถ้าหากทำการหลอมมันผ่านกรรมวิธีที่พิเศษ</Desc>
+			<Item.FabaoSuffix>เส้นเอ็น</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Meat" sParam="Item">
+			<ThingName>เนื้อมังกรวารี</ThingName>
+			<Desc>เลือดและเนื้อของมังกรวารี หากกินมันเข้าไปจะเพิ่มปริมาณปราณสูงสุดของตนเองขึ้น 25 หน่วยและยืดอายุขัยเป็นเวลา 10 ปี ผลลัพธ์จะลดลงเรื่อยๆ หากกินมันเข้าไปหลายๆ ครั้ง</Desc>
+			<Item.FabaoSuffix>เนื้อ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
+			<ThingName>เกล็ดขาว</ThingName>
+			<Desc>เกล็ดสีขาวบริสุทธิ์ที่หลุดออกมาจากตัวของมังกรเทียน</Desc>
+			<Item.FabaoSuffix>เกล็ด</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
+			<ThingName>เกล็ดดำ</ThingName>
+			<Desc>เกล็ดสีดำทมิฬที่หลุดออกมาจากตัวของมังกรเทียน</Desc>
+			<Item.FabaoSuffix>เกล็ด</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_Eye" sParam="Item">
+			<ThingName>ผลึกหยินหยาง</ThingName>
+			<Desc>แก้วผลึกใสที่มีส่วนประกอบของสีดำและสีขาวผสมกันอย่างสมดุลภายในดวงตาของมังกรเทียน ซึ่งดูเหมือนว่าจะสามารถใช้ถอดรหัสความลึกลับของหยินและหยางได้ มันอาจจะมีความสามารถพิเศษอะไรบางอย่างหลัง ถ้าหากทำการหลอมมันผ่านกรรมวิธีที่พิเศษ</Desc>
+			<Item.FabaoSuffix>ผลึก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_TianLin" sParam="Item">
+			<ThingName>เกล็ดมังกรเทียน</ThingName>
+			<Desc>เกล็ดอันแปลกประหลาดที่อยู่เหนือคิ้วของมังกรเทียน ที่ซึ่งเก็บแก่นอสูรของมันเอาไว้ภายใน องค์ประกอบธาตุทั้งห้านั้นแปรเปลี่ยนเป็นหยินและหยางโดยมังกรเทียน การสวมใส่มันจะทำให้คนผู้นั้นได้รับพลังของมังกรเทียน ช่วยให้สามารถยกระดับขีดจำกัดสูงสุดของทักษะเกราะปราณขึ้นมา 3 ระดับ</Desc>
+			<Item.FabaoSuffix>เกล็ด</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_LongYu" sParam="Item">
+			<ThingName>หยกโกลาหล</ThingName>
+			<Desc>ต้นกำเนิดพลังของมังกรเทียน ที่ซึ่งมีจิตวิญญาณปฐมกาลของมันอยู่ภายในนั้น หากผู้ใดทำสื่อสารกับมันด้วยจิตวิญญาณปฐมกาล คนผู้นั้นอาจจะเข้าถึงความลึกลับบางอย่างของมันก็เป็นได้ การสวมใส่มันจะทำให้คนผู้นั้นได้รับพลังของมังกรเทียน ทำให้ลดความเสียหายจากธาตุทั้งห้า 5%</Desc>
+			<Item.FabaoSuffix>หยก</Item.FabaoSuffix>
+			<StoryBnts.0.Name>เข้าฌาน</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามค้นหาความลึกลับจากมัน</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_Meat" sParam="Item">
+			<ThingName>เนื้อปฐมกาล</ThingName>
+			<Desc>เลือกและเนื้อของมังกรเทียน มันนั้นมีพลังของหยินและหยางผสมปนเปกันอย่างวุ่นวายอยู่ภายใน ทำให้นำไปใช้ประโยชน์ได้ยาก การกินมันเข้าไปจะลดเมล็ดเต๋าไป 2 และยืดอายุไขออกไป 10 ปี ผลลัพธ์จะลดลงเรื่อยๆ หากกินมันเข้าไปหลายๆ ครั้ง</Desc>
+			<Item.FabaoSuffix>เนื้อ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_FengYin" sParam="Item">
+			<ThingName>หยกหงส์เพลิงโบราณ</ThingName>
+			<Desc>หยกโบราณที่เป็นส่วนหนึ่งของสมบัติจากแท่นบูชามังกร มันดูเหมือนว่าจะเป็นหนึ่งในสิ่งของที่ถูกสร้างมาเป็นชุด</Desc>
+			<Item.FabaoSuffix>หยก</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบหยกหงส์เพลิงโบราณ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_FengYin" sParam="Item">
+			<ThingName>หยกโบราณ</ThingName>
+			<Desc>หยกชิ้นหนึ่งที่พบในสนามรบแดนสวรรค์ มันมีแก่นแท้ของหยินและหยางเปล่งประกายอยู่ภายใน ราวกับว่ามันหล่อเลี้ยงอะไรบางอย่าง</Desc>
+			<Item.FabaoSuffix>หยก</Item.FabaoSuffix>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบหยกโบราณ</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

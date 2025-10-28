@@ -1,0 +1,49 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="ClothBase" sParam="Item">
+			<Desc>ผ้าที่ทอจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.FabaoSuffix>สิ่งทอ, เส้นด้าย, ตาข่าย</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>ผ้า</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CottonCloth" sParam="Item">
+			<ThingName>ผ้าลายดอก</ThingName>
+			<Desc>ผ้าที่มีลักษณะ [ลายดอก] ที่ทอมากจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผ้าลายดอก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DeepBlueCloth" sParam="Item">
+			<ThingName>ผ้าสีคราม</ThingName>
+			<Desc>ผ้าที่มีสี [คราม] ที่ทอมากจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผ้าสีคราม</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_PurpleCloth" sParam="Item">
+			<ThingName>ผ้าสีม่วง</ThingName>
+			<Desc>ผ้าที่มีสี [ม่วง] ที่ทอมากจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผ้าสีม่วง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YellowCloth" sParam="Item">
+			<ThingName>ผ้าสีเหลือง</ThingName>
+			<Desc>ผ้าที่มีสี [เหลือง] ที่ทอมากจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผ้าสีเหลือง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlueCloth" sParam="Item">
+			<ThingName>ผ้าสีฟ้า</ThingName>
+			<Desc>ผ้าที่มีสี [ฟ้า] ที่ทอมากจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผ้าสีฟ้า</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RedCloth" sParam="Item">
+			<ThingName>ผ้าสีแดง</ThingName>
+			<Desc>ผ้าที่มีสี [แดง] ที่ทอมากจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผ้าสีแดง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WhiteCloth" sParam="Item">
+			<ThingName>ผ้าสีขาว</ThingName>
+			<Desc>ผ้าที่มีสี [ขาว] ที่ทอมากจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผ้าสีขาว</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlackCloth" sParam="Item">
+			<ThingName>ผ้าสีดำ</ThingName>
+			<Desc>ผ้าที่มีสี [ดำ] ที่ทอมากจากฝ้าย มันสามารถใช้ในการสร้างเสื้อผ้าและสิ่งอื่นๆ ได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผ้าสีดำ</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

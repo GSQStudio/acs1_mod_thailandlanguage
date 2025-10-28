@@ -1,0 +1,30 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SpellPaper" sParam="Item">
+			<ThingName>กระดาษยันต์</ThingName>
+			<Desc>กระดาษทำพิเศษที่สามารถเปลี่ยนเป็นยันต์วิเศษได้ด้วยการวาดอักขระที่มีเอกลักษณ์เฉพาะตัวด้วยหมึกเลือดอสูรที่มีสีชาดลงไป</Desc>
+			<Item.FabaoSuffix>ยันต์, คาถา, ต้องห้าม</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellPaperLv2" sParam="Item">
+			<ThingName>กระดาษยันต์โลหิต</ThingName>
+			<Desc>กระดาษที่ทำจากเลือดสัตว์อสูร สามารถเปลี่ยนเป็นยันต์วิเศษได้ด้วยการวาดอักขระที่มีเอกลักษณ์เฉพาะตัวด้วยหมึกเลือดอสูรที่มีสีชาดลงไป</Desc>
+		</Text>
+		<Text Name="Item_SpellPaperLv3" sParam="Item">
+			<ThingName>กระดาษยันต์เทวะ</ThingName>
+			<Desc>กระดาษที่ทำจากมณีจิตไร้โศก สามารถเปลี่ยนเป็นยันต์วิเศษได้ด้วยการวาดอักขระที่มีเอกลักษณ์เฉพาะตัวด้วยหมึกเลือดอสูรที่มีสีชาดลงไป</Desc>
+		</Text>
+		<Text Name="Item_Spell" sParam="Item">
+			<ThingName>ยันต์</ThingName>
+			<Desc>ยันต์ที่สร้างสำเร็จแล้ว สามารถสวมใส่มันลงบนร่างกายเพื่อรับโบนัสความสามารถบางอย่าง</Desc>
+			<Item.FabaoSuffix>ยันต์, คาถา, ต้องห้าม</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellLv2" sParam="Item">
+			<ThingName>ยันต์</ThingName>
+			<Desc>ยันต์ที่สร้างสำเร็จแล้ว สามารถสวมใส่มันลงบนร่างกายเพื่อรับโบนัสความสามารถบางอย่าง</Desc>
+		</Text>
+		<Text Name="Item_SpellLv3" sParam="Item">
+			<ThingName>ยันต์</ThingName>
+			<Desc>ยันต์ที่สร้างสำเร็จแล้ว สามารถสวมใส่มันลงบนร่างกายเพื่อรับโบนัสความสามารถบางอย่าง</Desc>
+		</Text>
+	</List>
+</Texts>

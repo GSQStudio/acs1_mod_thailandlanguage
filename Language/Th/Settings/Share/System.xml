@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="QQ">
+			<Display>QQ Friends</Display>
+			<Desc>Share to QQ</Desc>
+		</Text>
+		<Text Name="WeChat">
+			<Display>WeChat Friends</Display>
+			<Desc>Share to WeChat</Desc>
+		</Text>
+		<Text Name="SaveImg">
+			<Display>Save Image</Display>
+			<Desc>Save Locally</Desc>
+		</Text>
+	</List>
+</Texts>

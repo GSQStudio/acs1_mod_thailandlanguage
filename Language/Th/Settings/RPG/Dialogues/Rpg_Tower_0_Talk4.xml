@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Tower_0_Talk4">
+			<Nodes.0.Text>ทางเข้า</Nodes.0.Text>
+			<Nodes.1.Text>เมี้ยว! ไม่มีกับดักใดจับข้าได้</Nodes.1.Text>
+			<Nodes.2.Text>พาข้าไปยังชั้นต่อไป</Nodes.2.Text>
+			<Nodes.3.Text>สัมผัส</Nodes.3.Text>
+			<Nodes.4.Text>ลาก่อน!</Nodes.4.Text>
+			<Nodes.6.Text>เมี้ยว!||*หง๊าววววววว*</Nodes.6.Text>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,8 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Tower_0_Talk2">
+			<Nodes.0.Text>ทางเข้า</Nodes.0.Text>
+			<Nodes.1.Text>จับหนู? จะดูถูกข้าเกินไปแล้ว! แน่นอนว่าข้ารู้วิธีจับหนู!</Nodes.1.Text>
+		</Text>
+	</List>
+</Texts>

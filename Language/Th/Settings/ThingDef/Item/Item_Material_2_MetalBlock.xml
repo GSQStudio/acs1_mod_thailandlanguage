@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="MetalBlockBase" sParam="Item">
+			<Item.FabaoSuffix>โลหะ, ประทับ, ศิลาจารึก, หยกคู่, แผ่น, หอคอย, หินใหญ่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_IronBlock" sParam="Item">
+			<ThingName>แท่งเหล็ก</ThingName>
+			<Desc>แท่งโลหะที่หลอมมาจากเหล็ก มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็ก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperBlock" sParam="Item">
+			<ThingName>แท่งทองแดงอัคคี</ThingName>
+			<Desc>แท่งโลหะที่หลอมมาจากทองแดงอัคคี มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>ทองแดงอัคคี</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverBlock" sParam="Item">
+			<ThingName>แท่งผลึกน้ำแข็ง</ThingName>
+			<Desc>แท่งโลหะที่หลอมมาจากผลึกน้ำแข็ง มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>ผลึกน้ำแข็ง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperBlock1" sParam="Item">
+			<ThingName>แท่งแกนอัคคี</ThingName>
+			<Desc>แท่งโลหะที่หลอมมาจากทองแดงอัคคีจำนวนมากนำมาผสมกับเลือดสัตว์อสูร ในการผลิตแต่ละชิ้นใช้เวลานานเป็นอย่างมาก</Desc>
+			<Item.BeMaterial.NamePrefix>แกนอัคคี</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverBlock1" sParam="Item">
+			<ThingName>แท่งแกนน้ำแข็ง</ThingName>
+			<Desc>แท่งโลหะที่หลอมมาจากผลึกน้ำแข็งจำนวนมากนำมาผสมกับเลือดสัตว์อสูร ในการผลิตแต่ละชิ้นใช้เวลานานเป็นอย่างมาก</Desc>
+			<Item.BeMaterial.NamePrefix>แกนน้ำแข็ง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelBlock" sParam="Item">
+			<ThingName>แท่งเหล็กนิลกาฬ</ThingName>
+			<Desc>แท่งโลหะที่หลอมมาจากเหล็กนิลกาฬ มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็กนิลกาฬ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceBlock" sParam="Item">
+			<ThingName>แท่งแร่แสงดารา</ThingName>
+			<Desc>แท่งโลหะที่หลอมมาจากแร่แสงดารา มันสามารถใช้สร้างอุปกรณ์ต่างๆ ได้มากมาย</Desc>
+			<Item.BeMaterial.NamePrefix>แร่แสงดารา</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

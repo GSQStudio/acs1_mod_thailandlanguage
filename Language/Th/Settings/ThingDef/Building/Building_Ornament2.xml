@@ -1,0 +1,518 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_ZhengFaPlantBase" sParam="Building">
+			<ThingName>แม่แบบพืช</ThingName>
+			<StoryBnts.0.Name>เก็บตัวอย่าง</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเก็บตัวอย่างของสิ่งๆ นี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ZhengFaBuildBase" sParam="Building">
+			<ThingName>แม่แบบอาคาร</ThingName>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="MiracleBase" sParam="Building">
+			<Desc>สิ่งมหัศจรรย์สำนัก</Desc>
+			<StoryBnts.0.Name>เก็บ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>เก็บสิ่งมหัศจรรย์โดยใช้กำลัง</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>แนวคิด</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>ใคร่ครวญถึงมรรคาแห่งสวรรค์ที่สถิตอยู่ภายในนั้น</StoryBnts.1.Desc>
+		</Text>
+		<Text Name="Building_BaBaoGongDe" sParam="Building">
+			<ThingName>สระแปดวิถีธรรม</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของนิกายม่านฟ้า มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งจักรวาลซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_BaBaoGongDe_Our" sParam="Building">
+			<ThingName>สระแปดวิถีธรรม</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของนิกายม่านฟ้า มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งจักรวาลซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo" sParam="Building">
+			<ThingName>บัลลังก์หมื่นเต๋า</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของตำหนักคุนหลุน มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งการสรรค์สร้างแห่งสวรรค์และโลกซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo_Our" sParam="Building">
+			<ThingName>บัลลังก์หมื่นเต๋า</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของตำหนักคุนหลุน มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งการสรรค์สร้างแห่งสวรรค์และโลกซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu" sParam="Building">
+			<ThingName>ป่าเจ็ดอารมณ์</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของวังเหนือนภา มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งหยินและหยางซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu_Our" sParam="Building">
+			<ThingName>ป่าเจ็ดอารมณ์</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของวังเหนือนภา มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งหยินและหยางซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan" sParam="Building">
+			<ThingName>ผังวัฏจักรดารา</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของอารามเมฆาม่วง มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งการกำเนิดมิติเวลาและวิถีแห่งสุริยันจันทราซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan_Our" sParam="Building">
+			<ThingName>ผังวัฏจักรดารา</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของอารามเมฆาม่วง มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งการกำเนิดมิติเวลาและวิถีแห่งสุริยันจันทราซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa" sParam="Building">
+			<ThingName>เจดีย์มังกรหยาง</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของสำนักเอกลี้ลับ มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งจุดเริ่มต้นและจุดจบซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa_Our" sParam="Building">
+			<ThingName>เจดีย์มังกรหยาง</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของสำนักเอกลี้ลับ มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งจุดเริ่มต้นและจุดจบซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_ShuShanJianChi" sParam="Building">
+			<ThingName>สระหมื่นกระบี่</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของอารามบัวสีคราม มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งการสรรค์สร้างและการทำลายซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_ShuShanJianChi_Our" sParam="Building">
+			<ThingName>สระหมื่นกระบี่</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของอารามบัวสีคราม มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งการสรรค์สร้างและการทำลายซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_LingYuFeng" sParam="Building">
+			<ThingName>ภูผาหยกวิญญาณ</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของนิกายแสงราตรีว่ากันว่าได้รวบรวมความลับของการเจริญเติบโตของสิ่งมีชีวิตทั้งหมดเอาไว้</Desc>
+		</Text>
+		<Text Name="Building_LingYuFeng_Our" sParam="Building">
+			<ThingName>ภูผาหยกวิญญาณ</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของนิกายแสงราตรีว่ากันว่าได้รวบรวมความลับของการเจริญเติบโตของสิ่งมีชีวิตทั้งหมดเอาไว้</Desc>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan" sParam="Building">
+			<ThingName>แท่นบูชาหมื่นกระดูก</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของภูเขาร้อยแมลง มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งผนึกมิติและกาลเวลาซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan_Our" sParam="Building">
+			<ThingName>แท่นบูชาหมื่นกระดูก</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของภูเขาร้อยแมลง มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งผนึกมิติและกาลเวลาซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng" sParam="Building">
+			<ThingName>ภูเขาแม่เหล็ก</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของนิกายหลุมอเวจี มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งสวรรค์เงียบงันซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng_Our" sParam="Building">
+			<ThingName>ภูเขาแม่เหล็ก</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของนิกายหลุมอเวจี มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งสวรรค์เงียบงันซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_QiShaShenBei" sParam="Building">
+			<ThingName>จารึกสัตตะสังหาร</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของสำนักเจ็ดวิถีสังหาร ว่ากันว่ามันได้รวบรวมความลับของความตายของสิ่งมีชีวิตทั้งหมดเอาไว้</Desc>
+		</Text>
+		<Text Name="Building_QiShaShenBei_Our" sParam="Building">
+			<ThingName>จารึกสัตตะสังหาร</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของสำนักเจ็ดวิถีสังหาร ว่ากันว่ามันได้รวบรวมความลับของความตายของสิ่งมีชีวิตทั้งหมดเอาไว้</Desc>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan" sParam="Building">
+			<ThingName>น้ำพุหยินศักดิ์สิทธิ์</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของสำนักสราญรมย์ มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งโชคลาภซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan_Our" sParam="Building">
+			<ThingName>น้ำพุหยินศักดิ์สิทธิ์</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของสำนักสราญรมย์ มันได้รับการกล่าวขานว่ามีความลับเกี่ยวกับวิถีแห่งโชคลาภซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_YaoZuYiHai" sParam="Building">
+			<ThingName>ร่างบรรพชนอสูร</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของอารามหมื่นอสูร ว่ากันว่ามีความทรงจำของบรรพบุรุษอสูรซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_YaoZuYiHai_Our" sParam="Building">
+			<ThingName>ร่างบรรพชนอสูร</ThingName>
+			<Desc>สิ่งมหัศจรรย์อันโดดเด่นของอารามหมื่นอสูร ว่ากันว่ามีความทรงจำของบรรพบุรุษอสูรซ่อนอยู่</Desc>
+		</Text>
+		<Text Name="Building_QiShi1" sParam="Building">
+			<ThingName>ศิลาประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi1" sParam="Building">
+			<ThingName>ศิลาวารีประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_QiShi2" sParam="Building">
+			<ThingName>ศิลาประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi2" sParam="Building">
+			<ThingName>ศิลาวารีประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_QiShi3" sParam="Building">
+			<ThingName>ศิลาประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi3" sParam="Building">
+			<ThingName>ศิลาวารีประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_QiShi4" sParam="Building">
+			<ThingName>ศิลาประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi4" sParam="Building">
+			<ThingName>ศิลาวารีประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_QiShi5" sParam="Building">
+			<ThingName>ศิลาประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi5" sParam="Building">
+			<ThingName>ศิลาวารีประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_QiShi6" sParam="Building">
+			<ThingName>ศิลาประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi6" sParam="Building">
+			<ThingName>ศิลาวารีประหลาด</ThingName>
+		</Text>
+		<Text Name="Building_LingShu1" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu2" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu3" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu4" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณวารี</ThingName>
+		</Text>
+		<Text Name="Building_LingShu5" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณวารี</ThingName>
+		</Text>
+		<Text Name="Building_LingShu6" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณวารี</ThingName>
+		</Text>
+		<Text Name="Building_ZiXiaoJuShu" sParam="Building">
+			<ThingName>ต้นเมฆาม่วง</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu1" sParam="Building">
+			<ThingName>พฤกษาปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu2" sParam="Building">
+			<ThingName>พฤกษาปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu3" sParam="Building">
+			<ThingName>พฤกษาปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu4" sParam="Building">
+			<ThingName>พฤกษาปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu1" sParam="Building">
+			<ThingName>ต้นไม้วารี</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu2" sParam="Building">
+			<ThingName>ต้นไม้วารี</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu3" sParam="Building">
+			<ThingName>ต้นไม้วารี</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu1" sParam="Building">
+			<ThingName>ต้นท้อ</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu2" sParam="Building">
+			<ThingName>ต้นท้อ</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu3" sParam="Building">
+			<ThingName>ต้นท้อ</ThingName>
+		</Text>
+		<Text Name="Building_YuShu1" sParam="Building">
+			<ThingName>พฤกษาเซียน</ThingName>
+		</Text>
+		<Text Name="Building_YuShu2" sParam="Building">
+			<ThingName>พฤกษาเซียน</ThingName>
+		</Text>
+		<Text Name="Building_YuShu3" sParam="Building">
+			<ThingName>พฤกษาเซียน</ThingName>
+		</Text>
+		<Text Name="Building_YuShu4" sParam="Building">
+			<ThingName>พฤกษาเซียน</ThingName>
+		</Text>
+		<Text Name="Building_YuShu5" sParam="Building">
+			<ThingName>พฤกษาเซียน</ThingName>
+		</Text>
+		<Text Name="Building_YuShu6" sParam="Building">
+			<ThingName>พฤกษาเซียน</ThingName>
+		</Text>
+		<Text Name="Building_CongRong1" sParam="Building">
+			<ThingName>โสมทะเลทราย</ThingName>
+		</Text>
+		<Text Name="Building_CongRong2" sParam="Building">
+			<ThingName>โสมทะเลทราย</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai1" sParam="Building">
+			<ThingName>ซากโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai2" sParam="Building">
+			<ThingName>ซากโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai3" sParam="Building">
+			<ThingName>ซากโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai4" sParam="Building">
+			<ThingName>ซากโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_LuoTuoCao" sParam="Building">
+			<ThingName>ดอกคำใต้</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu1" sParam="Building">
+			<ThingName>ดอกเบญจมาศ</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu2" sParam="Building">
+			<ThingName>ดอกเบญจมาศ</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu3" sParam="Building">
+			<ThingName>ดอกเบญจมาศ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu1" sParam="Building">
+			<ThingName>ตอไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu2" sParam="Building">
+			<ThingName>ตอไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu3" sParam="Building">
+			<ThingName>ตอไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu4" sParam="Building">
+			<ThingName>ตอไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu5" sParam="Building">
+			<ThingName>ตอไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu6" sParam="Building">
+			<ThingName>ตอไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi1" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi2" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi3" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi4" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi5" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_LingDiShuiChi" sParam="Building">
+			<ThingName>สระวิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LianFaTan" sParam="Building">
+			<ThingName>แท่นบูชาแห่งสวรรค์</ThingName>
+		</Text>
+		<Text Name="Building_TaiXuanBingZhu" sParam="Building">
+			<ThingName>เสาน้ำแข็ง</ThingName>
+		</Text>
+		<Text Name="Build_KunLunFang" sParam="Building">
+			<ThingName>ประตูคุนหลุน</ThingName>
+			<Desc>ประตูอันยิ่งใหญ่ของสำนัก</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong" sParam="Building">
+			<ThingName>มังกรทองสัมฤทธิ์</ThingName>
+		</Text>
+		<Text Name="Building_QingTongShouXiangLu" sParam="Building">
+			<ThingName>กระถางทองสัมฤทธิ์</ThingName>
+		</Text>
+		<Text Name="Building_QingTongFanQi" sParam="Building">
+			<ThingName>ธงทองสัมฤทธิ์</ThingName>
+		</Text>
+		<Text Name="Building_YanDiTai" sParam="Building">
+			<ThingName>หอคอยต้นกำเนิด</ThingName>
+		</Text>
+		<Text Name="Building_JuXingXiangLu" sParam="Building">
+			<ThingName>กระถางไฟยักษ์</ThingName>
+		</Text>
+		<Text Name="Building_TengLongZhu" sParam="Building">
+			<ThingName>เสามังกรทยาน</ThingName>
+		</Text>
+		<Text Name="Building_HuangLongDengTai" sParam="Building">
+			<ThingName>ตะเกียงมังกร</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LianHuaDengTai" sParam="Building">
+			<ThingName>โคมไฟดอกบัว</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_YuHeQingLian1" sParam="Building">
+			<ThingName>ดอกบัวหัวใจกระบี่</ThingName>
+		</Text>
+		<Text Name="Building_YuHeQingLian2" sParam="Building">
+			<ThingName>ดอกบัวหัวใจกระบี่</ThingName>
+		</Text>
+		<Text Name="Building_YuHeQingLian3" sParam="Building">
+			<ThingName>ดอกบัวหัวใจกระบี่</ThingName>
+		</Text>
+		<Text Name="Building_JianYiFuDiao" sParam="Building">
+			<ThingName>กระบี่สงบใจ</ThingName>
+		</Text>
+		<Text Name="Building_XiaoDanLu1" sParam="Building">
+			<ThingName>เตาขนาดเล็ก</ThingName>
+		</Text>
+		<Text Name="Building_XiaoDanLu2" sParam="Building">
+			<ThingName>เตาขนาดเล็ก</ThingName>
+		</Text>
+		<Text Name="Building_HuoDing" sParam="Building">
+			<ThingName>เตาเพลิง</ThingName>
+		</Text>
+		<Text Name="Building_ShuiLianTai" sParam="Building">
+			<ThingName>หอคอยบัวฟ้า</ThingName>
+		</Text>
+		<Text Name="Building_XieXiDeng" sParam="Building">
+			<ThingName>โคมภูติมาร</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_KuLouDeng" sParam="Building">
+			<ThingName>โคมไฟใต้พิภพ</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Build_BaiManFang" sParam="Building">
+			<ThingName>ประตูแมลง</ThingName>
+			<Desc>ประตูอันยิ่งใหญ่ของสำนัก</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_DiMuJiDeng" sParam="Building">
+			<ThingName>โคมบูชา</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_DiMuJiQi" sParam="Building">
+			<ThingName>ธงเจ้าแม่ธรณี</ThingName>
+		</Text>
+		<Text Name="Building_DiMuMiXue" sParam="Building">
+			<ThingName>วังเจ้าแม่ธรณี</ThingName>
+		</Text>
+		<Text Name="Building_QiShaJianZhu" sParam="Building">
+			<ThingName>เสากระบี่</ThingName>
+		</Text>
+		<Text Name="Building_XieLongDiaoXiang" sParam="Building">
+			<ThingName>มังกรมาร</ThingName>
+		</Text>
+		<Text Name="Building_XiongKuiDeng" sParam="Building">
+			<ThingName>โคมไฟหุ่นเชิดปีศาจ</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShaZhang1" sParam="Building">
+			<ThingName>ม่านไหม</ThingName>
+		</Text>
+		<Text Name="Building_ShaZhang2" sParam="Building">
+			<ThingName>ม่านไหม</ThingName>
+		</Text>
+		<Text Name="Building_QingShaDeng" sParam="Building">
+			<ThingName>โคมไฟไหมฟ้า</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu" sParam="Building">
+			<ThingName>หงส์เพลิงเหมันต์</ThingName>
+		</Text>
+		<Text Name="Building_DiMuKuiShou" sParam="Building">
+			<ThingName>ประมุขพระแม่ธรณี</ThingName>
+		</Text>
+		<Text Name="Building_MoMenJiQi" sParam="Building">
+			<ThingName>ธงอสูร</ThingName>
+		</Text>
+		<Text Name="Building_MoMenJiQi1" sParam="Building">
+			<ThingName>ธงอสูร</ThingName>
+		</Text>
+		<Text Name="Building_MoZhuaDiaoSu" sParam="Building">
+			<ThingName>รูปสลักกรงเล็บ</ThingName>
+		</Text>
+		<Text Name="Building_MoWenHuaPing" sParam="Building">
+			<ThingName>ขวดหัวอสูร</ThingName>
+		</Text>
+		<Text Name="Building_KuLouHuaPing" sParam="Building">
+			<ThingName>กิ่งปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_XiePingFeng" sParam="Building">
+			<ThingName>ม่านปีศาจร้าย</ThingName>
+		</Text>
+		<Text Name="Building_YaoHuoPen" sParam="Building">
+			<ThingName>เตาหลอมสัตว์หัวขาด</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChangMingDeng" sParam="Building">
+			<ThingName>ตะเกียงเผาอสูร</ThingName>
+			<Desc>แสงที่ส่องสว่างในเวลากลางคืนเพื่อให้แสงสว่างโดยรอบ</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_JuXingShouGu" sParam="Building">
+			<ThingName>รูปสลักอสูรยักษ์</ThingName>
+		</Text>
+		<Text Name="Building_LongXingYuanPan" sParam="Building">
+			<ThingName>บัลลังก์มังกรขด</ThingName>
+		</Text>
+		<Text Name="Building_YaoZuDiaoXiang" sParam="Building">
+			<ThingName>รูปปั้นอำมหิต</ThingName>
+		</Text>
+		<Text Name="Building_YaoShouDing" sParam="Building">
+			<ThingName>เตาแห่งจอมมาร</ThingName>
+		</Text>
+		<Text Name="Build_WanYaoMen" sParam="Building">
+			<ThingName>ประตูหมื่นอสูร</ThingName>
+			<Desc>ประตูอันยิ่งใหญ่ของสำนัก</Desc>
+			<StoryBnts.0.Name>วิเคราะห์</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>พยายามเรียนรู้วิธีการก่อสร้างสิ่งปลูกสร้างนี้</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TianSheQi" sParam="Building">
+			<ThingName>ธงอสรพิษ</ThingName>
+		</Text>
+		<Text Name="Building_YaoZuXingJia" sParam="Building">
+			<ThingName>แท่นปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai" sParam="Building">
+			<ThingName>แท่นบูชาสวรรค์กึกก้อง</ThingName>
+			<Desc>สิ่งก่อสร้างพิเศษที่ได้ข้อมูลมาจากชายลึกลับในรอยแยกต่างโลก มันสามารถใช้ในการสื่อสารกับโลกอื่นๆ ช่างลึกลับเป็นอย่างมาก</Desc>
+			<StoryBnts.0.Name>เข้าไป</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>เข้าไปในมิติของแท่นบูชาสวรรค์กึกก้อง</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai_Rpg" sParam="Building">
+			<ThingName>แท่นบูชาสวรรค์กึกก้อง</ThingName>
+			<Desc>สิ่งก่อสร้างพิเศษที่ได้ข้อมูลมาจากชายลึกลับในรอยแยกต่างโลก มันสามารถใช้ในการสื่อสารกับโลกอื่นๆ ช่างลึกลับเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_1" sParam="Building">
+			<ThingName>ประตูโคมไฟ</ThingName>
+			<Desc>ประตูอันงดงามที่ประดับประดาไปด้วยโคมไฟ ซึ่งมันจะสว่างงดงามยามค่ำคืน</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_2" sParam="Building">
+			<ThingName>โคมแห่งโชคลาภ</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิแฝงไปด้วยพรสำหรับโชคลาภ</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_3" sParam="Building">
+			<ThingName>โคมดอกบัว</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิแฝงไปด้วยพรสำหรับครอบครัวพบหน้า</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_4" sParam="Building">
+			<ThingName>โคมบัวบาน</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิแฝงไปด้วยพรสำหรับความสามัคคี</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_5" sParam="Building">
+			<ThingName>โคมไฟรุ่งอรุณ</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิแฝงไปด้วยพรสำหรับการฟื้นฟูชีวิต</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_6" sParam="Building">
+			<ThingName>โคมไฟสิงโตแดง</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิแฝงไปด้วยพรสำหรับขับไล่สิ่งชั่วร้าย</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_7" sParam="Building">
+			<ThingName>โคมไฟซ่อนบุปผา</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิ</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_8" sParam="Building">
+			<ThingName>โคมไฟหิมะพิสุทธิ์</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิ</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_9" sParam="Building">
+			<ThingName>โคมไฟมังกรสวรรค์</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิแฝงไปด้วยพรสำหรับการฉลองปีใหม่</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_10" sParam="Building">
+			<ThingName>โคมไฟธรณีมังกร</ThingName>
+			<Desc>ไฟประดับที่สื่อถึงฤดูใบไม้ผลิแฝงไปด้วยพรสำหรับการเปลี่ยนแปลงครั้งใหญ่ในปีใหม่</Desc>
+		</Text>
+	</List>
+</Texts>

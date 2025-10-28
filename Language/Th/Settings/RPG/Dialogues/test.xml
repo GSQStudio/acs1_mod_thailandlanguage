@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="rpgDlg_test1">
+			<Nodes.0.Text>เริ่ม</Nodes.0.Text>
+			<Nodes.1.Text>000001_1 ตัวละครผู้เล่น [HIM] สวัสดี [LUA=XXXXX]!</Nodes.1.Text>
+			<Nodes.2.Text>000001_2 ตัวละครผู้เล่น [HIM] สวัสดี [LUA=XXXXX]!</Nodes.2.Text>
+			<Nodes.3.Text>ตัวเลือก A || ตัวเลือก A1 || ตัวเลือก A2 || ตัวเลือก A3</Nodes.3.Text>
+			<Nodes.4.Text>ตัวเลือก B</Nodes.4.Text>
+			<Nodes.5.Text>ตัวเลือก C</Nodes.5.Text>
+			<Nodes.6.Text>ตัวเลือก D</Nodes.6.Text>
+			<Nodes.7.Npc>หุ่นจำลอง</Nodes.7.Npc>
+			<Nodes.7.Text>ท่านได้เลือกตัวเลือก A || ท่านได้เลือกตัวเลือก A1 || ท่านได้เลือกตัวเลือก A2</Nodes.7.Text>
+			<Nodes.8.Text>ท่านได้เลือกตัวเลือก B</Nodes.8.Text>
+			<Nodes.9.Text>ท่านได้เลือกตัวเลือก A</Nodes.9.Text>
+			<Nodes.10.Text>ท่านได้เลือกตัวเลือก B</Nodes.10.Text>
+			<Nodes.11.Text>ท่านได้เลือกตัวเลือก A</Nodes.11.Text>
+			<Nodes.12.Text>ท่านได้เลือกตัวเลือก B</Nodes.12.Text>
+		</Text>
+	</List>
+</Texts>

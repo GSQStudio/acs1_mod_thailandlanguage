@@ -1,0 +1,267 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="FishBase" sParam="Item">
+			<ThingName>ปลา (ทั่วไป)</ThingName>
+			<Item.FabaoSuffix>ต้ม,ปลา,กระดูก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_StoneCrab" sParam="Item">
+			<ThingName>ปูหิน</ThingName>
+			<Desc>ปูทั่วไปที่อาศัยอยู่ในดินและโขดหิน</Desc>
+		</Text>
+		<Text Name="Fish_Ji" sParam="Item">
+			<ThingName>ปลาคาร์พ</ThingName>
+			<Desc>ปลาน้ำจืดทั่วไปที่อาศัยอยู่ในแหล่งน้ำทุกประเภท</Desc>
+		</Text>
+		<Text Name="Fish_t6" sParam="Item">
+			<ThingName>ปลาหมอสีแคระน้ำเงิน</ThingName>
+			<Desc>ปลาที่พบได้ทั่วไปบนภูเขาคุนหลุน</Desc>
+		</Text>
+		<Text Name="Fish_t8" sParam="Item">
+			<ThingName>ปลาคิลลี่แดง</ThingName>
+			<Desc>ปลาขนาดใหญ่ที่อาศัยอยู่บนภูเขาเท่านั้นและทนต่อสภาพอากาศหนาวเย็น</Desc>
+		</Text>
+		<Text Name="Fish_s3" sParam="Item">
+			<ThingName>ปลาทรายแดงสีฟ้า</ThingName>
+			<Desc>ปลาที่อาศัยอยู่เฉพาะที่ยอดเขาเทียบฟ้า มันชอบกินดอกไม้น้ำแข็งเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Fish_s7" sParam="Item">
+			<ThingName>ปลาตาเดียวภูเขา</ThingName>
+			<Desc>ปลาที่อาศัยอยู่บนภูเขาทางตะวันตกเฉียงเหนือเท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_s9" sParam="Item">
+			<ThingName>ปลาตาเดียวศิลาดำ</ThingName>
+			<Desc>ปลาที่อาศัยอยู่เฉพาะบนภูเขาศิลาทมิฬเท่านั้น มันได้รับอิทธิพลค่ายกลกระบี่ ดังนั้นมันจึงมีร่างกายสีดำที่แข็งแกร่งและมันชอบกินสิ่งของที่เป็นธาตุโลหะเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Fish_ChillyCrab" sParam="Item">
+			<ThingName>ปูน้ำแข็ง</ThingName>
+			<Desc>ปูเนื้ออร่อยที่เห็นได้เฉพาะในพื้นที่ที่มีอากาศหนาวเย็นเท่านั้น</Desc>
+			<Item.FabaoSuffix>ต้ม,กระดอง,กระดูก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_BaiHuang" sParam="Item">
+			<ThingName>ปลาคาร์พหิมะ</ThingName>
+			<Desc>ปลาคาร์พหายากชนิดหนึ่งที่อาศัยอยู่ในทะเลสาบศิลาหยกและจะปรากฏขึ้นในฤดูหนาวเท่านั้น เนื้อของมันมีรสชาติอร่อยและสามารถรับประทานได้โดยตรง</Desc>
+		</Text>
+		<Text Name="Fish_s1" sParam="Item">
+			<ThingName>ปลาคิลลี่ขาว</ThingName>
+			<Desc>ปลาหายากขนาดใหญ่ที่มีสีขาวราวหิมะที่อาศัยอยู่ในน้ำเย็น</Desc>
+		</Text>
+		<Text Name="Fish_r6" sParam="Item">
+			<ThingName>ปลาครีบแดง</ThingName>
+			<Desc>ปลาหายากที่มีครีบสีแดงอันแหลมคม มันอาศัยอยู่ในพื้นที่ที่มีอากาศหนาวเย็นและว่ากันว่ามันจะปรากฏตัวเฉพาะในช่วงฤดูหนาวเท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_QingHei" sParam="Item">
+			<ThingName>ปลาช่อนหัวฟ้า</ThingName>
+			<Desc>ปลาหายากชนิดหนึ่งที่มีหัวสีฟ้า มันจับได้ค่อนข้างยาก</Desc>
+		</Text>
+		<Text Name="Fish_t2" sParam="Item">
+			<ThingName>ปลาทอง</ThingName>
+			<Desc>ปลาทั่วไปที่พบเห็นได้บริเวณภูเขาแดนใต้</Desc>
+		</Text>
+		<Text Name="Fish_s2" sParam="Item">
+			<ThingName>ปลาตะเพียน</ThingName>
+			<Desc>ปลาทั่วไปที่พบได้ทั่วไปในลำธารและแม่น้ำใกล้ๆ กับภูเขาแดนใต้</Desc>
+		</Text>
+		<Text Name="Fish_r8" sParam="Item">
+			<ThingName>ปลาไหลครีบน้ำเงิน</ThingName>
+			<Desc>ว่ากันว่ามันจะปรากฏตัวเฉพาะพื้นที่ที่ใกล้กับสำนักไท้อี้ในช่วงเวลาราตรีนิรันดร์เท่านั้น มันมีพลังกายที่ทรงพลังเป็นอย่างมาก ดังนั้นมันจึงมีอีกชื่อเรียกหนึ่งว่า "ปลาภูติวารี"</Desc>
+		</Text>
+		<Text Name="Fish_s5" sParam="Item">
+			<ThingName>ปลาทรายแดงสีชมพู</ThingName>
+			<Desc>ปลาสีชมพูmujว่ากันว่าเป็นลูกผสมระหว่างปลาคาร์พและปลาทรายแดง ในช่วงฤดูใบไม้ร่วง มันจะว่ายน้ำจากทะเลสู่แม่น้ำเพื่อวางไข่และร่างกายของมันจะนุ่มลงเพื่อปรับตัวให้เข้ากับโขดหินในแม่น้ำลำธาร</Desc>
+		</Text>
+		<Text Name="Fish_t1" sParam="Item">
+			<ThingName>ปลาแสงจันทร์</ThingName>
+			<Desc>ปลาหายากที่มีเนื้อหวานอร่อย มันอาศัยอยู่ในทะเลสาบสวรรค์และจะปรากฏตัวขึ้นหลังเที่ยงคืนของฤดูใบไม้ร่วงเท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_t5" sParam="Item">
+			<ThingName>ปลาหมอสีแคระชมพู</ThingName>
+			<Desc>ปลาตัวเล็กที่มักจะพบเห็นอยู่ใกล้ๆ กับภูเขาบัวห้าสี</Desc>
+		</Text>
+		<Text Name="Fish_r2" sParam="Item">
+			<ThingName>ปลาหมู</ThingName>
+			<Desc>ปลาตัวยาวบางชนิดหนึ่งที่อาศัยอยู่ในดินใกล้ๆ กับลำธาร</Desc>
+		</Text>
+		<Text Name="Fish_r1" sParam="Item">
+			<ThingName>ปลาตาเดียวสีขาว</ThingName>
+			<Desc>ปลาหายากที่อาศัยอยู่บนภูเขาซู</Desc>
+		</Text>
+		<Text Name="Fish_r11" sParam="Item">
+			<ThingName>ปลาช่อนหยก</ThingName>
+			<Desc>ปลาหายากรอบๆ ภูเขาซูที่ชอบกินแกนหยกเป็นอย่างมาก บางทีพวกมันอาจจะถูกดึงดูดโดยปราณธาตุดินของแดนหยกก็ได้</Desc>
+		</Text>
+		<Text Name="Fish_FenLi" sParam="Item">
+			<ThingName>ปลาคาร์พสีชมพู</ThingName>
+			<Desc>ปลาคาร์พที่มีสีชมพูทั้งตัว บางคนคิดว่ามันได้รับผลกระทบจากดอกท้อในบริเวณใกล้เคียง</Desc>
+		</Text>
+		<Text Name="Fish_t11" sParam="Item">
+			<ThingName>ปลาคิลลี่ปีศาจ</ThingName>
+			<Desc>ปลาที่อาศัยอยู่ในหนองน้ำบริเวณป่าแดนใต้และว่ากันว่ามีลวดลายทั่วทั้งตัวเพราะได้สูดกลิ่นอายของจักรพรรดิปีศาจ จะปรากฏตัวเฉพาะในช่วงฤดูใบไม้ผลิ</Desc>
+		</Text>
+		<Text Name="Fish_r3" sParam="Item">
+			<ThingName>ปลาหมูสีดำ</ThingName>
+			<Desc>ปลาสีดำขนาดใหญ่ที่ปรากฏขึ้นเฉพาะในป่าแดนใต้เท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_Black" sParam="Item">
+			<ThingName>ปลาดำ</ThingName>
+			<Desc>ปลาน้ำจืดทั่วไปที่ส่วนใหญ่อาศัยอยู่ในแม่น้ำ</Desc>
+		</Text>
+		<Text Name="Fish_BlueFish" sParam="Item">
+			<ThingName>ปลาคาร์พสีฟ้า</ThingName>
+			<Desc>ปลาคาร์ปหายากที่มีสีน้ำเงินซึ่งอาศัยอยู่ในแม่น้ำสายใหญ่ ร่างกายของมันเปลี่ยนเป็นสีน้ำเงินหลังจากดูดซับปราณธาตุน้ำมาหลายชั่วอายุคน</Desc>
+		</Text>
+		<Text Name="Fish_Huang" sParam="Item">
+			<ThingName>ปลาคาร์พสีทอง</ThingName>
+			<Desc>ปลาที่มีสีทองทั่วทั้งตัวส่วนใหญ่ มันมักจะอาศัยอยู่ในแม่น้ำขนาดใหญ่</Desc>
+		</Text>
+		<Text Name="Fish_HongHuang" sParam="Item">
+			<ThingName>ปลาคาร์พหัวแดง</ThingName>
+			<Desc>ปลาคาร์พหัวแดง มันไม่ค่อยพบเห็นในแม่น้ำที่มีขนาดใหญ่</Desc>
+		</Text>
+		<Text Name="Fish_r13" sParam="Item">
+			<ThingName>ปลาไหลนาสีขาว</ThingName>
+			<Desc>ปลาไหลนาสีขาวที่มีรสชาติที่อร่อยเนื้อนุ่มหนึบ มันมักจะอาศัยอยู่ในแม่น้ำขนาดใหญ่</Desc>
+		</Text>
+		<Text Name="Fish_RedFish" sParam="Item">
+			<ThingName>ปลาเทราต์สายรุ้ง</ThingName>
+			<Desc>ปลาน้ำจืดสีแดงที่อาศัยอยู่ลึกลงไปในแม่น้ำใกล้ๆ กับเมืองหานซานและจะปรากฏตัวในช่วงฤดูหนาวเท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_t10" sParam="Item">
+			<ThingName>ปลาคิลลี่หยก</ThingName>
+			<Desc>ปลาคิลลี่ที่อาศัยอยู่ในน้ำที่มีพลังวิญญาณสูงเท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_JadeCrab" sParam="Item">
+			<ThingName>ปูหยก</ThingName>
+			<Desc>ปูที่หายากมาก มันจะปรากฏตัวเฉพาะในตอนกลางวัน ร่างกายของมันได้รับผลกระทบจากน้ำวิญญาณ ส่งผลให้ร่างกายของมันมีสีดังหยก ผู้ฝึกตนบางคนได้เลี้ยงมันเอาไว้บนภูเขาบัวห้าสี</Desc>
+			<Item.FabaoSuffix>ต้ม,กระดอง,กระดูก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_s6" sParam="Item">
+			<ThingName>ปลาหางนกยูง</ThingName>
+			<Desc>ปลาสีเขียวโปร่งแสงที่สวยงามซึ่งมักจะอาศัยอยู่ในน้ำมีที่พลังวิญญาณสูง หลายๆ สำนักมันจะเลี้ยงมันเอาไว้เพื่อความสวยงาม</Desc>
+		</Text>
+		<Text Name="Fish_r5" sParam="Item">
+			<ThingName>ปลาหมูดอกท้อ</ThingName>
+			<Desc>ปลาหมูที่อาศัยอยู่ในน้ำมีที่พลังวิญญาณสูงเท่านั้นและมันก็ชอบกินหินวิญญาณเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Fish_r12" sParam="Item">
+			<ThingName>ปลาไหลเรืองแสง</ThingName>
+			<Desc>ปลาไหลหายากมักจะอาศัยอยู่ในน้ำมีที่พลังวิญญาณสูง มันจะปรากฏเฉพาะช่วงฤดูร้อนและชอบกินรากวิญญาณอันล้ำค่า</Desc>
+		</Text>
+		<Text Name="Fish_XieLi" sParam="Item">
+			<ThingName>ปลาคาร์พปีศาจ</ThingName>
+			<Desc>ปลาคาร์พที่ปรากฏตัวเฉพาะในน้ำที่มีสีเลือด มันมีลวดลายปีศาจบนร่างกาย</Desc>
+		</Text>
+		<Text Name="Fish_t3" sParam="Item">
+			<ThingName>ปลาช่อนนัยตาดำ</ThingName>
+			<Desc>ปลายักษ์ที่มีนัยตาสีดำและจะปรากฏตัวเฉพาะในน้ำที่มีสีเลือดเท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_s4" sParam="Item">
+			<ThingName>ปลาทรายแดงโลหิต</ThingName>
+			<Desc>ปลาที่อาศัยอยู่ในแอ่งเลือดเท่านั้นและมันมักโจมตีสัตว์ที่เดินผ่านไปมา</Desc>
+		</Text>
+		<Text Name="Fish_s11" sParam="Item">
+			<ThingName>ปลาตาเดียวปีศาจ</ThingName>
+			<Desc>ปลาที่หายากที่อาศัยอยู่ในน้ำที่มีสีเลือด มันมีกลิ่นเหม็นเป็นอย่างมาก จึงเป็นสาเหตุที่ทำให้มันไม่เป็นที่สนใจของนักล่าเท่าไรนัก มันคือหนึ่งในต้นเหตุที่ทำให้แอ่งน้ำสีเลือดมีกลิ่นเหม็นในฤดูใบไม้ผลิ</Desc>
+		</Text>
+		<Text Name="Fish_FireCrab" sParam="Item">
+			<ThingName>ปูไฟ</ThingName>
+			<Desc>ปูที่อาศัยอยู่ในพื้นที่ร้อน มันมีเปลือกที่ช่วยให้ทนต่อสภาพอากาศหนาวเย็น</Desc>
+			<Item.FabaoSuffix>ต้ม,กระดอง,กระดูก</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_HongGui" sParam="Item">
+			<ThingName>ปลาแซลมอนแดง</ThingName>
+			<Desc>ปลาแซลมอนสีแดงซึ่งมักจะปรากฏตัวขึ้นใกล้ๆ กับทะเลทรายไร้ขอบเขต</Desc>
+		</Text>
+		<Text Name="Fish_t4" sParam="Item">
+			<ThingName>ปลาหมอสีแคระทอง</ThingName>
+			<Desc>ปลาที่อาศัยอยู่ในทะเลทราย มันมีความสามารถในการอดทนต่อความอดยากได้เป็นอย่างดีซึ่งอาจจะเป็นเพราะมันกินแต่อาหารธาตุไม้ก็เป็นได้</Desc>
+		</Text>
+		<Text Name="Fish_s10" sParam="Item">
+			<ThingName>ปลาตาเดียวสีน้ำตาล</ThingName>
+			<Desc>ปลาที่พบในทะเลทรายไร้ขอบเขต</Desc>
+		</Text>
+		<Text Name="Fish_r4" sParam="Item">
+			<ThingName>ปลาหมูทองแดงอัคคี</ThingName>
+			<Desc>ปลาหมูที่อาศัยอยู่ใกล้ๆ กับเหมืองแร่ทองแดงอัคคี มันมักจะชอบกินแร่ที่มีธาตุไฟ นี่จึงทำให้ร่างกายมันสามารถปล่อยความร้อนออกมาได้</Desc>
+		</Text>
+		<Text Name="Fish_r7" sParam="Item">
+			<ThingName>ปลาหมูทราย</ThingName>
+			<Desc>ปลาชนิดหนึ่งที่อาศัยอยู่ในทะเลทราย</Desc>
+		</Text>
+		<Text Name="Fish_t7" sParam="Item">
+			<ThingName>ปลาคิลลี่ปากโต</ThingName>
+			<Desc>ปลาที่มีปากขนาดใหญ่ มันมักพบเห็นได้ในทะเล</Desc>
+		</Text>
+		<Text Name="Fish_t9" sParam="Item">
+			<ThingName>ปลาคิลลี่สีดำ</ThingName>
+			<Desc>ปลาหายากที่อาศัยอยู่ในทะเล</Desc>
+		</Text>
+		<Text Name="Fish_t12" sParam="Item">
+			<ThingName>ปลาคิลลี่ไฟ</ThingName>
+			<Desc>ปลาคิลลี่ที่สามารถพบเจอได้เฉพาะในช่วงฤดูร้อนเท่านั้น มีเพียงไม่กี่คนที่เคยพบเห็นมันในทะเลสาบมังกรพิษ</Desc>
+		</Text>
+		<Text Name="Fish_s12" sParam="Item">
+			<ThingName>ปลาตาเดียวทมิฬ</ThingName>
+			<Desc>ปลาขนาดใหญ่ที่อาศัยอยู่ในทะเลลึกและวางไข่ในพื้นที่ตื้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_s8" sParam="Item">
+			<ThingName>ปลาตาเดียวครีบน้ำเงิน</ThingName>
+			<Desc>ปลาที่เห็นได้ทั่วไปในทะเล</Desc>
+		</Text>
+		<Text Name="Fish_r9" sParam="Item">
+			<ThingName>ปลาไหลทะเล</ThingName>
+			<Desc>ปลาไหลที่พบได้ทั่วไปในทะเล</Desc>
+		</Text>
+		<Text Name="Fish_r10" sParam="Item">
+			<ThingName>ปลาไหลลายจุด</ThingName>
+			<Desc>ปลาไหลหายากที่อาศัยอยู่ในทะเล มันมีลายจุดที่อาจเกิดจากการกินเถ้าภูเขาไฟที่ก้นทะเล</Desc>
+		</Text>
+		<Text Name="Shrimp1" sParam="Item">
+			<ThingName>กุ้งแม่น้ำ</ThingName>
+			<Desc>กุ้งทั่วไปที่อาศัยอยู่ในแหล่งน้ำจืด</Desc>
+		</Text>
+		<Text Name="Shrimp2" sParam="Item">
+			<ThingName>กุ้งทะเล</ThingName>
+			<Desc>กุ้งทะเลตัวใหญ่</Desc>
+		</Text>
+		<Text Name="Shrimp3" sParam="Item">
+			<ThingName>กุ้งม่วง</ThingName>
+			<Desc>กุ้งที่อาศัยอยู่เฉพาะบนภูเขาที่อยู่ใกล้ๆ กับวังเหนือนภาเท่านั้น</Desc>
+		</Text>
+		<Text Name="Shrimp4" sParam="Item">
+			<ThingName>กุ้งแดง</ThingName>
+			<Desc>กุ้งเปลือกแดง มันมีความสามารถทนต่ออุณหภูมิที่สูงได้</Desc>
+		</Text>
+		<Text Name="Shrimp5" sParam="Item">
+			<ThingName>กุ้งทราย</ThingName>
+			<Desc>กุ้งขนาดเล็กที่อาศัยอยู่ในทะเลทราย</Desc>
+		</Text>
+		<Text Name="Shrimp6" sParam="Item">
+			<ThingName>กุ้งขาว</ThingName>
+			<Desc>กุ้งขนาดเล็กที่อาศัยอยู่ใกล้แม่น้ำขนาดใหญ่</Desc>
+		</Text>
+		<Text Name="Shrimp7" sParam="Item">
+			<ThingName>กุ้งลายน้ำเงิน</ThingName>
+			<Desc>กุ้งที่อาศัยอยู่ใกล้ที่ราบตอนกลาง มันจับได้ค่อนข้างยาก</Desc>
+		</Text>
+		<Text Name="Shrimp8" sParam="Item">
+			<ThingName>กุ้งจุดเหลือง</ThingName>
+			<Desc>กุ้งที่อาศัยอยู่ใกล้ๆ กับป่าแดนใต้ มันมีรสขมเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Shrimp9" sParam="Item">
+			<ThingName>กุ้งโลหิต</ThingName>
+			<Desc>กุ้งที่อาศัยอยู่ในแอ่งน้ำเลือด มันมีนิสัยที่ดุร้ายเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Shrimp10" sParam="Item">
+			<ThingName>กุ้งโลหิตเพลิง</ThingName>
+			<Desc>กุ้งที่ปรากฏตัวในหนองน้ำเลือดบนภูเขา พวกมันชอบกินอาหารที่มีธาตุไฟเป็นอย่างมาก และเนื่องจากความดุร้ายของพวกมัน ดังนั้นพวกมันจึงชอบรุกรานถิ่นที่อยู่อาศัยของสัตว์น้ำชนิดอื่น</Desc>
+		</Text>
+		<Text Name="Shrimp11" sParam="Item">
+			<ThingName>กุ้งเรืองแสง</ThingName>
+			<Desc>กุ้งที่ปรากฏเฉพาะในบ่อน้ำห้ามังกรในช่วงกลางคืนของฤดูร้อนเท่านั้น ว่ากันว่าที่ร่างกายของพวกมันเรืองแสงได้นั้นเป็นเพราะพวกมันชอบมันแต่อาหารที่มีปราณธาตุไม้แฝงอยู่เท่านั้น</Desc>
+		</Text>
+		<Text Name="Shrimp12" sParam="Item">
+			<ThingName>กุ้งดอกท้อ</ThingName>
+			<Desc>กุ้งที่ปรากฏเฉพาะในป่าดอกท้อไร้โรยในช่วงฤดูใบไม้ผลิเท่านั้น ว่ากันว่าที่ร่างกายของพวกมีสีชมพูนั้นเป็นเพราะผลกระทบจากดอกท้อที่ร่วงลงอยู่แหล่งที่อยู่อาศัยของพวกมัน</Desc>
+		</Text>
+	</List>
+</Texts>

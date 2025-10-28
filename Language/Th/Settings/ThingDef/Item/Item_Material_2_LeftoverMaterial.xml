@@ -1,0 +1,88 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LeftoverMaterialBase" sParam="Item">
+			<Desc>เศษวัสดุที่ตัดแบ่งออกมาอย่างประณีตเพื่อใช้ปูพื้นหรือสร้างชายคา</Desc>
+			<Item.FabaoSuffix>ตะปู, ลูกดอก, เศษโลหะ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WoodLeftover" sParam="Item">
+			<ThingName>แผ่นไม้ตัด</ThingName>
+			<Desc>แผ่นไม้ที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodLeftover" sParam="Item">
+			<ThingName>แผ่นไม้ทองคำตัด</ThingName>
+			<Desc>แผ่นไม้ทองคำที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้ทองคำ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodLeftover" sParam="Item">
+			<ThingName>แผ่นไม้หงส์เพลิงตัด</ThingName>
+			<Desc>แผ่นไม้หงส์เพลิงที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้หงส์</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodLeftover" sParam="Item">
+			<ThingName>แผ่นไม้วิญญาณตัด</ThingName>
+			<Desc>แผ่นไม้วิญญาณที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้วิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BrownRockLeftover" sParam="Item">
+			<ThingName>แผ่นหินสีน้ำตาลตัด</ThingName>
+			<Desc>แผ่นหินสีน้ำตาลที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีน้ำตาล</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockLeftover" sParam="Item">
+			<ThingName>แผ่นหินสีเทาตัด</ThingName>
+			<Desc>แผ่นหินสีเทาที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีเทา</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleLeftover" sParam="Item">
+			<ThingName>แผ่นหินอ่อนตัด</ThingName>
+			<Desc>แผ่นหินอ่อนที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>หินอ่อน</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeLeftover" sParam="Item">
+			<ThingName>แผ่นหยกตัด</ThingName>
+			<Desc>แผ่นหยกที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>หยก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneLeftover" sParam="Item">
+			<ThingName>แผ่นหินศักดิ์สิทธิ์ตัด</ThingName>
+			<Desc>แผ่นหินศักดิ์สิทธิ์ที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>หินศักดิ์สิทธิ์</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneLeftover" sParam="Item">
+			<ThingName>แผ่นหินวิญญาณตัด</ThingName>
+			<Desc>แผ่นหินวิญญาณที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>หินวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalLeftover" sParam="Item">
+			<ThingName>แผ่นผลึกวิญญาณตัด</ThingName>
+			<Desc>แผ่นผลึกวิญญาณที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผลึกวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_IronRockLeftover" sParam="Item">
+			<ThingName>แผ่นเหล็กตัด</ThingName>
+			<Desc>แผ่นเหล็กที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็ก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRockLeftover" sParam="Item">
+			<ThingName>แผ่นทองแดงอัคคีตัด</ThingName>
+			<Desc>แผ่นทองแดงอัคคีที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>ทองแดงอัคคี</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRockLeftover" sParam="Item">
+			<ThingName>แผ่นผลึกน้ำแข็งตัด</ThingName>
+			<Desc>แผ่นผลึกน้ำแข็งที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>ผลึกน้ำแข็ง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRockLeftover" sParam="Item">
+			<ThingName>แผ่นเหล็กนิลกาฬตัด</ThingName>
+			<Desc>แผ่นเหล็กนิลกาฬที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็กนิลกาฬ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceLeftover" sParam="Item">
+			<ThingName>แผ่นแร่แสงดาราตัด</ThingName>
+			<Desc>แผ่นแร่แสงดาราที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>แร่แสงดารา</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

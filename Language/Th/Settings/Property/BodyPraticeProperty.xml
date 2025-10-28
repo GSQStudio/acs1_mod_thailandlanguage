@@ -1,0 +1,190 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyPratice_BodyRecover">
+			<DisplayName>อัตราการรักษาตัวเองของผู้ฝึกตนวิถีกายาอมตะ</DisplayName>
+			<Desc>อัตราความเร็วในการรักษาตัวเองของผู้ฝึกตนวิถีกายาอมตะยามเมื่อพวกเขาบาดเจ็บ</Desc>
+			<DisplayValue>{0:P2}/วิ</DisplayValue>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_MaxZhenQi">
+			<DisplayName>ปราณแท้สูงสุด</DisplayName>
+			<Desc>ปริมาณปราณแท้สูงสุดของผู้ฝึกตนวิถีกายาอมตะ</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_RecoverZhenQi">
+			<DisplayName>ฐานอัตราการฟื้นฟูปราณแท้</DisplayName>
+			<Desc>ฐานอัตราการฟื้นฟูปราณแท้ของผู้ฝึกตนวิถีกายาอมตะ</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_DefenseRecoverZhenQi">
+			<DisplayName>อัตราการฟื้นฟูปราณแท้</DisplayName>
+			<Desc>อัตราการฟื้นฟูปราณแท้ต่อวินาทีของผู้ฝึกตนวิถีกายาอมตะยามเมื่อปราณแท้ของพวกเขาหมดลง</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_CatchFaboValue">
+			<DisplayName>อัตราการใช้ปราณแท้ในการสะกดอาวุธวิเศษ</DisplayName>
+			<Desc>อัตราการใช้ปราณแท้ในการสะกดอาวุธวิเศษของผู้ฝึกตนวิถีกายาอมตะ</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_BodyStrong">
+			<DisplayName>ความทนทานร่างกาย</DisplayName>
+			<Desc>ความสามารถในการรับความเสียหายของผู้ฝึกตนวิถีกายาอมตะ ยิ่งร่างกายแข็งแรงมากเท่าไร โอกาสเสียชีวิตจากการบาดเจ็บก็น้อยลงเท่านั้น</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_QuenchingSpeed">
+			<DisplayName>ความเร็วในการหลอมกายา</DisplayName>
+			<Desc>ความเร็วในการหลอมกายาของผู้ฝึกตนวิถีกายาอมตะ</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAtk_EquptMaxCount">
+			<DisplayName>จำนวนสูงสุดของท่าร่างโจมตีของกายาเร้นลับ</DisplayName>
+			<Desc>จำนวนสูงสุดของท่าร่างโจมตีของกายาเร้นลับที่เปิดใช้งานพร้อมกันได้</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartDef_EquptMaxCount">
+			<DisplayName>จำนวนสูงสุดของท่าร่างป้องกันของกายาเร้นลับ</DisplayName>
+			<Desc>จำนวนสูงสุดของท่าร่างป้องกันของกายาเร้นลับที่เปิดใช้งานพร้อมกันได้</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartBuff_EquptMaxCount">
+			<DisplayName>จำนวนสูงสุดของผลลัพธ์ของกายาเร้นลับ</DisplayName>
+			<Desc>จำนวนสูงสุดของผลลัพธ์ของกายาเร้นลับที่เปิดใช้งานพร้อมกันได้</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_Other_TunaAddp">
+			<DisplayName>ผลลัพธ์เพิ่มเติมในการเดินลมปราณ</DisplayName>
+			<Desc>โบนัสในการได้รับแกนธาตุของผู้ฝึกตนวิถีกายาอมตะจากการเดินลมปราณ</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_SuperPartCostAddP">
+			<DisplayName>อัตราการใช้ปราณแท้ของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสอัตราการใช้ปราณแท้ของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_SuperPartRecoverAddP">
+			<DisplayName>อัตราการฟื้นฟูปราณแท้ของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสอัตราการฟื้นฟูปราณแท้ของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_AtkPower">
+			<DisplayName>ฐานพลังของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานพลังของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_DefPower">
+			<DisplayName>ฐานความทนทานของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานความทนทานของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_AtkRate">
+			<DisplayName>ฐานความแม่นยำของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานความแม่นยำของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_DefRate">
+			<DisplayName>ฐานอัตราสำเร็จในการป้องกันของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานอัตราสำเร็จในการป้องกันของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
+			<DisplayName>ฐานอัตราสำเร็จในการโจมตีทะลุเกราะปราณของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานอัตราสำเร็จในการโจมตีทะลุเกราะปราณของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_CatchFabao">
+			<DisplayName>ฐานอัตราสำเร็จในการสะกดอาวุธวิเศษของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานอัตราสำเร็จในการสะกดอาวุธวิเศษของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_AtkPower">
+			<DisplayName>ฐานพลังของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานพลังของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_DefPower">
+			<DisplayName>ฐานความทนทานของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานความทนทานของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_AtkRate">
+			<DisplayName>ฐานความแม่นยำของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานความแม่นยำของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_DefRate">
+			<DisplayName>ฐานอัตราสำเร็จในการป้องกันของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานอัตราสำเร็จในการป้องกันของกายาเร้นลับDefense Success Rate ที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
+			<DisplayName>ฐานอัตราสำเร็จในการโจมตีทะลุเกราะปราณของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานอัตราสำเร็จในการโจมตีทะลุเกราะปราณของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_CatchFabao">
+			<DisplayName>ฐานอัตราสำเร็จในการสะกดอาวุธวิเศษของกายาเร้นลับ</DisplayName>
+			<Desc>โบนัสฐานอัตราสำเร็จในการสะกดอาวุธวิเศษของกายาเร้นลับที่เปิดใช้งานอยู่ทั้งหมด</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireNum">
+			<DisplayName>จำนวนสูงสุดของความทรงจำที่เจ็บปวด</DisplayName>
+			<Desc>จำนวนสูงสุดของความทรงจำที่เจ็บปวดของผู้ฝึกตนวิถีกายาอมตะที่พวกเขาสามารถจดจำได้</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireDuration">
+			<DisplayName>ระยะเวลาของโทสะบ้าคลั่ง</DisplayName>
+			<Desc>ระยะเวลาของโทสะบ้าคลั่งยามเมื่อผู้ฝึกตนวิถีกายาอมตะกระตุ้นการใช้งานมัน</Desc>
+			<DisplayValue>{0:N} วิ</DisplayValue>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireEffectAddp">
+			<DisplayName>อัตราการเพิ่มพลังของโทสะบ้าคลั่ง</DisplayName>
+			<Desc>อัตราการเพิ่มพลังของโทสะบ้าคลั่งยามเมื่อผู้ฝึกตนวิถีกายาอมตะกระตุ้นการใช้งานมัน</Desc>
+			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemMaxRate">
+			<DisplayName>ระดับสูงสุดของสิ่งของที่สามารถกลืนกินได้</DisplayName>
+			<Desc>ระดับของสิ่งของที่ผู้ฝึกตนวิถีกายาอมตะสามารถกลืนกินได้</Desc>
+			<DisplayValue>ระดับ {0:N}</DisplayValue>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemProduceCountAddp">
+			<DisplayName>โบนัสจำนวนแกนจากการกลืนกิน</DisplayName>
+			<Desc>โบนัสโบนัสจำนวนแกนที่ได้รับจากการกลืนกินของผู้ฝึกตนวิถีกายาอมตะ</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemProduceRateAddp">
+			<DisplayName>โบนัสการได้รับแกนหายากจากการกลืนกิน</DisplayName>
+			<Desc>โบนัสโบนัสการได้รับแกนหายากที่ได้รับจากการกลืนกินของผู้ฝึกตนวิถีกายาอมตะ</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache1">
+			<DisplayName>โบนัสการหลอมกายาระดับดี</DisplayName>
+			<Desc>โบนัสโอกาสการได้รับเส้นทางการวิวัฒนาการระดับดียามเมื่อผู้ฝึกตนวิถีกายาอมตะทำการหลอมกายา</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache2">
+			<DisplayName>โบนัสการหลอมกายาระดับหายาก</DisplayName>
+			<Desc>โบนัสโอกาสการได้รับเส้นทางการวิวัฒนาการระดับหายากยามเมื่อผู้ฝึกตนวิถีกายาอมตะทำการหลอมกายา</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache3">
+			<DisplayName>โบนัสการหลอมกายาระดับสุดยอด</DisplayName>
+			<Desc>โบนัสโอกาสการได้รับเส้นทางการวิวัฒนาการระดับสุดยอดยามเมื่อผู้ฝึกตนวิถีกายาอมตะทำการหลอมกายา</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache4">
+			<DisplayName>โบนัสการหลอมกายาระดับตำนาน</DisplayName>
+			<Desc>โบนัสโอกาสการได้รับเส้นทางการวิวัฒนาการระดับตำนานยามเมื่อผู้ฝึกตนวิถีกายาอมตะทำการหลอมกายา</Desc>
+			<FunctionKind>ค่าสถานะของผู้ฝึกตน</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Null">
+			<DisplayName>โบนัสโอกาสล้มเหลวในการหลอมกายา</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_MaxFoodAddtion">
+			<DisplayName>โบนัสความหิวสูงสุด</DisplayName>
+			<Desc>โบนัสความหิวสูงสุดของผู้ฝึกตนวิถีกายาอมตะ</Desc>
+			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
+		</Text>
+	</List>
+</Texts>

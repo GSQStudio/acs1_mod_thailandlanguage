@@ -1,0 +1,77 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_WuDang_HuangJing" sParam="Item">
+			<ThingName>แกนดิน</ThingName>
+			<Desc>สมุนไพรชนิดหนึ่งที่มีรสหวานและสดชื่น การกินมันลงไปไม่เพียงแต่ลดความหิวเท่านั้นแต่มันยังเติมเต็มสารอาหารบำรุงร่างกายได้อีกด้วย ความล้ำค่าของมันสามารถเทียบได้กับหลินจือม่วง การที่สมุนชนิดนี้ถูกเรียกว่าแกนดินนั่นก็เป็นเพาะมันดูดซึมเอาสารอาหารและแร่ธาตุุที่สำคัญมาจากผืนดิน</Desc>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WuDang_HuangJingFen" sParam="Item">
+			<ThingName>ผงแกนดิน</ThingName>
+			<Desc>ผงที่เกินจากการบดแกนดินจกละเอียด แม้ว่าจะมีฤทธิ์เล็กน้อย แต่ก็มักใช้เป็นส่วนผสมในการปรุงยา</Desc>
+			<Item.FabaoSuffix>ทราย, ผลึก, ฝุ่น, ผง, กลิ่นอาย</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponFuChen" sParam="Item">
+			<ThingName>แส้พลิกเมฆา</ThingName>
+			<Desc>แส้ห้างม้าที่มักจะใช้กันในหมู่นักพรตเต๋า</Desc>
+			<Item.FabaoSuffix>นุ่ม, พู่กัน</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponDaoSword" sParam="Item">
+			<ThingName>กระบี่แห่งเต๋า</ThingName>
+			<Desc>กระบี่ที่เข้ากันได้กับปราณฟ้าดิน มักถูกใช้โดยนักพรตเต๋า</Desc>
+			<Item.FabaoSuffix>กระบี่</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XuanTianShangDiPai" sParam="Item">
+			<ThingName>จานเมฆาศักดิ์สิทธิ์</ThingName>
+			<Desc>แผ่นจี้สลักชื่อศักดิ์สิทธิ์ของจักรพรรดิเทพสงคราม ผู้ที่สวมใส่มันจะได้รับพรแห่งจักรพรรดิส่งผลให้ยกระดับสภาวะจิตและเพิ่มพูนโชคให้แก่คนผู้นั้น</Desc>
+			<Item.FabaoSuffix>Plate</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_WuQiNoHunger2" sParam="Item">
+			<ThingName>โอสถแทนปราณ</ThingName>
+			<Desc>โอสถลับที่ใช้ในการทดแทนอาหารของภูเขาบู๊ตึ้ง เมื่อเปรียบเทียบกันโอสถอิ่มทิพย์ โอสถแทนปราณแทนปราณนั้นจะให้ผลที่ค่อนข้างยาวนานกว่า(ผลของโอสถจะยาวนาน 30 วัน)</Desc>
+		</Text>
+		<Text Name="Item_Dan_SanHuaHuangJing" sParam="Item">
+			<ThingName>โอสถสามแกน</ThingName>
+			<Desc>โอสถวิเศษลับของภูเขาบู๊ตึ้ง มันสามารถใช้ในการเพิ่มปริมาณปราณสูงสุดได้ ถึงแม้ว่ามันจะค่อนข้างไร้ประโยชน์กับผู้ฝึกตนขั้นสูง ทว่ามันมีประโยชน์กับผู้ฝึกตนมือใหม่เป็นอย่างมาก ทว่าผลลัพธ์ของมันจะลดน้อยลงเป็นอย่างมากถ้าหากใช้มันซ้ำๆ กันหลายครั้ง</Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhenWuDangMoShenJian" sParam="Item">
+			<ThingName>กระบี่เทพสงคราม</ThingName>
+			<Desc>กระบี่ของจักรพรรดิจิ้นหวู่หรือที่รู้จักกันในนามจักรพรรดิเทพสงคราม กระบี่เล่มนี้คือกระบี่ที่เขาเคยใช้มันเพื่อกวาดล้างเหล่าปีศาจ กระบี่มีความยาวสองฟุตเจ็ดนิ้ว ตัวกระบี่ถูกหลอมมาจากหยกวิเศษที่มีพลังปราณแห่งฟ้าดินไหลเวียนอยู่ ดังนั้นคมกระบี่จึงเปร่งแสงเรืองรองด้วยปราณแห่งฟ้าดิน ยามเมื่อกระบี่ถูกดึงออกมาจากฝัก มันจะแปรเปลี่ยนเป็นอัสนีบาตที่สามารถทำลายทุกสิ่งที่ไปสัมผัสมัน</Desc>
+			<Item.Fabao.ActiveCondition.0.des>สังหารอสูรงูวิญญาณปฐมกาล 1 ตัวในขณะที่กำลังพกพากระบี่เล่มนี้เอาไว้</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>สังหารอสูรหมาป่าวิญญาณปฐมกาล 1 ตัวในขณะที่กำลังพกพากระบี่เล่มนี้เอาไว้</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>สังหารอสูรหมีวิญญาณปฐมกาล 1 ตัวในขณะที่กำลังพกพากระบี่เล่มนี้เอาไว้</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>สังหารอสูรเต่าวิญญาณปฐมกาล 1 ตัวในขณะที่กำลังพกพากระบี่เล่มนี้เอาไว้</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>สังหารอสูรหมูป่าวิญญาณปฐมกาล 1 ตัวในขณะที่กำลังพกพากระบี่เล่มนี้เอาไว้</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>สร้างความเสียหาย 3 เท่าเมื่อใช้มันโจมตีเผ่าพันธุ์ที่ไม่ใช่เผ่าพันธุ์มนุษย์</Item.Fabao.SpecialAbility.0.Desc>
+			<Item.Fabao.SpecialAbility.1.Desc>สร้างความเสียหาย 3 เท่าเมื่อสวมใส่โดยเผ่าพันธุ์มนุษย์</Item.Fabao.SpecialAbility.1.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZiXiaoChi" sParam="Item">
+			<ThingName>พลองรัศมีเมฆาม่วง</ThingName>
+			<Desc>อาวุธวิเศษลึกลับแห่งสำนักบู๊ตึ้ง มันถูกแกะสลักมาจากหินศักดิ์สิทธิ์ ตัวของมันมีการแกะสลักอักขระโบราณ 7 ลมหายใจสวรรค์ 7 ลมหายใจดวงดาวเอาไว้ หลังจากนั้นจึงถูกหล่อหลอมการทัณฑ์สวรรค์อยู่ 7 วัน 7 คืน เมื่อได้รับการยอมรับจากอาวุธชิ้นนี้ ผู้ใช้สามารถมองเห็นค่ากรรมของสิ่งมีชีวิตทั้งมวลได้ อีกทั้งยังสามารถใช้มันเพื่อเร่งการมาถึงของทัณฑ์สวรรค์ให้แก่ศัตรูอีกด้วย</Desc>
+			<Item.Fabao.ActiveCondition.0.des>รอดพ้นจากทัณฑ์สังหารเซียน 7 ครั้งในขณะที่กำลังพกพาอาวุธชิ้นนี้เอาไว้</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>พลังโจมตีจะขึ้นอยู่กับความต่างของจำนวนเมล็ดเต๋าของทั้งสองฝ่าย ทุกๆ เมล็ดเต๋าที่ห่างกัน 1 เมล็ด มันก็จะเพิ่มพลังโจมตีขึ้นมา 1%</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Fish_SkySnake" sParam="Item">
+			<ThingName>ปลาไหลเมฆา</ThingName>
+			<Desc>ปลาไหลที่มีเอกลักษณ์เฉพาะตัวของทะเลเมฆและเนื่องจากภายในร่างของมันนั้นมีปราณของทะเลเมฆแฝงอยู่ นี่จึงทำให้เนื้อของมันนั้นนุ่มและเบาราวกับปุยเมฆ</Desc>
+			<Item.FabaoSuffix>Surimi,Fish,Bone</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_SkyFish" sParam="Item">
+			<ThingName>ปลาคาร์พราตรี</ThingName>
+			<Desc>ปลาคาร์พที่อาศัยอยู่ในทะเลเมฆและจะปรากฏตัวเฉพาะในตอนกลางคืนเท่านั้น</Desc>
+		</Text>
+		<Text Name="Fish_SkyCrab" sParam="Item">
+			<ThingName>ปูทองคำ</ThingName>
+			<Desc>ปูที่อาศัยอยู่ในทะเลเมฆ มันมีร่างกายที่แข็งแกร่งเป็นอย่างมาก ว่ากันว่าอาหารของมันก็คือสายฟ้าที่อยู่ในทะเลเมฆ</Desc>
+		</Text>
+		<Text Name="Item_XuanWuEgg" sParam="Item">
+			<ThingName>หยกเต่าดำ</ThingName>
+			<Desc>หยกที่ถูกส่งมาเป็นของขวัญจากสำนักบู๊ตึ้ง ดูเหมือนว่ามันจะเป็นหนึ่งในชุดของอุปกรณ์อะไรซักอย่าง</Desc>
+			<StoryBnts.0.Name>ตรวจสอบ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>ตรวจสอบหยกเต่าดำ</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Wonder_ZhenWuShenNian" sParam="Item">
+			<ThingName>แนวทางสมบูรณ์</ThingName>
+			<Desc>แนวทางที่สมบูรณ์แบบบางส่วนของจักรพรรดิเทพสงคราม มันสามารถใช้เป็นแนวทางในการสร้างรูปปั้นของจักรพรรดิเทพสงครามได้</Desc>
+		</Text>
+	</List>
+</Texts>

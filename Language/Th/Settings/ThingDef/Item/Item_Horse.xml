@@ -1,0 +1,46 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_HorseBase" sParam="Item">
+			<Item.FabaoSuffix>ม้วนตำรา,รูป,สัญญา</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_HorseFromJY_Rabbit" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรกระต่าย</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Chicken" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรไก่</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Wolf" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรหมาป่า</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Snake" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรงู</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรหมูป่า</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Bear" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรหมี</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Frog" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรกบ</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Turtle" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรเต่า</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Cat" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรแมว</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Cattle" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรกระทิง</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Tiger" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: อสูรพยัคฆ์</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromLuShu" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: ลู่ซู</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromFei" sParam="Item">
+			<ThingName>สัญญาวิญญาณ: เฟย</ThingName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="affix_1">
+			<Display>การกลายเป็นอสูร</Display>
+			<Desc>[color=#B0FA6B][size=18] · มีโอกาสสูงที่สัตว์จะกลายเป็นอสูรเมื่อถูกสังหาร[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_2">
+			<Display>ความอิ่มตัวแห่งปราณโอสถ</Display>
+			<Desc>[color=#B0FA6B][size=18] · การปรุงโอสถสำเร็จจะเพิ่มปราณธาตุทั้งห้าในฉาก ตามระดับขั้นและธาตุของโอสถ[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_5">
+			<Display>การบูชาอสูร</Display>
+			<Desc>[color=#B0FA6B][size=18] · เปิดใช้งานการบูชาอสูร\n · ใช้การบูชาอสูรในศาลบรรพชน[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_3">
+			<Display>ทรัพยากรอุดมสมบูรณ์</Display>
+			<Desc>[size=18] · เพิ่มปริมาณของที่ดรอปจากอสูรและสัตว์\n · พ่อค้าจะมีสินค้ามากขึ้นเป็นสองเท่า[/size]</Desc>
+		</Text>
+		<Text Name="affix_4">
+			<Display>สัตว์เลี้ยงวิญญาณ</Display>
+			<Desc>[size=18] · เริ่มต้นพร้อมสัตว์เลี้ยง ฮัวเจวียน\n · โภชนาการที่ดีขึ้นจากการเลี้ยงดูสัตว์เลี้ยง[/size]</Desc>
+		</Text>
+		<Text Name="challenge_affix_1">
+			<Display>อสูรคลุ้มคลั่ง</Display>
+			<Desc>· เพิ่มความยากในการบุกโจมตีของอสูร</Desc>
+		</Text>
+		<Text Name="challenge_affix_2">
+			<Display>สภาพอากาศปั่นป่วน</Display>
+			<Desc>· เพิ่มผลกระทบด้านลบของสภาพอากาศ\n · เพิ่มระดับความยากของการฝึกต้านเคราะห์</Desc>
+		</Text>
+	</List>
+</Texts>

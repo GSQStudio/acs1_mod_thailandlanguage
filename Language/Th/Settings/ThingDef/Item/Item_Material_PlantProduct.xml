@@ -1,0 +1,9 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Cotton" sParam="Item">
+			<ThingName>ฝ้าย</ThingName>
+			<Desc>ตะกร้าที่มีฝ้ายเก็บอยู่ มันเป็นวัตถุดิบหลักสำหรับการทอผ้า นอกจากจะได้รับมาจากการปลูกฝ้ายแล้ว ท่านยังสามารถไปที่ภูเขาเหลียงผ่านการผจญภัยเพื่อเก็บรวบรวมมันได้</Desc>
+			<Item.FabaoSuffix>ม้วนด้าย, เชือก, สาย, แพร, ลวด</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

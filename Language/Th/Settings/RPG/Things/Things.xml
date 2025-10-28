@@ -1,0 +1,72 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Camp">
+			<DisplayName>ฝ่าย</DisplayName>
+			<ValuesDesc.0>มิตร</ValuesDesc.0>
+			<ValuesDesc.1>เป็นกลาง</ValuesDesc.1>
+			<ValuesDesc.2>ศัตรู</ValuesDesc.2>
+		</Text>
+		<Text Name="MoveAI">
+			<DisplayName>โหมดการเคลื่อนที่</DisplayName>
+			<ValuesDesc.0>ยืน</ValuesDesc.0>
+			<ValuesDesc.1>อิสระ</ValuesDesc.1>
+			<ValuesDesc.2>ตระเวน</ValuesDesc.2>
+			<ValuesDesc.3>กำหนดเส้นทาง</ValuesDesc.3>
+		</Text>
+		<Text Name="MoveRoute">
+			<DisplayName>ปุ่มสำหรับกำหนดเส้นทาง</DisplayName>
+		</Text>
+		<Text Name="GuradRange">
+			<DisplayName>ระยะแจ้งเตือน</DisplayName>
+		</Text>
+		<Text Name="IsStepRuning">
+			<DisplayName>Frame Callback</DisplayName>
+			<ValuesDesc.0>ไม่</ValuesDesc.0>
+			<ValuesDesc.1>ใช่</ValuesDesc.1>
+		</Text>
+		<Text Name="IsFrameStep">
+			<DisplayName>Callback each frame</DisplayName>
+			<ValuesDesc.0>ไม่</ValuesDesc.0>
+			<ValuesDesc.1>ใช่</ValuesDesc.1>
+		</Text>
+		<Text Name="IsRenderRuning">
+			<DisplayName>Render Frame Callback</DisplayName>
+			<ValuesDesc.0>ไม่</ValuesDesc.0>
+			<ValuesDesc.1>ใช่</ValuesDesc.1>
+		</Text>
+		<Text Name="IsGod">
+			<DisplayName>เป็นอมตะหรือไม่</DisplayName>
+			<ValuesDesc.0>ไม่</ValuesDesc.0>
+			<ValuesDesc.1>ใช่</ValuesDesc.1>
+		</Text>
+		<Text Name="ChouHenLianDong">
+			<DisplayName>แบ่งบันความเกลียดชังของทีม</DisplayName>
+			<ValuesDesc.0>ไม่</ValuesDesc.0>
+			<ValuesDesc.1>ใช่</ValuesDesc.1>
+		</Text>
+		<Text Name="AutoNext">
+			<DisplayName>เอาชนะศัตรูทั้งหมด</DisplayName>
+			<ValuesDesc.0>ไม่</ValuesDesc.0>
+			<ValuesDesc.1>ใช่</ValuesDesc.1>
+		</Text>
+		<Text Name="PickAndRemove">
+			<DisplayName>ทรัพยากรหมดมีจำนวนจำกัดหรือไม่</DisplayName>
+			<ValuesDesc.0>ไม่</ValuesDesc.0>
+			<ValuesDesc.1>ใช่</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFog">
+			<DisplayName>เปิดหมอกหรือไม่</DisplayName>
+			<ValuesDesc.0>ไม่</ValuesDesc.0>
+			<ValuesDesc.1>ใช่</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFogDis">
+			<DisplayName>ระยะของการเปิดหมอก</DisplayName>
+		</Text>
+		<Text Name="Param1">
+			<DisplayName>พารามิเตอร์ 1 (RpgParam1)</DisplayName>
+		</Text>
+		<Text Name="Param2">
+			<DisplayName>พารามิเตอร์ 2 (RpgParam2)</DisplayName>
+		</Text>
+	</List>
+</Texts>

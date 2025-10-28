@@ -1,0 +1,9 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BambooLeftover" sParam="Item">
+			<ThingName>แผ่นไม้ไผ่ตัด</ThingName>
+			<Desc>แผ่นไม้ไผ่ที่ตัดแบ่งออกมาอย่างประณีต สามารถใช้ปูพื้นหรือสร้างชายคาได้</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้ไผ่</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
