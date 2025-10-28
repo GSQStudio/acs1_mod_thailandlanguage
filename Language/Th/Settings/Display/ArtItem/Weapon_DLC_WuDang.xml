@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Item_WeaponDaoSword">
+			<List.0.Name>กระบี่แห่งเต๋า</List.0.Name>
+			<List.0.Desc>อาวุธแห่งฝีมืออันวิจิตรตระการตา หล่อหลอมด้วยเลือด หยาดเหงื่อ และน้ำตาของผู้สร้าง</List.0.Desc>
+		</Text>
+		<Text Name="Item_WeaponFuChen">
+			<List.0.Name>แส้พลิกเมฆา</List.0.Name>
+			<List.0.Desc>อาวุธแห่งฝีมืออันวิจิตรตระการตา หล่อหลอมด้วยเลือด หยาดเหงื่อ และน้ำตาของผู้สร้าง</List.0.Desc>
+		</Text>
+	</List>
+</Texts>

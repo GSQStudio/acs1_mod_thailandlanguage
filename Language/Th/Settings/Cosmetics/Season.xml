@@ -1,0 +1,172 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TheGate">
+			<CosmeticsDatas.0.Display>ศิลาจารึกสำนัก</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพศิลาจารึกสำนักแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ศิลาจารึกชั้นสูง</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพศิลาจารึกสำนักอันวิจิตรสง่างาม เกียรติยศที่สงวนไว้แก่กลุ่มยุทธกลศชั้นสูง</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="LsDog">
+			<CosmeticsDatas.0.Display>ฮัวจวนแบบดั้งเดิม</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพฮัวจวนธรรมดา</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ปีศาจกลายสภาพ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพฮัวจวนที่กลายเป็นปีศาจในยุคเหล่าปีศาจ</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_JiaShan2">
+			<CosmeticsDatas.0.Display>สวนหิน (เนิน)</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพสวนหิน (เนิน) แบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ทิวทัศน์ - มังกรคู่</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพภูเขาหินประดิษฐ์อันวิจิตรสง่างาม เกียรติยศที่สงวนไว้แก่กลุ่มยุทธกลศชั้นสูง</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_Tower">
+			<CosmeticsDatas.0.Display>เจดีย์ปราบมาร</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเจดีย์ปราบมารแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ร่มเย็นเป็นสุข</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพระฆังมังกรกดข่มภูตผีปีศาจ แทนความหมายแห่งความสงบสุข</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigTripod">
+			<CosmeticsDatas.0.Display>เบ้าหลอม</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเบ้าหลอมขนาดใหญ่แบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>น้ำเต้าวิญญาณ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพน้ำเต้าวิญญาณตามธรรมชาติ สัญลักษณ์แห่งหมุดหมายการสั่งจองล่วงหน้า</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ColdHole">
+			<CosmeticsDatas.0.Display>เตาเยือกแข็ง</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเตาเยือกแข็งแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>มังกรหมอบ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเตาปรุงเม็ดยาโบราณเรียบง่าย แสงเทพส่องเร้น เป็นสัญลักษณ์แห่งหมุดหมายการสั่งจองล่วงหน้า</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_StoneMan">
+			<CosmeticsDatas.0.Display>ยักษ์ศิลา</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพยักษ์ศิลาแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>รูปสลักแม่ทัพเทพ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพรูปสลักแม่ทัพเกราะสง่างาม สัญลักษณ์แห่งหมุดหมายการสั่งจองล่วงหน้า</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar">
+			<CosmeticsDatas.0.Display>โล่กระบี่</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพโล่กระบี่แบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ผู้ปราบมังกร</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพกระบี่ใหญ่โบราณพร้อมผนึกนับมาก</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="IncenseTripod">
+			<CosmeticsDatas.0.Display>เบ้าธูป</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเบ้าธูปแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>เตาไวโอเล็ตโกลด์</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเตาไวโอเล็ตโกลด์ ขึ้นชื่อว่าเป็นสมบัติแห่งสำนักเต๋า</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu">
+			<CosmeticsDatas.0.Display>ฟีนิกซ์น้ำแข็ง</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพประติมากรรมฟีนิกซ์น้ำแข็งแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ราชาฟีนิกซ์</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพประติมากรรมราชาฟีนิกซ์อันสง่างามสูงศักดิ์</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong">
+			<CosmeticsDatas.0.Display>มังกรสำริด</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพมังกรสำริดแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>กิเลน</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพกิเลนสูงศักดิ์สง่างาม</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar">
+			<CosmeticsDatas.0.Display>สัญญาวิญญาณคลาสสิก: หมูป่า</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพสัญญาวิญญาณคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>อสูร</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพสัญญาวิญญาณพิเศษในยุคเหล่าปีศาจ</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1">
+			<CosmeticsDatas.0.Display>เตาเล็ก</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเตาเล็กแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>มังกรหมอบ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเตาปรุงเม็ดยาโบราณเรียบง่าย แสงเทพส่องเร้น เป็นสัญลักษณ์แห่งหมุดหมายการสั่งจองล่วงหน้า</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Build_TheBigGate">
+			<CosmeticsDatas.0.Display>ประตูสำนัก</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพประตูสำนักแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>โรงเรือนมังกรลอย</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>การตกแต่งประตูภูเขาโบราณแทนคำขอโทษอย่างจริงใจ</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<CosmeticsDatas.0.Display>โคมเต่าดำ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพโคมเต่าดำแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>โคมสมันตภัทร</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>สัญลักษณ์แห่งปณิธาน ช้างขาวหกงายแสดงพลัง</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_Other_PuppetTest">
+			<CosmeticsDatas.0.Display>หุ่นเชิด</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพภาชนะคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>หุ่นเชิดลึกลับ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพตัวแทนจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Bed">
+			<CosmeticsDatas.0.Display>เตียง</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเตียงแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>หมอกชุมนุม</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเตียงเดี่ยวจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DoubleBed">
+			<CosmeticsDatas.0.Display>เตียงคู่</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเตียงคู่แบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ขับไล่ปีศาจ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเตียงคู่จากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WaterTank">
+			<CosmeticsDatas.0.Display>โอ่งน้ำ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพโอ่งน้ำแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>แปดทิวทัศน์</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพโอ่งน้ำจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Candlestick">
+			<CosmeticsDatas.0.Display>ตะเกียงน้ำมัน</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพตะเกียงน้ำมันแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>นกเกาะ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพตะเกียงน้ำมันจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_MagicCushion">
+			<CosmeticsDatas.0.Display>เบาะชี่</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเบาะชี่แบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ลายปีศาจ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเบาะชี่จากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DanStove">
+			<CosmeticsDatas.0.Display>เตาปรุงเม็ดยา</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเตาแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>เพลิงปีศาจ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเตาปรุงเม็ดยาจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Cushion">
+			<CosmeticsDatas.0.Display>เบาะ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเบาะแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>เกล็ดวนเวียน</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเบาะจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigCenser">
+			<CosmeticsDatas.0.Display>กระถางธูป</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพกระถางธูปแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>ผาหล่น</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพกระถางธูปจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="StreetLight">
+			<CosmeticsDatas.0.Display>เสาโคมไฟ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพเสาโคมไฟแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>แสงสุรา</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพเสาโคมไฟจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="SmallTable">
+			<CosmeticsDatas.0.Display>โต๊ะ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพโต๊ะแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>โต๊ะหยก</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพโต๊ะจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Table">
+			<CosmeticsDatas.0.Display>โต๊ะสี่เหลี่ยม</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพโต๊ะเล็กสี่เหลี่ยมแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>เมฆวิญญาณ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพโต๊ะเล็กสี่เหลี่ยมจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ItemShelf">
+			<CosmeticsDatas.0.Display>ชั้นวาง</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>ภาพชั้นวางแบบคลาสสิก</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>เตี้ยนเจียง</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>ภาพชั้นวางจากยุคเหล่าปีศาจ ขอบคุณผู้เล่นทุกท่านที่สนับสนุน 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+	</List>
+</Texts>
