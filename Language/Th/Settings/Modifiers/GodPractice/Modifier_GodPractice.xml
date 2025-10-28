@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodPractice_GodPowerEffect">
+			<DisplayName>จิตเทพ</DisplayName>
+			<Desc>เมื่อจิตเทพเพิ่มขึ้น ตัวละครสามารถควบคุมพลังเทวะได้ชำนาญขึ้นและทำให้มีพลังมากขึ้น ในขณะเดียวกันปัจจัยการปรับอารมณ์ก็จะเพิ่มขึ้นด้วย</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_A">
+			<DisplayName>จิตเทพ</DisplayName>
+			<Desc>ผลลัพธ์ที่เกิดขึ้นเมื่อจิตเทพถึงระดับ 0-30</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_B">
+			<DisplayName>จิตเทพ</DisplayName>
+			<Desc>ผลลัพธ์ที่เกิดขึ้นเมื่อจิตเทพถึงระดับ 30-100</Desc>
+		</Text>
+		<Text Name="GodPractice_Xinzhai">
+			<DisplayName>ตัดจิต</DisplayName>
+			<Desc>ทำการลดผลกระทบจากอารมณ์ชั่วคราวผ่านการตัดจิต ยิ่งใช้เวลาในการตัดจิตมากเท่าใด ผลของมันจะคงอยู่นานขึ้นเท่านั้น สภาวะจิตของผู้ฝึกจะไม่เปลี่ยนแปลงในขณะที่ทำการตัดจิต</Desc>
+		</Text>
+		<Text Name="GodPractice_GodLike">
+			<DisplayName>จำแลงเทพ</DisplayName>
+			<Desc>ยกระดับจิตเทพไปสู่ขอบเขต 99.99% ชั่วคราวเป็นเวลา 300 วินาที และจะเพิ่มจิตเทพ 1% อย่างถาวรหลังจากสิ้นสุดเวท</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_KeJi">
+			<DisplayName>สะกดตน</DisplayName>
+			<Desc>บ่มเพาะแรงศรัทธา - สะกดตน</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_ZongYu">
+			<DisplayName>ปล่อยตน</DisplayName>
+			<Desc>บ่มเพาะแรงศรัทธา - ปล่อยตน</Desc>
+		</Text>
+	</List>
+</Texts>

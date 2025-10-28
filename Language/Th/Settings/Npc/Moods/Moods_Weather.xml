@@ -1,0 +1,154 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_Sunny">
+			<DisplayName>อากาศแจ่มใส</DisplayName>
+			<Desc>วันนี้อากาศดีจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าอากาศดีๆ แบบนี้ทำให้รู้สึกเบิกบานใจ!</StoryDesc>
+		</Text>
+		<Text Name="Weather_Overcast">
+			<DisplayName>มีเมฆ</DisplayName>
+			<Desc>ฟ้าครึ้มมาก</Desc>
+			<StoryDesc>รู้สึกหดหู่กับสภาพอากาศที่มืดมน</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightRain">
+			<DisplayName>ฝนตกปลอยๆ</DisplayName>
+			<Desc>ฝนตกปรอยๆ</Desc>
+			<StoryDesc>รู้สึกว่าฝนโปรยปรายทำให้จิตใจสงบ</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeavyRain">
+			<DisplayName>ฝนตกหนัก</DisplayName>
+			<Desc>ฝนตกหนักมาก!</Desc>
+			<StoryDesc>รู้สึกหงุดหงิดกับฝนที่ตกหนัก</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightSnow">
+			<DisplayName>หิมะตกปลอยๆ</DisplayName>
+			<Desc>หิมะตกเล็กน้อย!</Desc>
+			<StoryDesc>รู้สึกว่าความฟุ้งกระจายของหิมะทำให้จิตใจแจ่มใส</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeavySnow">
+			<DisplayName>หิมะตกหนัก</DisplayName>
+			<Desc>หิมะตกหนักมาก!</Desc>
+			<StoryDesc>รู้สึกว่าหิมะตกหนักๆแบบนี้ช่างน่าชื่นใจจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Weather_DenseFog">
+			<DisplayName>หมอกหนา</DisplayName>
+			<Desc>หมอกหนามากจนมองแทบไม่เห็นทาง!</Desc>
+			<StoryDesc>รู้สึกว่าหมอกหนาแบบนี้มันค่อนข้างน่ารำคาญ</StoryDesc>
+		</Text>
+		<Text Name="Weather_SpringAir">
+			<DisplayName>กลิ่นอายฤดูใบไม้ผลิ</DisplayName>
+			<Desc>ในที่สุดฤดูใบไม้ผลิก็มาถึง!</Desc>
+			<StoryDesc>รู้สึกว่าการมาถึงของฤดูใบไม้ผลิทำให้จิตใจเบิกบานจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Weather_Melancholy">
+			<DisplayName>บรรยากาศมืดมน</DisplayName>
+			<Desc>ข้าไม่รู้ว่าทำไม แต่บรรยากาศที่มืดมนเช่นนี้ทำให้ข้ารู้สึกหดหู่ใจจริงๆ...</Desc>
+			<StoryDesc>รู้สึกว่าบรรยากาศที่มืดมนได้ทิ้งความรู้สึกเศร้าโศกเอาไว้ในใจ</StoryDesc>
+		</Text>
+		<Text Name="Weather_HarvestAir">
+			<DisplayName>ฤดูเก็บเกี่ยว</DisplayName>
+			<Desc>สุขสันต์ฤดูเก็บเกี่ยว!</Desc>
+			<StoryDesc>รู้สึกว่าการผลผลิตที่อุดมสมบูรณ์เช่นนี้ทำให้ทุกคนพึงพอใจ</StoryDesc>
+		</Text>
+		<Text Name="Weather_Impetuous">
+			<DisplayName>บรรยากาศฉุนเฉียว</DisplayName>
+			<Desc>มันเป็นการยากที่จะทำจิตใจให้สงบภายใต้บรรยากาศเช่นนี้</Desc>
+			<StoryDesc>รู้สึกกระสับกระส่ายเพราะบรรยากาศที่ฉุนเฉียว</StoryDesc>
+		</Text>
+		<Text Name="Weather_Hail">
+			<DisplayName>ลูกเห็บ</DisplayName>
+			<Desc>มันคือลูกเห็บ</Desc>
+			<StoryDesc>รู้สึกว่าเป็นกัววลเพราะลูกเห็บเหล่านี้</StoryDesc>
+		</Text>
+		<Text Name="Weather_MouldRains">
+			<DisplayName>ฤดูฝน</DisplayName>
+			<Desc>หน้าฝนมาถึงแล้ว</Desc>
+			<StoryDesc>รู้สึกหงุดหงิดเพราะเข้าหน้าฝน</StoryDesc>
+		</Text>
+		<Text Name="Weather_Drought">
+			<DisplayName>ฤดูแล้ง</DisplayName>
+			<Desc>ฤดูแล้งมาถึงแล้ว</Desc>
+			<StoryDesc>รู้สึกว่าภัยแล้งทำให้คนเป็นกังวลเสมอ</StoryDesc>
+		</Text>
+		<Text Name="Weather_Rainstorm">
+			<DisplayName>พายุฝน</DisplayName>
+			<Desc>มีฝนตกอย่างรุนแรง</Desc>
+			<StoryDesc>รู้สึกว่าพายุฝนแบบนี้มักทำให้คนวิตกกังวล</StoryDesc>
+		</Text>
+		<Text Name="Weather_Fohn">
+			<DisplayName>พายุลมร้อน</DisplayName>
+			<Desc>พายุลมร้อนได้พัดผ่านเข้ามา</Desc>
+			<StoryDesc>รู้สึกว่าพายุลมร้อนมักจะทำให้ทุกคนรู้สึกว่าร่างกายขาดความชุ่มชื้น</StoryDesc>
+		</Text>
+		<Text Name="Weather_DustStorm">
+			<DisplayName>พายุทราย</DisplayName>
+			<Desc>พายุทรายได้พัดผ่านเข้ามา</Desc>
+			<StoryDesc>รู้สึกว่าพายุทรายได้พัดกระจายสิ่งสกปรกไปทุกหนทุกแห่ง</StoryDesc>
+		</Text>
+		<Text Name="Weather_LingRarefiedWave">
+			<DisplayName>ปราณแห้งเหือด</DisplayName>
+			<Desc>แทบจะไม่มีปราณธรรมชาติหลงเหลืออยู่เลย</Desc>
+			<StoryDesc>รู้สึกว่าปรากฏการณ์ปราณแห้งเหือดนั้นทำให้รู้สึกไม่สบายตัว</StoryDesc>
+		</Text>
+		<Text Name="Weather_LingUpWave">
+			<DisplayName>ปราณพวยพุ่ง</DisplayName>
+			<Desc>ปราณธรรมชาติช่างหนาแน่นจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าปราณธรรมชาติที่หนาแน่นเช่นนี้ทำให้ผู้คนรู้สึกเบิกบานใจ</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeatWave">
+			<DisplayName>คลื่นความร้อน</DisplayName>
+			<Desc>จู่ๆ อุณหภูมิก็เพิ่มขึ้นมาอย่างกะทันหัน มันร้อนจนแทบทนไม่ไหว...</Desc>
+			<StoryDesc>รู้สึกว่าจู่ๆ การที่อุณหภูมิก็เพิ่มขึ้นมาอย่างกะทันหันนั้นทำให้รู้สึกวิตกกังวล</StoryDesc>
+		</Text>
+		<Text Name="Weather_ColdWave">
+			<DisplayName>คลื่นความเย็น</DisplayName>
+			<Desc>จู่ๆ อุณหภูมิก็ลดลงอย่างกะทันหัน มันหนาวจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าจู่ๆ การที่อุณหภูมิก็ลดลงอย่างกะทันหันนั้นอาจทำให้ป่วยได้ง่ายๆ</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeatWaveInWinter">
+			<DisplayName>ลมอุ่น</DisplayName>
+			<Desc>สายลมอุ่นๆ ในหน้าหนาวนั้นมันทำให้รู้สึกผ่อนคลายดีจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าการมีสายลมอุ่นๆ พัดผ่านเข้ามาในหน้าหนาวนั้นทำให้รู้สึกอยากยืดเส้นยืดสาย</StoryDesc>
+		</Text>
+		<Text Name="Weather_ColdWaveInSummer">
+			<DisplayName>ลมหนาว</DisplayName>
+			<Desc>ลมหนาวที่พัดผ่านเข้ามาในหน้าร้อนนั้นทำให้รู้สึกสบายตัว</Desc>
+			<StoryDesc>รู้สึกว่าการมีสายลมเย็นๆ พัดผ่านเข้ามาในหน้าร้อนนั้นทำให้รู้สึกผ่อนคลายไม่น้อย</StoryDesc>
+		</Text>
+		<Text Name="Weather_PermanentNight">
+			<DisplayName>ราตรีนิรันดร์</DisplayName>
+			<Desc>ค่ำคืนอันนิรันดร์ได้มาเยือนแล้ว</Desc>
+			<StoryDesc>รู้สึกว่าปรากฏการณ์ราตรีนิรันดร์นั้นค่อนข้างน่ากลัว</StoryDesc>
+		</Text>
+		<Text Name="Weather_Miasma">
+			<DisplayName>ละอองพิษ</DisplayName>
+			<Desc>อากาศที่เป็นพิษได้พัดผ่านเข้ามา</Desc>
+			<StoryDesc>รู้สึกว่าควรหาอะไรมาปิดปากและจมูกดีกว่าในบรรยากาศที่เป็นพิษเช่นนี้</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightningStorm">
+			<DisplayName>พายุสายฟ้า</DisplayName>
+			<Desc>พายุฝนฟ้าคะนองทำให้เกิดความหายนะ</Desc>
+			<StoryDesc>รู้สึกว่าพายุฝนฟ้าคะนองแบบนี้ทำให้เกิดความรู้สึกตื่นตระหนก</StoryDesc>
+		</Text>
+		<Text Name="Weather_LuShu_SunnyDay">
+			<DisplayName>ท่วงทำนองอันงดงาม</DisplayName>
+			<Desc>เสียงร้องของลู่ซูนั้นช่างไพเราะเป็นอย่างมาก</Desc>
+			<StoryDesc>รู้สึกดื่มด่ำไปกับเสียงอันไพเราะของลู่ซู</StoryDesc>
+		</Text>
+		<Text Name="Weather_SpringFestival">
+			<DisplayName>เทศกาลฤดูใบไม้ผลิ</DisplayName>
+			<Desc>บรรยากาศงรื่นเริง ผู้คนเมามาย</Desc>
+			<StoryDesc>รู้สึกผ่อนคลายไปกับบรรยากาศของเทศกาลฤดูใบไม้ผลิ</StoryDesc>
+		</Text>
+		<Text Name="Weather_ZuShiBiHu">
+			<DisplayName>การคุ้มครองจากบรรพชน</DisplayName>
+			<Desc>การคุ้มครองจากบรรพชนทำให้ทั้งสำนักเต็มไปด้วยกลิ่นอายของเซียน</Desc>
+			<StoryDesc>รู้สึกสบายตัวเพราะกระแสปราณที่ไหลลงมาจากแดนสวรรค์</StoryDesc>
+		</Text>
+		<Text Name="Weather_DanQi">
+			<DisplayName>ปราณโอสถแผ่นกระจาย</DisplayName>
+			<Desc>พลังแห่งปราณโอสถอันอุดมสมบูรณ์แผ่กระจายไปทั่ว</Desc>
+			<StoryDesc>จมอยู่ในปราณโอสถอันอุดมสมบูรณ์</StoryDesc>
+		</Text>
+	</List>
+</Texts>

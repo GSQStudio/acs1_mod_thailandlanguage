@@ -1,0 +1,569 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Drink1">
+			<DisplayName>ข้าดื่มน้ำที่สกปรก</DisplayName>
+			<Desc>ดูเหมือนว่าจะมีอะไรบางอย่างลอยอยู่ในน้ำนั้น!?</Desc>
+			<StoryDesc>อาเจียนถึง 2 ครั้งหลังดื่มน้ำนั้น</StoryDesc>
+		</Text>
+		<Text Name="Dan_Happiness">
+			<DisplayName>รู้สึกล่องลอย</DisplayName>
+			<Desc>ข้ารู้สึกมีความสุข ผ่อนคลาย และไม่อยากทำอะไรเลย</Desc>
+			<StoryDesc>รู้สึกผ่อนคลายสุดขีด</StoryDesc>
+		</Text>
+		<Text Name="Eat1">
+			<DisplayName>อาหารที่น่าขยะแขยง</DisplayName>
+			<Desc>เจ้าสิ่งนี้มันกินได้แน่รึ? ทำไมข้าต้องกินอาหารที่น่าขยะแขยงเช่นนี้ด้วย...</Desc>
+			<StoryDesc>รู้สึกลำบากที่จะกลืนอาหารจานเข้าปาก</StoryDesc>
+		</Text>
+		<Text Name="Eat3">
+			<DisplayName>ไร้รสชาติ</DisplayName>
+			<Desc>รสชาตินี้มันคืออะไรกัน?</Desc>
+			<StoryDesc>รู้สึกลำบากใจและหดหู่หลังจากกินสิ่งที่อยู่ตรงหน้า</StoryDesc>
+		</Text>
+		<Text Name="Eat4">
+			<DisplayName>กินอาหารไม่สุก</DisplayName>
+			<Desc>มันเป็นการยากที่จะกลืนอาหารที่ไม่ได้ปรุงสุก</Desc>
+			<StoryDesc>การกินอาหารดิบทำให้รู้สึกไม่สบายใจ</StoryDesc>
+		</Text>
+		<Text Name="Eat5">
+			<DisplayName>กินดิน</DisplayName>
+			<Desc>ข้าหิวมากแต่อาหารที่ข้าหาได้นั้นมีแต่ดิน... ข้าจะมีชีวิตไปได้นานอีกเท่าไรถ้าหากต้องกิ้นแต่ดินเหล่านี้?</Desc>
+			<StoryDesc>รู้สึกหดหู่หลังจากกินดินลงไป</StoryDesc>
+		</Text>
+		<Text Name="Eat6">
+			<DisplayName>อิ่มสุดๆ</DisplayName>
+			<Desc>อ๋า อิ่มสุดๆ ไปเลย</Desc>
+			<StoryDesc>รู้สึกผ่อนคลาย</StoryDesc>
+		</Text>
+		<Text Name="Eat7">
+			<DisplayName>อาหารทำเอง</DisplayName>
+			<Desc>รสชาติยอดเยี่ยมมาก!</Desc>
+			<StoryDesc>รู้สึกพอใจอาหารมื้อนี้สุดๆ</StoryDesc>
+		</Text>
+		<Text Name="Eat8">
+			<DisplayName>อาหารรสเลิศ</DisplayName>
+			<Desc>[TXT] รสชาติยอดเยี่ยมเป็นอย่างมาก ข้าต้องการกินมันอีกซักจาน</Desc>
+			<StoryDesc>รู้สึกมีความสุขหลังทานอาหารมื้อนี้</StoryDesc>
+		</Text>
+		<Text Name="Eat9">
+			<DisplayName>มื้ออาหารสุดวิเศษ</DisplayName>
+			<Desc>[TXT] เป็นอาหารที่ทำโดยฝีมือมนุษย์หรือเทพกันแน่?! หลังจากได้กินมันข้าก็ไม่ต้องการที่จะแสวงหาความเป็นอมตะอีกต่อไปแล้ว!</Desc>
+			<StoryDesc>รู้สึกตกตะลึงกับอาหารมื้อนี้ที่มันช่างสุดยอดเกินบรรยาย</StoryDesc>
+		</Text>
+		<Text Name="Eat10">
+			<DisplayName>อาหารห่วย</DisplayName>
+			<Desc>[TXT] ที่ข้ากินวันนี้มันแย่มาก ข้าไม่อยากกินอะไรแบบนี้อีกแล้ว</Desc>
+			<StoryDesc>ไม่พอใจกับอาหารห่วยๆ ที่เพิ่งกินไป</StoryDesc>
+		</Text>
+		<Text Name="Eat11">
+			<DisplayName>อาหารแสนจืดชืด</DisplayName>
+			<Desc>[TXT] ที่ข้ากินวันนี้ค่อนข้างธรรมดา ข้าอยากกินอะไรที่ดีกว่านี้</Desc>
+			<StoryDesc>ข้าไม่พอใจนิดหน่อยเพราะอาหารง่ายๆ ที่ข้าเพิ่งกินไป</StoryDesc>
+		</Text>
+		<Text Name="Eat12">
+			<DisplayName>เอาขี้มาให้ข้ากินงั้นรึ</DisplayName>
+			<Desc>ที่ข้าทำบาปอะไรไปถึงต้องมากินไอ้เจ้าสิ้งนี้...</Desc>
+			<StoryDesc>ข้ามึนงงราวกับกินขี้</StoryDesc>
+		</Text>
+		<Text Name="Sleep1">
+			<DisplayName>พักผ่อนเพียงพอ</DisplayName>
+			<Desc>ข้ารู้สึกมีพลังหลังจากนอนหลับ</Desc>
+			<StoryDesc>รู้สึกกระปรี้กระเปร่าหลังจากพักผ่อนมาทั้งคืน</StoryDesc>
+		</Text>
+		<Text Name="Sleep2">
+			<DisplayName>ฝันร้าย</DisplayName>
+			<Desc>ข้านอนหลับไม่สนิทเพราะฝันร้ายนั้น(</Desc>
+			<StoryDesc>รู้สึกเหน็ดเหนื่อยอ่อนเพลียเพราะฝันร้าย</StoryDesc>
+		</Text>
+		<Text Name="Sleep8">
+			<DisplayName>ฝันดี</DisplayName>
+			<Desc>ช่างเป็นความฝันที่ดีจริงๆ...</Desc>
+			<StoryDesc>รู้สึกไม่อยากตืนนอนเนื่องจากฝันดี</StoryDesc>
+		</Text>
+		<Text Name="Sleep3">
+			<DisplayName>ถูกรบกวนการนอน</DisplayName>
+			<Desc>ข้าถูกปลุกให้ตื่นอยู่เสมอเพราะดูเหมือนมีอะไรเคลื่อนไหวอยู่ใกล้ๆ</Desc>
+			<StoryDesc>รู้สึกง่วงหงาวหาวนอนหลังจากนอนหลับไม่สนิท</StoryDesc>
+		</Text>
+		<Text Name="Sleep4">
+			<DisplayName>นอนหนาว</DisplayName>
+			<Desc>ข้าตื่นขึ้นมาเพราะอากาศมันหนาวมาก</Desc>
+			<StoryDesc>รู้สึกว่าร่างกายไม่มีพลังงานเนื่องจากนอนหลับไม่สนิทตลอดคืน</StoryDesc>
+		</Text>
+		<Text Name="Sleep5">
+			<DisplayName>นอนร้อน</DisplayName>
+			<Desc>ร้อนจนนอนไม่หลับ</Desc>
+			<StoryDesc>รู้สึกว่าร่างกายไม่มีพลังงานเนื่องจากนอนหลับไม่สนิทตลอดคืน</StoryDesc>
+		</Text>
+		<Text Name="Sleep6">
+			<DisplayName>นอนบนพื้น</DisplayName>
+			<Desc>ข้านอนบนพื้นที่แข็งและเย็นยะเยือกมาตลอดทั้งคืน ร่างกายของข้ากำลังปวดร้าวไปทั้งตัว</Desc>
+			<StoryDesc>รู้สึกปวดเมื่อยร่างกายหลังจากนอนบนพื้นมาตลอดทั้งคืน</StoryDesc>
+		</Text>
+		<Text Name="Sleep7">
+			<DisplayName>นอนกลางป่า</DisplayName>
+			<Desc>ข้านอนหลับไม่สนิทเพราะรู้สึกเหมือนมีบางอย่างจ้องมองข้ามาตลอดทั้งคืน</Desc>
+			<StoryDesc>บ่นกับตัวเองว่าไม่อยากนอนกลางป่าอีกแล้ว</StoryDesc>
+		</Text>
+		<Text Name="Work">
+			<DisplayName>งานที่น่าสนใจ</DisplayName>
+			<Desc>[TXT] ทั้งสนุกทั้งบันเทิง ข้าสามารถทำมันได้ตลอดทั้งวัน</Desc>
+			<StoryDesc>รู้สึกพอใจกับงานนี้</StoryDesc>
+		</Text>
+		<Text Name="FavoriteWork">
+			<DisplayName>หลงใหลอยู่กับงาน</DisplayName>
+			<Desc>[TXT] น่าสนใจมากทีเดียว ข้ารู้สึกว่าเวลามันผ่านไปไวมากยามเมือข้าทำงาน</Desc>
+			<StoryDesc>รู้สึกว่างานแบบนี้ให้ทำตลอดไปก็ยังได้</StoryDesc>
+		</Text>
+		<Text Name="SocialContact9">
+			<DisplayName>รักษาหายแล้ว</DisplayName>
+			<Desc>ข้าได้รับการรักษาโดย [TXT] มันวิเศษมาก!</Desc>
+			<StoryDesc>รู้สึกว่าหมอเก่งสุดๆ</StoryDesc>
+		</Text>
+		<Text Name="SocialContact14">
+			<DisplayName>ถูกปฏิเสธความรัก</DisplayName>
+			<Desc>ข้าสารภาพรักกับ [TXT] แต่กลับถูกปฏิเสธ</Desc>
+			<StoryDesc>รู้สึกจมอยู่กับความเจ็บปวดจากการถูกปฏิเสธ</StoryDesc>
+		</Text>
+		<Text Name="SocialContact15">
+			<DisplayName>คนรัก</DisplayName>
+			<Desc>[TXT] และข้าตอนนี้ได้กลายเป็นคนรักกันแล้ว และก็...ว้าว! ชีวิตมันช่างสว่างไสวซะเหลือเกิน!</Desc>
+			<StoryDesc>รู้สึกล่องลอยมีความสุขหลังจากที่สารภาพรักได้สำเร็จ</StoryDesc>
+		</Text>
+		<Text Name="Death1">
+			<DisplayName>มีคนเสียชีวิต</DisplayName>
+			<Desc>ความตายมักเป็นโศกนาฏกรรมเสมอ</Desc>
+			<StoryDesc>รู้สึกทุกข์ใจเล็กน้อยจากการจากไปของอีกชีวิตหนึ่ง</StoryDesc>
+		</Text>
+		<Text Name="Death2">
+			<DisplayName>ความตายของศิษย์พี่ศิษย์น้อง</DisplayName>
+			<Desc>ศิษย์พี่ศิษย์น้องร่วมอาจารย์ของข้าได้จากไปแล้ว...</Desc>
+			<StoryDesc>รู้สึกว่าการจากไปของคนใกล้ตัวทำให้คนรอบข้างรู้สึกหดหู่ใจเสมอ</StoryDesc>
+		</Text>
+		<Text Name="Death3">
+			<DisplayName>ความตายของสหาย</DisplayName>
+			<Desc>[TXT]... ทำไมเจ้าถึงด่วนจากไป? ข้าคิดถึงเวลาที่พวกเราเคยสนุกสนานด้วยกัน...</Desc>
+			<StoryDesc>รู้สึกว่าน้ำตามักจะไหลได้ง่ายเวลาสหายได้เสียชีวิตจากไป</StoryDesc>
+		</Text>
+		<Text Name="Death4">
+			<DisplayName>ความตายของคนรัก</DisplayName>
+			<Desc>ทำไม!? ทำไมกัน?! ทำไมถึงต้องพลาก [TXT] ไปจากข้า!?</Desc>
+			<StoryDesc>รู้สึกว่าการจากไปของคู่ชีวิตทำให้เกิดคำถามว่าชีวิตที่เหลือนี้ควรค่าแก่การมีชีวิตอยู่หรือไม่...</StoryDesc>
+		</Text>
+		<Text Name="Death5">
+			<DisplayName>ความตายของสัตว์เลี้ยง</DisplayName>
+			<Desc>[TXT] ของข้า เจ้าอยู่เคียงข้างข้ามากี่ปีแล้วนะ?</Desc>
+			<StoryDesc>รู้สึกคิดคำนึงถึงความทรงจำที่ใช้ร่วมกันระหว่างเจ้านายกับสัตว์เลี้ยง?</StoryDesc>
+		</Text>
+		<Text Name="Death6">
+			<DisplayName>ความตายของญาติ</DisplayName>
+			<Desc>[TXT] ได้จากไปอย่างไม่มีวันกลับ... ในตอนนี้ข้ารู้สึกเหงาจริงๆ...</Desc>
+			<StoryDesc>รู้สึกว่าความปวดร้าวของการสูญเสียญาติไปนั้นช่างเจ็บปวดจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Death7">
+			<DisplayName>ความตายของศัตรู</DisplayName>
+			<Desc>ในที่สุดไอ้เจ้า [TXT] มันก็ตายซักที</Desc>
+			<StoryDesc>รู้สึกว่าเมื่อมีศัตรูน้อยลงไปหนึ่งคนก็ทำให้ชีวิตง่ายขึ้น</StoryDesc>
+		</Text>
+		<Text Name="Death8">
+			<DisplayName>ความตายของศิษย์พี่ศิษย์น้อง</DisplayName>
+			<Desc>[TXT] ได้จากโลกไปแล้ว ช่างน่าเศร้าจริงๆ...</Desc>
+			<StoryDesc>รู้สึกเศร้าใจกับศิษย์พี่ศิษย์น้องที่เสียชีวิตไป</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice1">
+			<DisplayName>ทะลวงขอบเขต</DisplayName>
+			<Desc>ข้ารู้สึกเหมือนฐานการบ่มเพาะของข้ากำลังเติบโตขึ้น!</Desc>
+			<StoryDesc>รู้สึกว่าความก้าวหน้าในการฝึกฝนมักจะทำให้คนมีความสุข</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice2">
+			<DisplayName>ทะลวงขอบเขตได้สำเร็จ</DisplayName>
+			<Desc>ทะลวงขอบเขตประสบความสำเร็จและฐานการบ่มเพาะก็พัฒนาขึ้น ความรู้สึกเช่นนี้มันช่างยอดเยี่ยมมาก!</Desc>
+			<StoryDesc>รู้สึกว่าความสำเร็จนำมาซึ่งความรู้สึกอิ่มเอมใจ..</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice3">
+			<DisplayName>ทะลวงขอบเขตล้มเหลว</DisplayName>
+			<Desc>น่าเศร้าใจยิ่งนัก ข้าล้มเหลวในการทะลวงขอบเขต...</Desc>
+			<StoryDesc>รู้สึกว่าไม่มีใครจะที่สามารถเป็นผู้ชนะได้ตลอด..</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice4">
+			<DisplayName>ทัณฑ์สวรรค์ใกล้เข้ามาแล้ว</DisplayName>
+			<Desc>ข้ารู้สึกว่าทัณฑ์สวรรค์ของข้านั้นใกล้เข้ามาแล้ว ด้วยเหตุนี้ข้าจึงรู้สึกไม่สบายใจเป็นอย่างมาก</Desc>
+			<StoryDesc>รู้สึกว่ามันเป็นการยากที่จะทำจิตใจให้สงบในสถานการณ์เช่นนี้</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice5">
+			<DisplayName>เอาชนะทัณฑ์สวรรค์ได้สำเร็จ</DisplayName>
+			<Desc>ข้ารอดแล้ว!</Desc>
+			<StoryDesc>ความรู้สึกที่รอดชีวิตจากทัณฑ์สวรรค์มาได้นั้นช่างยอดเยี่ยมจริงๆ!</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice6">
+			<DisplayName>พ่ายแพ้ทัณฑ์สวรรค์</DisplayName>
+			<Desc>ข-ข้าล้มเหลว....นี่เป็นการสูญเสียครั้งใหญ่จริงๆ...</Desc>
+			<StoryDesc>รู้สึกว่าความล้มเหลวในการเผชิญหน้ากับทัณฑ์สวรรค์นั้นทำให้รู้สึกสิ้นหวังเป็นอย่างมาก</StoryDesc>
+		</Text>
+		<Text Name="MakeArt">
+			<DisplayName>งานศิลปะ</DisplayName>
+			<Desc>ข้าทุ่มเททั้งกายและใจให้กับงานนี้!</Desc>
+			<StoryDesc>ความรู้สึกที่งานศิลปะชิ้นนี้เสร็จสิ้นแล้วทำให้รู้สึกอิ่มเอมใจจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Health1">
+			<DisplayName>ได้รับบาดเจ็บ</DisplayName>
+			<Desc>ข้าได้รับบาดเจ็บและมันเจ็บมาก..</Desc>
+			<StoryDesc>รู้สึกว่าสิ่งเดียวที่ทำได้ในตอนนี้ก็คือกัดฟันทนจากความเจ็บปวด</StoryDesc>
+		</Text>
+		<Text Name="Health2">
+			<DisplayName>ป่วย</DisplayName>
+			<Desc>ข้ารู้สึกไม่ค่อยสบาย...</Desc>
+			<StoryDesc>รู้สึกทุกข์ทรมานจากความเจ็บป่วย</StoryDesc>
+		</Text>
+		<Text Name="Health3">
+			<DisplayName>พิการ</DisplayName>
+			<Desc>ข้าไม่มีวันได้สิ่งที่สูญเสียไปกลับคืนมาอีกแล้ว...</Desc>
+			<StoryDesc>รู้สึกว่าการเป็นคนพิการสามารถเปลี่ยนชีวิตของคนๆ หนึ่งได้โดยสิ้นเชิง..</StoryDesc>
+		</Text>
+		<Text Name="SeeSomething1">
+			<DisplayName>พบศพ</DisplayName>
+			<Desc>ข้าพบเห็นศพในพื้นที่เปิด</Desc>
+			<StoryDesc>รู้สึกว่าการเห็นศพทำให้ผู้คนรู้สึกไม่สบายใจ</StoryDesc>
+		</Text>
+		<Text Name="SeeSomething2">
+			<DisplayName>เห็นเลือด</DisplayName>
+			<Desc>การเห็นเลือดทำให้ข้า...รู้สึกอึดอัด</Desc>
+			<StoryDesc>รู้สึกว่าคราบเลือดบนพื้นนั่นทำให้ผู้คนรู้สึกไม่สบายใจ</StoryDesc>
+		</Text>
+		<Text Name="NotBury">
+			<DisplayName>ไม่ได้รับการฝังอย่างถูกต้อง</DisplayName>
+			<Desc>เราไม่ได้ฝังศพของ [TXT] อย่างถูกพิธี</Desc>
+			<StoryDesc>รู้สึกว่าการฝังศพคนใกล้ตัวโดยไม่ได้ทำให้ถูกต้องตามพิธีนั้นมันทำให้รู้สึกไม่สบายใจ</StoryDesc>
+		</Text>
+		<Text Name="SayHi">
+			<DisplayName>ทักทาย</DisplayName>
+			<Desc>ข้าได้กล่าวคำทักทายกับ [TXT]</Desc>
+			<StoryDesc>รู้สึกว่าการทักทายใครซักคนนั้นดีกว่าการทำเมินเฉยแน่นอน</StoryDesc>
+		</Text>
+		<Text Name="AfterTalk">
+			<DisplayName>พูดคุย</DisplayName>
+			<Desc>ข้าได้พูดคุยกับ [TXT]</Desc>
+			<StoryDesc>รู้สึกดีที่ได้พูดคุยกับผู้อื่น</StoryDesc>
+		</Text>
+		<Text Name="DeepTalk">
+			<DisplayName>พูดคุยกันอย่างเปิดใจ</DisplayName>
+			<Desc>ข้าได้พูดคุยกันอย่างเปิดใจกับ [TXT]</Desc>
+			<StoryDesc>รู้สึกดีที่ได้พูดคุยกันอย่างเปิดใจ</StoryDesc>
+		</Text>
+		<Text Name="Neglect">
+			<DisplayName>เย็นชา</DisplayName>
+			<Desc>ข้าคุยกับ [TXT] แต่ดูเหมือนว่า[IT]ไม่ต้องการที่จะพูด่คุยกับข้า และข้าก็ขี้เกียจเกินกว่าที่จะไปให้ความสนใจกับ[IT]เช่นกัน</Desc>
+			<StoryDesc>รู้สึกว่าในบางครั้งมันจะดีกว่าที่จะไม่พูดถ้าหากมันทำให้อึดอัดใจ</StoryDesc>
+		</Text>
+		<Text Name="Quarrel">
+			<DisplayName>โต้เถียง</DisplayName>
+			<Desc>ข้าได้มีเรื่องโต้เถียงกับ [TXT] และข้าก็รู้สึกโกรธมาก</Desc>
+			<StoryDesc>รู้สึกว่าการโต้เถียงกันทำให้ทั้งสองฝ่ายหัวร้อนได้จริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Insult">
+			<DisplayName>ดูถูกเหยียดหยาม</DisplayName>
+			<Desc>ข้าถูกดูถูกเหยียดหยามโดย [TXT]</Desc>
+			<StoryDesc>รู้สึกว่าความอัปยศเช่นนี้ก่อให้เกิดความแค้น</StoryDesc>
+		</Text>
+		<Text Name="SayHiFight">
+			<DisplayName>ทะเลาะ</DisplayName>
+			<Desc>ข้ากำลังพูดคุยเล็กน้อยกับ [TXT] แต่ด้วยเหตุผลบางอย่างทำให้ทุกอย่างเริ่มตึงเครียด หลังจากนั้นข้าและ[IT]ก็เริ่มทะเลาะกัน</Desc>
+			<StoryDesc>รู้สึกว่าบางครั้งคนเราก็ทะเลาะกันโดยไม่มีเหตุผล...</StoryDesc>
+		</Text>
+		<Text Name="AfterTalkFight">
+			<DisplayName>ทะเลาะวิวาท</DisplayName>
+			<Desc>ข้าได้คุยกับ [TXT] หลังจากนั้นข้าและ[IT]ก็ทะเลาะกันโดยที่ไม่มีเหตุผล</Desc>
+			<StoryDesc>รู้สึกว่าบางครั้งคนเราก็ทะเลาะกันโดยไม่มีเหตุผล...</StoryDesc>
+		</Text>
+		<Text Name="DeepTalkFight">
+			<DisplayName>แลกหมัด</DisplayName>
+			<Desc>ข้าได้พูดคุยกันอย่างเปิดใจกับ [TXT] ต่อมาข้าและ[IT]ก็ดันทะเลาะกันอย่างดุเดือดและจบลงด้วยการแลกหมัดกัน มันช่างน่าขายหน้าจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าการทะเลาะอาจนำมาซึ่งความเสียใจในภายหลัง</StoryDesc>
+		</Text>
+		<Text Name="NeglectFight">
+			<DisplayName>ชกต่อย</DisplayName>
+			<Desc>ข้าได้พูดคุยกับ [TXT] แต่[IT]กลับก็ไม่พอใจในสิ่งที่ข้าพูด หลังจากนั้นข้าและ[IT]ก็จบลงด้วยการชกต่อยกัน</Desc>
+			<StoryDesc>รู้สึกว่าการทะเลาะวิวาทก่อให้เกิดความแค้น</StoryDesc>
+		</Text>
+		<Text Name="QuarrelFight">
+			<DisplayName>ปะทะคารม</DisplayName>
+			<Desc>ข้ามีเรื่องปะทะคารมกับ [TXT] และสิ่งๆ นี้สามารถแก้ไขได้ด้วยกำปั้นเท่านั้น</Desc>
+			<StoryDesc>รู้สึกว่าการทะเลาะวิวาทก่อให้เกิดความแค้น</StoryDesc>
+		</Text>
+		<Text Name="InsultFight">
+			<DisplayName>วางมวย</DisplayName>
+			<Desc>ข้าและ [TXT] ได้พูดจาดูถูกกันไปมา ไอ้เจ้างี่เง่านั่นต้องได้รับบทเรียนด้วยกำปั้นของข้า</Desc>
+			<StoryDesc>รู้สึกว่าไม่มีอะไรดีๆ เลยจากการทะเลาะกัน</StoryDesc>
+		</Text>
+		<Text Name="Fighting">
+			<DisplayName>ต่อสู้</DisplayName>
+			<Desc>ข้าทะเลาะกับ [TXT] [IT]มันก็เป็นแค่ไอ้บ้าตัวหนึ่ง</Desc>
+			<StoryDesc>รู้สึกว่าไม่มีอะไรดีๆ เลยจากการทะเลาะกัน</StoryDesc>
+		</Text>
+		<Text Name="BuildBody">
+			<DisplayName>สร้างใหม่</DisplayName>
+			<Desc>สร้างอวัยวะและหล่อหลอมชิ้นส่วนของร่างกายที่ขาดหายไปทั้งหมดขึ้นมาใหม่</Desc>
+			<StoryDesc>รู้สึกว่าการสร้างร่างกายขึ้นมาใหม่หลังจากพิการนั้นทำให้รู้สึกมีความสุข</StoryDesc>
+		</Text>
+		<Text Name="FailInLove">
+			<DisplayName>ตกหลุมรัก</DisplayName>
+			<Desc>ข้าตกหลุมรัก [TXT]</Desc>
+			<StoryDesc>รู้สึกว่าบางครั้งคนเราก็สามารถทำเรื่องโง่ๆ ได้เวลามีความรัก</StoryDesc>
+		</Text>
+		<Text Name="SleepWithWhat">
+			<DisplayName>การจัดการที่ไม่ดี</DisplayName>
+			<Desc>ข้าไม่สามารถนอนร่วมกันกับคนๆ นั้นได้</Desc>
+			<StoryDesc>ความรู้สึกว่าการนอนหลับไม่เต็มที่ทำให้รู้สึกหงุดหงิดได้ง่าย</StoryDesc>
+		</Text>
+		<Text Name="StayWithGood">
+			<DisplayName>มีความสุข</DisplayName>
+			<Desc>ข้าชอบใช้เวลาร่วมกันกับ [TXT]</Desc>
+			<StoryDesc>รู้สึกว่ามันช่างดีเหลือเกินที่ได้ดื่มด่ำไปกับความสุขที่ได้ใช้เวลาร่วมกันกับคนที่ชอบ</StoryDesc>
+		</Text>
+		<Text Name="SleepWithSpouse">
+			<DisplayName>อยู่ด้วยกัน</DisplayName>
+			<Desc>ข้าอาศัยอยู่ร่วมกับ [TXT]</Desc>
+			<StoryDesc>รู้สึกมีความสุขเมื่อได้อยู่ด้วยกันกับคนรัก</StoryDesc>
+		</Text>
+		<Text Name="SleepWithLover">
+			<DisplayName>เขินอาย</DisplayName>
+			<Desc>ข้าอาศัยอยู่ร่วมกับ [TXT]</Desc>
+			<StoryDesc>รู้สึกเขินอายเมื่อได้อยู่ร่วมกันกับคนที่ชอบ</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization1">
+			<DisplayName>ก่อตั้งสำนัก</DisplayName>
+			<Desc>พวกข้าอาศัยอยู่ที่นี่และฝึกตนอย่างสันโดษ ณ บัดดนี้พวกข้าได้ก่อตั้งสำนักขึ้นมาใหม่ นี่เป็นการเริ่มต้นที่ดี</Desc>
+			<StoryDesc>รู้สึกว่าความทะเยอทะยานและความตื่นเต้นนั้นได้กระตุ้นไปยังทุกๆ คนในสำนัก</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization2">
+			<DisplayName>เสริมความแข็งแกร่งสำนัก</DisplayName>
+			<Desc>สำนักของพวกเรามีชื่อเสียงมากขึ้นเรื่อยๆ พวกเรามาช่วยกันสร้างให้มันเป็นสำนักที่ยิ่งใหญ่กันเถอะ</Desc>
+			<StoryDesc>รู้สึกว่าการการที่สำนักเติบโตขึ้นนั้นได้กระตุ้นจิตวิญญาณการต่อสู้ของทุกคน</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization3">
+			<DisplayName>แดนสวรรค์ปรากฎ</DisplayName>
+			<Desc>แดนสวรรค์ก็คือสำนักของพวกเรา</Desc>
+			<StoryDesc>ความรู้สึกภาคภูมิใจเมื่อสำนักกลายเป็นสวรรค์บนดิน</StoryDesc>
+		</Text>
+		<Text Name="BeSchoolMaster">
+			<DisplayName>ได้เป็นเจ้าสำนัก</DisplayName>
+			<Desc>ข้าจะนำพาทุกคนไปสู่หนทางแห่งความเป็นอมตะอย่างแน่นอน</Desc>
+			<StoryDesc>รู้สึกว่าการที่ได้กลายเป็นเจ้าสำนักมีภาระอันใหญ่ยิ่งรอยู่</StoryDesc>
+		</Text>
+		<Text Name="INeedTrousersM">
+			<DisplayName>ต้องการกางเกง</DisplayName>
+			<Desc>สำนักแห่งนี้ไม่มีแม้กระทั่งกางเกงงั้นรึ?</Desc>
+			<StoryDesc>รู้สึกโกรธที่ไม่มีกางเกงให้สวมใส่</StoryDesc>
+		</Text>
+		<Text Name="INeedClothesF">
+			<DisplayName>ต้องการเสื้อ</DisplayName>
+			<Desc>บัดซบ! เสื้อของข้าอยู่ไหน!?</Desc>
+			<StoryDesc>รู้สึกว่าอับอายเป็นอย่างยิ่งเมื่อไม่มีเสื้อผ้าให้สวมใส่</StoryDesc>
+		</Text>
+		<Text Name="INeedTrousersF">
+			<DisplayName>ต้องการกางเกง</DisplayName>
+			<Desc>บัดซบ! สำนักแห่งนี้ไม่มีแม้กระทั่งกางเกงสักตัวเลยงั้นรึ...?!</Desc>
+			<StoryDesc>รู้สึกโกรธที่ไม่มีกางเกงให้สวมใส่</StoryDesc>
+		</Text>
+		<Text Name="Kick1">
+			<DisplayName>ถูกขับไล่</DisplayName>
+			<Desc>ใครบางคนถูกขับไล่ออกจากสำนัก</Desc>
+			<StoryDesc>รู้สึกว่าการที่มีใครบางใครถูกขับไล่ออกจากสำนักนั้นมันทำให้คนที่เหลือรู้สึกกดดัน</StoryDesc>
+		</Text>
+		<Text Name="Kick2">
+			<DisplayName>ศิษย์พี่ศิษย์น้องถูกขับไล่</DisplayName>
+			<Desc>ช่างน่าเศร้าที่มีศิษย์พี่ศิษย์น้องบางคนถูกขับไล่ออกจากสำนัก</Desc>
+			<StoryDesc>รู้สึกว่าการที่ศิษย์พี่ศิษย์น้องถูกขับไล่ออกจากสำนักนั้นทำให้ทุกคนรู้สึกไม่ค่อยพอใจ</StoryDesc>
+		</Text>
+		<Text Name="Kick3">
+			<DisplayName>สหายถูกขับไล่</DisplayName>
+			<Desc>นี่มันเกิดอะไรขึ้น!? เหตุใด [TXT] สหายของข้าถึงถูกขับไล่ออกจากสำนัก?!</Desc>
+			<StoryDesc>รู้สึกว่าการที่การที่สหายถูกขับไล่ออกจากสำนักนั้นได้ทิ้งความรู้สึกขมขื่นเอาไว้ในใจ</StoryDesc>
+		</Text>
+		<Text Name="Kick4">
+			<DisplayName>คนรักถูกขับไล่</DisplayName>
+			<Desc>นี่มันเรื่องบ้าอะไรก้น!? เหตุใด [TXT] คนรักของข้าถึงถูกขับไล่ออกจากสำนัก?!</Desc>
+			<StoryDesc>รู้สึกว่าความโกรธภายในใจแทบจะปะทุออกมาเมื่อคนสำคัญในชีวิตถูกขับไล่ออกจากสำนัก</StoryDesc>
+		</Text>
+		<Text Name="Kick5">
+			<DisplayName>ญาติถูกขับไล่</DisplayName>
+			<Desc>นี่มันเกิดอะไรขึ้น!? เหตุใด [TXT] ผู้เป็นญาติของข้าถึงถูกขับไล่ออกจากสำนัก?!</Desc>
+			<StoryDesc>รู้สึกว่าการที่การที่ญาติถูกขับไล่ออกจากสำนักนั้นได้ทิ้งความรู้สึกขมขื่นเอาไว้ในใจ</StoryDesc>
+		</Text>
+		<Text Name="Kick6">
+			<DisplayName>อาจารย์ถูกขับไล่</DisplayName>
+			<Desc>ท่านอาจารย์ [TXT] ถูกขับไล่ออกจากสำนัก?! นี่มันเกิดอะไรขึ้นกันแน่?</Desc>
+			<StoryDesc>รู้สึกว่าการที่การที่อาจารย์ของตนเองถูกขับไล่ออกจากสำนักนั้นได้ทิ้งความรู้สึกขมขื่นเอาไว้ในใจ</StoryDesc>
+		</Text>
+		<Text Name="Kick7">
+			<DisplayName>ศัตรูถูกขับไล่</DisplayName>
+			<Desc>ไอ้เจ้า [TXT] ถูกไล่ออกจากสำนักแล้วงั้นรึ? ฮ่าๆๆ!</Desc>
+			<StoryDesc>รู้สึกว่าการศัตรูที่โดนไล่ออกจากสำนักนั้นทำให้สำนักแห่งนี้น่าอยู่ขึ้น</StoryDesc>
+		</Text>
+		<Text Name="Defection1">
+			<DisplayName>ออกจากสำนัก</DisplayName>
+			<Desc>มีใครบางคนได้ทอดทิ้งสำนักไป...</Desc>
+			<StoryDesc>รู้สึกสงสัยว่าทำไมคนๆ นั้นถึงได้ทำเช่นนี้?</StoryDesc>
+		</Text>
+		<Text Name="Defection2">
+			<DisplayName>ญาติออกจากสำนัก</DisplayName>
+			<Desc>[TXT] ผู้เป็นญาติของข้าได้ทอดทิ้งสำนักไป? เพราะเหตุใด[IT]ถึงได้ทำเช่นนั้นกัน...?</Desc>
+			<StoryDesc>รู้สึกโกรธและความประหลาดใจมากมายที่ญาติของตนได้ทอดทิ้งสำนักไป</StoryDesc>
+		</Text>
+		<Text Name="Defection3">
+			<DisplayName>สหายออกจากสำนัก</DisplayName>
+			<Desc>[TXT] ผู้เป็นสหายของข้าได้ทอดทิ้งสำนักไป เพราะเหตุใด[IT]ถึงได้ทำเช่นนั้นกัน...?</Desc>
+			<StoryDesc>รู้สึกโกรธและความประหลาดใจมากมายที่สหายของตนได้ทอดทิ้งสำนักไป</StoryDesc>
+		</Text>
+		<Text Name="Defection4">
+			<DisplayName>คนรักออกจากสำนัก</DisplayName>
+			<Desc>[TXT] คนรักของข้าได้ทอดทิ้งสำนักไป เพราะเหตุใด[IT]ถึงได้ทำเช่นนั้นกัน...?</Desc>
+			<StoryDesc>รู้สึกว่าการที่คนรักของคนได้ทอดทิ้งสำนักไปนั้นเป็นเรื่องที่เหนือความคาดหมายเป็นอย่างมาก</StoryDesc>
+		</Text>
+		<Text Name="Defection5">
+			<DisplayName>ศัตรูออกจากสำนัก</DisplayName>
+			<Desc>[TXT] ออกไปแล้วอย่างนั้นรึ? [IT]กล้าทรยศสำนักจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าการที่ศัตรูคู่แค้นของตนได้ออกจากสำนักไปนั้นเป็นเรื่องที่น่ายินดี</StoryDesc>
+		</Text>
+		<Text Name="DiscontentMood">
+			<DisplayName>เศร้า</DisplayName>
+			<Desc>ข้าไม่ค่อยพอใจกับสิ่งที่เป็นอยู่...</Desc>
+			<StoryDesc>รู้สึกหงุดหงิดง่ายขึ้นเมื่อชีวิตไม่มีความสุข</StoryDesc>
+		</Text>
+		<Text Name="Mood_BasePracticeAchievements1">
+			<DisplayName>รากฐานปราณเพิ่มขึ้นเล็กน้อย</DisplayName>
+			<Desc>ดูเหมือนว่าการฝึกฝนจะค่อยๆ แสดงผลลัพธ์ของมันออกมาแล้ว!</Desc>
+			<StoryDesc>รู้สึกตื่นเต้นเมื่อได้เห็นถึงผลลัพธ์ของการฝึกฝน</StoryDesc>
+		</Text>
+		<Text Name="Mood_BasePracticeAchievements2">
+			<DisplayName>รากฐานปราณพิ่มขึ้นพอประมาณ</DisplayName>
+			<Desc>ดูเหมือนว่าการฝึกฝนจะให้ผลลัพธ์ที่ไม่เลวที่เดียว!</Desc>
+			<StoryDesc>รู้สึกพึงพอใจเป็นอย่างมากเมื่อได้เห็นถึงผลลัพธ์ในความพยายามของตนเอง</StoryDesc>
+		</Text>
+		<Text Name="BecomeDisciple">
+			<DisplayName>ขอบเขตใหม่</DisplayName>
+			<Desc>หนทางสู่ความเป็นอมตะได้เปิดออกแล้ว</Desc>
+			<StoryDesc>รู้สึกพึงพอใจเป็นอย่างมากเมื่อได้เริ่มต้นก้าวเดินในวิถีแห่งเซียน</StoryDesc>
+		</Text>
+		<Text Name="SeeGod">
+			<DisplayName>สักขีพยานในการจุติ</DisplayName>
+			<Desc>การได้ร่วมเป็นสักขีพยานในการจุติขึ้นสู่แดนสวรรค์นั้นมันค่อนข้างน่าตื่นเต้นมากทีเดียว</Desc>
+			<StoryDesc>รู้สึกว่าการได้ร่วมเป็นสักขีพยานในการจุติขึ้นสู่แดนสวรรค์ของใครบางคนนั้นมันค่อนข้างน่าภูมิใจ</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing1">
+			<DisplayName>ประสบการณ์อันเลวร้าย</DisplayName>
+			<Desc>ทำกับข้าแบบนี้ได้ยังไงกัน?</Desc>
+			<StoryDesc>รู้สึกว่าประสบการณ์อันน่าสะพรึงกลัวส่งผลให้คนรู้สึกตื่นตระหนก</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing2">
+			<DisplayName>สักขีพยานเหตุการณ์สุดสยอง</DisplayName>
+			<Desc>ข้าได้เป็นสักขีพยานในเหตุการณ์สุดสยองที่ได้เกิดขึ้นกับ [TXT]</Desc>
+			<StoryDesc>รู้สึกว่าการได้เห็นประสบการณ์อันน่าสะพรึงกลัวทำให้คนๆ หนึ่งตกอยู่ในอาการหวาดระแวง</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing3">
+			<DisplayName>รู้สึกเห็นใจสหาย</DisplayName>
+			<Desc>ข้าค่อนข้างเป็นกังวลใจหลังจากได้เห็นประสบการณ์อันน่าสะพรึงกลัวเช่นนี้เกิดขึ้นกับ [TXT] ผู้ที่เป็นสหายของข้า</Desc>
+			<StoryDesc>รู้สึกทั้งหวาดกลัวและโกรธเกรี้ยวหลังจากที่ได้เห็นในสิ่งที่เกิดขึ้นกับสหายของตน</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing4">
+			<DisplayName>รู้สึกเห็นใจคนรัก</DisplayName>
+			<Desc>ข้าค่อนข้างเป็นกังวลใจหลังจากได้เห็นประสบการณ์อันน่าสะพรึงกลัวเช่นนี้เกิดขึ้นกับ [TXT] ผู้ที่เป็นคนรักของข้า</Desc>
+			<StoryDesc>รู้สึกทั้งหวาดกลัวและโกรธเกรี้ยวหลังจากที่ได้เห็นในสิ่งที่เกิดขึ้นกับคนรักของตน</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing5">
+			<DisplayName>รู้สึกเห็นใจญาติ</DisplayName>
+			<Desc>ข้าเห็นสิ่งเลวร้ายเกิดขึ้นกับ [TXT] ผู้เป็นญาติของข้า... มันเกิดเรื่องเช่นนี้ได้ยังไงกัน?</Desc>
+			<StoryDesc>รู้สึกว่าทั้งหวาดกลัวและโกรธเกรี้ยวหลังจากที่ได้เห็นในสิ่งที่เกิดขึ้นกับญาติของตน</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing6">
+			<DisplayName>สักขีพยานเหตุการณ์สุดสยอง</DisplayName>
+			<Desc>ข้าได้เป็นสักขีพยานในเหตุการณ์สุดสยอง</Desc>
+			<StoryDesc>รู้สึกว่าการได้เห็นสิ่งที่น่ากลัวนั้นทำให้คนรู้สึกวิตกกังวล</StoryDesc>
+		</Text>
+		<Text Name="NiceThing1">
+			<DisplayName>ปาฏิหารณ์</DisplayName>
+			<Desc>มีใครบางคนได้ร่ายอาคมวิเศษใส่ข้า! ความรู้สึกนี้มันช่างยอดเยี่ยมจริงๆ!</Desc>
+			<StoryDesc>รู้สึกว่าว่าประสบการณ์ที่ยอดเยี่ยมเช่นนี้ทำให้ผู้มักจะหลงใหลไปกับมัน</StoryDesc>
+		</Text>
+		<Text Name="NiceThing1_1">
+			<DisplayName>ประสบการณ์อันยอดเยี่ยม</DisplayName>
+			<Desc>ข้าได้สัมผัสประสบการณ์ที่ยากจะลืมเลือน มันวิเศษมากจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าว่าประสบการณ์ที่ยอดเยี่ยมเช่นนี้ทำให้ใครๆ ก็หลงใหลไปกับมัน</StoryDesc>
+		</Text>
+		<Text Name="NiceThing2">
+			<DisplayName>สักขีพยานในปาฏิหาริย์</DisplayName>
+			<Desc>ข้าเห็นใครบางคนได้ร่ายอาคมวิเศษใส่ [TXT] ข้าละอิจฉาจริงๆ</Desc>
+			<StoryDesc>รู้สึกอิจฉาเมื่อได้เห็นใครบางคนได้รับปาฏิหาริย์</StoryDesc>
+		</Text>
+		<Text Name="NiceThing2_1">
+			<DisplayName>พยานถึงบางสิ่งที่วิเศษ</DisplayName>
+			<Desc>ข้าเห็นใครบางคนได้ทำให้เกิดปาฏิหาริย์ มันช่างมหัศจรรย์จริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าการได้เห็นปาฏิหาริย์ของใครบางคนนั้นทำให้รู้สึกประทับใจเป็นอย่างมาก</StoryDesc>
+		</Text>
+		<Text Name="NiceThing3">
+			<DisplayName>ยินดีกับสหาย</DisplayName>
+			<Desc>ข้าเห็นใครบางคนได้ร่ายอาคมวิเศษใส่ [TXT] ผู้ที่เป็นสหายของข้า นี่เป็นเรื่องที่น่ายินดีจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าการที่ได้เห็นปาฏิหาริย์ได้เกิดขึ้นกับสหายนั้นเป็นเรื่องที่น่ายินดีจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="NiceThing4">
+			<DisplayName>ยินดีกับคนรัก</DisplayName>
+			<Desc>ข้าเห็นใครบางคนได้ร่ายอาคมวิเศษใส่ [TXT] ผู้ที่เป็นคนรักของข้าและข้าก็ดีใจมากที่มีเรื่องที่วิเศษเช่นนี้เกิดขึ้นกับ[IT]</Desc>
+			<StoryDesc>รู้สึกว่าการที่ได้เห็นปาฏิหาริย์ได้เกิดขึ้นกับคนรักนั้นเป็นเรื่องที่น่ายินดีจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="NiceThing5">
+			<DisplayName>ยินดีกับญาติ</DisplayName>
+			<Desc>ข้าเห็นใครบางคนได้ร่ายอาคมวิเศษใส่ [TXT] ผู้ที่เป็นญาติของข้าและข้าก็รู้สึกยินดีกับ[IT]จริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าการที่ได้เห็นปาฏิหาริย์ได้เกิดขึ้นกับญาตินั้นเป็นเรื่องที่น่ายินดีจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="Mood_LingStone">
+			<DisplayName>การสั่นพ้องของปราณ</DisplayName>
+			<Desc>การที่ได้อยู่ท่ามกลางคลื่นของกระแสปราณแห่งธรรมชาตินั้นมันช่างรู้สึกดีจริงๆ</Desc>
+			<StoryDesc>รู้สึกว่าความรู้สึกสบายใจที่ได้อยู่ท่ามกลางกระแสปราณธรรมชาตินั้นทำให้ผู้คนรู้สึกผ่อนคลายเป็นอย่างมาก</StoryDesc>
+		</Text>
+		<Text Name="Mood_LingStone1">
+			<DisplayName>การสั่นพ้องของปราณ</DisplayName>
+			<Desc>การที่ได้อยู่ท่ามกลางคลื่นของกระแสปราณแห่งธรรมชาตินั้นมันช่างรู้สึกดีจริงๆ.</Desc>
+			<StoryDesc>รู้สึกว่าความรู้สึกสบายใจที่ได้อยู่ท่ามกลางกระแสปราณธรรมชาตินั้นทำให้ผู้คนรู้สึกผ่อนคลายเป็นอย่างมาก</StoryDesc>
+		</Text>
+		<Text Name="Mood_Equipment_Fun">
+			<DisplayName>เครื่องเล่นที่น่าสนใจ</DisplayName>
+			<Desc>มันเป็นความคิดที่ไม่เลวในการมีบางสิ่งที่ใช้ในการเล่นเพื่อฆ่าเวลาและเพื่อการผ่อนคลาย</Desc>
+			<StoryDesc>รู้สึกว่ามันเป็นการง่ายที่จะถูกดึงดูดไปโดยความรู้สึกสนานเช่นนี้</StoryDesc>
+		</Text>
+		<Text Name="Mood_PracticeFoodScanty">
+			<DisplayName>พลังกายไม่เพียงพอ</DisplayName>
+			<Desc>ร่างกายในตอนนี้ขาดพลังกายภายในร่าง ทำให้มันเป็นไปไม่ได้เลยที่จะฝืนฝึกฝนต่อไป</Desc>
+			<StoryDesc>เมื่อพลังกายไม่เพียงพอจะทำให้ไม่สามารถฝึกฝนใดๆ ได้</StoryDesc>
+		</Text>
+		<Text Name="SeeBodyPuppet">
+			<DisplayName>บางสิ่งค่อนข้างน่ากลัว</DisplayName>
+			<Desc>ข้าได้เห็นบางสิ่งบางอย่างที่ค่อนข้างน่ากลัว... และมันก็สามารถเคลื่อนไหวไปมาได้!</Desc>
+			<StoryDesc>รู้สึกว่าการที่ได้เห็นอะไรบางสิ่งที่อยู่เหนือจิตสำนึกนั้นมันเป็นเรื่องที่น่าตื่นตระหนก</StoryDesc>
+		</Text>
+		<Text Name="Illusion1">
+			<DisplayName>ภาพหลอนแห่งสุข</DisplayName>
+			<Desc>โอ้ ช่างเป็นโลกที่วิเศษเหลือเกิน!</Desc>
+			<StoryDesc>มองเห็นเรื่องราวอันแสนวิเศษที่คนอื่นไม่รู้</StoryDesc>
+		</Text>
+		<Text Name="Illusion2">
+			<DisplayName>ภาพหลอนแห่งทุกข์</DisplayName>
+			<Desc>อี๊ มันช่าน่าขยะแขยงจริงๆ!</Desc>
+			<StoryDesc>มองเห็นเรื่องราวอันน่าสยดสยองที่คนอื่นไม่รู้</StoryDesc>
+		</Text>
+		<Text Name="BeResurrection">
+			<DisplayName>ฟื้นคืนชีพ</DisplayName>
+			<Desc>ข้าฟื้นคืนชีพแล้ว! ฮ่าๆๆ!</Desc>
+			<StoryDesc>รู้สึกมีความสุขที่ได้ฟื้นคืนชีพขึ้นมา</StoryDesc>
+		</Text>
+		<Text Name="PaoZhang1">
+			<DisplayName>ดอกไม้ไฟที่น่าสนใจ</DisplayName>
+			<Desc>มันช่างน่าสนใจจริงๆ พวกมันดูสวยงามมาก</Desc>
+			<StoryDesc>ยังคงคิดเกี่ยวกับดอกไม้ไฟที่น่าสนใจนั่น</StoryDesc>
+		</Text>
+		<Text Name="PaoZhang2">
+			<DisplayName>น่าขยะแขยง</DisplayName>
+			<Desc>บัดซบ! นี่มันน่าสะอิดสะเอียนจริงๆ!</Desc>
+			<StoryDesc>รู้สึกคลื่นไส้และอยากจะอ้วก</StoryDesc>
+		</Text>
+	</List>
+</Texts>

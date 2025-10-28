@@ -1,0 +1,36 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Magic_XuanWuHeart">
+			<DisplayName>เดินปราณสงบจิต</DisplayName>
+			<Desc>ไม่ต้องการน้ำ,อาหารและการพักผ่อนเป็นเวลา 3 วัน ทว่าจะส่งผลให้การเคลื่อนไหวช้าลง</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuShield">
+			<DisplayName>โล่เกราะทมิฬ</DisplayName>
+			<Desc>ยกระดับเกราะปราณและความทนทานของกายาเร้นลับอย่างมหาศาลในช่วงระยะเวลาสั้นๆ</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuBreak">
+			<DisplayName>รอยแยกทลาย</DisplayName>
+			<Desc>ลดเกราะปราณและความทนทานของกายาเร้นลับอย่างมีนัยสำคัญภายในช่วงระยะเวลาสั้นๆ</Desc>
+		</Text>
+		<Text Name="Modifier_JinFish">
+			<DisplayName>แก่นกรงเล็บทองคำ</DisplayName>
+			<Desc>ยกระดับเกราะปราณและความทนทานของกายาเร้นลับภายในช่วงระยะเวลาสั้นๆ</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou1">
+			<DisplayName>ความคิดปลอดโปร่ง</DisplayName>
+			<Desc>ยกระดับสภาวะจิตขึ้นมาเล็กน้อยหลังจากที่สวดภาวนาด้วยความจริงใจและขอพรในงานถวายธูปมังกรประจำปี</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou2">
+			<DisplayName>สมาธิขั้นสูง</DisplayName>
+			<Desc>เพิ่มโอกาสในการทะลวงขอบเขตเป็นอย่างมากหลังจากที่สวดภาวนาด้วยความจริงใจและขอพรในงานถวายธูปมังกรประจำปี.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou3">
+			<DisplayName>โชคนำพา</DisplayName>
+			<Desc>เพิ่มโอกาสในการป้องกันเล็กน้อยหลังจากที่สวดภาวนาด้วยความจริงใจและขอพรในงานถวายธูปมังกรประจำปี</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou5">
+			<DisplayName>ทัณฑ์คนโลภ</DisplayName>
+			<Desc>เนื่องจากความโลภในการขอพรเป็นจำนวนมากในงานถวายธูปมังกรประจำปีทำให้ได้รับการลงโทษจากสวรรค์ ส่งผลให้ค่าสถานะทั้งห้าถูกลดลงไปอย่างมีนัยสำคัญ</Desc>
+		</Text>
+	</List>
+</Texts>

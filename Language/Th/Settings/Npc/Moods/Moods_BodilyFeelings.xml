@@ -1,0 +1,149 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Temperature1">
+			<DisplayName>หนาวสัสๆ</DisplayName>
+			<Desc>รู้สึกหนาวจนตัวแข็งตายได้</Desc>
+			<StoryDesc>รู้สึกหนาวจนยากเกินกว่าที่จะคิดสิ่งใดได้</StoryDesc>
+		</Text>
+		<Text Name="Temperature2">
+			<DisplayName>หนาวจัด</DisplayName>
+			<Desc>มันหนาวจนเกินจะทน</Desc>
+			<StoryDesc>รู้สึกหนาวจนรู้สึกว่าหนทางเดียวที่จะอบอุ่นร่างกายได้ก็คือการสั่นให้มากที่สุด</StoryDesc>
+		</Text>
+		<Text Name="Temperature3">
+			<DisplayName>หนาว</DisplayName>
+			<Desc>อากาศเย็นจนทนแทบไม่ไหว</Desc>
+			<StoryDesc>รู้สึกหนาวจนต้องเอามือถูกันตลอดเวลาเพื่อสร้างความอบอุ่น</StoryDesc>
+		</Text>
+		<Text Name="Temperature4">
+			<DisplayName>มันค่อนข้างหนาว</DisplayName>
+			<Desc>มันค่อนข้างหนาวเล็กน้อย</Desc>
+			<StoryDesc>อาจจะต้องหาเสื้อกันหนาวมาใส่เพื่อป้องกันความหนาวในระดับนี้</StoryDesc>
+		</Text>
+		<Text Name="Temperature5">
+			<DisplayName>อุณหภูมินี้กำลังสบาย</DisplayName>
+			<Desc>อากาศที่ให้ความรู้สึกกำลังพอดี อุณหภูมิและลมพัดผ่านก็สมบูรณ์แบบ</Desc>
+			<StoryDesc>รู้สึกว่าอากาศในตอนนี้กำลังสมบูรณ์แบบ</StoryDesc>
+		</Text>
+		<Text Name="Temperature6">
+			<DisplayName>ร้อนเล็กน้อย</DisplayName>
+			<Desc>มันค่อนข้างร้อนเล็กน้อย</Desc>
+			<StoryDesc>รู้สึกร้อนจนเหงื่อสะสมที่หน้าผาก ถ้ามีพัดในมือตอนนี้ก็คงจะดีไม่น้อย</StoryDesc>
+		</Text>
+		<Text Name="Temperature7">
+			<DisplayName>ร้อน</DisplayName>
+			<Desc>รู้สึกร้องจนเหงือออกทั่วทั้งร่าง</Desc>
+			<StoryDesc>รู้สึกว่ามันเป็นไปไม่ได้ที่จะไม่เปียกโชกไปด้วยเหงื่อ ณ จุดๆ นี้</StoryDesc>
+		</Text>
+		<Text Name="Temperature8">
+			<DisplayName>ร้อนโว้ย</DisplayName>
+			<Desc>อุณภูมิแบบนี้มันร้อนเกินจะทน</Desc>
+			<StoryDesc>รู้สึกร้อนจนเสื้อผ้าเปียกโชกไปด้วยเหงื่อ</StoryDesc>
+		</Text>
+		<Text Name="Temperature9">
+			<DisplayName>ร้อนเหี้ยๆ</DisplayName>
+			<Desc>ร้อนจัด ร้อนสัสๆ ร้อนเหี้ยๆ คนอาจถูกเผาได้เลยด้วยความร้อนระดับนี้</Desc>
+			<StoryDesc>รู้สึกร้อนจนแทบสิ้นสติ</StoryDesc>
+		</Text>
+		<Text Name="Light1">
+			<DisplayName>สว่างจ้า</DisplayName>
+			<Desc>มันสว่างจ้ามากจนยากแม้แต่จะลืมตา</Desc>
+			<StoryDesc>น้ำไหลพรากเพราะแสงจ้าอันรุนแรง แม้ว่าจะพยายามเอามือปิดตาแทบไม่ช่วยอะไรเลย</StoryDesc>
+		</Text>
+		<Text Name="Light2">
+			<DisplayName>สดใสเป็นประกาย</DisplayName>
+			<Desc>แสงมันสว่างมากจนยากที่จะมองเห็น</Desc>
+			<StoryDesc>รู้สึกว่ามันสว่างมากจนทำได้เพียงหรี่ตา</StoryDesc>
+		</Text>
+		<Text Name="Light3">
+			<DisplayName>มืดสลัว</DisplayName>
+			<Desc>มันแทบจะไม่มีแสงส่องเข้ามา ทำให้ยากที่จะมองเห็นสิ่งต่างๆ ได้อย่างชัดเจน</Desc>
+			<StoryDesc>รู้สึกว่ามันมืดจนต้องตั้งใจเพ่งมองสิ่งต่างๆ อย่างระมัดระวัง ถ้ามีแสงส่องเข้ามาบ้างก็คงจะดี...</StoryDesc>
+		</Text>
+		<Text Name="Light4">
+			<DisplayName>มืด</DisplayName>
+			<Desc>รู้สึกว่ามันมืดมากจนไม่อาจมองเห็นมือตรงหน้าของตัวเองได้</Desc>
+			<StoryDesc>รู้สึกมืดมนจนหนทางเดียวที่จะเคลื่อนไหวได้ก็คือใช้มือสัมผัสคล่ำสิ่งต่างๆ รอบๆ ตัว</StoryDesc>
+		</Text>
+		<Text Name="Light5">
+			<DisplayName>มืดสลัว</DisplayName>
+			<Desc>พลบค่ำทำให้จิตใจรู้สึกสงบผ่อนคลาย</Desc>
+			<StoryDesc>รู้สึกง่ายที่จะผ่อนคลายและเพลิดเพลินกับช่วงเวลาพลบค่ำ</StoryDesc>
+		</Text>
+		<Text Name="Light6">
+			<DisplayName>มืด</DisplayName>
+			<Desc>รู้สึกว่ามันมืดมากจนไม่อาจมองเห็นมือตรงหน้าของตัวเองได้ ทว่ากลับรู้สึกปลอดภัยอย่างน่าประหลาด</Desc>
+			<StoryDesc>รู้สึกผ่อนคลายและเพลิดเพลินไปกับความมืด</StoryDesc>
+		</Text>
+		<Text Name="Pain1">
+			<DisplayName>เจ็บเจียนตาย</DisplayName>
+			<Desc>มันช่างเจ็บปวดอะไรเยี่ยงนี้ ถ้าต้องมาเจ็บปวดเช่นนี้ข้าขอตายไปเลยดีกว่า...</Desc>
+			<StoryDesc>คร่ำครวญจากความเจ็บปวด ราวกับความตายอยู่ใกล้แค่เอื้อม</StoryDesc>
+		</Text>
+		<Text Name="Pain2">
+			<DisplayName>เจ็บอย่างรุนแรง</DisplayName>
+			<Desc>มันเจ็บมาก มันเจ็บจนแทบจะทนไม่ไหว...</Desc>
+			<StoryDesc>รู้สึกเจ็บปวดจนทำได้เพียงทนทุกข์ทรมานด้วยการคร่ำครวญขบเขี้ยวเคี้ยวฟัน</StoryDesc>
+		</Text>
+		<Text Name="Pain3">
+			<DisplayName>เจ็บมาก</DisplayName>
+			<Desc>เจ็บจริงๆ! เมื่อไรความเจ็บปวดเหล่านี้จะหายไป?!</Desc>
+			<StoryDesc>รู้สึกว่าทุกอย่างทำได้เพื่อความเจ็บปวดนี้หายไป</StoryDesc>
+		</Text>
+		<Text Name="Pain4">
+			<DisplayName>เจ็บ</DisplayName>
+			<Desc>มันเจ็บจนต้องกัดฟันทน</Desc>
+			<StoryDesc>รู้สึกเจ็บปวดจนทำได้เพียงทำหน้าบูดบึ้ง</StoryDesc>
+		</Text>
+		<Text Name="Pain5">
+			<DisplayName>เจ็บเล็กน้อย</DisplayName>
+			<Desc>มันค่อนข้างเจ็บปวด...</Desc>
+			<StoryDesc>ขมวดคิ้ว แล้วหายใจเข้าลึกๆ ก็ดูเหมือนจะช่วยได้</StoryDesc>
+		</Text>
+		<Text Name="Consciousness1">
+			<DisplayName>สภาพจิตใจสับสน</DisplayName>
+			<Desc>ข้าเป็นใคร ที่นี่ที่ไหน?...แล้วมันเกิดอะไรขึ้นกับข้ากัน?</Desc>
+			<StoryDesc>สับสนงุนงง..</StoryDesc>
+		</Text>
+		<Text Name="Consciousness2">
+			<DisplayName>วิงเวียนมึนงง</DisplayName>
+			<Desc>ความคิดของข้ามันหมุนติ้ว...ความรู้สึกเวียนหัวบ้านหมุนนี้มันช่างไม่สบายเอาซะเลย</Desc>
+			<StoryDesc>ถอนหายใจจากอาการวิงเวียนศีรษะ</StoryDesc>
+		</Text>
+		<Text Name="Consciousness3">
+			<DisplayName>หน้ามืดคล้ายจะเป็นลม</DisplayName>
+			<Desc>รู้สึกเหมือนว่าหัวของข้าจะตื้อจนคิดอะไรไม่ออก</Desc>
+			<StoryDesc>รู้สึกไม่ค่อยดี</StoryDesc>
+		</Text>
+		<Text Name="Consciousness4">
+			<DisplayName>ไร้เรี่ยวแรง</DisplayName>
+			<Desc>ข้าไม่รู้สึกอยากทำสิ่งใดเลย ข้ารู้สึกไร้เรี่ยวแรง...</Desc>
+			<StoryDesc>หาวอย่างขี้เกียจเนื่องจากรู้สึกว่าร่างกายขาดพลังงาน</StoryDesc>
+		</Text>
+		<Text Name="GetWet">
+			<DisplayName>เปียกปอน</DisplayName>
+			<Desc>ถ้าหากข้ามีร่มสักคันก็คงดี</Desc>
+			<StoryDesc>เสื้อผ้าเปียกปอนไปหมด...ถ้ามีเสื้อผ้าแห้งๆ เปลี่ยนและกองไฟอุ่นๆ ก็คงดี</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood">
+			<DisplayName>ปีศาจร่ำไห้</DisplayName>
+			<Desc>มีปีศาจนับไม่ถ้วนคร่ำครวญอยู่ภายในใจของข้า...ดูเหมือนว่าพวกมันจะรู้สึกหิวโหย</Desc>
+			<StoryDesc>พยายามฝืนทนต่อเสียงของปีศาจที่ร่ำไห้อยู่ภายในจิตใจ</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_Satisfy">
+			<DisplayName>พึงพอใจชั่วคราว</DisplayName>
+			<Desc>พึงพอใจ ความรู้สึกเช่นนี้มันค่อนข้างน่าอภิรมย์จริงๆ</Desc>
+			<StoryDesc>ถอนหายใจยาวเพราะกิเลสตัณหาในใจ</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>กลั่นวิญญาณ</DisplayName>
+			<Desc>ข้ารู้สึกเหมือนว่าวิญญาณของข้ากำลังถูกฉีกออกเป็นชิ้นๆ... ข้าไม่คิดเลยความรู้สึกเจ็บปวดเช่นนี้จะมีอยู่จริง</Desc>
+			<StoryDesc>กัดจนฟันแทบแตกเพราะความเจ็บปวด</StoryDesc>
+		</Text>
+		<Text Name="AfterAbsorbGong_6">
+			<DisplayName>ภายในว่างเปล่า</DisplayName>
+			<Desc>รู้สึกเหมือนว่าการบ่มเพาะไม่ได้ผลอย่างที่คิด ราวกับว่าที่ทำลงไปมันสูญเปล่า</Desc>
+			<StoryDesc>รู้สึกอ่อนแอและสับสน</StoryDesc>
+		</Text>
+	</List>
+</Texts>

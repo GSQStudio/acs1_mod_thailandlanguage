@@ -1,0 +1,60 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Animal2HumanThinkFull">
+			<DisplayName>คิดใคร่ครวญ</DisplayName>
+			<Desc>เพ่งสมาธิไปที่ความคิด</Desc>
+		</Text>
+		<Text Name="Animal2HumanFeelLing">
+			<DisplayName>คิดริเริ่ม</DisplayName>
+			<Desc>รู้สึกถึงความคิดที่ริเริ่ม</Desc>
+		</Text>
+		<Text Name="AnimalToHuman">
+			<DisplayName>แปลงร่างครึ่งอสูร</DisplayName>
+			<Desc>ร่างแปลงครึ่งอสูร</Desc>
+		</Text>
+		<Text Name="LingShou_fanshi">
+			<DisplayName>บูชาแด่อสูรวิญญาณ</DisplayName>
+			<Desc>สัตว์อสูรวิญญาณจะแว้งกัดเจ้านายของมันด้วยอาวุธวิเศษเมื่อผ่านไประยะเวลาหนึ่ง ทำให้ปราณของอาวุธวิเศษลดลงไปครึ่งหนึ่ง ผลลัพธ์จะเพิ่มเป็นสองเท่าเมื่ออาวุธวิเศษชิ้นนั้นมีธาตุไฟ ทว่าจะลดลงกึ่งหนึ่งเมื่อเป็นธาตุดิน</Desc>
+		</Text>
+		<Text Name="ToHumanThunderComing">
+			<DisplayName>ทัณฑ์เปลี่ยนร่าง</DisplayName>
+			<Desc>ทัณฑ์สวรรค์เปลี่ยนร่างกำลังมา</Desc>
+		</Text>
+		<Text Name="Modifier_LingChong_Heal">
+			<DisplayName>เพื่อนร่วมทาง</DisplayName>
+			<Desc>เมื่อมีอสูรวิญญาณเป็นเพื่อนร่วมทาง อาการบาดเจ็บจะฟื้นฟูได้เร็วยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_LingChong_Stay">
+			<DisplayName>เพื่อนร่วมทาง</DisplayName>
+			<Desc>เมื่อมีอสูรวิญญาณเป็นเพื่อนขณะฝึกฝน สภาวะจิตจะมั่นคงยิ่งขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_GlitterEyes">
+			<DisplayName>ดวงตารู้แจ้ง</DisplayName>
+			<Desc>ดวงตารู้แจ้งแห่งหงส์เพลิงทมิฬ มีความสามารถที่มองทะลุทุกสรรพสิ้นได้ มีประโยชน์มากในขณะที่ทำการประมูลสิ่งของ</Desc>
+		</Text>
+		<Text Name="Modifier_Shelter">
+			<DisplayName>เกราะเทวะ</DisplayName>
+			<Desc>เพิ่มเกราะปราณขึ้นอย่างมหาศาลและส่งผลให้กายาเร้นลับทนทานขึ้นในช่วงระยะเวลาสั้นๆ</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealPower">
+			<DisplayName>พลังต้นกำเนิด (จู่โจม)</DisplayName>
+			<Desc>เผาผลาญปราณแห่งชีวิตอย่างรวดเร็วเพื่อกระตุ้นปราณในร่าง ส่งผลให้ยกระดับพลังโจมตีของอาวุธวิเศษและกายาเร้นลับขึ้นมาอย่างมหาศาล</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealRecover">
+			<DisplayName>พลังต้นกำเนิด (ป้องกัน)</DisplayName>
+			<Desc>เผาผลาญปราณแห่งชีวิตอย่างรวดเร็วเพื่อกระตุ้นปราณในร่าง ส่งผลให้ยกระดับพลังป้องกัน, อัตราฟื้นฟูปราณของอาวุธวิเศษและอัตราฟื้นฟูปราณแท้กายาเร้นลับขึ้นมาอย่างมหาศาล</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealWisdom">
+			<DisplayName>พลังต้นกำเนิด (ปัญญา)</DisplayName>
+			<Desc>เผาผลาญปราณแห่งชีวิตอย่างรวดเร็วเพื่อกระตุ้นปราณในร่าง ส่งผลให้ยกระดับพลังของปราณเวท, ความแม่นยำในการโจมตีของกายาเร้นลับ, โอกาสในการปัดป้อง, การโจมตีทะลุเกราะปราณและโอกาสในการสะกดข่มอาวุธวิเศษขึ้นมาได้อย่างมหาศาล</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealShield">
+			<DisplayName>พลังต้นกำเนิด (รับรู้)</DisplayName>
+			<Desc>เผาผลาญปราณแห่งชีวิตอย่างรวดเร็วเพื่อกระตุ้นปราณในร่าง ส่งผลให้ยกระดับทักษะอาวุธวิเศษ, ทักษะเกราะปราณ, พลังโจมตีและความทนทานของกายาเร้นลับขึ้นมาอย่างมหาศาล</Desc>
+		</Text>
+		<Text Name="Modifier_YG_NormalPower">
+			<DisplayName>กายาอสูร</DisplayName>
+			<Desc>กายาอสูรมีผลในการยกระดับพลังการต่อสู้และความเร็ซในการหลอมร่างของผู้ที่มีกายาอสูร ทว่าจะถูกกระตุ้นด้วยสัญชาตญาณสัตว์ป่าจนส่งผลให้สติปัญญา, ความเร็วในการเรียนรู้และสภาวะจิตถูกลดทอนลงไปอย่างมาก</Desc>
+		</Text>
+	</List>
+</Texts>

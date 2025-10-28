@@ -1,0 +1,55 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="HotStory_SocialContactLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะการเข้าสังคมเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_MedicineLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะการรักษาเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_CookingLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะการทำอาหารเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_BuildingLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะการก่อสร้างเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_FarmingLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะการเกษตรเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_ManualLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะการประดิษฐ์เพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_MiningLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะการขุดแร่เพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_ArtLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะงานฝีมือเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_QiLv">
+			<DisplayName>ความรู้ความเข้าใจสัมผัสปราณเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_FabaoLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะอาวุธวิเศษเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_FightSkillLv">
+			<DisplayName>ความรู้ความเข้าใจทักษะปราณเวทเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_MakeBigSuccess">
+			<DisplayName>ประดิษฐ์สำเร็จ!</DisplayName>
+		</Text>
+		<Text Name="HotStory_BrokeningChance">
+			<DisplayName>โอกาสในการทะลวงขอบเขตเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_Ling">
+			<DisplayName>ขีดจำกัดปราณเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_DanNum">
+			<DisplayName>ผลผลิตโอสถวิเศษเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_FabaoQ">
+			<DisplayName>คุณภาพของอาวุธวิเศษเพิ่มขึ้น</DisplayName>
+		</Text>
+		<Text Name="HotStory_FabaoR">
+			<DisplayName>คุณภาพของอาวุธวิเศษเพิ่มขึ้น</DisplayName>
+		</Text>
+	</List>
+</Texts>

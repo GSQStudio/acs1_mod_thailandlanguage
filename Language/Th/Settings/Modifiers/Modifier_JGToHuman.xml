@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FoodToHuman">
+			<DisplayName>วิญญาณอาหาร</DisplayName>
+			<Desc>มีความสามารถในการดูดซับปราณที่สูงเป็นพรสวรรค์ตามธรรมชาติ</Desc>
+		</Text>
+		<Text Name="LingStoneToHuman">
+			<DisplayName>วิญญาณก้อนหิน</DisplayName>
+			<Desc>มีปริมาณรากฐานปราณที่สูงเป็นพรสวรรค์ตามธรรมชาติ</Desc>
+		</Text>
+		<Text Name="FabaoToHuman">
+			<DisplayName>วิญญาณอาวุธวิเศษ</DisplayName>
+			<Desc>มีอัตราการฟื้นฟูปราณของอาวุธวิเศษและอัตราการส่งถ่ายปราณที่สูงเป็นพรสวรรค์ตามธรรมชาติ</Desc>
+		</Text>
+		<Text Name="DanToHuman">
+			<DisplayName>วิญญาณโอสถ</DisplayName>
+			<Desc>โอสถต่างๆ จะไม่เกิดผลร่างกายต่อต้านหนึ่งครั้งเมื่อใช้โอสถ</Desc>
+		</Text>
+		<Text Name="PlantToHuman">
+			<DisplayName>เติบโตได้ด้วยตนเอง</DisplayName>
+			<Desc>พัฒนาอย่างช้าๆ ทุกๆ วัน</Desc>
+		</Text>
+		<Text Name="BuildToHuman">
+			<DisplayName>ฟื้นฟูได้ด้วยตนเอง</DisplayName>
+			<Desc>กระบวนการฟื้นฟู: {0}\n เมื่อกระบวนการฟื้นฟูครับ 100 อวัยวะทั้งหมดจะได้รับการฟื้นฟูและกระบวนการฟื้นฟูจะกลายเป็นศูนย์</Desc>
+		</Text>
+	</List>
+</Texts>

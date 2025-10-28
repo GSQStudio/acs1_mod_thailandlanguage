@@ -1,0 +1,1099 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Mutation_UnstableBase">
+			<DisplayName>ความโกลาหลแห่งสวรรค์</DisplayName>
+			<Desc>ภายใต้ผลกระทบของความโกลาหลแห่งสวรรค์แบบปั่นป่วน ค่าสถานะทั้งหมดถูกเปลี่ยนแปลง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_YinYangBase">
+			<DisplayName>ความโกลาหลแห่งสวรรค์</DisplayName>
+			<Desc>เนื่องจากบัญญิตหยิน-หยางแห่งความโกลาหลแห่งสวรรค์ ค่าสถานะทั้งหมดถูกเปลี่ยนแปลงชั่วคราว</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_ConstantBase">
+			<DisplayName>ความโกลาหลแห่งสวรรค์</DisplayName>
+			<Desc>ได้รับผลกระทบจากความโกลาหลแห่งสวรรค์แบบคงที่ ค่าสถานะทั้งหมดถูกปรับเปลี่ยน</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_1">
+			<Desc>ลดค่าเสน่ห์ 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_2">
+			<Desc>ลดค่าเสน่ห์ 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_3">
+			<Desc>ลดค่าเสน่ห์ 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_4">
+			<Desc>ลดค่าสติปัญญา 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_5">
+			<Desc>ลดค่าสติปัญญา 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_6">
+			<Desc>ลดค่าสติปัญญา 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_7">
+			<Desc>ลดโชค 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_8">
+			<Desc>ลดโชค 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_9">
+			<Desc>ลดโชค 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_10">
+			<Desc>ลดค่าการรับรู้ 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_11">
+			<Desc>ลดค่าการรับรู้ 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_12">
+			<Desc>ลดค่าการรับรู้ 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_13">
+			<Desc>ลดค่าความึด 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_14">
+			<Desc>ลดค่าความึด 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_15">
+			<Desc>ลดค่าความึด 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_16">
+			<Desc>ลดค่าสถานะทั้งห้า 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_17">
+			<Desc>ลดค่าสถานะทั้งห้า 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_1">
+			<Desc>เพิ่มค่าเสน่ห์ 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_2">
+			<Desc>เพิ่มค่าเสน่ห์ 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_3">
+			<Desc>เพิ่มค่าเสน่ห์ 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_4">
+			<Desc>เพิ่มค่าสติปัญญา 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_5">
+			<Desc>เพิ่มค่าสติปัญญา 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_6">
+			<Desc>เพิ่มค่าสติปัญญา 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_7">
+			<Desc>เพิ่มโชค 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_8">
+			<Desc>เพิ่มโชค 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_9">
+			<Desc>เพิ่มโชค 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_10">
+			<Desc>เพิ่มค่าการรับรู้ 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_11">
+			<Desc>เพิ่มค่าการรับรู้ 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_12">
+			<Desc>เพิ่มค่าการรับรู้ 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_13">
+			<Desc>เพิ่มค่าความอึด 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_14">
+			<Desc>เพิ่มค่าความอึด 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_15">
+			<Desc>เพิ่มค่าความอึด 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_16">
+			<Desc>เพิ่มค่าสถานะทั้งห้า 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_17">
+			<Desc>เพิ่มค่าสถานะทั้งห้า 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_1">
+			<Desc>ความเร็วการฟื้นฟูปราณเพิ่มขึ้น 75%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_2">
+			<Desc>ความเร็วการฟื้นฟูปราณเพิ่มขึ้น 200%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_3">
+			<Desc>ความเร็วการฟื้นฟูปราณเพิ่มขึ้น 500%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_1">
+			<Desc>ความเร็วการฟื้นฟูปราณลดลง 75%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_2">
+			<Desc>ความเร็วการฟื้นฟูปราณลดลง 200%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_3">
+			<Desc>ความเร็วการฟื้นฟูปราณลดลง 500%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_1">
+			<Desc>เพิ่มปริมาณปราณสูงสุดเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_2">
+			<Desc>เพิ่มปริมาณปราณสูงสุดปราณกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_3">
+			<Desc>เพิ่มปริมาณปราณสูงสุดอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcFight_ShieldConversionRate_1">
+			<Desc>เพิ่มพลังเกราะปราณเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcFight_ShieldConversionRate_2">
+			<Desc>เพิ่มพลังเกราะปราณปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_NpcFight_ShieldConversionRate_1">
+			<Desc>ลดพลังเกราะปราณเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_NpcFight_ShieldConversionRate_2">
+			<Desc>ลดพลังเกราะปราณปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MaxAge_1">
+			<Desc>เพิ่มขีดจำกัดอายุขัยเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MaxAge_2">
+			<Desc>เพิ่มขีดจำกัดอายุขัยปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MaxAge_3">
+			<Desc>เพิ่มขีดจำกัดอายุขัยอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MaxAge_1">
+			<Desc>ลดขีดจำกัดอายุขัยลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MaxAge_2">
+			<Desc>ลดขีดจำกัดอายุขัยปายกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MaxAge_3">
+			<Desc>ลดขีดจำกัดอายุขัยลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_1">
+			<Desc>เพิ่มโอกาสทะลวงขอบเขตเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_2">
+			<Desc>เพิ่มโอกาสทะลวงขอบเขตปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_3">
+			<Desc>เพิ่มโอกาสทะลวงขอบเขตอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_PracticeRateAddPFromDan_1">
+			<Desc>ลดโอกาสทะลวงขอบเขตลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_PracticeRateAddPFromDan_2">
+			<Desc>ลดโอกาสทะลวงขอบเขตลงปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_DeepPracticeSpeedSpecialCoefficient_1">
+			<Desc>เพิ่มความเร็วการบำเพ็ญเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_DeepPracticeSpeedSpecialCoefficient_2">
+			<Desc>เพิ่มความเร็วการบำเพ็ญอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_DeepPracticeSpeedSpecialCoefficient_1">
+			<Desc>ลดความเร็วการบำเพ็ญลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_DeepPracticeSpeedSpecialCoefficient_2">
+			<Desc>ลดความเร็วการบำเพ็ญลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_1">
+			<Desc>เพิ่มค่าฐานสภาวะจิตเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_2">
+			<Desc>เพิ่มค่าฐานสภาวะจิตปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_3">
+			<Desc>เพิ่มค่าฐานสภาวะจิตอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_1">
+			<Desc>ลดค่าฐานสภาวะจิตลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_2">
+			<Desc>ลดค่าฐานสภาวะจิตปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_3">
+			<Desc>ลดค่าฐานสภาวะจิตลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NutritionWaterAutoRecover_1">
+			<Desc>ฟื้นฟูระดับความหิวโดยอัตโนมัติ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NutritionConsumeConstant_1">
+			<Desc>หิวน้อยลง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_NutritionConsumeConstant_1">
+			<Desc>หิวบ่อยขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_FatigueConsumeConstant_1">
+			<Desc>เหนื่อยยากขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_FatigueConsumeConstant_1">
+			<Desc>เหนื่อยง่ายขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_WaterConsumeConstant_1">
+			<Desc>ขาดน้ำยากขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_WaterConsumeConstant_1">
+			<Desc>ขาดน้ำง่ายขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MoveSpeed_1">
+			<Desc>เพิ่มความเร็วเคลื่อนที่เล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MoveSpeed_2">
+			<Desc>เพิ่มความเร็วเคลื่อนที่ปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MoveSpeed_3">
+			<Desc>เพิ่มความเร็วเคลื่อนที่อย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MoveSpeed_1">
+			<Desc>ลดความเร็วเคลื่อนที่ลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MoveSpeed_2">
+			<Desc>ลดความเร็วเคลื่อนที่ปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MoveSpeed_3">
+			<Desc>ลดความเร็วเคลื่อนที่ลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_1">
+			<Desc>เพิ่มประสิทธิภาพการทำงานโดยรวมเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_2">
+			<Desc>เพิ่มประสิทธิภาพการทำงานโดยรวมปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_3">
+			<Desc>เพิ่มประสิทธิภาพการทำงานโดยรวมอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_1">
+			<Desc>ลดประสิทธิภาพการทำงานโดยรวมลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_2">
+			<Desc>ลดประสิทธิภาพการทำงานโดยรวมปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_3">
+			<Desc>ลดประสิทธิภาพการทำงานโดยรวมอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_IntelligenceSkillEXPConstant_1">
+			<Desc>เพิ่มความเร็วในการเรียนรู้ปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_IntelligenceSkillEXPConstant_2">
+			<Desc>เพิ่มความเร็วในการเรียนรู้อย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_IntelligenceSkillEXPConstant_1">
+			<Desc>ลดความเร็วในการเรียนรู้ปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_IntelligenceSkillEXPConstant_2">
+			<Desc>ลดความเร็วในการเรียนรู้ลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_1">
+			<Desc>ลดโบนัสเมล็ดเต๋าลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_2">
+			<Desc>ลดโบนัสเมล็ดเต๋าปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_3">
+			<Desc>ลดโบนัสเมล็ดเต๋าลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_1">
+			<Desc>เพิ่มโบนัสเมล็ดเต๋าเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_2">
+			<Desc>เพิ่มโบนัสเมล็ดเต๋าปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_3">
+			<Desc>เพิ่มโบนัสเมล็ดเต๋าอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ComfyTMax_1">
+			<Desc>เพิ่มความสามารถในการปรับตัวต่อสภาพอากาศร้อน</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ComfyTMax_1">
+			<Desc>ลดความสามารถในการปรับตัวต่อสภาพอากาศร้อน</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ComfyTMin_1">
+			<Desc>เพิ่มความสามารถในการปรับตัวต่อสภาพอากาศเย็น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ComfyTMin_1">
+			<Desc>ลดความสามารถในการปรับตัวต่อสภาพอากาศเย็น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_DanMake_1">
+			<Desc>ความเร็ว,ความสำเร็จ, และจำนวนผลผลิตของการหลอมโอสถของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_DanMake_1">
+			<Desc>ความเร็ว,ความสำเร็จ, และจำนวนผลผลิตของการหลอมโอสถของตัวละครลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_FabaoMake_1">
+			<Desc>เพิ่มความเร็ว, อัตราความสำเร็จ, ระดับ, คุณภาพ, และโอกาสในการสร้างอาวุธวิเศษอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_FabaoMake_1">
+			<Desc>ลดความเร็ว, อัตราความสำเร็จ, ระดับ, คุณภาพ, และโอกาสในการสร้างอาวุธวิเศษอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Treatment_1">
+			<Desc>ความเร็วและประสิทธิภาพในการฟื้นฟูของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Treatment_1">
+			<Desc>ความเร็วและประสิทธิภาพในการฟื้นฟูของตัวละครลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Butcher_1">
+			<Desc>ความเร็วและผลผลิตในการชำแหละของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Butcher_1">
+			<Desc>ความเร็วและผลผลิตในการชำแหละของตัวละครลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Cooking_1">
+			<Desc>ความเร็วในการทำอาหารและระดับทักษะการทำอาหารของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Cooking_1">
+			<Desc>ความเร็วในการทำอาหารและระดับทักษะการทำอาหารของตัวละครลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ConstructionSpeed_1">
+			<Desc>ความเร็วในการสร้างและการก่อสร้างและระดับทักษะเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ConstructionSpeed_1">
+			<Desc>ความเร็วในการสร้างและการก่อสร้างและระดับทักษะลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Mining_1">
+			<Desc>ความเร็วและผลผลิตในการขุดแร่ของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Mining_1">
+			<Desc>ความเร็วและผลผลิตในการขุดแร่ของตัวละครลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Coolie_1">
+			<Desc>ความเร็วในการบรรเทาภัยพิบัติ การทำความสะอาด และการเคลื่อนที่ของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Coolie_1">
+			<Desc>ความเร็วในการบรรเทาภัยพิบัติ การทำความสะอาด และการเคลื่อนที่ของตัวละครลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_1">
+			<Desc>ทักษะการต่อสู้ระดับ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_2">
+			<Desc>ทักษะการต่อสู้ระดับ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_3">
+			<Desc>ทักษะการต่อสู้ระดับ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_4">
+			<Desc>ทักษะทางโลกระดับ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_5">
+			<Desc>ทักษะการเข้าสังคมระดับ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_6">
+			<Desc>ทักษะการเข้าสังคมระดับ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_7">
+			<Desc>ทักษะช่างฝีมือระดับ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_8">
+			<Desc>ทักษะช่างฝีมือระดับ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_9">
+			<Desc>ทักษะช่างฝีมือระดับ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_10">
+			<Desc>สัมผัสปราณ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_11">
+			<Desc>สัมผัสปราณ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_12">
+			<Desc>สัมผัสปราณ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_13">
+			<Desc>ทักษะการสร้าง/การสร้างอาวุธวิเศษ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_14">
+			<Desc>เพิ่มทักษะการสร้าง/การสร้างอาวุธวิเศษของตนเอง +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_15">
+			<Desc>เพิ่มทักษะการสร้าง/การสร้างอาวุธวิเศษของตนเอง +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_16">
+			<Desc>ทักษะยา/การหลอมโอสถ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_17">
+			<Desc>ทักษะยา/การหลอมโอสถ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_18">
+			<Desc>ทักษะยา/การหลอมโอสถ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_19">
+			<Desc>ทักษะการควบคุมอาวุธวิเศษ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_20">
+			<Desc>ทักษะการควบคุมอาวุธวิเศษ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_21">
+			<Desc>ทักษะการควบคุมอาวุธวิเศษ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_22">
+			<Desc>ทักษะปราณเวท +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_23">
+			<Desc>ทักษะปราณเวท +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_24">
+			<Desc>ทักษะปราณเวท +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_25">
+			<Desc>ทักษะเกราะปราณ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_26">
+			<Desc>ทักษะเกราะปราณ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_27">
+			<Desc>ทักษะเกราะปราณ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_28">
+			<Desc>ทักษะค่ายกล +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_29">
+			<Desc>ทักษะค่ายกล +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_30">
+			<Desc>ทักษะค่ายกล +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_31">
+			<Desc>ทักษะการขุดแร่ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_32">
+			<Desc>ทักษะการขุดแร่ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_33">
+			<Desc>ทักษะการขุดแร่ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_34">
+			<Desc>ทักษะการเกษตร +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_35">
+			<Desc>ทักษะการเกษตร +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_36">
+			<Desc>ทักษะการเกษตร +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_37">
+			<Desc>ทักษะการก่อสร้าง +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_38">
+			<Desc>ทักษะการก่อสร้าง +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_39">
+			<Desc>ทักษะการก่อสร้าง +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_40">
+			<Desc>ทักษะการทำอาหาร +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_41">
+			<Desc>ทักษะการทำอาหาร +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_42">
+			<Desc>ทักษะการทำอาหาร +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_1">
+			<Desc>ทักษะการต่อสู้ -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_2">
+			<Desc>ทักษะการต่อสู้ -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_3">
+			<Desc>ทักษะการต่อสู้ -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_4">
+			<Desc>ทักษะการเข้าสังคม -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_5">
+			<Desc>ทักษะการเข้าสังคม -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_6">
+			<Desc>ทักษะการเข้าสังคม -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_7">
+			<Desc>ทักษะงานฝีมือ -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_8">
+			<Desc>ทักษะงานฝีมือ -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_9">
+			<Desc>ทักษะงานฝีมือ -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_10">
+			<Desc>สัมผัสปราณ -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_11">
+			<Desc>สัมผัสปราณ -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_12">
+			<Desc>สัมผัสปราณ -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_13">
+			<Desc>ลดทักษะการการตีเหล็ก/การสร้างอาวุธวิเศษ -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_14">
+			<Desc>ลดทักษะการการตีเหล็ก/การสร้างอาวุธวิเศษ -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_15">
+			<Desc>ลดทักษะการการตีเหล็ก/การสร้างอาวุธวิเศษ -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_16">
+			<Desc>ลดทักษะยา/การหลอมโอสถ -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_17">
+			<Desc>ลดทักษะยา/การหลอมโอสถ -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_18">
+			<Desc>ลดทักษะยา/การหลอมโอสถ -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_19">
+			<Desc>ทักษะการใช้งานอาวุธวิเศษ -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_20">
+			<Desc>ทักษะการใช้งานอาวุธวิเศษ -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_21">
+			<Desc>ทักษะการใช้งานอาวุธวิเศษ -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_22">
+			<Desc>ทักษะปราณเวท -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_23">
+			<Desc>ทักษะปราณเวท -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_24">
+			<Desc>ทักษะปราณเวท -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_25">
+			<Desc>ทักษะเกราะปราณ -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_26">
+			<Desc>ทักษะเกราะปราณ -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_27">
+			<Desc>ทักษะเกราะปราณ -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_28">
+			<Desc>ทักษะค่ายกล -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_29">
+			<Desc>ทักษะค่ายกล -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_30">
+			<Desc>ทักษะค่ายกล -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_31">
+			<Desc>ทักษะการขุดแร่-1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_32">
+			<Desc>ทักษะการขุดแร่-2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_33">
+			<Desc>ทักษะการขุดแร่-3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_34">
+			<Desc>ทักษะการทำฟาร์ม-1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_35">
+			<Desc>ทักษะการทำฟาร์ม-2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_36">
+			<Desc>ทักษะการทำฟาร์ม-3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_37">
+			<Desc>ทักษะการก่อสร้าง-1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_38">
+			<Desc>ทักษะการก่อสร้าง-2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_39">
+			<Desc>ทักษะการก่อสร้าง-3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_40">
+			<Desc>ทักษะการทำอาหาร-1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_41">
+			<Desc>ทักษะการทำอาหาร-2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_42">
+			<Desc>ทักษะการทำอาหาร-3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Quenching_1">
+			<Desc>ความเร็วในการหลอมร่างและความน่าจะเป็นในการวิวัฒนาการขั้นสูงของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ZhenEnginePower_1">
+			<Desc>เพิ่มความสามารถในการรับน้ำหนักค่ายกลปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ZhenEnginePower_2">
+			<Desc>เพิ่มความสามารถในการรับน้ำหนักค่ายกลอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ZhenEnginePower_1">
+			<Desc>ลดความสามารถในการรับน้ำหนักค่ายกลแานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_1">
+			<Desc>เพิ่มความต้านทานความเสียหายจากทุกธาตุ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_2">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุทอง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_3">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุไม้</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_4">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุน้ำ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_5">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุไฟ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_6">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุดิน</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_1">
+			<Desc>ลดความต้านทานความเสียหายจากทุกธาตุ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_2">
+			<Desc>ลดความต้านทานความเสียหายจากธาตุโลหิต</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_3">
+			<Desc>ลดความต้านทานความเสียหายจากธาตุไม้</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_4">
+			<Desc>ลดความต้านทานความเสียหายจากธาตุน้ำ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_5">
+			<Desc>ลดความต้านทานความเสียหายจากธาตุไฟ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_6">
+			<Desc>ลดความต้านทานความเสียหายจากธาตุดิน</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BasepracticeSpeed_1">
+			<Desc>เพิ่มความเร็วในการฝึกพื้นฐานปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BasepracticeSpeed_2">
+			<Desc>เพิ่มความเร็วในการฝึกพื้นฐานอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BasepracticeSpeed_1">
+			<Desc>ลดความเร็วในการฝึกพื้นฐานปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BasepracticeSpeed_2">
+			<Desc>ลดความเร็วในการฝึกพื้นฐานลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_1">
+			<Desc>เพิ่มค่าเสน่ห์ 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_2">
+			<Desc>เพิ่มค่าเสน่ห์ 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_3">
+			<Desc>เพิ่มค่าเสน่ห์ 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_4">
+			<Desc>เพิ่มค่าสติปัญญา 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_5">
+			<Desc>เพิ่มค่าสติปัญญา 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_6">
+			<Desc>เพิ่มค่าสติปัญญา 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_7">
+			<Desc>เพิ่มโชค 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_8">
+			<Desc>เพิ่มโชค 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_9">
+			<Desc>เพิ่มโชค 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_10">
+			<Desc>เพิ่มค่าการรับรู้ 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_11">
+			<Desc>เพิ่มค่าการรับรู้ 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_12">
+			<Desc>เพิ่มค่าการรับรู้ 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_13">
+			<Desc>เพิ่มค่าความอึด 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_14">
+			<Desc>เพิ่มค่าความอึด 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_15">
+			<Desc>เพิ่มค่าความอึด 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_16">
+			<Desc>เพิ่มค่าสถานะทั้งห้า 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_1">
+			<Desc>เพิ่มความเร็วการฟื้นฟูปราณเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_2">
+			<Desc>เพิ่มความเร็วการฟื้นฟูปราณปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_3">
+			<Desc>เพิ่มความเร็วการฟื้นฟูปราณอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NpcLingMaxValue_1">
+			<Desc>เพิ่มฐานปรารสูงสุด 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NpcFight_ShieldConversionRate_1">
+			<Desc>ปรับเปลี่ยนความแข็งแกร่งของเกราะปราณ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_MaxAge_1">
+			<Desc>ปรับเปลี่ยนขีดจำกัดอายุขัย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_PracticeRateAddPFromDan_1">
+			<Desc>ปรับเปลี่ยนความน่าจะเป็นในการทะลวงขอบเขต</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_DeepPracticeSpeedSpecialCoefficient_1">
+			<Desc>ปรับเปลี่ยนความเร็วในการฝึกฝน</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_MindStateBaseValue_1">
+			<Desc>ปรับเปลี่ยนค่าฐานสภาวะจิต</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_1">
+			<Desc>เพิ่มความสามารถในการงดน้ำงดอาหารเล็กน้อย ฟื้นฟูความอิ่มโดยอัตโนมัติ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_2">
+			<Desc>เพิ่มความสามารถในการงดน้ำงดอาหารปานกลาง ฟื้นฟูความอิ่มโดยอัตโนมัติ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_3">
+			<Desc>เพิ่มความสามารถในการงดน้ำงดอาหารอย่างมาก ฟื้นฟูความอิ่มโดยอัตโนมัติ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NutritionConsumeConstant_1">
+			<Desc>ปรับเปลี่ยนความเร็วความหิว</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_FatigueConsumeConstant_1">
+			<Desc>ปรับเปลี่ยนความเร็วความเหนื่อยล้า</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_WaterConsumeConstant_1">
+			<Desc>ปรับเปลี่ยนความเร็วการบริโภคน้ำ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_MoveSpeed_1">
+			<Desc>ปรับเปลี่ยนความเร็วการเคลื่อนไหว</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_GlobalEfficiency_1">
+			<Desc>ปรับเปลี่ยนประสิทธิภาพการทำงาน</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NeckCountdownAddV_1">
+			<Desc>ชะลอทัณฑ์สวรรค์</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_1">
+			<Desc>ปรับเปลี่ยนความเร็วการเรียนรู้</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_2">
+			<Desc>ปรับเปลี่ยนความเร็วการเรียนรู้</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_3">
+			<Desc>ปรับเปลี่ยนความเร็วการเรียนรู้</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_InspirationCoefficient_1">
+			<Desc>เรียนรู้สิ่งต่างๆ ได้ง่ายขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ComfyTMax_1">
+			<Desc>เพิ่มความสามารถในการปรับตัวต่ออุณหภูมิสูง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ComfyTMin_1">
+			<Desc>เพิ่มความสามารถในการปรับตัวต่ออุณหภูมิต่ำ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_DanMake_1">
+			<Desc>ความเร็ว,ความสำเร็จ,และจำนวนผลผลิตในการหลอมโอสถเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_FabaoMake_1">
+			<Desc>ความเร็ว,ความสำเร็จ,ระดับ,คุณภาพ,และโอกาสในการหลอมสร้างอาวุธวิเศษอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Treatment_1">
+			<Desc>ความเร็วและประสิทธิภาพในการฟื้นฟูของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Butcher_1">
+			<Desc>ความเร็วและผลผลิตในการชำแหละของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Cooking_1">
+			<Desc>เพิ่มความเร็วในการทำอาหารของตัวละครอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Handwork_1">
+			<Desc>ความเร็วในการตัดหิน,การตีเหล็ก,การสร้าง,การเย็บ,และโบนัสคุณภาพของตัวละครเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ConstructionSpeed_1">
+			<Desc>ความเร็วในการก่อสร้างเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_PlantWork_1">
+			<Desc>เพิ่มความเร็วในการปลูก,การเก็บเกี่ยว,การตัด,และจำนวนผลผลิตอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Mining_1">
+			<Desc>ความเร็วและผลผลิตในการขุดแร่เพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Coolie_1">
+			<Desc>ความเร็วในการบรรเทาภัยพิบัติ การทำความสะอาด และการเคลื่อนที่เพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Experience_1">
+			<Desc>ความเร็วการบินผจญภัย ตัวคูณชื่อเสียงการผจญภัย ความเร็วการสำรวจ และค่าการซ่อนตัวเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_1">
+			<Desc>ทักษะการต่อสู้ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_2">
+			<Desc>ทักษะการต่อสู้ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_3">
+			<Desc>ทักษะการต่อสู้ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_4">
+			<Desc>ทักษะการเข้าสังคม +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_5">
+			<Desc>ทักษะการเข้าสังคม +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_6">
+			<Desc>ทักษะการเข้าสังคม +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_7">
+			<Desc>ทักษะงานฝีมือ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_8">
+			<Desc>ทักษะงานฝีมือ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_9">
+			<Desc>ทักษะงานฝีมือ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_10">
+			<Desc>สัมผัสปราณ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_11">
+			<Desc>สัมผัสปราณ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_12">
+			<Desc>สัมผัสปราณ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_13">
+			<Desc>ทักษะตีเหล็ก/การสร้างอาวุธวิเศษ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_14">
+			<Desc>ทักษะตีเหล็ก/การสร้างอาวุธวิเศษ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_15">
+			<Desc>ทักษะตีเหล็ก/การสร้างอาวุธวิเศษ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_16">
+			<Desc>ทักษะยา/การหลอมโอสถ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_17">
+			<Desc>ทักษะยา/การหลอมโอสถ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_18">
+			<Desc>ทักษะยา/การหลอมโอสถ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_19">
+			<Desc>ทักษะการใช้อาวุธวิเศษ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_20">
+			<Desc>ทักษะการใช้อาวุธวิเศษ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_21">
+			<Desc>ทักษะการใช้อาวุธวิเศษ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_22">
+			<Desc>ทักษะปราณเวท +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_23">
+			<Desc>ทักษะปราณเวท +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_24">
+			<Desc>ทักษะปราณเวท +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_25">
+			<Desc>ทักษะเกราะปราณ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_26">
+			<Desc>ทักษะเกราะปราณ +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_27">
+			<Desc>ทักษะเกราะปราณ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_28">
+			<Desc>ทักษะค่ายกล +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_29">
+			<Desc>ทักษะค่ายกล +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_30">
+			<Desc>ทักษะค่ายกล +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_31">
+			<Desc>ทักษะการขุดแร่ +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_32">
+			<Desc>ทักษะการขุด +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_33">
+			<Desc>ทักษะการขุดแร่ +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_34">
+			<Desc>ทักษะการเกษตร +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_35">
+			<Desc>ทักษะการเกษตร +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_36">
+			<Desc>ทักษะการเกษตร +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_37">
+			<Desc>ทักษะการก่อสร้าง +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_38">
+			<Desc>ทักษะการก่อสร้าง +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_39">
+			<Desc>ทักษะการก่อสร้าง +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_40">
+			<Desc>ทักษะการทำอาหาร +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_41">
+			<Desc>ทักษะการทำอาหาร +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_42">
+			<Desc>ทักษะการทำอาหาร +1 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Quenching_1">
+			<Desc>ความเร็วในการฝึกฝนร่างกายและความน่าจะเป็นในการวิวัฒนาการขั้นสูงเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Tuna_1">
+			<Desc>เพิ่มประสิทธิภาพการหายใจเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Tuna_2">
+			<Desc>เพิ่มประสิทธิภาพการหายใจอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_RecoveryPower_1">
+			<Desc>เพิ่มความยืดหยุ่นทางร่างกายตามธรรมชาติ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_VisionRadius_1">
+			<Desc>เพิ่มระยะการรับรู้ของตนเอง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ZhenEnginePower_1">
+			<Desc>เพิ่มความสามารถในการรับน้ำหนักค่ายกลอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_1">
+			<Desc>เพิ่มความต้านทานความเสียหายจากทุกธาตุอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_2">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุทองอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_3">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุไม้อย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_4">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุน้ำอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_5">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุไฟอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_6">
+			<Desc>เพิ่มความต้านทานความเสียหายจากธาตุดินอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_1">
+			<Desc>เพิ่มความเร็วในการฝึกพื้นฐานเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_2">
+			<Desc>เพิ่มความเร็วในการฝึกพื้นฐานปานกลาง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_3">
+			<Desc>เพิ่มความเร็วในการฝึกพื้นฐานอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_1">
+			<Desc>ลดโบนัสเมล็ดเต๋า</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_2">
+			<Desc>ลดโบนัสเมล็ดเต๋า</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_3">
+			<Desc>เพิ่มโบนัสเมล็ดเต๋า</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_4">
+			<Desc>เพิ่มโบนัสเมล็ดเต๋า</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_AgeCostSpeed_1">
+			<Desc>เร่งความเร็วของการเสื่อมอายุขัยอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_FabaoNum_1">
+			<Desc>ปลดล็อกช่องอาวุธวิเศษ 1 ช่อง</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_1">
+			<Desc>ระดับทักษะทั้งหมด +2 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_2">
+			<Desc>ระดับทักษะการหลอมโอสถ +5 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_3">
+			<Desc>ระดับทักษะการสร้างอาวุธวิเศษ +5 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_4">
+			<Desc>ระดับทักษะช่างฝีมือ +5 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_5">
+			<Desc>ระดับทักษะทางโลก +5 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_6">
+			<Desc>ระดับทักษะการก่อสร้าง +10</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_7">
+			<Desc>ระดับทักษะการขุดแร่ +10</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_8">
+			<Desc>ระดับทักษะการเข้าสังคม -5</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_9">
+			<Desc>ระดับทักษะการต่อสู้ +5 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_10">
+			<Desc>ระดับทักษะสัมผัสปราณ +10</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_11">
+			<Desc>ระดับทักษะการต่อสู้ -5</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_12">
+			<Desc>ระดับทักษะเกราะปราณ +5 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_13">
+			<Desc>ระดับทักษะปราณเวท +10 (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_DeepPracticeSpeedSpecialCoefficient_2">
+			<Desc>ลดความเร็วการบำเพ็ญงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_MaxAge_1">
+			<Desc>เพิ่มขีดจำกัดอายุขัย</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_ComfyTMin_1">
+			<Desc>ลดความสามารถในการปรับตัวต่ออุณหภูมิต่ำ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_NpcLingMaxValue_1">
+			<Desc>เพิ่มฐานปราณสูงสุด</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Quenching_1">
+			<Desc>ความเร็วการหายใจ, ความเร็วการหลอมร่าง และความน่าจะเป็นในการวิวัฒนาการขั้นสูงลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Experience_1">
+			<Desc>ความเร็วการบินผจญภัย, ตัวคูณชื่อเสียงการผจญภัย, ความเร็วการสำรวจ, และค่าการซ่อนตัวลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_MindStateBaseValue_1">
+			<Desc>ลดโบนัสสภาวะจิตอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Handwork_1">
+			<Desc>ความเร็วในการตัดหิน, การตีเหล็ก, การสร้าง, การเย็บ, และโบนัสคุณภาพลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_ConsumeConstant_1">
+			<Desc>ตัวละครมีแนวโน้มที่จะหิว, กระหายน้ำ, และเหนื่อยล้าได้ง่ายขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_BasepracticeSpeedCoefficient_1">
+			<Desc>เพิ่มความเร็วในการฝึกพื้นฐานและการบำเพ็ญชั่วคราว</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_BasepracticeSpeedCoefficient_2">
+			<Desc>ลดความเร็วในการฝึกพื้นฐานและการบำเพ็ญอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_IntelligenceSkillEXPConstant_1">
+			<Desc>เพิ่มความเร็วการเรียนรู้</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_IntelligenceSkillEXPConstant_2">
+			<Desc>ลดความเร็วการเรียนรู้ และ +5 ระดับทักษะการใช้อาวุธวิเศษ (เพิ่มขีดจำกัด)</Desc>
+		</Text>
+	</List>
+</Texts>

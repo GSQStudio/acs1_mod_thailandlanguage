@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Long_Test">
+			<DisplayName>มังกรวารี</DisplayName>
+			<FightParts.0.DisplayName>ลำตัว</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>หาง</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>เขา</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>กรงเล็บซ้ายหน้า</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>กรงเล็บขวาหน้า</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>กรงเล็บซ้ายหลัง</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>กรงเล็บขวาหลัง</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>เกล็ดย้อน</FightParts.7.DisplayName>
+		</Text>
+		<Text Name="Boss_Feng_Test">
+			<DisplayName>หงส์เพลิง</DisplayName>
+			<FightParts.0.DisplayName>ลำตัว</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>ขนมงกุฎ</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>ปีกซ้าย</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>ปีกขวา</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>ขนหาง</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>เนตรสุริยัน</FightParts.5.DisplayName>
+		</Text>
+	</List>
+</Texts>

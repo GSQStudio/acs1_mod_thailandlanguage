@@ -1,0 +1,279 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Dan_BasePracticeDrug">
+			<DisplayName>โอสถบ่มปราณ</DisplayName>
+			<Desc>ปลดปล่อยความสามารถร่างกาย เพิ่มการรับรู้,ความอีด และสติปัญญา 30% เป็นระยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan">
+			<DisplayName>โอสถพลังกาย</DisplayName>
+			<Desc>เมื่อกลืนโอสถพลังกาย มันจะช่วยยกระดับการฟื้นฟูพลังกาย,เพิ่มอัตราความหิวและการแปลงพลังกายเป็นระยะเวลา 7 วัน</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan2">
+			<DisplayName>โอสถโสม</DisplayName>
+			<Desc>เมื่อกลืนโอสถโสม มันจะช่วยยกระดับการฟื้นฟูพลังกาย,เพิ่มอัตราความหิวและการแปลงพลังกายเป็นระยะเวลา 14 วัน</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan3">
+			<DisplayName>ผงแกนพฤกษา</DisplayName>
+			<Desc>เมื่อกลืนผงแกนพฤกษา มันจะช่วยยกระดับยกระดับการฟื้นฟูพลังกาย,เพิ่มอัตราความหิวและการแปลงพลังกายเป็นระยะเวลา 28 วัน</Desc>
+		</Text>
+		<Text Name="Dan_Ling1">
+			<DisplayName>โอสถฟื้นฟูปราณ</DisplayName>
+			<Desc>เพิ่มอัตราฟื้นฟูปราณ 2,000%</Desc>
+		</Text>
+		<Text Name="Dan_Ling2">
+			<DisplayName>โอสถตะวัน</DisplayName>
+		</Text>
+		<Text Name="Dan_Ling3">
+			<DisplayName>ผงศักดิ์สิทธิ์</DisplayName>
+			<Desc>เพิ่มปริมาณสูงสุด 100,000</Desc>
+		</Text>
+		<Text Name="Dan_Defense">
+			<DisplayName>โอสถโล่ปราณ</DisplayName>
+			<Desc>เพิ่มพื้นฐานเกราะปราณ 30%</Desc>
+		</Text>
+		<Text Name="Dan_FiveBaseFromLife">
+			<DisplayName>โอสถห้าพิษห้ารักษา</DisplayName>
+		</Text>
+		<Text Name="Dan_FiveBase1">
+			<DisplayName>โอสถรับรู้</DisplayName>
+			<Desc>เพิ่มการรับรู้ 30% นาน 48 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase2">
+			<DisplayName>โอสถกายา</DisplayName>
+			<Desc>เพิ่มความอึด 30% นาน 48 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase3">
+			<DisplayName>โอสถเสน่ห์</DisplayName>
+			<Desc>เพิ่มเสน่ห์ 30% นาน 48 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase4">
+			<DisplayName>โอสถปัญญา</DisplayName>
+			<Desc>เพิ่มสติปัญญา 30% นาน 48 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase5">
+			<DisplayName>โอสถฟ้าอวยพร</DisplayName>
+			<Desc>เพิ่มโชค 30% นาน 48 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="Dan_PracticeRate">
+			<DisplayName>เพิ่มโอกาสสำเร็จในการทะลวงขอบเขต</DisplayName>
+		</Text>
+		<Text Name="Dan_PracticeSpeed">
+			<DisplayName>เพิ่มความเร็วการบ่มเพาะ (ประคำเหลือง)</DisplayName>
+		</Text>
+		<Text Name="Dan_HundredRefine">
+			<DisplayName>เพิ่มความเร็วการบ่มเพาะ (วัฏเกิดตาย)</DisplayName>
+		</Text>
+		<Text Name="Dan_CalmDown">
+			<DisplayName>โอสถใจพิสุทธิ์</DisplayName>
+			<Desc>เมื่อกลืนโอสถใจพิสุทธิ์ จะทำให้สภาวะจิตมั่นคงได้ในระดับหนึ่ง และลดความผันผวนของอารมณ์ภายใน 1 วัน</Desc>
+		</Text>
+		<Text Name="Dan_Happiness">
+			<DisplayName>โอสถเริงใจ</DisplayName>
+			<Desc>ข้ารู้สึกมีความสุข ผ่อนคลาย และไม่อยากทำอะไรเลย</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger">
+			<DisplayName>โอสถดูดซับปราณ</DisplayName>
+			<Desc>เมื่อกลืนโอสถดูดซับปราณ ความสามารถในการดูดซับปราณจะเพิ่มขึ้นนาน 2 วัน และผู้ใช้จะไม่รู้สึกหิวในช่วงเวลา 2 วันนี้</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger1">
+			<DisplayName>ยาเม็ดเสบียง</DisplayName>
+			<Desc>เมื่อกลืนยาเม็ดเสบียง ลดอัตราการใช้สารอาหาร,ลดความหิวและลดอัตราเหนื่อยล้า นาน 2วัน</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger2">
+			<DisplayName>โอสถอิ่มทิพย์</DisplayName>
+			<Desc>เมื่อกลืนโอสถอิ่มทิพย์ ลดความเร็วในการย่อยอาหารและการดูดซึมน้ำอย่างมีนัยสำคัญ</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger3">
+			<DisplayName>โอสถแทนปราณ</DisplayName>
+			<Desc>เมื่อกลืนโอสถแทนปราณ ลดความเร็วในการย่อยอาหารและการดูดซึมน้ำอย่างมีนัยสำคัญ</Desc>
+		</Text>
+		<Text Name="Dan_LostSoul">
+			<DisplayName>โอสถนิทรา</DisplayName>
+			<Desc>เมื่อผู้ใช้กลืนมันเข้าไป ตัวยาภายในจะเข้าไปกดสมองทำให้ผู้กินหลับไปเป็นเวลา 3 วัน</Desc>
+		</Text>
+		<Text Name="Dan_IncreaseLife1">
+			<DisplayName>โอสถชีวิต</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife2">
+			<DisplayName>น้ำยาพลังชีพ</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife3">
+			<DisplayName>โอสถชีพนิรันดร์</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife4">
+			<DisplayName>โอสถฟื้นฟูชีพ</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife5">
+			<DisplayName>โอสถอนาคตกาล</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife6">
+			<DisplayName>สายธารชีวิต</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife7">
+			<DisplayName>เห็ดหลินจือ</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife8">
+			<DisplayName>หลินจือม่วง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Anodyne">
+			<DisplayName>ยาแก้ปวด</DisplayName>
+			<Desc>ช่วยระงับความปวด มีผลเป็นเวลา 5 วัน</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Mint">
+			<DisplayName>หญ้ากระจ่างจิต</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence">
+			<DisplayName>หยาดปฐพี</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SanHuaHuangJing">
+			<DisplayName>โอสถสามแกน</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence1">
+			<DisplayName>หยาดปฐพีสีชาด</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence_1">
+			<DisplayName>แกนศักดิ์สิทธิ์</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence1_1">
+			<DisplayName>แกนมาร</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Ginseng">
+			<DisplayName>โสม</DisplayName>
+			<Desc>ยกระดับความต้านทานตามธรรมชาติในช่วงเวลาสั้นๆ</Desc>
+		</Text>
+		<Text Name="Modifier_Item_RedGinseng">
+			<DisplayName>โสมแดง</DisplayName>
+			<Desc>ยกระดับความต้านทานตามธรรมชาติในช่วงเวลาสั้นๆ อย่างมีนัยสำคัญ</Desc>
+		</Text>
+		<Text Name="Modifier_Item_RedGinseng1">
+			<DisplayName>โสมแดง (ผลไม้)</DisplayName>
+			<Desc>เพิ่มปริมาณปราณสูงสุด</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Laxative">
+			<DisplayName>ยาถ่าย</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Laxative1">
+			<DisplayName>อ่อนเพลีย</DisplayName>
+			<Desc>หลังจากใช้ยาถ่าย ผู้ใช้จะมีอาการอ่อนเพลียจนส่งผลให้ประสิทธิภาพการทำงานลดลง</Desc>
+		</Text>
+		<Text Name="Modifier_Item_LongXianGuo">
+			<DisplayName>ผลอำพัน</DisplayName>
+			<Desc>เมื่อกลืนผลอำพัน ผู้ใช้จะทนต่อความหิวและอาการเหนื่อยล้าเป็นระยะเวลา 12 ชั่วโมง</Desc>
+		</Text>
+		<Text Name="Modifier_Item_LingWater">
+			<DisplayName>น้ำค้างวิญญาณ</DisplayName>
+			<Desc>เมื่อกลืนน้ำค้างวิญญาณ จะส่งผลให้เพิ่มความเร็วการฟื้นฟูของบาดแผลเป็นระยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="Dan_LingStone">
+			<DisplayName>การสั่นพ้องพลังปราณ</DisplayName>
+			<Desc>ใช้หินวิญญาณเพื่อสั่นพ้องพลังปราณ เพิ่มอัตราการฟื้นฟูปราณและเพิ่มความเร็วในการบ่มเพาะ</Desc>
+		</Text>
+		<Text Name="Dan_LingCrystal">
+			<DisplayName>การสั่นพ้องพลังปราณ</DisplayName>
+			<Desc>ใช้ผลึกวิญญาณเพื่อสั่นพ้องพลังปราณเชิงลึก เพิ่มอัตราการฟื้นฟูปราณเป็นอย่างมากและเพิ่มความเร็วในการบ่มเพาะ</Desc>
+		</Text>
+		<Text Name="Dan_IncreaseNeckCountdown1">
+			<DisplayName>โอสถผสานชีพ</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseNeckCountdown2">
+			<DisplayName>โอสถฟ้าเมตตา</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail1">
+			<DisplayName>โอสถที่ล้มเหลว</DisplayName>
+			<Desc>หลังจากกินโอสถที่แปลกประหลาด จู่ๆ ตัวข้าก็หดเล็กลง</Desc>
+		</Text>
+		<Text Name="Dan_Fail2">
+			<DisplayName>โอสถที่ล้มเหลว</DisplayName>
+			<Desc>หลังจากกินโอสถที่แปลกประหลาด จู่ๆ ตัวข้าก็ขยายใหญ่ขึ้น</Desc>
+		</Text>
+		<Text Name="Dan_Fail3">
+			<DisplayName>โอสถที่ล้มเหลว</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail4">
+			<DisplayName>โอสถที่ล้มเหลว</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail5">
+			<DisplayName>โอสถที่ล้มเหลว</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul1">
+			<DisplayName>โอสถจิตปวดร้าว</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul2">
+			<DisplayName>โอสถฉีกวิญญาณ</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul3">
+			<DisplayName>โอสถใจสงบ</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul4">
+			<DisplayName>โอสถแผดเผา</DisplayName>
+			<Desc>ใช้อายุไขเพื่อรับความรอบรู้เหนือธรรมดาเป็นระยะเวลา 2 ชั่วโมง ทว่าหลังจากนั้นจะลดสติปัญญาลงไปอย่างถาวร</Desc>
+		</Text>
+		<Text Name="Dan_Soul4_D">
+			<DisplayName>โอสถแผดเผา ผลข้างเคียง</DisplayName>
+		</Text>
+		<Text Name="Dan_LunHui1">
+			<DisplayName>สัมผัส</DisplayName>
+			<Desc>ข้าประทับใจในความทรงจำนี้ ทั้งพึงพอใจเล็กน้อย แต่ก็ผิดหวังเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Dan_XianBone">
+			<DisplayName>กระดูกเทวะ</DisplayName>
+		</Text>
+		<Text Name="Dan_XianBoneBall">
+			<DisplayName>สารีริกธาตุ</DisplayName>
+		</Text>
+		<Text Name="Dan_LingYuanZhong">
+			<DisplayName>เมล็ดพันธ์วิญญาณ (กิน)</DisplayName>
+		</Text>
+		<Text Name="Dan_LingYuanZhong_Equip">
+			<DisplayName>เมล็ดพันธ์วิญญาณ (สวมใส่)</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_YuanHunLu">
+			<DisplayName>น้ำศักดิ์สิทธิ์</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XieHunLu">
+			<DisplayName>น้ำต้องสาป</DisplayName>
+			<Desc>เมื่อดื่มน้ำต้องสาปลงไป สติปัญญาและความสามารถในการเรียนรู้จะเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Item_XieHunLu1">
+			<DisplayName>น้ำต้องสาป (เสียหาย)</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_YanDaoGuo">
+			<DisplayName>ผลรู้แจ้ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_QieDaoGuo">
+			<DisplayName>ผลดึงสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_ZaoHuaYuLu">
+			<DisplayName>น้ำทิพย์แห่งโชค</DisplayName>
+			<Desc>เมื่อดื่มน้ำทิพย์แห่งโชค วิญญาณแห่งปฐมกาลเข้าสู่สภาวะแห่งการลืมเลือน</Desc>
+		</Text>
+		<Text Name="Modifier_Item_ZaoHuaYuLu1">
+			<DisplayName>ผลลัพธ์น้ำทิพย์แห่งโชค</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XianShiChongSheng">
+			<DisplayName>การเกิดใหม่ของสัมผัสเทวะ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XieShiChongSheng">
+			<DisplayName>การเกิดใหม่ของสัมผัสมาร</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Boss_Meat">
+			<DisplayName>เนื้ออสูรเทวะ</DisplayName>
+			<Desc>เพิ่มปริมาณปราณสูงสุดและอายุไขเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Modifier_Item_BossZhuLong_Meat">
+			<DisplayName>เนื้อปฐมกาล</DisplayName>
+			<Desc>ลดเมล็ดเต๋าและเพิ่มอายุไข</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Dan_FabaoNumAdd">
+			<DisplayName>เพิ่มจำนวนช่องใส่อาวุธวิญญาณ 1</DisplayName>
+			<Desc>เพิ่มจำนวนช่องใส่อาวุธวิญญาณ 1</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_LieShenDan">
+			<DisplayName>โอสถเขตแดน</DisplayName>
+		</Text>
+		<Text Name="Modifier_Dan_TiShen">
+			<DisplayName>โอสถร่างแยก</DisplayName>
+			<Desc>สร้างร่างแยกเพื่อหนีออกจากโรงประมูล</Desc>
+		</Text>
+	</List>
+</Texts>

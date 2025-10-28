@@ -1,0 +1,92 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Pessimism">
+			<DisplayName>มองโลกในแง่ร้าย</DisplayName>
+			<Desc>โลกใบนี้ถูกสร้างมาทำไมกัน? ทำไมพวกเราถึงต้องมาทนทุกข์เช่นนี้ด้วย?</Desc>
+		</Text>
+		<Text Name="Optimistic">
+			<DisplayName>มองโลกในแง่ดี</DisplayName>
+			<Desc>ทุกสิ่งทุกอย่างมันย่อมต้องมีการขึ้นๆ ลงๆ เสมอ ข้าพูดถูกและเปล่า?</Desc>
+		</Text>
+		<Text Name="Numbness">
+			<DisplayName>ด้านชา</DisplayName>
+			<Desc>ความเครียดในชีวิตประจำวันทำให้คนๆ นี้มีจิตใจที่ด้านชา อย่างไรก็ตาม นี่หมายความว่า[IT]นั้นชินชากับความเครียดและความเจ็บปวด ดังนั้น[IT]จะไม่หย่อนยานในการทำงานเนื่องจากสภาพจิตใจที่ตกต่ำ</Desc>
+		</Text>
+		<Text Name="Sensitive">
+			<DisplayName>อยากรู้อยากเห็น</DisplayName>
+			<Desc>[IT]มีความอยากรู้อยากเห็นเกี่ยวกับโลกภายนอกเป็นอย่างมากและไม่สามารถทนต่อการใช้ชีวิตที่น่าเบื่อหน่ายได้</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>เป็นกันเอง</DisplayName>
+			<Desc>[IT]เป็นมิตรกับทุกคนเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>ปิดกั้นตนเอง</DisplayName>
+			<Desc>[IT]ไม่เชื่อในรักแท้และไม่ไว้ใจใครทั้งนั้น</Desc>
+		</Text>
+		<Text Name="Strong">
+			<DisplayName>จิตใจเข้มแข็ง</DisplayName>
+			<Desc>[IT]มีจิตใจเข้มแข็งและอดทนต่อความเจ็บปวดได้มากยิ่งกว่าผู้อื่น</Desc>
+		</Text>
+		<Text Name="Weak">
+			<DisplayName>อ่อนแอ</DisplayName>
+			<Desc>[IT]ได้รับการปกป้องมาโดยตลอดและแทบจะไม่สามารถทนต่อความเจ็บปวดได้</Desc>
+		</Text>
+		<Text Name="BadMentality">
+			<DisplayName>จิตใจว้าวุ่น</DisplayName>
+			<Desc>[IT]มักจะกระสับกระส่ายอยู่เสมอและมักจะทำงานที่ได้รับมอบหมายไม่สำเร็จ</Desc>
+		</Text>
+		<Text Name="GoodMentality">
+			<DisplayName>จิตใจมั่นคง</DisplayName>
+			<Desc>[IT]มีจิตใจที่มั่นคง [IT]จะรู้สึกหงุดหงิดหรือโศกเศร้าได้ยากมาก</Desc>
+		</Text>
+		<Text Name="Rugged">
+			<DisplayName>เลินเล่อ</DisplayName>
+			<Desc>[IT]มักจะประมาทเลินเล่อในงานของตนอยู่เสมอ แม้ว่า[IT]จะทำงานเสร็จเร็วกว่าคนทั่วไป ทว่างานที่ออกมานั้นกลับไม่ค่อยจะดีนัก</Desc>
+		</Text>
+		<Text Name="Careful">
+			<DisplayName>พิถีพิถัน</DisplayName>
+			<Desc>[IT]นั้นจะพิถีพิถันในงานของตนเองเป็นอย่างมาก นี่จึงทำให้[IT]ทำงานได้ค่อนข้างช้า ทว่าผลงานที่ได้ออกมานั้นดีมาก</Desc>
+		</Text>
+		<Text Name="Lazy">
+			<DisplayName>เกียจคร้าน</DisplayName>
+			<Desc>[IT]ไม่ชอบทำงาน</Desc>
+		</Text>
+		<Text Name="Industrious">
+			<DisplayName>สู้หนัก</DisplayName>
+			<Desc>[IT]มีความขยันหมั่นเพียรและมีประสิทธิภาพในการทำงานที่ดีมาก</Desc>
+		</Text>
+		<Text Name="Feminization">
+			<DisplayName>ใจเป็นหญิง</DisplayName>
+			<Desc>แม้กายจะเป็นชาย ทว่า[IT]นั้นมีบุคลิกภาพและนิสัยที่ค่อยข้างจะเป็นผู้หญิง</Desc>
+		</Text>
+		<Text Name="Masculinity">
+			<DisplayName>ใจเป็นชาย</DisplayName>
+			<Desc>แม้กายจะเป็นหญิง ทว่า[IT]นั้นมีบุคลิกภาพและนิสัยที่ค่อยข้างจะเป็นผู้ชาย</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>มีน้ำใจ</DisplayName>
+			<Desc>บุคคลคนที่มีมีน้ำใจ ทำให้ผู้อื่นต้องการคบค้าสมาคมด้วย</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>โหดร้าย</DisplayName>
+			<Desc>บุคคลผู้นี้เป็นคนใจแคบและโหดร้าย และมักจะสร้างความไม่พอใจให้แก่ผู้อื่นอยู่เสมอ</Desc>
+		</Text>
+		<Text Name="HeartKnot">
+			<DisplayName>มีปมในใจ</DisplayName>
+			<Desc>บุคคลผู้นี้คนนี้มีปมในจิตใจที่หนักอึ้ง [IT]นั้นมีอาการซึมเศร้าตลอดเวลา ส่วนยามนอนก็นอนหลับไม่เต็มที่เนื่องจากฝันร้ายที่คอยตามหลอกหลอน[IT]</Desc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>ซึมเศร้า</DisplayName>
+			<Desc>ทุกสิ่งทุกอย่าง... มันช่างไร้ความหมาย</Desc>
+		</Text>
+		<Text Name="Anatman">
+			<DisplayName>หลุดพ้น</DisplayName>
+			<Desc>บุคคลผู้นี้ได้เข้าถึงสภาวะไร้ตัวตน ทำให้[IT]หลุดพ้นจากปัญหาทางโลกทั้งปวง</Desc>
+		</Text>
+		<Text Name="FearFlame">
+			<DisplayName>โรคกลัวไฟ</DisplayName>
+			<Desc>บุคคลผู้นี้หวาดกลัวไฟเป็นอย่างมากและไม่สามารถทำสิ่งใดที่เกี่ยวกับไฟได้เลย</Desc>
+		</Text>
+	</List>
+</Texts>

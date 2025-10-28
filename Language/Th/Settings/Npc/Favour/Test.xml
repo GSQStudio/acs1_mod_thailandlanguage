@@ -1,0 +1,282 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[ว่างเปล่า]</DisplayName>
+			<Desc>อาคารที่สูญหายซึ่งไม่มีใครรู้จัก \n(ว่าง)</Desc>
+		</Text>
+		<Text Name="Opinion">
+			<DisplayName>คิดเห็นต่าง</DisplayName>
+			<Desc>ป้ายโปรดปรานพิเศษ ใช้ในการจัดเรียงความคิดเห็นต่างๆ</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>ปิดกั้นตนเอง</DisplayName>
+			<Desc>[IT]ไม่เชื่อในรักแท้และไม่ไว้ใจใครทั้งนั้น</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>เป็นกันเอง</DisplayName>
+			<Desc>[IT]เป็นมิตรกับทุกคนเป็นอย่างมาก</Desc>
+		</Text>
+		<Text Name="BeReceived">
+			<DisplayName>เป็นที่รัก</DisplayName>
+			<Desc>[HENAME] นั้นมีเสน่ห์ดึงดูดเป็นอย่างมากและได้รับการตอบรับอันดีจากผู้อื่นเสมอมา</Desc>
+		</Text>
+		<Text Name="BeTrueMan">
+			<DisplayName>รอบรู้</DisplayName>
+			<Desc>คนอื่นๆ นั้นถือว่า [HENAME] ให้ความสำคัญอย่างมากต่อประสบการณ์ชีวิตของพวกเขา</Desc>
+		</Text>
+		<Text Name="Loyal">
+			<DisplayName>สง่างาม</DisplayName>
+			<Desc>[HENAME] เป็นคนที่ยึดถือคุณธรรมเป็นอย่างมากและเป็นสหายที่ดีของคนรอบตัว</Desc>
+		</Text>
+		<Text Name="BeiGuoXia">
+			<DisplayName>แพะรับบาป</DisplayName>
+			<Desc>[HENAME] มักจะแบกรับความผิดของผู้อื่นอยู่เสมอ นี่จึงทำให้ได้รับความรักจากเพื่อนฝูง</Desc>
+		</Text>
+		<Text Name="DongShiZhang">
+			<DisplayName>ผู้นำ</DisplayName>
+			<Desc>[HENAME] นั้นมีศักยภาพในการเป็นผู้นำ!</Desc>
+		</Text>
+		<Text Name="HaoShuang">
+			<DisplayName>กล้าหาญ</DisplayName>
+			<Desc>ด้วยจิตใจและความกล้าหาญโดยธรรมชาติ [HENAME] สร้างแรงบันดาลใจและมิตรภาพให้แก่คนรอบตัว!</Desc>
+		</Text>
+		<Text Name="BeginTogether">
+			<DisplayName>รักอิสระ</DisplayName>
+			<Desc>[HENAME] นั้นรักอิสระเป็นอย่างมาก [ENHIM2]เป็นคนง่ายๆ สบายๆ ดุจดั่งสายลม</Desc>
+		</Text>
+		<Text Name="Charisma0">
+			<Desc>เสน่ห์ความชื่นชอบ 0</Desc>
+			<Layers.0.DisplayName>น่ารังเกียจ</Layers.0.DisplayName>
+			<Layers.0.Desc>ทำไมคนอย่าง [HENAME] ถึงต้องมีอยู่ด้วย...</Layers.0.Desc>
+			<Layers.1.DisplayName>เย็นชา</Layers.1.DisplayName>
+			<Layers.1.Desc>หากเป็นงานที่ยากลำบากก็จงโยนไปให้ [HENAME] ทำซะ</Layers.1.Desc>
+			<Layers.2.DisplayName>สงวนท่าที</Layers.2.DisplayName>
+			<Layers.2.Desc>แม้จะเข้ากับคนอื่นได้ไม่ค่อยดีเท่าไรแต่ [HENAME] ก็เป็นคนดีคนหนึ่ง</Layers.2.Desc>
+		</Text>
+		<Text Name="Charisma1">
+			<Desc>เสน่ห์ความชื่นชอบ 1</Desc>
+			<Layers.0.DisplayName>คนเสแสร้ง</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] เป็นคนหลอกลวงที่มักจะทำตัวสูงส่งและทรงพลัง</Layers.0.Desc>
+			<Layers.1.DisplayName>มีมารยาท</Layers.1.DisplayName>
+			<Layers.1.Desc>ดูเหมือนว่า [HENAME] นั้นจะเป็นคนดีคนหนึ่ง</Layers.1.Desc>
+			<Layers.2.DisplayName>มีน้ำใจ</Layers.2.DisplayName>
+			<Layers.2.Desc>ผู้คนมักจะเข้ากับ [HENAME] ได้ง่ายเพราะความมีน้ำใจของ [HENAME]</Layers.2.Desc>
+		</Text>
+		<Text Name="Charisma2">
+			<Desc>เสน่ห์ความชื่นชอบ 2</Desc>
+			<Layers.0.DisplayName>มีคุณธรรมสูง</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] นั้นเป็นบุคคลที่มีคุณธรรมเป็นอย่างมาก</Layers.0.Desc>
+			<Layers.1.DisplayName>ห้าวหาญ</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] เป็นที่ห้าวหาญและมีคุณธรรมอันสูงส่ง</Layers.1.Desc>
+			<Layers.2.DisplayName>ฉายแสงดุจตะวัน</Layers.2.DisplayName>
+			<Layers.2.Desc>การได้ร่วมงานกับ [HENAME] เป็นเรื่องที่น่ายินดีจริงๆ พวกเขาได้รับความอบอุ่นดุจดั่งอยู่ท่ามกลางแสงของตะวันในฤดูหนาว</Layers.2.Desc>
+		</Text>
+		<Text Name="Relative">
+			<Desc>[HENAME] นั้นคือ[TXT]ของข้า</Desc>
+		</Text>
+		<Text Name="Practice">
+			<Desc>[HENAME] นั้นคือ[TXT]ของข้า</Desc>
+		</Text>
+		<Text Name="PracticeOther">
+			<Desc>[HENAME] นั้นคือ[TXT]ของข้า</Desc>
+		</Text>
+		<Text Name="Family">
+			<Desc>[HENAME] นั้นคือ[TXT]ของข้า</Desc>
+		</Text>
+		<Text Name="Friend">
+			<Desc>ระดับของมิตรภาพ 2</Desc>
+			<Layers.0.DisplayName>สหาย</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] เป็นสหายของข้า แม้ว่าพวกข้าจะมีปัญหากันในบางครั้งก็ตาม</Layers.0.Desc>
+			<Layers.1.DisplayName>สหายที่ดี</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] เป็นเพื่อนที่ดีของข้า</Layers.1.Desc>
+			<Layers.2.DisplayName>สหายร่วมเป็นร่วมตาย</Layers.2.DisplayName>
+			<Layers.2.Desc>[HENAME] นั้นเป็นสหายร่วมเป็นร่วมตายของข้า</Layers.2.Desc>
+		</Text>
+		<Text Name="Scar">
+			<DisplayName>รอยแผลเป็น</DisplayName>
+			<Desc>[HENAME] มีรอยแผลเป็นที่น่ารังเกียจอยู่บนใบหน้า</Desc>
+		</Text>
+		<Text Name="Fancy">
+			<DisplayName>เสน่ห์ดึงดูด</DisplayName>
+			<Desc>เสน่ห์ดึงดูด</Desc>
+			<Layers.0.DisplayName>เสน่ห์ดึงดูด</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME]... *เฮ้อ*</Layers.0.Desc>
+			<Layers.1.DisplayName>เสน่ห์ดึงดูด</Layers.1.DisplayName>
+		</Text>
+		<Text Name="Lover">
+			<DisplayName>คนรัก</DisplayName>
+			<Desc>[HENAME] นั้นเป็นคนรักของข้า</Desc>
+		</Text>
+		<Text Name="VisceralScar">
+			<DisplayName>รอยแผลอันน่ากลัว</DisplayName>
+			<Desc>[HENAME] มีรอยแผลเป็นที่น่ากลัวอยู่บนร่างกายและมันรู้สึกว่าคงจะเจ็บน่าดูเมื่อมองไป</Desc>
+		</Text>
+		<Text Name="Evilfaced">
+			<DisplayName>ขี้เหร่</DisplayName>
+			<Desc>[HENAME] เป็นคนที่น่าเกลียดและรู้สึกเสียสายตาเมื่อมองไป</Desc>
+		</Text>
+		<Text Name="BeautifulFace">
+			<DisplayName>รูปงาม</DisplayName>
+			<Desc>[HENAME] นั้นเป็นคนรูปงาม ผู้คนต่างก็มีความสุขเมื่อได้มองไป</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>ก้าวร้าว</DisplayName>
+			<Desc>บุคคลผู้นี้เป็นคนใจแคบและโหดร้าย และมักจะสร้างความไม่พอใจให้แก่ผู้อื่นอยู่เสมอ</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>อบอุ่น</DisplayName>
+			<Desc>บุคคลคนที่มีมีน้ำใจ ทำให้ผู้อื่นต้องการคบค้าสมาคมด้วย</Desc>
+		</Text>
+		<Text Name="SayHi">
+			<DisplayName>ทักทาย</DisplayName>
+			<Desc>ข้าได้กล่าวคำทักทายกับ [TXT]</Desc>
+		</Text>
+		<Text Name="AfterTalk">
+			<DisplayName>พูดคุย</DisplayName>
+			<Desc>ข้าได้พูดคุยกับ [TXT]</Desc>
+		</Text>
+		<Text Name="DeepTalk">
+			<DisplayName>พูดคุยอย่างเปิดใจ</DisplayName>
+			<Desc>ข้าได้พูดคุยกันอย่างเปิดใจกับ [TXT]</Desc>
+		</Text>
+		<Text Name="Neglect">
+			<DisplayName>เย็นชา</DisplayName>
+			<Desc>ข้าคุยกับ [TXT] แต่ดูเหมือนว่า[IT]ไม่ต้องการที่จะพูด่คุยกับข้า และข้าก็ขี้เกียจเกินกว่าที่จะไปให้ความสนใจกับ[IT]เช่นกัน</Desc>
+		</Text>
+		<Text Name="Quarrel">
+			<DisplayName>โต้เถียง</DisplayName>
+			<Desc>ข้าได้มีเรื่องโต้เถียงกับ [TXT] และข้าก็รู้สึกโกรธมาก</Desc>
+		</Text>
+		<Text Name="Insult">
+			<DisplayName>ดูถูกเหยียดหยาม</DisplayName>
+			<Desc>ข้าถูกดูถูกเหยียดหยามโดย [TXT]</Desc>
+		</Text>
+		<Text Name="SayHiFight">
+			<DisplayName>ทะเลาะ</DisplayName>
+			<Desc>ข้ากำลังพูดคุยเล็กน้อยกับ [TXT] แต่ด้วยเหตุผลบางอย่างทำให้ทุกอย่างเริ่มตึงเครียด หลังจากนั้นข้าและ[IT]ก็เริ่มทะเลาะกัน</Desc>
+		</Text>
+		<Text Name="AfterTalkFight">
+			<DisplayName>ทะเลาะวิวาท</DisplayName>
+			<Desc>ข้าได้คุยกับ [TXT] หลังจากนั้นข้าและ[IT]ก็ทะเลาะกันโดยที่ไม่มีเหตุผล</Desc>
+		</Text>
+		<Text Name="DeepTalkFight">
+			<DisplayName>แลกหมัด</DisplayName>
+			<Desc>ข้าได้พูดคุยกันอย่างเปิดใจกับ [TXT] ต่อมาข้าและ[IT]ก็ดันทะเลาะกันอย่างดุเดือดและจบลงด้วยการแลกหมัดกัน มันช่างน่าขายหน้าจริงๆ</Desc>
+		</Text>
+		<Text Name="NeglectFight">
+			<DisplayName>ชกต่อย</DisplayName>
+			<Desc>ข้าได้พูดคุยกับ [TXT] แต่[IT]กลับก็ไม่พอใจในสิ่งที่ข้าพูด หลังจากนั้นข้าและ[IT]ก็จบลงด้วยการชกต่อยกัน</Desc>
+		</Text>
+		<Text Name="QuarrelFight">
+			<DisplayName>ปะทะคารม</DisplayName>
+			<Desc>ข้ามีเรื่องปะทะคารมกับ [TXT] และสิ่งๆ นี้สามารถแก้ไขได้ด้วยกำปั้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="InsultFight">
+			<DisplayName>วางมวย</DisplayName>
+			<Desc>ข้าและ [TXT] ได้พูดจาดูถูกกันไปมา ไอ้เจ้างี่เง่านั่นต้องได้รับบทเรียนด้วยกำปั้นของข้า</Desc>
+		</Text>
+		<Text Name="WithYoung">
+			<Desc>ทัศนคติต่อคนรุ่นเยาว์</Desc>
+			<Layers.0.DisplayName>หยาบคายต่อผู้อาวุโส</Layers.0.DisplayName>
+			<Layers.0.Desc>ข้าคิดว่า [HENAME] เป็นสวะคนหนึ่ง</Layers.0.Desc>
+			<Layers.1.DisplayName>ชอบ</Layers.1.DisplayName>
+			<Layers.1.Desc>ข้าคิดว่า [HENAME] นั้นก็ยังเป็นแค่เด็กน้อย</Layers.1.Desc>
+			<Layers.2.DisplayName>รุ่นเยาว์ที่มีพรสวรรค์</Layers.2.DisplayName>
+			<Layers.2.Desc>ข้าคิดว่า [HENAME] ค่อนข้างมีพรสวรรค์ทีเดียว</Layers.2.Desc>
+		</Text>
+		<Text Name="WithElder">
+			<Desc>ทัศนคติต่อผู้อาวุโส</Desc>
+			<Layers.0.DisplayName>เผด็จการ</Layers.0.DisplayName>
+			<Layers.0.Desc>ข้าไม่ชอบอยู่กับท่าน [HENAME] เลย มันทำให้ข้ารู้สึกอึดอัด</Layers.0.Desc>
+			<Layers.1.DisplayName>น่าเคารพ</Layers.1.DisplayName>
+			<Layers.1.Desc>ข้าคิดว่าท่าน [HENAME] ควรได้รับการปฏิบัติด้วยความเคารพ เนื่องด้วยความอาวุโสท่าน</Layers.1.Desc>
+			<Layers.2.DisplayName>น่าเคารพยกย่อง</Layers.2.DisplayName>
+			<Layers.2.Desc>ข้าเคารพยกย่องท่าน [HENAME] เป็นอย่างมาก</Layers.2.Desc>
+		</Text>
+		<Text Name="RivalInlove">
+			<Desc>คู่แข่งความรัก</Desc>
+			<Layers.0.DisplayName>เกลียดชัง</Layers.0.DisplayName>
+			<Layers.0.Desc>หึ ถ้าข้าสามารถแทงใบมีดเข้าไปในร่างของ [HENAME] ได้ละก็ ข้าก็เต็มใจที่จะทำมัน</Layers.0.Desc>
+			<Layers.1.DisplayName>เห็นอกเห็นใจ</Layers.1.DisplayName>
+			<Layers.1.Desc>ข้าคิดว่า [HENAME] และข้านั้นมีความคล้ายคลึงกันในหลายๆ ด้าน</Layers.1.Desc>
+		</Text>
+		<Text Name="PersonalEnemyBegin">
+			<DisplayName>เกลียดชัง</DisplayName>
+			<Desc>ข้าทนไม่ได้ที่จะอยู่ห้องเดียวกับ [HENAME]</Desc>
+		</Text>
+		<Text Name="FeatureOpposition">
+			<DisplayName>มองในแง่ร้าย</DisplayName>
+			<Desc>นั่นก็คือสันดานแย่ๆ ของ [HE] ข้าละเกลียด [HE] จริงๆ ([TXT])</Desc>
+		</Text>
+		<Text Name="FeatureClose">
+			<DisplayName>รู้สึกสนิท</DisplayName>
+			<Desc>ข้าชื่นชมคนอย่าง [HE] พวกข้านั้นคลายกันมาก ([TXT])</Desc>
+		</Text>
+		<Text Name="SameBackstory">
+			<DisplayName>เห็นพ้องต้องกัน</DisplayName>
+			<Desc>พวกข้านั้นมีประสบการณ์ร่วมกันมากมาย ([TXT])</Desc>
+		</Text>
+		<Text Name="FeedGood">
+			<DisplayName>ดูแลเอาใจใส่</DisplayName>
+			<Desc>ขอบคุณที่คอยดูแลข้า</Desc>
+		</Text>
+		<Text Name="FeedBad">
+			<DisplayName>นี่มันคืออะไรกัน?</DisplayName>
+			<Desc>นี่เจ้าพยายามจะเอาอะไรให้ข้ากิน?</Desc>
+		</Text>
+		<Text Name="ThankTreat">
+			<DisplayName>รักษา</DisplayName>
+			<Desc>ขอบคุณที่ช่วยรักษาข้า</Desc>
+		</Text>
+		<Text Name="ThankHufa">
+			<DisplayName>ปกป้อง</DisplayName>
+			<Desc>ขอบคุณท่านอาจารย์</Desc>
+		</Text>
+		<Text Name="BeAttack">
+			<DisplayName>ถูกโจมตี</DisplayName>
+			<Desc>นี่เจ้าพยายามที่จะสังหารข้าอย่างนั้นรึ?</Desc>
+		</Text>
+		<Text Name="BeMagicBood">
+			<DisplayName>ซาบซึ้งบุณคุณ</DisplayName>
+			<Desc>ขอบคุณสำหรับทุกสิ่งทุกอย่างที่ท่านทำเพื่อข้า</Desc>
+		</Text>
+		<Text Name="BeMagicBad">
+			<DisplayName>ได้รับบาดเจ็บ</DisplayName>
+			<Desc>นี่เจ้าทำอะไรกับข้า?</Desc>
+		</Text>
+		<Text Name="AmuseME">
+			<DisplayName>หัวเราะเยาะ</DisplayName>
+			<Desc>[HENAME] หัวเราะเยาะออกมา</Desc>
+		</Text>
+		<Text Name="PersonalEnemy">
+			<DisplayName>เกลียดชัง</DisplayName>
+			<Desc>[HENAME] ได้สังหาร [TXT]</Desc>
+		</Text>
+		<Text Name="MagicBad">
+			<DisplayName>ได้รับบาดเจ็บ</DisplayName>
+			<Desc>เป็นพยานในเหตุการณ์ที่ [HENAME] ได้ทำร้าย [TXT]</Desc>
+		</Text>
+		<Text Name="MagicGood">
+			<DisplayName>กตัญญู</DisplayName>
+			<Desc>เป็นพยานในเหตุการณ์ที่ [HENAME] ใช้ปราณเวทต่อต้าน [TXT]</Desc>
+		</Text>
+		<Text Name="BeDeclaration">
+			<Layers.0.DisplayName>สารภาพความรู้สึก</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] ได้สารภาพความรู้สึกที่มีต่อข้า ฮ่าฮ่าฮ่า</Layers.0.Desc>
+			<Layers.1.DisplayName>สารภาพความรู้สึก</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] ได้สารภาพความรู้สึกที่มีต่อข้า ข้ารู้สึกว่าหัวใจของข้าเต้นแรงผิดปกติ</Layers.1.Desc>
+		</Text>
+		<Text Name="Favour_School_FiveTangZhu">
+			<DisplayName>เหยียดหยัน</DisplayName>
+			<Desc>คนอย่าง [HENAME] นั้นกลายมาเป็นหัวหน้าสาขาได้ยังไงกัน เจ้านั่นมันมีความสามารถที่คู่ควรงั้นรึ?</Desc>
+		</Text>
+		<Text Name="Favour_School_ZhangMen">
+			<DisplayName>เจ้าสำนัก</DisplayName>
+			<Desc>[HENAME] คือเจ้าสำนักของพวกข้า</Desc>
+		</Text>
+		<Text Name="Favour_School_TangZhu">
+			<DisplayName>หัวหน้าสาขา</DisplayName>
+			<Desc>[HENAME] คือหัวหน้าสาขาของพวกข้า</Desc>
+		</Text>
+	</List>
+</Texts>

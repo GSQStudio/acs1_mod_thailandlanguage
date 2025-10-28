@@ -1,0 +1,147 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FacialScar">
+			<DisplayName>ใบหน้าแผลเป็น</DisplayName>
+			<Desc>มีรอยแผลเป็นที่น่ากลัวบนใบหน้าของบุคคลผู้นี้</Desc>
+		</Text>
+		<Text Name="UglyFace1">
+			<DisplayName>อัปลักษณ์</DisplayName>
+			<Desc>บุคคลผู้นี้หน้าตาอัปลักษณ์มากจนไม่มีใครชื่นชอบ</Desc>
+		</Text>
+		<Text Name="UglyFace2">
+			<DisplayName>น่าเกลียด</DisplayName>
+			<Desc>บุคคลผู้นี้หน้าตาน่าเกลียดมากจนไม่มีใครชื่นชอบ</Desc>
+		</Text>
+		<Text Name="BeautifulFace1">
+			<DisplayName>หน้าตาดี</DisplayName>
+			<Desc>บุคคลผู้นี้มีรูปร่างหน้าตาดีจนจทำให้ผู้อื่นต่างพากันหลงเสน่ห์</Desc>
+		</Text>
+		<Text Name="BeautifulFace2">
+			<DisplayName>รูปโฉมดุจภาพวาด</DisplayName>
+			<Desc>บุคคลผู้นี้มีรูปลักษณ์หน้าตาราวกับว่าหลุดออกมาจากภาพวาดของเหล่าวทวยเทพ</Desc>
+		</Text>
+		<Text Name="OldViscusInjury">
+			<DisplayName>บาดเจ็บภายใน</DisplayName>
+			<Desc>อวัยวะภายในของบุคคลนี้ได้รับความเสียหายอย่างรุนแรงและไม่สามารถรักษาได้</Desc>
+		</Text>
+		<Text Name="CrippleLeft">
+			<DisplayName>ไม่มีแรง(ซ้าย)</DisplayName>
+			<Desc>บุคคลนี้ขาซ้ายเดินกะเผลกเนื่องจากเป็นโรคเรื้อรัง</Desc>
+		</Text>
+		<Text Name="CrippleRight">
+			<DisplayName>ไม่มีแรง(ขวา)</DisplayName>
+			<Desc>บุคคลนี้ขาขวาเดินกะเผลกเนื่องจากเป็นโรคเรื้อรัง</Desc>
+		</Text>
+		<Text Name="BanLeftTibia">
+			<DisplayName>ขาขาด(ซ้าย)</DisplayName>
+			<Desc>ขาซ้ายของบุคคลผู้นี้ถูกตัดขาด</Desc>
+		</Text>
+		<Text Name="BanRightTibia">
+			<DisplayName>ขาขาด(ขวา)</DisplayName>
+			<Desc>ขาซ้ายของบุคคลผู้นี้ถูกตัดขาด</Desc>
+		</Text>
+		<Text Name="BanLeftScapula">
+			<DisplayName>แขนขาด(ซ้าย)</DisplayName>
+			<Desc>แขนซ้ายของบุคคลผู้นี้ถูกตัดขาด</Desc>
+		</Text>
+		<Text Name="BanRightScapula">
+			<DisplayName>แขนขาด(ขวา)</DisplayName>
+			<Desc>แขนขวาของบุคคลผู้นี้ถูกตัดขาด</Desc>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>หูหนวก</DisplayName>
+			<Desc>บุคคลผู้นี้หูหนวกมาตั้งแต่กำเนิด</Desc>
+		</Text>
+		<Text Name="BanLeftEye">
+			<DisplayName>ตาบอด(ซ้าย)</DisplayName>
+			<Desc>บุคคลผู้นี้สูญเสียการมองเห็นของดวงตาด้านซ้ายไป</Desc>
+		</Text>
+		<Text Name="BanRightEye">
+			<DisplayName>ตาบอด(ขวา)</DisplayName>
+			<Desc>บุคคลผู้นี้สูญเสียการมองเห็นของดวงตาด้านขวาไป</Desc>
+		</Text>
+		<Text Name="BanLeftEar">
+			<DisplayName>หูหนวก(ซ้าย)</DisplayName>
+			<Desc>บุคคลผู้นี้สูญเสียการได้ยินของหูด้านซ้ายไป</Desc>
+		</Text>
+		<Text Name="BanRightEar">
+			<DisplayName>หูหนวก(ขวา)</DisplayName>
+			<Desc>บุคคลผู้นี้สูญเสียการได้ยินของหูด้านขวาไป</Desc>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>จุดรวมชีพจรเสียหาย</DisplayName>
+			<Desc>บุคคลผู้นี้เกิดมาพร้อมกับจุดรวมชีพจรปราณที่เสียหาย</Desc>
+		</Text>
+		<Text Name="HealthOverdraft1">
+			<DisplayName>ละเลยสุขภาพ</DisplayName>
+			<Desc>บุคคลผู้นี้ไม่ค่อยใส่ใจในสุขภาพของตนเองมากนัก ทำให้มีอายุขัยสั้นกว่าคนทั่วไป</Desc>
+		</Text>
+		<Text Name="HealthOverdraft2">
+			<DisplayName>โหมงานหนัก</DisplayName>
+			<Desc>บุคคลผู้นี้ไม่ใส่ใจในสุขภาพของตนเองเลย ทำให้มีอายุขัยสั้นกว่าคนทั่วไป</Desc>
+		</Text>
+		<Text Name="HealthMaintain1">
+			<DisplayName>สุขภาพดี</DisplayName>
+			<Desc>บุคคลผู้นี้รู้จักดูแลสุขภาพของตนเอง ทำให้มีอายุขัยยืนยาวมากกว่าคนทั่วไป</Desc>
+		</Text>
+		<Text Name="HealthMaintain2">
+			<DisplayName>สุขภาพแข็งแรง</DisplayName>
+			<Desc>บุคคลผู้นี้รู้จักดูแลสุขภาพของตนเองเป็นอย่างดี ทำให้มีอายุขัยยืนยาวมากกว่าคนทั่วไป</Desc>
+		</Text>
+		<Text Name="ColdPatience">
+			<DisplayName>ทนหนาว</DisplayName>
+			<Desc>บุคคลผู้นี้เกิดในดินแดนที่หนาวเหน็บ ทำให้ร่างกายสามารถทนต่อความหนาวได้ดี</Desc>
+		</Text>
+		<Text Name="HotPatience">
+			<DisplayName>ทนร้อน</DisplayName>
+			<Desc>บุคคลผู้นี้เกิดในดินแดนที่ร้อนตับแตก ทำให้ร่างกายสามารถทนต่อความร้อนได้ดี</Desc>
+		</Text>
+		<Text Name="DarkPatience">
+			<DisplayName>ชอบความมืด</DisplayName>
+			<Desc>บุคคลผู้นี้ชื่นชอบสถานที่มืดๆ</Desc>
+		</Text>
+		<Text Name="HighMan">
+			<DisplayName>สูง</DisplayName>
+			<Desc>บุคคลผู้นี้มีร่างกายสูงและแข็งแกร่งกว่าคนส่วนใหญ่ ดังนั้นจึงมีแนวโน้มที่จะชอบแก้ไขปัญหาด้วยความรุนแรง</Desc>
+		</Text>
+		<Text Name="LowMan">
+			<DisplayName>เตี้ย</DisplayName>
+			<Desc>บุคคลผู้นี้มีร่างกายที่เตี๊ยและเล็กกว่าคนส่วนใหญ่ ดังนั้นจึงมักชอบใช้สมองในการแก้ไข</Desc>
+		</Text>
+		<Text Name="NoHair">
+			<DisplayName>หัวล้าน</DisplayName>
+			<Desc>บุคคลผู้นี้ไม่มีเส้นผมอยู่บนหัวเลย</Desc>
+		</Text>
+		<Text Name="LeftHanded">
+			<DisplayName>ถนัดซ้าย</DisplayName>
+			<Desc>บุคคลผู้นี้ถนัดซ้าย</Desc>
+		</Text>
+		<Text Name="Mute">
+			<DisplayName>เป็นใบ้</DisplayName>
+			<Desc>บุคคลผู้นี้ไม่สามารถพูดสื่อสารกับคนอื่นได้</Desc>
+		</Text>
+		<Text Name="BanRightMiddleFinger">
+			<DisplayName>นิ่วหัก</DisplayName>
+		</Text>
+		<Text Name="RunFast">
+			<DisplayName>ว่องไว</DisplayName>
+			<Desc>บุคคลผู้นี้มีความว่องไวและสามารถเดินได้เร็วมาก</Desc>
+		</Text>
+		<Text Name="Indigestion">
+			<DisplayName>ย่อยยาก</DisplayName>
+			<Desc>บุคคลผู้นี้มีระบบการย่อยอาหารที่ไม่ดี ทำให้เป็นอุปสรรคต่อการดูดซึมสารอาหาร</Desc>
+		</Text>
+		<Text Name="IronStomach">
+			<DisplayName>กระเพาะเหล็ก</DisplayName>
+			<Desc>บุคคลผู้นี้มีระบบการย่อยอาหารที่ดีมาก ช่วยให้สามารถดูดซึมสารอาหารได้อย่างง่ายดาย</Desc>
+		</Text>
+		<Text Name="GoodEyesight">
+			<DisplayName>สายตาเหยี่ยว</DisplayName>
+			<Desc>บุคคลผู้นี้มีสายตาที่ดีมาก ทำให้สามารถมองเห็นได้ไกลกว่าคนทั่วไป</Desc>
+		</Text>
+		<Text Name="ShallowSleep">
+			<DisplayName>นอนน้อย</DisplayName>
+			<Desc>บุคคลผู้นี้ชอบตื่นขึ้นมาตอนเที่ยงคืน</Desc>
+		</Text>
+	</List>
+</Texts>

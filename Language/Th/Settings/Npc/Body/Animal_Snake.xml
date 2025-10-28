@@ -1,0 +1,33 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SnakeBody">
+			<Part.Parts.0.DisplayName>ศีรษะ</Part.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.0.DisplayName>กะโหลก</Part.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.1.DisplayName>สมอง</Part.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.0.Parts.2.DisplayName>ตาซ้าย</Part.Parts.0.Parts.2.DisplayName>
+			<Part.Parts.0.Parts.3.DisplayName>ตาขวา</Part.Parts.0.Parts.3.DisplayName>
+			<Part.Parts.0.Parts.4.DisplayName>จมูก</Part.Parts.0.Parts.4.DisplayName>
+			<Part.Parts.0.Parts.5.DisplayName>ปาก</Part.Parts.0.Parts.5.DisplayName>
+			<Part.Parts.0.Parts.6.DisplayName>จุดอ่อน</Part.Parts.0.Parts.6.DisplayName>
+			<Part.Parts.0.Parts.7.DisplayName>ศีรษะ</Part.Parts.0.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.0.DisplayName>กระดูกข้อต่อที่ 1</Part.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.1.Parts.1.DisplayName>กระดูกข้อต่อที่ 2</Part.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.2.DisplayName>กระดูกข้อต่อที่ 3</Part.Parts.1.Parts.2.DisplayName>
+			<Part.Parts.1.Parts.3.DisplayName>กระดูกข้อต่อที่ 4</Part.Parts.1.Parts.3.DisplayName>
+			<Part.Parts.1.Parts.4.DisplayName>กระดูกข้อต่อที่ 5</Part.Parts.1.Parts.4.DisplayName>
+			<Part.Parts.1.Parts.5.DisplayName>กระดูกข้อต่อที่ 6</Part.Parts.1.Parts.5.DisplayName>
+			<Part.Parts.1.Parts.6.DisplayName>กระดูกข้อต่อที่ 7</Part.Parts.1.Parts.6.DisplayName>
+			<Part.Parts.1.Parts.7.DisplayName>กระดูกข้อต่อที่ 8</Part.Parts.1.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.8.DisplayName>กระดูกสันหลัง</Part.Parts.1.Parts.8.DisplayName>
+			<Part.Parts.1.Parts.9.DisplayName>หัวใจ</Part.Parts.1.Parts.9.DisplayName>
+			<Part.Parts.1.Parts.10.DisplayName>ตับ</Part.Parts.1.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.11.DisplayName>ม้าม</Part.Parts.1.Parts.11.DisplayName>
+			<Part.Parts.1.Parts.12.DisplayName>ปอด</Part.Parts.1.Parts.12.DisplayName>
+			<Part.Parts.1.Parts.13.DisplayName>ไต</Part.Parts.1.Parts.13.DisplayName>
+			<Part.Parts.1.Parts.14.DisplayName>กระเพาะ</Part.Parts.1.Parts.14.DisplayName>
+			<Part.Parts.1.Parts.15.DisplayName>ลำไส้</Part.Parts.1.Parts.15.DisplayName>
+			<Part.Parts.1.Parts.16.DisplayName>ลำตัว</Part.Parts.1.Parts.16.DisplayName>
+			<Part.Parts.2.DisplayName>ทั้งร่าง</Part.Parts.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

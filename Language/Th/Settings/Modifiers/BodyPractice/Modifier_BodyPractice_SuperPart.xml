@@ -1,0 +1,88 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV1">
+			<DisplayName>ดวงตาหยกโลหิต 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV2">
+			<DisplayName>ดวงตาหยกโลหิต 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV3">
+			<DisplayName>ดวงตาหยกโลหิต 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV1">
+			<DisplayName>หัวใจเหล็กแห่งหยาง 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV2">
+			<DisplayName>หัวใจเหล็กแห่งหยาง 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV1">
+			<DisplayName>หัวใจแก้วแห่งหยิน 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV2">
+			<DisplayName>หัวใจแก้วแห่งหยิน 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_3_LV1">
+			<DisplayName>กระดูกสันหลังมังกร</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV1">
+			<DisplayName>เตาหลอมสวรรค์และโลก 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV2">
+			<DisplayName>เตาหลอมสวรรค์และโลก 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV3">
+			<DisplayName>เตาหลอมสวรรค์และโลก 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV4">
+			<DisplayName>เตาหลอมสวรรค์และโลก 4</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_2_10">
+			<DisplayName>ดวงตาแปดทิศ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_3_16">
+			<DisplayName>ประกายดวงดารา</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_5">
+			<DisplayName>เท้าท่องตะวัน</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_6">
+			<DisplayName>ร่างมายาลวงตา</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_7">
+			<DisplayName>แขนพันปีศาจ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV1">
+			<DisplayName>กายาร้อยสัมผัส</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV2">
+			<DisplayName>กายาประสาทสัมผัส</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Boar_1">
+			<DisplayName>โลหิตอสูรโบราณ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_1">
+			<DisplayName>กายาเก้าลี้ลับ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_2">
+			<DisplayName>ดวงตาแก้วผนึกเวท</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cattle_1">
+			<DisplayName>กระดูกอกสี่ผู้พิทักษ์</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Chicken_2">
+			<DisplayName>มงกุฎเพลิงสวรรค์</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Rabbit_2">
+			<DisplayName>เท้าเหยียบเมฆา</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Tiger_2">
+			<DisplayName>กายาท่องสายลม</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_1">
+			<DisplayName>ดูดซับวิญญาณ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_2">
+			<DisplayName>กายาภูติอสูร</DisplayName>
+		</Text>
+	</List>
+</Texts>

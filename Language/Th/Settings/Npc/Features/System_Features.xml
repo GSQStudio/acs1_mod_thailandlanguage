@@ -1,0 +1,8 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[ว่างเปล่า]</DisplayName>
+			<Desc>อาคารที่สูญหายซึ่งไม่มีใครรู้จัก \n(ว่าง)</Desc>
+		</Text>
+	</List>
+</Texts>

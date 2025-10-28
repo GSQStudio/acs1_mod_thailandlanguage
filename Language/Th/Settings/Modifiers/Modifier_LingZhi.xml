@@ -1,0 +1,81 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_LingZhi_DiaoXie">
+			<DisplayName>ความเห็นอกเห็นใจ</DisplayName>
+			<Desc>เห็นอกเห็นใจต่อรากจิตวิญญาณ รู้สึกถึงกลิ่นอายของความเศร้าที่ปล่อยออกมาจากพืชจิตวิญญาณที่เหี่ยวแห้ง ทำให้สภาวะจิตของท่านถูกรบกวนเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Jin">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณทอง</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณทองและตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน การรับรู้เพิ่มขึ้น, สภาวะจิตเพิ่มขึ้น, ความเร็วการบ่มเพาะเพิ่มขึ้น, ศักยภาพเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Jin">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณทองต้องสาป</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณทองและตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน การรับรู้เพิ่มขึ้น, สภาวะจิตลดลง, ความเร็วการบ่มเพาะลดลง, ศักยภาพลดลง</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Mu">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณไม้</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณไม้และตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน ความอึดเพิ่มขึ้น, สภาวะจิตเพิ่มขึ้น, ความเร็วการบ่มเพาะเพิ่มขึ้น, ศักยภาพเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Mu">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณไม้ต้องสาป</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณไม้และตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน ความอึดเพิ่มขึ้น, สภาวะจิตลดลง, ความเร็วการบ่มเพาะลดลง, ศักยภาพลดลง</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Shui">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณน้ำ</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณวารีและตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน ความมีเสน่ห์เพิ่มขึ้น, สภาวะจิตเพิ่มขึ้น, ความเร็วการบ่มเพาะเพิ่มขึ้น, ศักยภาพเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Shui">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณน้ำต้องสาป</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณวารีและตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน ความมีเสน่ห์เพิ่มขึ้น, สภาวะจิตลดลง, ความเร็วการบ่มเพาะลดลง, ศักยภาพลดลง</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Huo">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณไฟ</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณเพลิงและตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน สติปํญญาเพิ่มขึ้น, สภาวะจิตเพิ่มขึ้น, ความเร็วการบ่มเพาะเพิ่มขึ้น, ศักยภาพเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Huo">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณไฟต้องสาป</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณเพลิงและตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน สติปํญญาเพิ่มขึ้น, สภาวะจิตลดลง, ความเร็วการบ่มเพาะลดลง, ศักยภาพลดลง</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Tu">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณดิน</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณดินและตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน โชคเพิ่มขึ้น, สภาวะจิตเพิ่มขึ้น, ความเร็วการบ่มเพาะเพิ่มขึ้น, ศักยภาพเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Tu">
+			<DisplayName>ความเห็นใจต่อรากวิญญาณดินต้องสาป</DisplayName>
+			<Desc>ทำการบ่มเพาะอยู่ใกล้รากวิญญาณดินและตกอยู่ในภวังที่เห็นอกเห็นใจต่อมัน โชคเพิ่มขึ้น, สภาวะจิตลดลง, ความเร็วการบ่มเพาะลดลง, ศักยภาพลดลง</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_XinJing1">
+			<DisplayName>สภาวะจิตถ่องแท้</DisplayName>
+			<Desc>สภาวะจิตเพิ่มขึ้นภายในช่วงระยะเวลาสั้น</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_XinJing2">
+			<DisplayName>จิตวิปริต</DisplayName>
+			<Desc>สภาวะจิตลดลงภายในช่วงระยะเวลาสั้น</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_MaxLing1">
+			<DisplayName>ดึงปราณ</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing1">
+			<DisplayName>พรจากพืชวิญญาณที่โตเต็มที่แล้ว 1</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing2">
+			<DisplayName>พรจากพืชวิญญาณที่โตเต็มที่แล้ว 2</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing3">
+			<DisplayName>พรจากพืชวิญญาณที่โตเต็มที่แล้ว 3</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing4">
+			<DisplayName>พรจากพืชวิญญาณที่โตเต็มที่แล้ว 4</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing5">
+			<DisplayName>พรจากพืชวิญญาณที่โตเต็มที่แล้ว 5</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing_A">
+			<DisplayName>ชำระล้างวิญญาณ</DisplayName>
+			<Desc>หล่อเลี้ยงด้วยรัศมีจากพืชวิญญาณ อาการบาดเจ็บภายในทั้งหมดที่ร่างกายได้รับจะได้รับการรักษา</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_RipeSha">
+			<DisplayName>คำสาปจากพืชวิญญาณที่โตเต็มที่แล้ว</DisplayName>
+		</Text>
+	</List>
+</Texts>

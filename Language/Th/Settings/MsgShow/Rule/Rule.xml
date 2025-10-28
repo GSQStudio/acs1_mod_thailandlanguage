@@ -1,0 +1,189 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FanRenEvent">
+			<DisplayName>พบเจอชาวบ้าน</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกต่อปุถุชนคนธรรมดาในขณะที่พวกเขากำลังเดินทางท่องโลก</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ช่วยเหลือเมื่อพวกเขามีปัญหา และพยายามไม่ทำให้อะไรที่ส่งผลกระทบด้านลบเมื่อลงมือทำสิ่งต่างๆ</Selection.0.Desc>
+			<Selection.1.DisplayName>ไม่เอาใจใส่</Selection.1.DisplayName>
+			<Selection.1.Desc>ทำสิ่งที่ตามใจตัวเองโดยที่ไม่สนใจว่าจะเกิดผลกระทบอะไรกับผู้คนเหล่านั้น</Selection.1.Desc>
+			<Selection.2.DisplayName>ไม่สนใจ</Selection.2.DisplayName>
+			<Selection.2.Desc>เรื่องเล็กน้อยของมนุษย์ไม่คุ้มกับเวลาของข้า</Selection.2.Desc>
+		</Text>
+		<Text Name="JiangHuFenZheng">
+			<DisplayName>พบเจอความไม่ลงรอยกัน</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกต่อผู้ฝึกตนในขณะที่พวกเขากำลังเดินทางท่องโลก</Desc>
+			<Selection.0.DisplayName>ผู้ฝึกตนฝ่ายธรรมะ</Selection.0.DisplayName>
+			<Selection.0.Desc>เมื่อเจอเหตุการณ์เช่นนี้ ก่อนอื่นเลยคือให้พยายามจัดการกับปัญหาในฐานะผู้ฝึกตนฝ่ายธรรมะ</Selection.0.Desc>
+			<Selection.1.DisplayName>ผู้ฝึกตนฝ่ายมาร</Selection.1.DisplayName>
+			<Selection.1.Desc>เมื่อเจอเหตุการณ์เช่นนี้ ก่อนอื่นเลยคือให้พยายามจัดการกับปัญหาในฐานะผู้ฝึกตนฝ่ายมาร</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>เดินจากไปและพยายามไม่เข้าไปข้องเกี่ยวกับปัญหา</Selection.2.Desc>
+		</Text>
+		<Text Name="FindTreasure">
+			<DisplayName>ชะตาเซียน</DisplayName>
+			<Desc>การกระทำที่เหล่าศิษย์ในสำนักของท่านจะแสดงออกมาเมื่อโชคดีพบโอกาสเกี่ยวกับเซียนอมตะในขณะที่พวกเขากำลังเดินทางท่องโลก</Desc>
+			<Selection.0.DisplayName>เดินเข้าไปสำรวจ</Selection.0.DisplayName>
+			<Selection.0.Desc>พยายามลองเสี่ยงโชคดูยามเมื่อพบเจอกับเหตุการณ์เช่นนี้</Selection.0.Desc>
+			<Selection.1.DisplayName>หลีกเลี่ยงปัญหา</Selection.1.DisplayName>
+			<Selection.1.Desc>เดินจากไปและพยายามไม่เข้าไปข้องเกี่ยวกับปัญหา</Selection.1.Desc>
+		</Text>
+		<Text Name="FindProduce">
+			<DisplayName>รวบรวมทรัพยากร</DisplayName>
+			<Desc>การกระทำที่เหล่าศิษย์ในสำนักของท่านจะแสดงออกมาเมื่อพบเจอทรัพยากรพิเศษของท้องถิ่นในขณะที่พวกเขากำลังเดินทางท่องโลก</Desc>
+			<Selection.0.DisplayName>รวบรวมทรัพยากร</Selection.0.DisplayName>
+			<Selection.0.Desc>รวบรวมทรัพยากรอย่างแข็งขันยามยามเมื่อพบเจอกับเหตุการณ์เช่นนี้</Selection.0.Desc>
+			<Selection.1.DisplayName>ไม่สนใจ</Selection.1.DisplayName>
+			<Selection.1.Desc>ไม่เสียเวลาไปกับเรื่องแบบนี้</Selection.1.Desc>
+		</Text>
+		<Text Name="FindHighProduce">
+			<DisplayName>พบเจอสมบัติ</DisplayName>
+			<Desc>การกระทำที่เหล่าศิษย์ในสำนักของท่านจะแสดงออกมาเมื่อพบเจอสมบัติหายากในขณะที่พวกเขากำลังเดินทางท่องโลก</Desc>
+			<Selection.0.DisplayName>พยายามค้นหา</Selection.0.DisplayName>
+			<Selection.0.Desc>พยายามค้นหาสมบัติยามเมื่อพบเจอกับเหตุการณ์เช่นนี้</Selection.0.Desc>
+			<Selection.1.DisplayName>ไม่สนใจ</Selection.1.DisplayName>
+			<Selection.1.Desc>ไม่เสียเวลาไปกับเรื่องแบบนี้</Selection.1.Desc>
+		</Text>
+		<Text Name="FindSecret">
+			<DisplayName>เรื่องเล่าประหลาด</DisplayName>
+			<Desc>การกระทำที่เหล่าศิษย์ในสำนักของท่านจะแสดงออกมาเมื่อได้ยินเรื่องราวแปลกๆ ในขณะที่พวกเขากำลังเดินทางท่องโลก</Desc>
+			<Selection.0.DisplayName>สืบหาเรื่องราว</Selection.0.DisplayName>
+			<Selection.0.Desc>พยายามสอบถามและสำรวจรายละเอียดเมื่อพบเจอกับเหตุการณ์เช่นนี้</Selection.0.Desc>
+			<Selection.1.DisplayName>ไม่สนใจ</Selection.1.DisplayName>
+			<Selection.1.Desc>ไม่เสียเวลาไปกับเรื่องแบบนี้</Selection.1.Desc>
+		</Text>
+		<Text Name="School_All">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก</DisplayName>
+			<Desc>ตรรกะพื้นฐาน</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_1">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - นิกายม่านฟ้า</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากนิกายม่านฟ้า</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_2">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - ตำหนักคุนหลุน</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากตำหนักคุนหลุน</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_3">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - วังเหนือนภา</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากวังเหนือนภา</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_4">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - อารามเมฆาม่วง</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากอารามเมฆาม่วง</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_5">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - สำนักเอกลี้ลับ</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากสำนักเอกลี้ลับ</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_6">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - อารามบัวสีคราม</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากอารามบัวสีคราม</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_7">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - นิกายแสงราตรี</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากนิกายแสงราตรี</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_8">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - ภูเขาร้อยแมลง</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากภูเขาร้อยแมลง</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_9">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - นิกายหลุมอเวจี</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากนิกายหลุมอเวจี</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_10">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - สำนักเจ็ดวิถีสังหาร</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากสำนักเจ็ดวิถีสังหาร</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_11">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - สำนักสราญรมย์</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากสำนักสราญรมย์</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="School_12">
+			<DisplayName>ความสัมพันธ์ระหว่างสำนัก - อารามหมื่นอสูร</DisplayName>
+			<Desc>ทัศนคติที่เหล่าศิษย์ในสำนักของท่านจะต้องแสดงออกเมื่อพบเจอคนจากอารามหมื่นอสูร</Desc>
+			<Selection.0.DisplayName>เป็นมิตร</Selection.0.DisplayName>
+			<Selection.0.Desc>ปฏิบัติต่อพวกเขาด้วยความเป็นมิตร</Selection.0.Desc>
+			<Selection.1.DisplayName>คุกคาม</Selection.1.DisplayName>
+			<Selection.1.Desc>ปฏิบัติต่อพวกเขาด้วยการคุกคาม</Selection.1.Desc>
+			<Selection.2.DisplayName>หลีกเลี่ยงปัญหา</Selection.2.DisplayName>
+			<Selection.2.Desc>พยายามถอยห่างจากพวกเขาเพื่อหลบเลี่ยงปัญหาที่จะตามมา</Selection.2.Desc>
+		</Text>
+		<Text Name="lingguangyishan">
+			<DisplayName>จุดประกายแนวคิด</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YinYangErosion">
+			<DisplayName>การกัดกร่อนของหยินหยาง</DisplayName>
+			<Desc>ลดพลังป้องกันของศัตรูด้วยปราณหยิน</Desc>
+		</Text>
+		<Text Name="BambooBedFeel">
+			<DisplayName>หนาวสั่น</DisplayName>
+			<Desc>เตียงไม้ไผ่รู้สึกเย็นเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Modifier_YG_YinYangForce">
+			<DisplayName>พลังต้นกำเนิด (ผสมปนเป)</DisplayName>
+			<Desc>เผาผลาญปราณแห่งชีวิตของตนอย่างรวดเร็วเพื่อกระตุ้นปราณภายในร่าง ส่งผลให้ยกระดับทักษะอาวุธวิเศษ, ทักษะเกราะปราณ, พลังโจมตีและความทนทานของกายาเร้นลับขึ้นมาอย่างมหาศาล</Desc>
+		</Text>
+		<Text Name="Fish_EndureHunger">
+			<DisplayName>อดทนต่อความหิวโหย</DisplayName>
+			<Desc>กินปลาหมอแคระสีทองสามารถทำให้คนผู้นั้นทนทานต่อความหิวโหยได้ดี</Desc>
+		</Text>
+	</List>
+</Texts>

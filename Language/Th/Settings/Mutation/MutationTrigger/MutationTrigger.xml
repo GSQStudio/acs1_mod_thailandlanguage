@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_TaiShi">
+			<DisplayName>ไท้ซือ</DisplayName>
+			<Desc>เริ่มเกมใหม่พร้อมเหตุการณ์ความโกลาหลแห่งสวรรค์แบบคงที่ 3 ชนิด</Desc>
+			<Trigger.StartGame.Extent.Desc>เรื่องราวใหม่ได้เริ่มต้นขึ้น เต๋าสวรรค์ไท้ซือเริ่มเคลื่อนไหว...</Trigger.StartGame.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiZhong">
+			<DisplayName>ไท้จง</DisplayName>
+			<Desc>ทุกๆ 10/50/100 วัน จะกระตุ้นความโกลาหลแห่งสวรรค์แบบหนึ่งในสามประเภท: ปั่นป่วน/หยินหยาง/คงที่</Desc>
+			<Trigger.Time.Days.0.Extent.Desc>เมื่อเวลาผ่านไป การเปลี่ยนแปลงบางอย่างได้เกิดขึ้นในโลก...</Trigger.Time.Days.0.Extent.Desc>
+			<Trigger.Time.Days.1.Extent.Desc>เมื่อเวลาผ่านไป โลกนี้ได้ประสบกับการเปลี่ยนแปลง...</Trigger.Time.Days.1.Extent.Desc>
+			<Trigger.Time.Days.2.Extent.Desc>เมื่อเวลาผ่านไป โลกนี้ได้เผชิญกับการเปลี่ยนแปลงครั้งใหญ่...</Trigger.Time.Days.2.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiZhen">
+			<DisplayName>ไท้เจิน</DisplayName>
+			<Desc>การเพิ่มระดับชื่อเสียงของสำนัก 1 ระดับ จะกระตุ้นความโกลาหลแห่งสวรรค์แบบหยินหยาง 1 ครั้ง; ทุก 6 ครั้ง จะกระตุ้นความโกลาหลแห่งสวรรค์แบบคงที่</Desc>
+			<TriggerInfo.Desc>ระดับสำนักเพิ่มขึ้น กระตุ้นเต๋าสวรรค์ไท้เจิน</TriggerInfo.Desc>
+			<Trigger.School.Score.0.Extent.Desc>ชื่อเสียงของ[SCHOOL]เพิ่มขึ้น กระตุ้นเต๋าสวรรค์ไท้เจิน...</Trigger.School.Score.0.Extent.Desc>
+			<Trigger.School.Score.1.Extent.Desc>ชื่อเสียงของ[SCHOOL]พุ่งสูงขึ้นอย่างมาก กลายเป็นที่รู้จักทั่วโลก และไม่คาดคิดว่าจะกระตุ้นเต๋าสวรรค์ไท้เจิน หนึ่งในเต๋าสวรรค์</Trigger.School.Score.1.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiXu">
+			<DisplayName>ไท้สวี</DisplayName>
+			<Desc>การทะลวงขั้นของศิษย์ในสำนักแต่ละครั้งมีโอกาสกระตุ้นความโกลาหลแห่งสวรรค์หนึ่งครั้ง</Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] เพิ่งเริ่มต้นบนเส้นทางแห่งความเป็นอมตะ กระตุ้นเต๋าสวรรค์ไท้สวี...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>การฝึกฝนของ [NPC] ก้าวหน้าขึ้น กระตุ้นเต๋าสวรรค์ไท้สวี...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] ได้ล่วงรู้ถึงหนทางอันยิ่งใหญ่ ก่อให้เกิดการเคลื่อนไหวที่ผิดปกติในเต๋าสวรรค์ไท้สวี...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] บรรลุเต๋าและได้จุติขึ้นสู่สวรรค์ กระตุ้นความปั่นป่วนในเต๋าสวรรค์ไท้สวี...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiXuan">
+			<DisplayName>ไท้เสวียน</DisplayName>
+			<Desc>ไม่สามารถเลือกผลกระทบของความโกลาหลแห่งสวรรค์แบบปั่นป่วนหรือหยินหยางด้วยตนเอง</Desc>
+		</Text>
+		<Text Name="Mutation_TaiYi">
+			<DisplayName>ไท้อี้</DisplayName>
+			<Desc>หลังจากความความโกลาหลแห่งสวรรค์แบบปั่นป่วนทำงาน มีโอกาสรีเซ็ตผลกระทบจากความโกลาหลหนึ่งอย่าง</Desc>
+		</Text>
+		<Text Name="Mutation_TaiJi">
+			<DisplayName>ไท้จี๋</DisplayName>
+			<Desc>เมื่อได้รับความโกลาหลแห่งสวรรค์แบบปั่นป่วนหรือหยินหยาง จะขยายขอบเขตระยะแบบสุ่มของผลลัพธ์เหล่านั้น</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsHelpPlayHappy">
+			<DisplayName>มีความสุขมาก</DisplayName>
+			<Desc>เล่นกับอสูรวิญญาณทำให้ท่านรู้สึกดีตลอดทั้งวัน</Desc>
+			<StoryDesc>รู้สึกว่าเวลาร่าเริงแบบนี้ ทำให้วันๆ นึงสดใสขึ้นจริงๆ</StoryDesc>
+		</Text>
+		<Text Name="BiteHappy">
+			<DisplayName>รู้สึกเอ็นดู</DisplayName>
+			<Desc>การกัดอย่างอ่อนโยนจากอสูรวิญญาณทำให้ท่านรู้สึกเอ็นดูมัน</Desc>
+			<StoryDesc>ไม่รู้สึกว่าเจ็บเลย มันก็แค่คันนิดหน่อย</StoryDesc>
+		</Text>
+		<Text Name="BiteSad">
+			<DisplayName>หงุดหงิด</DisplayName>
+			<Desc>โดนอสูรวิญญาณกัดอย่างแรง ดูเหมือนจะมันจะไม่ค่อยชอบข้าเท่าไหร่</Desc>
+			<StoryDesc>รู้สึกไม่มีความสุข</StoryDesc>
+		</Text>
+		<Text Name="PetHeal">
+			<DisplayName>อสูรวิญญาณติดตามท่าน</DisplayName>
+			<Desc>อสูรวิญญาณนั้นคอยอยู่เป็นเพื่อนท่าน ทำให้อารมณ์ของท่านดีขึ้น</Desc>
+			<StoryDesc>รู้สึกอารมณ์ค่อยๆ ดีขึ้นอย่างช้าๆ</StoryDesc>
+		</Text>
+		<Text Name="PetStay">
+			<DisplayName>อสูรวิญญาณติดตามท่าน</DisplayName>
+			<Desc>อสูรวิญญาณนั้นคอยอยู่เป็นเพื่อนท่าน ทำให้อารมณ์ของท่านดีขึ้น</Desc>
+			<StoryDesc>รู้สึกอารมณ์ค่อยๆ ดีขึ้นอย่างช้าๆ</StoryDesc>
+		</Text>
+	</List>
+</Texts>

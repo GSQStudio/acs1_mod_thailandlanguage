@@ -1,0 +1,307 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Yin_DiscipleCompleteCommandRandom">
+			<Desc>ศิษย์นิกายเมินเฉยต่อคำสั่งงานและดำเนินการตามใจตน</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_SoulPetCanNotControl">
+			<Desc>อสูรวิญญาณกระทำตามอำเภอใจ มิอาจฝึกฝนให้อยู่ในวินัย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_CantConfineTongling">
+			<Desc>ไม่สามารถผนึกวัตถุวิญญาณได้</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_CantInviteNpc">
+			<Desc>ไม่สามารถเชิญผู้อื่นเข้าสู่สำนัก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_1">
+			<Desc>อัตราฟื้นฟูปราณวิญญาณของศิษย์ในสำนักลดลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_2">
+			<Desc>การฟื้นฟูพลังปราณของศิษย์ในสำนักช้าลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_3">
+			<Desc>อัตราฟื้นฟูปราณวิญญาณของศิษย์ในสำนักลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_4">
+			<Desc>ความเร็วในการบ่มเพาะพลังของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_5">
+			<Desc>อัตราการบ่มเพาะพลังของศิษย์ในสำนักชะลอลงอย่างรุนแรง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_6">
+			<Desc>ศิษย์ในสำนักหิวโหยได้ง่ายขึ้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_7">
+			<Desc>ศิษย์ในสำนักอ่อนล้าได้ง่ายขึ้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_8">
+			<Desc>ศิษย์ในสำนักกระหายน้ำได้ง่ายขึ้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_9">
+			<Desc>เกราะปราณของศิษย์ในสำนักลดลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_10">
+			<Desc>เกราะปราณของศิษย์ในสำนักลดลงปานกลาง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_11">
+			<Desc>โอกาสที่ศิษย์ในสำนักจะฝ่าด่านพลังลดลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_12">
+			<Desc>โอกาสที่ศิษย์ในสำนักจะฝ่าด่านพลังลดลงปานกลาง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_13">
+			<Desc>โบนัสเมล็ดเต๋าของศิษย์ในสำนักเพิ่มขึ้นเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_14">
+			<Desc>โบนัสเมล็ดเต๋าของศิษย์ในสำนักเพิ่มขึ้นปานกลาง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_15">
+			<Desc>โบนัสเมล็ดเต๋าของศิษย์ในสำนักเพิ่มขึ้นอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_16">
+			<Desc>อายุขัยสูงสุดของศิษย์ในสำนักลดลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_17">
+			<Desc>อายุขัยสูงสุดของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_18">
+			<Desc>อายุขัยสูงสุดของศิษย์ในสำนักถูกลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_19">
+			<Desc>ความเร็วในการเคลื่อนที่ของศิษย์ในสำนักลดลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_20">
+			<Desc>ความเร็วในการเคลื่อนที่ของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_21">
+			<Desc>ความเร็วในการเคลื่อนที่ของศิษย์ในสำนักลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_22">
+			<Desc>ความเร็วในการฝึกพื้นฐานของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_23">
+			<Desc>ความเร็วในการฝึกพื้นฐานของศิษย์ในสำนักลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_24">
+			<Desc>ความเร็วในการเรียนรู้ของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_25">
+			<Desc>ความเร็วในการเรียนรู้ของศิษย์ในสำนักลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_26">
+			<Desc>ความเร็วในการทำงานของศิษย์ในสำนักลดลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_27">
+			<Desc>ความเร็วในการทำงานของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_28">
+			<Desc>ความเร็วในการทำงานของศิษย์ในสำนักลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_29">
+			<Desc>ค่าพื้นฐานของสภาวะจิตใจของศิษย์ในสำนักลดลงเล็กน้อย</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_30">
+			<Desc>ค่าพื้นฐานของสภาวะจิตใจของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_31">
+			<Desc>ค่าพื้นฐานของสภาวะจิตใจของศิษย์ในสำนักลดลงอย่างมาก</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_32">
+			<Desc>ค่าต้านทานพลังทำลายของธาตุทองของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_33">
+			<Desc>ค่าต้านทานพลังทำลายของธาตุไม้ของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_34">
+			<Desc>ค่าต้านทานพลังทำลายของธาตุน้ำของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_35">
+			<Desc>ค่าต้านทานพลังทำลายของธาตุไฟของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_36">
+			<Desc>ค่าต้านทานพลังทำลายของธาตุดินของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_37">
+			<Desc>ค่าต้านทานพลังทำลายของทุกธาตุของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_38">
+			<Desc>ความสามารถในการรองรับค่ายกลของศิษย์ในสำนักลดลง</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_40">
+			<Desc>ค่าต่อสู้ของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_41">
+			<Desc>ค่าต่อสู้ของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_42">
+			<Desc>ค่าต่อสู้ของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_43">
+			<Desc>ทักษะการเข้าสังคมของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_44">
+			<Desc>ทักษะการเข้าสังคมของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_45">
+			<Desc>ทักษะการเข้าสังคมของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_46">
+			<Desc>ระดับวิชางานฝีมือของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_47">
+			<Desc>ระดับวิชางานฝีมือของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_48">
+			<Desc>ระดับวิชางานฝีมือของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_49">
+			<Desc>ค่าสัมผัสปราณของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_50">
+			<Desc>ค่าสัมผัสปราณของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_51">
+			<Desc>ค่าสัมผัสปราณของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_52">
+			<Desc>ทักษะการหลอมอาวุธวิเศษของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_53">
+			<Desc>ทักษะการหลอมอาวุธวิเศษของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_54">
+			<Desc>ทักษะการหลอมอาวุธวิเศษของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_55">
+			<Desc>ทักษะวิชาแพทย์/การหลอมโอสถของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_56">
+			<Desc>ทักษะวิชาแพทย์/การหลอมโอสถของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_57">
+			<Desc>ทักษะวิชาแพทย์/การหลอมโอสถของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_58">
+			<Desc>ทักษะอาวุธวิเศษของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_59">
+			<Desc>ทักษะอาวุธวิเศษของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_60">
+			<Desc>ทักษะอาวุธวิเศษของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_61">
+			<Desc>ทักษะปราณเวทของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_62">
+			<Desc>ทักษะปราณเวทของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_63">
+			<Desc>ทักษะปราณเวทของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_64">
+			<Desc>ทักษะเกราะปราณของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_65">
+			<Desc>ทักษะเกราะปราณของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_66">
+			<Desc>ทักษะเกราะปราณของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_67">
+			<Desc>ทักษะวิชาค่ายกลของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_68">
+			<Desc>ทักษะวิชาค่ายกลของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_69">
+			<Desc>ทักษะวิชาค่ายกลของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_70">
+			<Desc>ระดับทักษะการขุดแร่ของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_71">
+			<Desc>ระดับทักษะการขุดแร่ของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_72">
+			<Desc>ระดับทักษะการขุดแร่ของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_73">
+			<Desc>ระดับทักษะการเกษตรของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_74">
+			<Desc>ระดับทักษะการเกษตรของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_75">
+			<Desc>ระดับทักษะการเกษตรของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_76">
+			<Desc>ระดับทักษะการก่อสร้างของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_77">
+			<Desc>ระดับทักษะการก่อสร้างของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_78">
+			<Desc>ระดับทักษะการก่อสร้างของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_79">
+			<Desc>ทักษะวิชาการทำอาหารของศิษย์ในสำนักลดลง 1 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_80">
+			<Desc>ทักษะวิชาการทำอาหารของศิษย์ในสำนักลดลง 2 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_81">
+			<Desc>ทักษะวิชาการทำอาหารของศิษย์ในสำนักลดลง 3 ขั้น</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_88">
+			<Desc>ค่าเสน่ห์ของศิษย์ในสำนักลดลง 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_89">
+			<Desc>ค่าเสน่ห์ของศิษย์ในสำนักลดลง 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_90">
+			<Desc>ค่าเสน่ห์ของศิษย์ในสำนักลดลง 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_91">
+			<Desc>สติปัญญาของศิษย์ในสำนักลดลง 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_92">
+			<Desc>สติปัญญาของศิษย์ในสำนักลดลง 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_93">
+			<Desc>สติปัญญาของศิษย์ในสำนักลดลง 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_94">
+			<Desc>โชคของศิษย์ในสำนักลดลง 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_95">
+			<Desc>โชคของศิษย์ในสำนักลดลง 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_96">
+			<Desc>โชคของศิษย์ในสำนักลดลง 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_97">
+			<Desc>ค่ารับรู้ของศิษย์ในสำนักลดลง 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_98">
+			<Desc>ค่ารับรู้ของศิษย์ในสำนักลดลง 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_99">
+			<Desc>ค่ารับรู้ของศิษย์ในสำนักลดลง 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_100">
+			<Desc>ค่าความอึดของศิษย์ในสำนักลดลง 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_101">
+			<Desc>ค่าความอึดของศิษย์ในสำนักลดลง 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_102">
+			<Desc>ค่าความอึดของศิษย์ในสำนักลดลง 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_39">
+			<Desc>คุณสมบัติทั้งห้าของศิษย์ในสำนักลดลง 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_103">
+			<Desc>คุณสมบัติทั้งห้าของศิษย์ในสำนักลดลง 30%</Desc>
+		</Text>
+	</List>
+</Texts>

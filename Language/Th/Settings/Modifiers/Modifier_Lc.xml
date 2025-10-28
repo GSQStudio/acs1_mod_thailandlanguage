@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LcForbidFabao">
+			<DisplayName>ผนึกอาวุธวิเศษ</DisplayName>
+			<Desc>ด้วยเสียงคำรามของมังกร ส่งผลให้อาวุธวิเศษถูกผนึกและไม่สามารถใช้งานได้</Desc>
+		</Text>
+		<Text Name="LcForbidSkill">
+			<DisplayName>ผนึกปราณเวท</DisplayName>
+			<Desc>ด้วยเสียงเปลวเพลิงของหงส์เพลิงทมิฬ ส่งผลให้ปราณเวทถูกผนึกและไม่สามารถใช้งานได้</Desc>
+		</Text>
+		<Text Name="LcConfuse">
+			<DisplayName>สับสน</DisplayName>
+			<Desc>สับสน</Desc>
+		</Text>
+		<Text Name="LcTrainEffect">
+			<DisplayName>เทคนิคพิเศษการฝึกทั่วไป</DisplayName>
+			<Desc>เทคนิคพิเศษการฝึกทั่วไป</Desc>
+		</Text>
+	</List>
+</Texts>

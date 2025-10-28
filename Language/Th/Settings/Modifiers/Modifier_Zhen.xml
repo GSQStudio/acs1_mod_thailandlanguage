@@ -1,0 +1,50 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Zhen_XianTianMuLing">
+			<DisplayName>อาณาเขตแกนพฤกษา</DisplayName>
+			<Desc>กระตุ้นศักยภาพของร่างกายและปรับปรุงความทนทานต่อการบาดเจ็บทางร่างกาย</Desc>
+		</Text>
+		<Text Name="Zhen_ZTLYQLSJ">
+			<DisplayName>อาณาเขตสวรรค์ร่มรื่น</DisplayName>
+			<Desc>ยกระดับสภาพอารมณ์, สภาวะจิตและความเร็วในการบ่มเพาะ</Desc>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower1">
+			<DisplayName>ภาระของค่ายกลต่ำ</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower2">
+			<DisplayName>ภาระของค่ายกลปานกลาง</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower3">
+			<DisplayName>ภาระของค่ายกลสูง</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower4">
+			<DisplayName>ค่ายกลขั้นสูง</DisplayName>
+		</Text>
+		<Text Name="Zhen_FashuhejiEffect">
+			<DisplayName>การโจมตีด้วยคาถาร่วม</DisplayName>
+			<Desc>ร่ายปราณเวทครั้งต่อไปจะเป็นการรวบพลังปราณเวทของทุกคนที่อยู่ในค่ายกล</Desc>
+		</Text>
+		<Text Name="Zhen_LinkEffect">
+			<DisplayName>วางค่ายกล</DisplayName>
+		</Text>
+		<Text Name="Zhen_LinkEffectCore">
+			<DisplayName>แกนหลัก</DisplayName>
+		</Text>
+		<Text Name="Zhen_RevealEffect">
+			<DisplayName>เผยแกนย่อย</DisplayName>
+			<Desc>ในตอนนี้ตำแหน่งแกนย่อยได้ถูกเปิดเผย การโตมตีจะทำความเสียหายเพิ่มเติม ทว่ามันสามารถถูกปกปิดได้โดยการปรับเปลี่ยนรูปแบบค่ายกล</Desc>
+		</Text>
+		<Text Name="Zhen_CancelZhenRecover">
+			<DisplayName>ฟื้นฟูค่ายกล</DisplayName>
+			<Desc>ค่ายกลกำลังฟื้นตัว</Desc>
+		</Text>
+		<Text Name="Zhen_ChangeEffect">
+			<DisplayName>เปลี่ยนค่ายกล</DisplayName>
+			<Desc>แกนหลักได้ถูกเปลี่ยนแปลงชั่วคราว แต่การเปลี่ยนแปลงจะย้อนกลับเป็นแบบเดิมหลังจากผ่านไประยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="BDPW_Lock">
+			<DisplayName>เล็ง</DisplayName>
+			<Desc>ถูกทำลายเครื่องหมายโดยการต่อสู้</Desc>
+		</Text>
+	</List>
+</Texts>

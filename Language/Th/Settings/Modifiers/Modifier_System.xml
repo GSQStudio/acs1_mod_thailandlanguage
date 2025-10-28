@@ -1,0 +1,391 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SysNpcPuppet">
+			<DisplayName>หุ่นเชิด</DisplayName>
+			<Desc>หุ่นเชิดที่จะเสื่อมสภาพเรื่อยๆ ในการใช้งานประจำวันและมันไม่สามารถซ่อมแซมได้</Desc>
+		</Text>
+		<Text Name="SysInfiPuppet">
+			<DisplayName>หุ่นเชิดหกวิถี</DisplayName>
+			<Desc>หุ่นเชิดชนิดนี้สร้างขึ้นมาจากวัสดุพิเศษ มันจะไม่เสื่อมสภาพในการใช้งานประจำวัน ทว่ามันยังสามารถถูกทำลายได้หากถูกโจมตี</Desc>
+		</Text>
+		<Text Name="SysNewYearLink">
+			<DisplayName>สุขสันต์เทศกาลฤดูใบไม้ผลิ</DisplayName>
+		</Text>
+		<Text Name="SysNewYear">
+			<DisplayName>สุขสันต์เทศกาลฤดูใบไม้ผลิ</DisplayName>
+			<Desc>สัตว์ประหลาดที่จะนำพาความโชคดีมาตลอดทั้งปี</Desc>
+		</Text>
+		<Text Name="SysNewYear2">
+			<DisplayName>สุขสันต์เทศกาลฤดูใบไม้ผลิ</DisplayName>
+			<Desc>สัตว์ประหลาดที่จะนำพาความโชคดีมาตลอดทั้งปี</Desc>
+		</Text>
+		<Text Name="SysWuDiYa">
+			<DisplayName>เป็ดคงกระพัน</DisplayName>
+		</Text>
+		<Text Name="SysExploreModifier">
+			<DisplayName>กำลังสำรวจ...</DisplayName>
+		</Text>
+		<Text Name="SysCallUp">
+			<DisplayName>ตื่น</DisplayName>
+			<Desc>จู่ๆ ก็ตื่นนอนอย่างกะทันหันและไม่สามารถข่มตาหลับได้อีก</Desc>
+		</Text>
+		<Text Name="SysDreamCantSleep">
+			<DisplayName>นอนไม่หลับ</DisplayName>
+			<Desc>การนอนหลับถูกขัดจังหวะด้วยเหตุผลบางประการ ทำให้ไม่สามารถกลับไปนอนต่อได้ชั่วขณะหนึ่ง</Desc>
+		</Text>
+		<Text Name="SysDemonColdDown">
+			<DisplayName>ทำให้เป็นทาส CD</DisplayName>
+		</Text>
+		<Text Name="SysGodPractice">
+			<DisplayName>ต้านทาน</DisplayName>
+			<Desc>ควบคุมปราณเพื่อต่อต้านและยืดระยะเวลาที่ทัณฑ์สวรรค์จะมาถึง</Desc>
+		</Text>
+		<Text Name="SysTeacherModifier">
+			<DisplayName>ผู้ฝึกตนลึกลับ</DisplayName>
+			<Desc>มาพักอาศัยอยู่ชั่วคราวและจะจากไปเมื่อผ่านไประยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="SysVistorModifier">
+			<DisplayName>ผู้มาเยือน</DisplayName>
+			<Desc>มาพักอาศัยอยู่ชั่วคราวและจะจากไปเมื่อผ่านไประยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="SysGodMonsterModifier">
+			<DisplayName>ผู้มาพัก</DisplayName>
+			<Desc>มาพักอาศัยอยู่ชั่วคราวและจะจากไปเมื่อผ่านไประยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="SysFlyingModifier">
+			<DisplayName>กำลังบิน...</DisplayName>
+		</Text>
+		<Text Name="SysPracticeDie">
+			<DisplayName>รากฐานถูกทำลาย</DisplayName>
+			<Desc>ยามเมื่อรากฐานถูกทำลายจะทำให้คนผู้นั้นไม่สามารถก้าวหน้าในวิถีแห่งการฝึกตนได้อีกไม่ว่าจะพยายามไปมากแค่ไหนก็ตาม</Desc>
+		</Text>
+		<Text Name="SysExploreEatModifier">
+			<DisplayName>ดื่มด่ำกับอาหาร</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Positive">
+			<DisplayName>อาวุธวิเศษเชื่อมจิต</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Same">
+			<DisplayName>อาวุธวิเศษหนึ่งเดียวกัน</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Negative">
+			<DisplayName>พึ่งพาอาวุธวิเศษ</DisplayName>
+		</Text>
+		<Text Name="SysEndureHunger">
+			<DisplayName>อดทนต่อความหิวโหย</DisplayName>
+			<Desc>เมื่อกินอาหารแห้งแล้วจะทนต่อความหิวได้มากขึ้น</Desc>
+		</Text>
+		<Text Name="Illusion1">
+			<DisplayName>ประสาทหลอน</DisplayName>
+			<Desc>โอ้ ช่างเป็นโลกที่วิเศษเหลือเกิน!</Desc>
+		</Text>
+		<Text Name="Illusion2">
+			<DisplayName>ประสาทหลอน</DisplayName>
+			<Desc>อี๊ มันช่าน่าขยะแขยงจริงๆ!</Desc>
+		</Text>
+		<Text Name="Illusion3">
+			<DisplayName>ประสาทหลอน</DisplayName>
+			<Desc>เริ่มมีอาการประสาทหลอนหลังจากกินเห็ดแปลกๆ รักการนอนมากๆๆๆๆๆๆ</Desc>
+		</Text>
+		<Text Name="Illusion4">
+			<DisplayName>ประสาทหลอน</DisplayName>
+			<Desc>เริ่มมีอาการประสาทหลอนหลังจากกินเห็ดแปลกๆ ภาพที่มองผ่านดวงตาดูเหมือนจะเหมือนกันแต่ก็ต่างกันราวกับอยู่ในอาณาจักรแห่งมายา</Desc>
+		</Text>
+		<Text Name="NegativeTime">
+			<DisplayName>ขี้เกียจการทำงาน</DisplayName>
+			<Desc>ชีวิตเช่นนี้มันช่างยุ่งยากวุ่นวาย ข้าไม่เต็มใจที่จะทำงาน [color=#D06508](สภาวะนี้จะหายไปเมื่อค่าอารมณ์มากกว่า 45)[/color]</Desc>
+		</Text>
+		<Text Name="NegativeTime_Hearten">
+			<DisplayName>ร่าเริงขึ้น</DisplayName>
+			<Desc>ชีวิตต้องดำเนินต่อไป จงร่าเริงและก้าวต่อไป</Desc>
+		</Text>
+		<Text Name="Dissatisfaction">
+			<DisplayName>ไม่มีความสุข</DisplayName>
+			<Desc>พอกันทีกับชีวิตบัดซบเช่นนี้...</Desc>
+		</Text>
+		<Text Name="SysDoBasePractice">
+			<DisplayName>ฝึกฝนทักษะยุทธ์</DisplayName>
+		</Text>
+		<Text Name="SysTooTired">
+			<DisplayName>เหนื่อยล้า</DisplayName>
+		</Text>
+		<Text Name="Sys_JieNanShenyu">
+			<DisplayName>คำสาปแห่งความปรารถนา</DisplayName>
+			<Desc>ปริมาณการใช้พื้นฐานเพิ่มขึ้น 5 เท่า</Desc>
+		</Text>
+		<Text Name="Sys_JieNanZhenkong">
+			<DisplayName>คำสาปแห่งความว่างเปล่า</DisplayName>
+			<Desc>สูญเสียความสามารถในร่ายคาถา</Desc>
+		</Text>
+		<Text Name="Sys_JieNanHuangu">
+			<DisplayName>คำสาปของโครงกระดูก</DisplayName>
+			<Desc>กระดูกของท่านจะได้รับความเสียหายเป็นระยะๆ</Desc>
+		</Text>
+		<Text Name="Sys_WorkBroken">
+			<DisplayName>แสวงหาแรงบันดาลใจ</DisplayName>
+			<Desc>หลังจากสูญเสียพลังปราณทั้งหมดไปก็ได้กลับไปฝึกฝนในฐานะศิษย์สายนอกด้วยจิตใจที่หวังว่าจะพบแนวคิดใหม่ๆ และวิธีที่จะทะลวงขอบเขตไปได้</Desc>
+		</Text>
+		<Text Name="Sys_MasterHelp">
+			<DisplayName>ปกป้อง</DisplayName>
+			<Desc>อาจารย์ของท่านให้การป้องกันแก่ท่าน ส่งผลให้ค่าสภาวะจิตมั่นคงขึ้น</Desc>
+		</Text>
+		<Text Name="Sys_DrugTime">
+			<DisplayName>ผลของโอสถ</DisplayName>
+		</Text>
+		<Text Name="Sys_FabaoPowerAdd">
+			<DisplayName>เพิ่มพลังของอาวุธวิเศษ</DisplayName>
+		</Text>
+		<Text Name="Sys_SkillPowerAdd">
+			<DisplayName>เพิ่มพลังของปราณเวท</DisplayName>
+		</Text>
+		<Text Name="Sys_SheildPowerAdd">
+			<DisplayName>เพิ่มพลังของเกราะปราณ</DisplayName>
+		</Text>
+		<Text Name="SeeGod">
+			<DisplayName>สวรรค์ชำระล้าง</DisplayName>
+			<Desc>การได้ร่วมเป็นสักขีพยานในการจุติขึ้นสู่แดนสวรรค์นั้นมันค่อนข้างน่าตื่นเต้นมากทีเดียว</Desc>
+		</Text>
+		<Text Name="BasePracticeAchievements1">
+			<DisplayName>เพิ่มพูนพื้นฐานขึ้นเล็กน้อย</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements2">
+			<DisplayName>เพิ่มพูนพื้นฐานขึ้นปานกลาง</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements3">
+			<DisplayName>เพิ่มพูนพื้นฐาน</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements4">
+			<DisplayName>เพิ่มพูนพื้นฐาน (ศรัทธา)</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements5">
+			<DisplayName>เพิ่มพูนพื้นฐาน (ฝึกฝนร่างกาย)</DisplayName>
+		</Text>
+		<Text Name="Sys_Demon">
+			<DisplayName>อสูร ([TXT])</DisplayName>
+			<Desc>แปลงร่างอสูรด้วยเหตุบางประการ</Desc>
+		</Text>
+		<Text Name="FengShui1">
+			<DisplayName>ดินแดนศักดิ์สิทธิ์</DisplayName>
+		</Text>
+		<Text Name="FengShui2">
+			<DisplayName>มหามงคล</DisplayName>
+		</Text>
+		<Text Name="FengShui3">
+			<DisplayName>เป็นมงคลเล็กน้อย</DisplayName>
+		</Text>
+		<Text Name="FengShui4">
+			<DisplayName>อัปมงคลเล็กน้อย</DisplayName>
+		</Text>
+		<Text Name="FengShui5">
+			<DisplayName>โครตอัปมงคล</DisplayName>
+		</Text>
+		<Text Name="FengShui6">
+			<DisplayName>ดินแดนต้องสาป</DisplayName>
+		</Text>
+		<Text Name="Sys_AbsorbGong_5">
+			<DisplayName>ระเบิดห้วงอารมณ์</DisplayName>
+			<Desc>เป้าหมายถูกร่ายเวทระเบิดห้วงอารมณ์เข้าใส่และทำให้อารมณ์อ่อนไหวได้ง่ายขึ้น เมื่ออยู่ในอารมณ์สุดขีด (มากกว่า 160 หรือต่ำกว่า 40) ก็จะเพิ่มค่าแนวคิดและพื้นฐานฝึกตนให้แก่ผู้ร่าย</Desc>
+		</Text>
+		<Text Name="Sys_AbsorbGong_6">
+			<DisplayName>ปรสิตวิญญาณ</DisplayName>
+			<Desc>เป้าหมายถูกร่ายเวทแฝงวิญญาณเข้าใส่ ส่งผลให้รากฐานการฝึกของเป้าหมายเปลี่ยนเป็นพื้นฐานฝึกตนให้แก่ผู้ร่ายในเวลาเที่ยงคืนตรงของทุกๆ วัน ผลข้างเคียงจะทำให้เป้าหมายอ่อนเพลีย, ค่าสถานะทั้งห้าลดลงและประสิทธิภาพการทำงานลดลง</Desc>
+		</Text>
+		<Text Name="Sys_ShenXiu_Magic_JingXin">
+			<DisplayName>ทำจิตใจให้สงบ</DisplayName>
+			<Desc>ตอนนี้อารมณ์ของบุคคลผู้นี้สงบลงแล้ว</Desc>
+		</Text>
+		<Text Name="Sys_DaoLv">
+			<DisplayName>มิตรภาพ</DisplayName>
+			<Desc>เมื่ออยู่ร่วมกับเพื่อนของข้า ข้ารู้สึกได้ถึงความสามัคคีที่แข็งแกร่งระหว่างเรา ซึ่งช่วยเพิ่มประสิทธิภาพของฝึกตนได้อย่างมาก</Desc>
+		</Text>
+		<Text Name="Sys_Zombie">
+			<DisplayName>ผีดิบ</DisplayName>
+		</Text>
+		<Text Name="Sys_Jianglingfenshen">
+			<DisplayName>การอุปบัติของร่างจำแลง</DisplayName>
+			<Desc>ร่างจำแลงของบรรพชนที่เคยจุติขึ้นสู่แดนสวรรค์จะลงมาช่วยในการต่อสู้และจะจากไปเมื่อผ่านไประยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="Sys_Jianglingjiangdao">
+			<DisplayName>การอุปบัติของร่างจำแลง</DisplayName>
+			<Desc>ร่างจำแลงของบรรพชนที่เคยจุติขึ้นสู่แดนสวรรค์จะลงมาช่วยสอนและจะจากไปเมื่อผ่านไประยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_ZangMenDebuff">
+			<DisplayName>คับอกคับใจ (เจ้าสำนัก)</DisplayName>
+			<Desc>เจ้าสำนักรู้สึกเครียดเป็นอย่างมากเนื่องจากภาระหนักที่ต้องคอยจัดการดูแลสำนัก ซึ่งทำให้ค่าสถานะที่เกี่ยวข้องกับฝึกตนลดลงรวมถึงสภาวะจิต, ความเร็วฝึกตน, ความเร็วในการได้รับแนวคิด และโอกาสสำเร็จในการทะลวงขอบเขต ยิ่งมีสาขาย่อยในสำนักมากเท่าไร ความเครียดก็ยิ่งมากขึ้นเท่านั้น ความเครียดสามารถลดลงได้ในระดับหนึ่ง ซึ่งขึ้นอยู่กับทักษะการจัดการของเจ้าสำนัก</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_TangZhuDebuff">
+			<DisplayName>คับอกคับใจ (หัวหน้าสาขา)</DisplayName>
+			<Desc>หัวหน้าสาขารู้สึกเครียดเป็นอย่างมากเนื่องจากภาระหนักที่ต้องคอยจัดการดูแลเหล่าลูกศิษย์ภายในสาขาของตน ซึ่งทำให้ค่าสถานะที่เกี่ยวข้องกับฝึกตนลดลงรวมถึงสภาวะจิต, ความเร็วฝึกตน, ความเร็วในการได้รับแนวคิด และโอกาสสำเร็จในการทะลวงขอบเขต ยิ่งมีจำนวนศิษย์ในสาขามากเท่าไร ความเครียดก็ยิ่งมากขึ้นเท่านั้น ความเครียดสามารถลดลงได้ในระดับหนึ่ง ซึ่งขึ้นอยู่กับทักษะการจัดการของเจ้าสำนัก</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_ZangMenDebuff_Old">
+			<DisplayName>อ่อนล้า</DisplayName>
+			<Desc>ถึงแม้ว่าท่านจะไม่ได้เป็นเจ้าสำนักอีกต่อไป ความเครียดอย่างหนักที่ท่านได้รับเมื่อครั้งจัดการดูแลสำนักนั้นไม่สามารถบรรเทาลงอย่างง่ายดายภายในระยะเวลาอันสั้น ลดค่าสถานะที่เกี่ยวข้องกับฝึกตนรวมไปถึงสภาวะจิตอีกด้วย ความเร็วฝึกตน, ความเร็วในการได้รับแนวคิด และโอกาสสำเร็จในการทะลวงขอบเขต</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_TangZhuDebuff_Old">
+			<DisplayName>อ่อนล้า</DisplayName>
+			<Desc>ถึงแม้ว่าท่านจะไม่ได้เป็นหัวหน้าสาขาอีกต่อไป ความเครียดอย่างหนักที่ท่านได้รับเมื่อครั้งจัดการดูแลสาขานั้นไม่สามารถบรรเทาลงอย่างง่ายดายภายในระยะเวลาอันสั้น ลดค่าสถานะที่เกี่ยวข้องกับฝึกตนรวมไปถึงสภาวะจิตอีกด้วย ความเร็วฝึกตน, ความเร็วในการได้รับแนวคิด และโอกาสสำเร็จในการทะลวงขอบเขต</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_NoAreaBuff">
+			<DisplayName>ไม่มีพื้นที่โบนัส</DisplayName>
+			<Desc>ด้วยความไร้สามารถของหัวหน้าสาขา เหล่าศิษย์ในสาขานี้จะไม่ได้รับพื้นที่โบนัส</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_NoAllBuff">
+			<DisplayName>ไม่มีโบนัสพื้นฐาน</DisplayName>
+			<Desc>ด้วยความไร้สามารถของหัวหน้าสาขา เหล่าศิษย์ในสาขานี้จะไม่ได้รับโบนัสพื้นฐานทั่วไป</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Dan">
+			<DisplayName>ผู้เชี่ยวชาญการหลอมโอสถ (ศิษย์สายใน)</DisplayName>
+			<Desc>ศิษย์สายในจะยกระดับความเร็วในการหลอมโอสถ, อัตราความสำเร็จในการหลอมและผลผลิตในการหลอมภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Dan">
+			<DisplayName>ผู้เชี่ยวชาญการหลอมโอสถ (ศิษย์สายนอก)</DisplayName>
+			<Desc>ศิษย์สายนอกจะยกระดับความสามารถในการปรุงยาและความสามารถในการรักษาภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Dan">
+			<DisplayName>ผู้เชี่ยวชาญการหลอมโอสถ (ถาวร)</DisplayName>
+			<Desc>ยกระดับทักษะการรักษา, ทักษะการหลอมโอสถและค่าการรับรู้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น (โบนัสความเชี่ยวชาญแบบถาวรจะรีเฟรชทุกๆ 1 วัน)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Qi">
+			<DisplayName>ผู้เชี่ยวชาญการหลอมอาวุธวิเศษ (ศิษย์สายใน)</DisplayName>
+			<Desc>ศิษย์สายในจะยกระดับความเร็วในการหลอมอาวุธวิเศษ, โอกาศสำเร็จในการหลอม, ระดับและคุณภาพของอาวุธวิเศษภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Qi">
+			<DisplayName>ผู้เชี่ยวชาญการหลอมอาวุธวิเศษ (ศิษย์สายนอก)</DisplayName>
+			<Desc>ศิษย์สายนอกจะยกระดับทักษะการประดิษฐ์ภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Qi">
+			<DisplayName>ผู้เชี่ยวชาญการหลอมอาวุธวิเศษ (ถาวร)</DisplayName>
+			<Desc>ยกระดับระดับทักษะการประดิษฐ์, ทักษะการหลอมอาวุธวิเศษและค่าความอึด ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น (โบนัสความเชี่ยวชาญแบบถาวรจะรีเฟรชทุกๆ 1 วัน)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Zhan">
+			<DisplayName>ผู้เชี่ยวชาญการต่อสู้ (ศิษย์สายใน)</DisplayName>
+			<Desc>ศิษย์สายในจะยกระดับความทนทานและการอดทนต่อความเจ็บปวดภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Zhan">
+			<DisplayName>ผู้เชี่ยวชาญการต่อสู้ (ศิษย์สายนอก)</DisplayName>
+			<Desc>ศิษย์สายนอกจะยกระดับความทนทานและการอดทนต่อความเจ็บปวดภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Zhan">
+			<DisplayName>ผู้เชี่ยวชาญการต่อสู้ (ถาวร)</DisplayName>
+			<Desc>ยกระดับทักษะที่เกี่ยวข้องในการต่อสู้ รวมไปถึงระดับทักษะการต่อสู้, ค่าการรับรู้และค่าความอึด ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น (โบนัสความเชี่ยวชาญแบบถาวรจะรีเฟรชทุกๆ 1 วัน)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_XiuLian">
+			<DisplayName>ผู็เชี่ยวชาญด้านฝึกตน (ศิษย์สายใน)</DisplayName>
+			<Desc>ศิษย์สายในจะยกระดับสภาวะจิต, ความเร็วการบ่มเพาะ, การได้รับแนวคิดและโอกาสในการทะลวงขอบเขตภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_XiuLian">
+			<DisplayName>ผู็เชี่ยวชาญด้านฝึกตน (ศิษย์สายนอก)</DisplayName>
+			<Desc>ศิษย์สายนอกจะยกระดับความเร็วในการฝึกรากฐานภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_XiuLian">
+			<DisplayName>ผู็เชี่ยวชาญด้านฝึกตน (ถาวร)</DisplayName>
+			<Desc>ยกระดับสัมผัสปราณและสติปัญญา ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น (โบนัสความเชี่ยวชาญแบบถาวรจะรีเฟรชทุกๆ 1 วัน)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_WaiShi">
+			<DisplayName>ผู้เชี่ชวชาญด้านการผจญภัย (ศิษย์สายใน)</DisplayName>
+			<Desc>ศิษย์สายในจะได้รับโบนัสประสิทธิภาพทั่วไปเมื่อภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_WaiShi">
+			<DisplayName>ผู้เชี่ชวชาญด้านการผจญภัย (ศิษย์สายนอก)</DisplayName>
+			<Desc>ศิษย์สายนอกจะได้รับโบนัสประสิทธิภาพทั่วไปเมื่อภายในอาณาเขตของสาขานี้ ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_WaiShi">
+			<DisplayName>ผู้เชี่ชวชาญด้านการผจญภัย(ถาวร)</DisplayName>
+			<Desc>ยกระดับคุณลักษณะต่างๆ เช่น ความเร็วในการผจญภัย ,โบนัสการได้รับชื่อเสียง ,ความเร็วในการทะลวงขอบเขตผ่านการผจญภัย ,ระดับทักษะทางสังคม ,ความีเสน่ห์และโชค ยิ่งหัวหน้าสาขามีความสามารถมากเท่าไหร่ โบนัสก็จะยิ่งมากขึ้นเท่านั้น (โบนัสความเชี่ยวชาญแบบถาวรจะรีเฟรชทุกๆ 1 วัน)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Magic_Prophesy">
+			<DisplayName>ทำนายวัฏจักรชะตาฟ้า</DisplayName>
+			<Desc>เมื่อมีบางสิ่งกำลังจะเกิดขึ้น จะมีการบอกใบ้ล่วงหน้า</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CanNotExperience">
+			<DisplayName>เหม่อลอย</DisplayName>
+			<Desc>ศิษย์คนนี้เพิ่งกลับมาจากการผจญภัยอันยาวนาน และต้องการเวลาในการทำสมาธิเพื่อทำให้การพื้นฐานการบ่มเพาะของพวกเขามีเสถียรภาพ</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CanNotExperienceHide">
+			<DisplayName>ไม่สามารถเริ่มการผจญภัยได้</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_TameCD">
+			<DisplayName>ช่วงเวลาการให้อาหาร</DisplayName>
+			<Desc>สัตว์ตัวนี้เพิ่งได้รับอาหาร</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_GodMode">
+			<DisplayName>คงกระพัน</DisplayName>
+			<Desc>สถานะอยู่ยงคงกระพัน</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CantSelect">
+			<DisplayName>ไม่สามารถเลือกได้</DisplayName>
+		</Text>
+		<Text Name="Mini_Follow">
+			<DisplayName>สัตว์อสูรวิญญาณ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_Fenshenshang">
+			<DisplayName>ท้อแท้</DisplayName>
+			<Desc>ตกอยู่ในสภาวะอ่อนแอหลังจากทำการแยกวิญญาณ</Desc>
+		</Text>
+		<Text Name="SysConcealmentModifier">
+			<DisplayName>ซ่อนตัว</DisplayName>
+			<Desc>ปกปิดกลิ่นอายตัวเองเพื่อลดโอกาสในการถูกค้นพบ \nใช้เวลา 5 วินาทีเพื่อยกเลิกการซ่อนตัว</Desc>
+		</Text>
+		<Text Name="SysConcealmentRobModifier">
+			<DisplayName>ขโมย</DisplayName>
+			<Desc>โอกาสถูกค้นพบเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_WinterWarm">
+			<DisplayName>หนอนหิมะ</DisplayName>
+			<Desc>ต้านทานความเย็นเพิ่มขึ้นหลังจากกินหนอนหิมะ</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_SummerHerb">
+			<DisplayName>หญ้าคิมหันต์</DisplayName>
+			<Desc>ต้านทานความร้อนเพิ่มขึ้นหลังจากกินหญ้าคิมหันต์</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_SuppressGodCall">
+			<DisplayName>ระงับ</DisplayName>
+			<Desc>ฝืนระงับทัณฑ์สวรรค์ที่กำลังจะมาถึง</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CangJingGe">
+			<DisplayName>สภาพแวดล้อมการบ่มเพาะ</DisplayName>
+			<Desc>ขอบคุณคัมภีร์จำนวนมากในสำนักที่ทำให้เหล่าศิษย์สามารถบ่มเพาะปราณและเพิ่มพูนแนวคิดได้เร็วขึ้น</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_ShaLu">
+			<DisplayName>หัวใจแห่งความโหดเหี้ยม</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_ZiQi">
+			<DisplayName>หัวใจแห่งการท้อแท้</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_TanLan">
+			<DisplayName>หัวใจแห่งความละโมบ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_XiangLe">
+			<DisplayName>หัวใจแห่งความสำราญ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_AoMan">
+			<DisplayName>หัวใจแห่งความเย่อหยิ่ง</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_WeiShan">
+			<DisplayName>หัวใจแห่งเมตตา</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_JiaoLv">
+			<DisplayName>หัวใจแห่งความกังวล</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_YiYu">
+			<DisplayName>หัวใจแห่งความเศร้า</DisplayName>
+		</Text>
+		<Text Name="SysNewYearZhulong">
+			<DisplayName>เทศกาลฤดูใบไม้ผลิ</DisplayName>
+			<Desc>มังกรเทียนกำลังเฝ้ามองท่าน และจะจากไปหลังจากผ่านไปได้ระยะเวลาหนึ่ง</Desc>
+		</Text>
+		<Text Name="SysJumpingModifier">
+			<DisplayName>จุติ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Dan_ColdDown">
+			<DisplayName>ดูดซับตัวยา</DisplayName>
+			<Desc>ต้องใช้เวลาพอสมควรในการดูดซึมตัวยาทั้งหมด ในระหว่างนั้น การใช้ยาเพิ่มจะไม่ได้รับประโยชน์ใดๆ</Desc>
+		</Text>
+		<Text Name="SysSprintModifier">
+			<DisplayName>วิ่ง</DisplayName>
+		</Text>
+		<Text Name="System_CGModifier">
+			<DisplayName>เปลี่ยนร่างพิเศษ</DisplayName>
+		</Text>
+	</List>
+</Texts>
