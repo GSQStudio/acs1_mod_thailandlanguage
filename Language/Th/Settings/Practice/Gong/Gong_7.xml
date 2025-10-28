@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_7_Huo">
+			<DisplayName>วิชาบ่มเพาะจิตสะบั้นใจ</DisplayName>
+			<Desc>วิชาบ่มเพาะลับของวังเหนือนภา ผู้ที่คิดฝึกฝนวิชานี้จำเป็นต้องมีเสน่ห์อย่างน่าทึ่ง ผู้ฝึกฝนต้องผ่านการผจญภัยในแดนมนุษย์เพื่อเรียนรู้ความรู้สึกทั้งหมดของมนุษย์ก่อนที่จะละทิ้งความรู้สึกเหล่านั้นไป ตระหนักถึงตัวตนที่แท้จริงท่ามกลางความทุกข์ยากทั้งหมดและปล่อยวางสิ่งเหล่านั้นไปเพื่อจุติขึ้นสู่แดนสวรรค์ ผู้ฝึกฝนมักจะมีความสัมพันธ์ที่ซับซ้อนกับผู้อื่นและประสบกับความรักและความเกลียดชังที่สลับซับซ้อนอันเนื่องมาจากวิธีการบ่มเพาะที่พิเศษ</Desc>
+			<SelectDesc>วิชานี้มีความโดดเด่นในด้านการควบคุมและการใช้ทักษะอาวุธวิเศษ ทว่าผู้ฝึกฝนจะต้องออกเดินทางเพื่อเฝ้าดูวิถีชีวิตของมนุษย์ปุถุชนอยู่บ่อยครั้งในการข้ามผ่านขอบเขตต่างๆ เจ้าแน่ใจหรือไม่ว่าต้องการฝึกฝนวิชานี้?</SelectDesc>
+			<Stages.0.DisplayName>บำเพ็ญตน</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>การผสาน</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>ปลีกวิเวก</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>ความอำมหิต</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>การหลอมกลั่น</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>มหากิเลส</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>ความโลภ</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าเสน่ห์ที่ต่ำ[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>การเกิดใหม่</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>การรู้แจ้ง</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>รู้แจ้งตนเอง</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าเสน่ห์ที่ต่ำ[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>ตัดวิญญาณ</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>อนัตตา</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>วางทิฐิ</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nในการทะลวงขอบเขตในขั้นตอนนี้มันจะเป็นการท้าทายสวรรค์อย่างแท้จริงและจะไม่ได้ค่าโบนัสใดๆ จากขั้นตอนนี้[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>วางตัวตน</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

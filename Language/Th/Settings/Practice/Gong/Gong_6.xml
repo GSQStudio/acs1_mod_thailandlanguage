@@ -1,0 +1,34 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_6_Huo">
+			<DisplayName>วิชาบ่มเพาะเทพโอสถปฐมกาล</DisplayName>
+			<Desc>วิชาบ่มเพาะที่ถูกคิดค้นขึ้นมาโดยเซียนโอสถผู้มากพรสวรรค์ท่านหนึ่ง แม้ว่าวิชานี้จะไม่เชี่ยวชาญในด้านปราณเวทหรือการต่อสู้ใดๆ ทว่าผู้ที่ฝึกฝนวิชานี้สามารถใช้โอสถของตนเพื่อเปิดประตูเซียนผ่านการฝึกฝนขอบเขตทั้ง 9 ภายในวิชาได้ และเมื่อฝึกฝนจนบรรลุถึงความสำเร็จสูงสุดแล้วคนผู้นั้นจะสามารถจุติขึ้นสู่แดนสวรรค์ได้</Desc>
+			<SelectDesc>วิชานี้มีความโดดเด่นในด้านการหลอมโอสถเป็นอย่างมาก การทะลวงขอบเขตในแต่ละขั้นจะต้องใช้โอสถชนิดต่างๆ เป็นตัวผลักดัน เจ้าแน่ใจหรือไม่ว่าต้องการฝึกฝนวิชานี้?</SelectDesc>
+			<Stages.0.DisplayName>เก้าเตาหลอม</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>เก้าเตาหลอม</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>เพลิงสวรรค์</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>เพลิงสวรรค์</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>ศิลานักปราชญ์</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>ศิลานักปราชญ์</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>โอสทองคำ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>โอสทองคำ</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>มหากฏควบแน่น</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>มหากฏควบแน่น</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>แปรเปลี่ยนหมื่นผันแปร</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>แปรเปลี่ยนหมื่นผันแปร</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.5.Necks.0.Desc>
+			<Stages.6.DisplayName>ความบริสุทธิ์</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>ความบริสุทธิ์</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.6.Necks.0.Desc>
+			<Stages.7.DisplayName>มหาสมุทรความทุกข์</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>มหาสมุทรความทุกข์</Stages.7.Necks.0.DisplayName>
+			<Stages.7.Necks.0.Desc>ก้าวผ่านมหาสมุทรแห่งความทุกข์ ด้วยการผสานจิตวิญญาณปฐมกาลของตนเองเข้ากับเต๋าแห่งสวรรค์ คนผู้นั้นจะต้องเผชิญหน้ากับความโกรธเกรี้ยวของสวรรค์โดยตรง</Stages.7.Necks.0.Desc>
+			<Stages.8.DisplayName>หยางบริสุทธิ์</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>หยางบริสุทธิ์</Stages.8.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

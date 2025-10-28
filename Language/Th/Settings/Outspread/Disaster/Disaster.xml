@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Drought">
+			<DisplayName>ภัยแล้ง</DisplayName>
+		</Text>
+		<Text Name="Flood">
+			<DisplayName>น้ำท่วม</DisplayName>
+		</Text>
+		<Text Name="Siberia">
+			<DisplayName>ภัยหนาว</DisplayName>
+		</Text>
+		<Text Name="EarthQuake">
+			<DisplayName>แผ่นดินไหว</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="HeYin">
+			<DisplayName>เมืองสายน้ำหวน</DisplayName>
+			<Desc>เป็นเมืองที่สามารถก่อสร้างสิ่งปลูกสร้างประเภทต่างๆ ได้ และสามารถรับสมัครศิษย์ได้</Desc>
+		</Text>
+		<Text Name="GuanHai">
+			<DisplayName>เมื่องทิวทัศน์สมุทร</DisplayName>
+		</Text>
+		<Text Name="PanShe">
+			<DisplayName>หมู่บ้านหางอสรพิษ</DisplayName>
+		</Text>
+		<Text Name="Feng">
+			<DisplayName>เมืองมหาทรัพย์</DisplayName>
+		</Text>
+		<Text Name="DaLiang">
+			<DisplayName>เมืองต้าเหลียง</DisplayName>
+		</Text>
+	</List>
+</Texts>

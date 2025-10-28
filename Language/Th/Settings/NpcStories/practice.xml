@@ -1,0 +1,234 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Practice">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณ ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็อดคิดไม่ได้ว่าชีวิตนี้มันช่างดีจริงๆ</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็อดคิดไม่ได้ว่าถึงแม้ว่าผู้ฝึกตนนั้นค่อนข้างที่จะทรงพลัง ทว่าหนทางแห่งการฝึกตนนั้นก็ยากลำบากไม่น้อยเลยทีเดียว</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็มีความคิดอยากออกไปผจญภัยในโลกกว้าง</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็ได้รับผลกระทบจากอารมณ์[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณ [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณ [name] อดถอดหายใจทอดยาวออกมาไม่ได้เมื่อพบว่า[obj_gong]นั้นลึกล้ำเป็นอย่างมาก</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณ [name] อดไม่ได้ที่จะสงสัยว่า[obj_gong]นั้นเป็นเหมาะกับตัวเองจริงๆ หรือเปล่า</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็ถอนหายใจออกมาอย่างช่วยไม่ได้ [IT]รู้สึกว่า[obj_esoterica]นั้นมันเป็นคัมภีร์ที่ยอดเยี่ยมจริงๆ</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] รู้สึกอยากที่จะควบคุม[obj_fabao]และบินออกไปจริงๆ</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณ [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกิน[obj_dan]ขึ้นมาอย่างกะทันหัน</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณ [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกระทืบ [obj_friend] ซักครั้งสองครั้ง</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณ [name] ก็นึกถึงห้องบ่มเพาะปราณของ[obj_goodschool]ได้อย่างไม่มีปี่มีขลุ่ย</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังบ่มเพาะปราณจู่ๆ [name] ก็รู้สึกอยากวางมวยกับ[obj_badschool]</Events.23.Story>
+		</Text>
+		<Text Name="Brokening">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็เริ่มรู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] ก็อดคิดไม่ได้ว่าชีวิตนี้มันช่างดีจริงๆ</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] ก็อดคิดไม่ได้ว่าถึงแม้ว่าผู้ฝึกตนนั้นค่อนข้างที่จะทรงพลัง ทว่าหนทางแห่งการฝึกตนนั้นก็ยากลำบากไม่น้อยเลยทีเดียว</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็มีความคิดอยากออกไปผจญภัยในโลกกว้าง</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็ได้รับผลกระทบจากอารมณ์[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] อดถอดหายใจทอดยาวออกมาไม่ได้เมื่อพบว่า[obj_gong]นั้นลึกล้ำเป็นอย่างมาก</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] อดไม่ได้ที่จะสงสัยว่า[obj_gong]นั้นเป็นเหมาะกับตัวเองจริงๆ หรือเปล่า</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็ถอนหายใจออกมาอย่างช่วยไม่ได้ [IT]รู้สึกว่า[obj_esoterica]นั้นมันเป็นคัมภีร์ที่ยอดเยี่ยมจริงๆ</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] รู้สึกอยากที่จะควบคุม[obj_fabao]และบินออกไปจริงๆ</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกิน[obj_dan]ขึ้นมาอย่างกะทันหัน</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกระทืบ [obj_friend] ซักครั้งสองครั้ง</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] ก็นึกถึงห้องบ่มเพาะปราณของ[obj_goodschool]ได้อย่างไม่มีปี่มีขลุ่ย</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกอยากวางมวยกับ[obj_badschool]</Events.23.Story>
+		</Text>
+		<Text Name="BrokenFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] เสียสมาธิเพราะอารมณ์[rand_lable=obj_badmood,obj_goodmood]และนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] รู้สึกคิดถึงบ้านจนเสียสมาธิส่งผลให้การทะลวงขอบเขตล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] ได้ถูก[obj_nearthing] ที่อยู่ใกล้ๆ ดึงดูดสมาธิไปและนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]จนทำให้[IT]เสียสมาธิและนั้นส่งผลให้การทะลวงขอบเขตล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation] จนเสียสมาธิไปและนั้นส่งผลให้การทะลวงขอบเขตล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็เสียสมาธิและนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck] [name] อดไม่ได้ที่จะคิดกังวลเกี่ยวกับการทะลวงไปยังขอบเขตถัดไปและนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังทะลวงขอบเขต[obj_neck]จู่ๆ [name] ก็รู้สึกสงสัยในความสามารถของตัวเองจนเสียสมาธิและนั้นส่งผลให้การทะลวงขอบเขตล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.8.Story>
+		</Text>
+		<Text Name="Golding">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ [name] ก็อดคิดไม่ได้ว่าชีวิตนี้มันช่างดีจริงๆ</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ [name] ก็อดคิดไม่ได้ว่าถึงแม้ว่าผู้ฝึกตนนั้นค่อนข้างที่จะทรงพลัง ทว่าหนทางแห่งการฝึกตนนั้นก็ยากลำบากไม่น้อยเลยทีเดียว</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็มีความคิดอยากออกไปผจญภัยในโลกกว้าง</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็ได้รับผลกระทบจากอารมณ์[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ [name] อดถอดหายใจทอดยาวออกมาไม่ได้เมื่อพบว่า[obj_gong]นั้นลึกล้ำเป็นอย่างมาก</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ [name] อดไม่ได้ที่จะสงสัยว่า[obj_gong]นั้นเป็นเหมาะกับตัวเองจริงๆ หรือเปล่า</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็ถอนหายใจออกมาอย่างช่วยไม่ได้ [IT]รู้สึกว่า[obj_esoterica]นั้นมันเป็นคัมภีร์ที่ยอดเยี่ยมจริงๆ</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] รู้สึกอยากที่จะควบคุม[obj_fabao]และบินออกไปจริงๆ</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกิน[obj_dan]ขึ้นมาอย่างกะทันหัน</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกระทืบ [obj_friend] ซักครั้งสองครั้ง</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำ [name] ก็นึกถึงห้องบ่มเพาะปราณของ[obj_goodschool]ได้อย่างไม่มีปี่มีขลุ่ย</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังสร้างแก่นทองคำจู่ๆ [name] ก็รู้สึกอยากวางมวยกับ[obj_badschool]</Events.23.Story>
+		</Text>
+		<Text Name="Thundering">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์ ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] to take a look</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็อดคิดไม่ได้ว่าชีวิตนี้มันช่างดีจริงๆ</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็อดคิดไม่ได้ว่าถึงแม้ว่าผู้ฝึกตนนั้นค่อนข้างที่จะทรงพลัง ทว่าหนทางแห่งการฝึกตนนั้นก็ยากลำบากไม่น้อยเลยทีเดียว</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็มีความคิดอยากออกไปผจญภัยในโลกกว้าง</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็ได้รับผลกระทบจากอารมณ์[rand_lable=obj_badmood,obj_goodmood]</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์ [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์ [name] อดถอดหายใจทอดยาวออกมาไม่ได้เมื่อพบว่า[obj_gong]นั้นลึกล้ำเป็นอย่างมาก</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์ [name] อดไม่ได้ที่จะสงสัยว่า[obj_gong]นั้นเป็นเหมาะกับตัวเองจริงๆ หรือเปล่า</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็ถอนหายใจออกมาอย่างช่วยไม่ได้ [IT]รู้สึกว่า[obj_esoterica]นั้นมันเป็นคัมภีร์ที่ยอดเยี่ยมจริงๆ</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] รู้สึกอยากที่จะควบคุม[obj_fabao]และบินออกไปจริงๆ</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์ [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกิน[obj_dan]ขึ้นมาอย่างกะทันหัน</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์ [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกระทืบ [obj_friend] ซักครั้งสองครั้ง</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์ [name] ก็นึกถึงห้องบ่มเพาะปราณของ[obj_goodschool]ได้อย่างไม่มีปี่มีขลุ่ย</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังผ่านทัณฑ์สวรรค์จู่ๆ [name] ก็รู้สึกอยากวางมวยกับ[obj_badschool]</Events.22.Story>
+		</Text>
+		<Text Name="RefiningDan">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็อดคิดไม่ได้ว่าชีวิตนี้มันช่างดีจริงๆ</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็อดคิดไม่ได้ว่าถึงแม้ว่าผู้ฝึกตนนั้นค่อนข้างที่จะทรงพลัง ทว่าหนทางแห่งการฝึกตนนั้นก็ยากลำบากไม่น้อยเลยทีเดียว</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็มีความคิดอยากออกไปผจญภัยในโลกกว้าง</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็ได้รับผลกระทบจากอารมณ์[rand_lable=obj_badmood,obj_goodmood]</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] อดถอดหายใจทอดยาวออกมาไม่ได้เมื่อพบว่า[obj_gong]นั้นลึกล้ำเป็นอย่างมาก</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] อดไม่ได้ที่จะสงสัยว่า[obj_gong]นั้นเป็นเหมาะกับตัวเองจริงๆ หรือเปล่า</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็ถอนหายใจออกมาอย่างช่วยไม่ได้ [IT]รู้สึกว่า[obj_esoterica]นั้นมันเป็นคัมภีร์ที่ยอดเยี่ยมจริงๆ</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] รู้สึกอยากที่จะควบคุม[obj_fabao]และบินออกไปจริงๆ</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกิน[obj_dan]ขึ้นมาอย่างกะทันหัน</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกระทืบ [obj_friend] ซักครั้งสองครั้ง</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] ก็นึกถึงห้องบ่มเพาะปราณของ[obj_goodschool]ได้อย่างไม่มีปี่มีขลุ่ย</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกอยากวางมวยกับ[obj_badschool]</Events.24.Story>
+		</Text>
+		<Text Name="RefiningDanFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] เสียสมาธิเพราะอารมณ์[rand_lable=obj_badmood,obj_goodmood]และนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] รู้สึกคิดถึงบ้านจนเสียสมาธิส่งผลให้การหลอมล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] ได้ถูก[obj_nearthing]ที่อยู่ใกล้ๆ ดึงดูดสมาธิไปและนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]จนทำให้[IT]เสียสมาธิและนั้นส่งผลให้การหลอมล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation] จนเสียสมาธิไปและนั้นส่งผลให้การหลอมล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็เสียสมาธิและนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่และนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj] จู่ๆ [name] ก็รู้สึกสงสัยในความสามารถของตัวเองจนเสียสมาธิและนั้นส่งผลให้การทะลวงขอบเขตล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.8.Story>
+		</Text>
+		<Text Name="Refining">
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกอยากร้องไห้</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็อดคิดไม่ได้ว่าชีวิตนี้มันช่างดีจริงๆ</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็อดคิดไม่ได้ว่าถึงแม้ว่าผู้ฝึกตนนั้นค่อนข้างที่จะทรงพลัง ทว่าหนทางแห่งการฝึกตนนั้นก็ยากลำบากไม่น้อยเลยทีเดียว</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็มีความคิดอยากออกไปผจญภัยในโลกกว้าง</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็ได้รับผลกระทบจากอารมณ์[rand_lable=obj_badmood,obj_goodmood]</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] อดถอดหายใจทอดยาวออกมาไม่ได้เมื่อพบว่า[obj_gong]นั้นลึกล้ำเป็นอย่างมาก</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] อดไม่ได้ที่จะสงสัยว่า[obj_gong]นั้นเป็นเหมาะกับตัวเองจริงๆ หรือเปล่า</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ จู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] รู้สึกอยากที่จะควบคุม[obj_fabao]และบินออกไปจริงๆ</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกิน[obj_dan]ขึ้นมาอย่างกะทันหัน</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกระทืบ [obj_friend] ซักครั้งสองครั้ง</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] ก็นึกถึงห้องบ่มเพาะปราณของ[obj_goodschool]ได้อย่างไม่มีปี่มีขลุ่ย</Events.24.Story>
+			<Events.25.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ จู่ๆ [name] ก็รู้สึกอยากวางมวยกับ[obj_badschool]</Events.25.Story>
+		</Text>
+		<Text Name="RefiningFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] เสียสมาธิเพราะอารมณ์[rand_lable=obj_badmood,obj_goodmood] และนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] รู้สึกคิดถึงบ้านจนเสียสมาธิส่งผลให้การหลอมล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] ได้ถูก[obj_nearthing]ที่อยู่ใกล้ๆ ดึงดูดสมาธิไปและนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]จนทำให้[IT]เสียสมาธิและนั้นส่งผลให้การหลอมล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation] จนเสียสมาธิไปและนั้นส่งผลให้การหลอมล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็เสียสมาธิและนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษ [name] อดไม่ได้ที่จะคิดกังวลเกี่ยวกับการทะลวงไปยังขอบเขตถัดไป  และนั่นทำให้[IT]ล้มเหลวและรู้สึกเศร้าเสียใจมาก</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังหลอม[obj]ให้กลายเป็นอาวุธวิเศษจู่ๆ [name] ก็รู้สึกสงสัยในความสามารถของตัวเองจนเสียสมาธิและนั้นส่งผลให้การทะลวงขอบเขตล้มเหลว นั่นทำให้[IT]รู้สึกเศร้าใจมาก</Events.8.Story>
+		</Text>
+		<Text Name="PaintCharm">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็รู้สึกอยากร้องไห้</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็อดคิดไม่ได้ว่าชีวิตนี้มันช่างดีจริงๆ</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็อดคิดไม่ได้ว่าถึงแม้ว่าผู้ฝึกตนนั้นค่อนข้างที่จะทรงพลัง ทว่าหนทางแห่งการฝึกตนนั้นก็ยากลำบากไม่น้อยเลยทีเดียว</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็มีความคิดอยากออกไปผจญภัยในโลกกว้าง</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็ได้รับผลกระทบจากอารมณ์[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj] [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj] [name] อดถอดหายใจทอดยาวออกมาไม่ได้เมื่อพบว่า[obj_gong]นั้นลึกล้ำเป็นอย่างมาก</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj] [name] อดไม่ได้ที่จะสงสัยว่า[obj_gong]นั้นเป็นเหมาะกับตัวเองจริงๆ หรือเปล่า</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็ถอนหายใจออกมาอย่างช่วยไม่ได้ [IT]รู้สึกว่า[obj_esoterica]นั้นมันเป็นคัมภีร์ที่ยอดเยี่ยมจริงๆ</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] รู้สึกอยากที่จะควบคุม[obj_fabao]และบินออกไปจริงๆ</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj] [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกิน[obj_dan]ขึ้นมาอย่างกะทันหัน</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj] [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกระทืบ [obj_friend] ซักครั้งสองครั้ง</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj] [name] ก็นึกถึงห้องบ่มเพาะปราณของ[obj_goodschool]ได้อย่างไม่มีปี่มีขลุ่ย</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังวาด[obj]จู่ๆ [name] ก็รู้สึกอยากวางมวยกับ[obj_badschool]</Events.23.Story>
+		</Text>
+		<Text Name="CastMagic">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ </Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็รู้สึกอยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj] ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name] </Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็รู้สึกอยากจะร้องไห้</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็อดคิดไม่ได้ว่าชีวิตนี้มันช่างดีจริงๆ</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็อดคิดไม่ได้ว่าถึงแม้ว่าผู้ฝึกตนนั้นค่อนข้างที่จะทรงพลัง ทว่าหนทางแห่งการฝึกตนนั้นก็ยากลำบากไม่น้อยเลยทีเดียว</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็มีความคิดอยากออกไปผจญภัยในโลกกว้าง</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็ได้รับผลกระทบจากอารมณ์[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj] [name] อดคิดไม่ได้ว่า[IT]จะสามารถทะลวงขอบเขตของ[obj_neck]ได้หรือไม่</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj] [name] อดถอดหายใจทอดยาวออกมาไม่ได้เมื่อพบว่า[obj_gong]นั้นลึกล้ำเป็นอย่างมาก</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj] [name] อดไม่ได้ที่จะสงสัยว่า[obj_gong]นั้นเป็นเหมาะกับตัวเองจริงๆ หรือเปล่า</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็รู้สึกสงสัยใน[obj_esoterica] มันจะเป็นไปได้ไหมว่าคัมภีร์เล่มนี้นั้นมันมีข้อผิดพลาดอะไรบางอย่าง?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็ถอนหายใจออกมาอย่างช่วยไม่ได้ [IT]รู้สึกว่า[obj_esoterica]นั้นมันเป็นคัมภีร์ที่ยอดเยี่ยมจริงๆ</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] รู้สึกอยากที่จะควบคุม[obj_fabao]และบินออกไปจริงๆ</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj] [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกิน[obj_dan]ขึ้นมาอย่างกะทันหัน</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj] [name] ก็ไม่รู้ว่าทำไมถึงจู่ๆ [IT]ก็รู้สึกอยากกระทืบ [obj_friend] ซักครั้งสองครั้ง</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj] [name] ก็นึกถึงห้องบ่มเพาะปราณของ[obj_goodschool]ได้อย่างไม่มีปี่มีขลุ่ย </Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] ในขณะที่กำลังร่าย[obj]จู่ๆ [name] ก็รู้สึกอยากวางมวยกับ[obj_badschool]</Events.23.Story>
+		</Text>
+	</List>
+</Texts>

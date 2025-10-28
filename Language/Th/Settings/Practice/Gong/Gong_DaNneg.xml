@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_DaNeng">
+			<DisplayName>วิชาการบ่มเพาะลึกลับ</DisplayName>
+			<Desc>วิชาการบ่มเพาะพิเศษซึ่งไม่มีใครรู้จักที่สืบทอดมาแต่โบราณ</Desc>
+			<Stages.0.DisplayName>ลึกลับ</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>ลึกลับ</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>ลึกลับ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>ลึกลับ</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>ลึกลับ</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>ลึกลับ</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>ลึกลับ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>ลึกลับ</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>ลึกลับ</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>ลึกลับ</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>ลึกลับ</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>ลึกลับ</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>ลึกลับ</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>ลึกลับ</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>ลึกลับ</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>ลึกลับ</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>ลึกลับ</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>ลึกลับ</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>ลึกลับ</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>ลึกลับ</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>ลึกลับ</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>ลึกลับ</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>ลึกลับ</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>ลึกลับ</Stages.11.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

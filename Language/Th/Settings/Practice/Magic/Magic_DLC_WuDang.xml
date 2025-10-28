@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsCalmHeart">
+			<DisplayName>เดินปราณสงบจิต</DisplayName>
+			<Desc>ใช้กับตัวละครพันธมิตรเพื่อที่พวกเขาจะได้ไม่ต้องการอาหาร, น้ำ, หรือการนอนหลับเป็นเวลา 3 วัน ทว่าการเคลื่อนไหวของพวกเขาจะช้าลง</Desc>
+			<TargetDesc>เลือกตัวละครที่เป็นมิตร</TargetDesc>
+		</Text>
+		<Text Name="LsShapeshift">
+			<DisplayName>ผนึกทัณฑ์สวรรค์</DisplayName>
+			<Desc>หน่วงเวลาทัณฑ์เปลี่ยนร่างของตัวละครที่เป็นพันธมิตรโดยแลกกับอายุขัย</Desc>
+			<TargetDesc>เลือกตัวละครที่เป็นมิตรที่กำลังจะเผชิญหน้ากับทัณฑ์เปลี่ยนร่าง</TargetDesc>
+		</Text>
+		<Text Name="LsLingWater">
+			<DisplayName>ดินธรรมชาติ</DisplayName>
+			<Desc>เปลี่ยนพื้นที่ให้เป็นดินวิญญาณโดยใช้การเติบโตและโภชนาการของตัวเอง อย่างไรก็ตาม น้ำในบริเวณใกล้เคียงจะกลายเป็นน้ำธรรมดา</Desc>
+			<TargetDesc>เลือกพื้นที่ว่างบนพื้นดิน</TargetDesc>
+		</Text>
+	</List>
+</Texts>

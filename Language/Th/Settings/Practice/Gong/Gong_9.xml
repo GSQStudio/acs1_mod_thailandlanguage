@@ -1,0 +1,42 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_9_Mu">
+			<DisplayName>วิชาบ่มเพาะหกวิถีกำเนิดใหม่</DisplayName>
+			<Desc>หนึ่งในห้าวิชาบ่มเพาะกฎธาตุที่แท้จริงของสำนักไท้อี้ ในการฝึกวิชานี้ผู้ฝึกจะทรงพลังเป็นอย่างในตอนที่ก้าวเข้าสู่ขั้นต้นในแต่ละขอบเขต แต่เมื่อการบ่มเพาะก้าวหน้า พลังของพวกเขาจะค่อยๆ เสื่อมถอยไปทีละขั้น จนสุดท้ายแล้วพวกเขาจะอ่อนแอราวกับมนุษย์ธรรมดาคนหนึ่งจนกว่าพวกเขาจะสามารถฝ่าวัฏจักรแห่งการแรกเกิดและทะลวงข้ามไปยังขอบเขตที่สูงกว่าได้ ดังนั้นถึงแม้ว่าวิชาการบ่มเพาะนี้จะเป็นที่นิยมไม่น้อยในหมู่ศิษย์สำนักไท้อี้ ทว่าผู้ที่สามารถฝึกฝนมันจนบรรลุถึงแก่นแท้ของวิชานั้นกลับมีไม่มากนัก</Desc>
+			<SelectDesc>วิชานี้ทรงพลังและโดดเด่นในด้านการต่อสู้ ทว่ากลับอ่อนแอในด้านการหลอมอาวุธวิเศษและการหลอมโอสถ อย่างไรก็ตาม ผู้ที่ฝึกตนวิชานี้จะต้องผ่านประสบการณ์ในการกลับชาติมาเกิดซ้ำไปซ้ำมาและค่อยๆ สูญเสียพลังไปเรื่อยๆ จนกว่าจะบรรลุจุดสูงสุดของวิชาและจุติขึ้นสู่แดนสวรรค์ เจ้าแน่ใจหรือไม่ว่าต้องการฝึกฝนวิชานี้?</SelectDesc>
+			<Stages.0.DisplayName>วิถีแห่งมนุษย์</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>แรกเกิด</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปัญญาต่ำ[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>การเสื่อมถอย</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>การกลับชาติเกิดใหม่</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปัญญาต่ำ[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>วิถีแห่งสรรพสัตว์</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>แรกเกิด</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปัญญาต่ำ[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>การเสื่อมถอย</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>การกลับชาติเกิดใหม่</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>วิถีแห่งภูติผี</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>แรกเกิด</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปัญญาต่ำ[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>การเสื่อมถอย</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>การกลับชาติเกิดใหม่</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปัญญาต่ำ[/color]</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>วิถีแห่งอสูร</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>แรกเกิด</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปัญญาต่ำ[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>การเสื่อมถอย</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>การกลับชาติเกิดใหม่</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>วิถีแห่งนรก</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>แรกเกิด</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปัญญาต่ำ[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>การเสื่อมถอย</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>การกลับชาติเกิดใหม่</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>วิถีแห่งสวรรค์</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>แรกเกิด</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปัญญาต่ำ[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>การเสื่อมถอย</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.2.DisplayName>การกลับชาติเกิดใหม่</Stages.5.Necks.2.DisplayName>
+			<Stages.5.Necks.2.Desc>หลังจากการกลับชาติมาเกิดใหม่ในครั้งนี้ ผู้ฝึกฝนจะละทิ้งวิถีทั้งหกเอาไว้เบื้องหลังและทำการจุติขึ้นสู่แดนสวรรค์เบื้องบน</Stages.5.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>

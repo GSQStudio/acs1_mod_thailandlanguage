@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_5_Tu">
+			<DisplayName>วิชาบ่มเพาะปราณดึงสวรรค์</DisplayName>
+			<Desc>เมื่อสมัยบรรพกาล โลกได้ถูกบังคับให้แยกออกจากสวรรค์ เหตุการณ์นี้ทำให้ปราณสวรรค์บนโลกมนุษย์ที่เคยอุดมสมบูรณ์กลายเป็นแห้งเหือดและเหล่าผู้ฝึกตนก็มิอาจทำการจุติขึ้นสู่งแดนสวรรค์ได้อีกต่อไป ด้วยความสิ้นหวัง ก็ได้มีผู้ฝึกตนที่มีพรสวรรค์อันไร้ที่เปรียบคนหนึ่งไม่พอใจในสิ่งที่สวรรค์ทำจึงได้คิดค้นวิชาบ่มเพาะวิชาหนึ่งขึ้นมา วิชาที่ว่านี้นั้นไม่ได้พึ่งพาปราณจากสวรรค์ในการฝึกตนหากแต่ใช้พลังแห่งชีวิตภายในร่างของตนในการก้าวผ่านขอบเขตต่างๆ ไป ดังนั้นวิชานี้จึงเหมาะสมกับผู้ที่มีร่างกายแข็งแรงสมบูรณ์เท่านั้น อีกทั้งยังอาจจะต้องพึงพาโอสถจำนวนมากในการเพิ่มพลังชีวิตและยืดอายุขัยเพื่อบรรลุถึงจุดสูงสุดของวิชา</Desc>
+			<SelectDesc>วิชานี้โดดเด่นในด้านพลังป้องกันเป็นอย่างมาก และตราบใดที่ผู้ฝึกสามารถฝึกได้จนถึงจุดที่กำหนด คนๆ นั้นก็จะสามารถบรรลุขอบเขตแก่นทองคำได้อย่างง่ายดาย อย่างไรก็ตามการฝึกฝนวิชานี้จำเป็นต้องใช้พลังชีวิตและอายุขัยจำนวนมาก เจ้าแน่ใจหรือไม่ว่าต้องการฝึกฝนวิชานี้?</SelectDesc>
+			<Stages.0.DisplayName>กลืนโลหิต</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>กลืนโลหิต</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.1.DisplayName>ควบแน่นปราณ</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>สละพลังชีพ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>สละพลังชีพ</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>เสริมแกร่ง</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>หล่อหลอมแก่น</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>แปลงกระดูก</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>แปลงกระดูก</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>ผสานรวม</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>ก่อเกิดตัวอ่อน</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>แผดเผาวิญญาณ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>ลุกไหม้</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>แผดเผา</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>ปณิธานสุดท้าย</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>ปณิธานสุดท้าย</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>จุติสวรรค์</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

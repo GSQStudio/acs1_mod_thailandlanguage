@@ -1,0 +1,72 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="r0">
+			<StageInfo.0.0.DisplayName>เสริมแกร่ง</StageInfo.0.0.DisplayName>
+			<StageInfo.0.1.DisplayName>หนาแน่น</StageInfo.0.1.DisplayName>
+			<StageInfo.0.2.DisplayName>แหลมคม</StageInfo.0.2.DisplayName>
+			<StageInfo.1.0.DisplayName>ประตูจิต</StageInfo.1.0.DisplayName>
+			<StageInfo.1.1.DisplayName>เตาหลอม</StageInfo.1.1.DisplayName>
+			<StageInfo.1.2.DisplayName>เฉียบคม</StageInfo.1.2.DisplayName>
+			<StageInfo.2.0.DisplayName>แก่นทองคำ</StageInfo.2.0.DisplayName>
+			<StageInfo.2.1.DisplayName>โอสถ</StageInfo.2.1.DisplayName>
+			<StageInfo.2.2.DisplayName>ตัวอ่อน</StageInfo.2.2.DisplayName>
+			<StageInfo.3.0.DisplayName>แหล่งกำเนิดตัวอ่อน</StageInfo.3.0.DisplayName>
+			<StageInfo.3.1.DisplayName>วิญญาณทะยาน</StageInfo.3.1.DisplayName>
+			<StageInfo.3.2.DisplayName>วิญญาณปฐมกาล</StageInfo.3.2.DisplayName>
+			<SkillTree.1.RandomNode.0.EsotericaTypeDesc>อาวุธวิเศษ</SkillTree.1.RandomNode.0.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.1.EsotericaTypeDesc>ปราณเวท</SkillTree.1.RandomNode.1.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.2.EsotericaTypeDesc>เกราะปราณ</SkillTree.1.RandomNode.2.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>บอบบาง</SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>เล็กน้อย</SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>บอบบาง</SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>สำคัญ</SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>สำคัญ</SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>เล็กน้อย</SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>สำคัญ</SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>ยิ่งใหญ่</SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>มหาศาล</SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>เล็กน้อย</SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>สำคัญ</SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>ยิ่งใหญ่</SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>มหาศาล</SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>บอบบาง</SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>เล็กน้อย</SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>บอบบาง</SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>สำคัญ</SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>สำคัญ</SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>เล็กน้อย</SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>สำคัญ</SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>ยิ่งใหญ่</SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>มหาศาล</SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>เล็กน้อย</SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>สำคัญ</SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>ยิ่งใหญ่</SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>มหาศาล</SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>
+			<SkillTree.FixNodes.0.DisplayName>โอสถเทพวิถีฟ้า</SkillTree.FixNodes.0.DisplayName>
+			<SkillTree.FixNodes.1.DisplayName>อาวุธวิเศษเต๋า</SkillTree.FixNodes.1.DisplayName>
+			<Desc.Format.0.Format>วิชาบ่มเพาะที่มีคุณภาพต่ำมาก เป็นผลงานอันตื้นเขินของ {0} วิชานี้สืบทอดแก่นแท้ของ {1} และพัฒนาวิชาบ่มเพาะใหม่ที่เน้นความคิดสร้างสรรค์มากมายใน {2} แม้ว่านี่จะเป็นาวิชาบ่มเพาะที่ค่อนข้างตื้นเขิน แต่มันก็อาจมีอัญมณีซ่อนอยู่ภายใต้โคลนตม</Desc.Format.0.Format>
+			<Desc.Format.1.Format>วิชาบ่มเพาะที่มีคุณสมบัติค่อนข้างปานกลาง เป็นผลงานทั่วไปของ {0} วิชานี้สืบทอดแก่นแท้ของ {1} และพัฒนาวิชาบ่มเพาะใหม่ที่เน้นความคิดสร้างสรรค์มากมายใน {2} ถึงแม้ว่าวิชานี้จะทำให้บรรลุได้แค่เพียงขั้นแก่นลมปราณ ทว่ามันก็อาจจะแฝงแนวคิดบางอย่างที่่น่าสนใจเอาไว้</Desc.Format.1.Format>
+			<Desc.Format.2.Format>วิชาบ่มเพาะที่มีความรู้ค่อนข้างเฉียบแหลม เป็นผลงานที่ยอดเยี่ยมเกี่ยวกับ {0} วิชานี้สืบทอดแก่นแท้ของ {1} และพัฒนาวิชาบ่มเพาะใหม่ที่เน้นความคิดสร้างสรรค์มากมายใน {2} แม้ว่าจะไม่มีใครที่สามารถบรรลุความเป็นอมตะด้วยวิชาการบ่มเพาะเช่นนี้ แต่มันก็ยังได้รวบรวมกฎเกณฑ์การฝึกฝนที่ชาญฉลาดมากมายซึ่งประเมินค่ามิได้เอาไว้</Desc.Format.2.Format>
+			<Desc.Format.3.Format>วิชาบ่มเพาะที่มีความรู้ลึกซึ้ง เป็นผลงานอันสุดยอดเกี่ยวกับ {0} วิชานี้สืบทอดแก่นแท้ของ {1} และพัฒนาวิชาบ่มเพาะใหม่ที่เน้นความคิดสร้างสรรค์มากมายใน {2} วิชาบ่มเพาะนี้เชื่อมโยงโดยตรงกับวิถีของความเป็นอมตะ ดังนั้นมันจึงมีบางสิ่งที่ลึกซึ้งและลึกลับที่ควรค่าแก่การเรียนรู้</Desc.Format.3.Format>
+			<Desc.ElementKind.0.Desc>ทอง</Desc.ElementKind.0.Desc>
+			<Desc.ElementKind.1.Desc>ไม้</Desc.ElementKind.1.Desc>
+			<Desc.ElementKind.2.Desc>น้ำ</Desc.ElementKind.2.Desc>
+			<Desc.ElementKind.3.Desc>ไฟ</Desc.ElementKind.3.Desc>
+			<Desc.ElementKind.4.Desc>ดิน</Desc.ElementKind.4.Desc>
+			<Desc.ElementKind.5.Desc>ไร้ขอบเขต</Desc.ElementKind.5.Desc>
+			<Desc.School.0.Name>มรดกที่สูญหายไปมากมายซึ่งเป็นที่นิยมในดินแดนของผู้ฝึกตน</Desc.School.0.Name>
+			<Desc.School.1.Name>มรดกนิกายม่านฟ้า</Desc.School.1.Name>
+			<Desc.School.2.Name>มรดกตำหนักคุนหลุน</Desc.School.2.Name>
+			<Desc.School.3.Name>มรดกวังเหนือนภา</Desc.School.3.Name>
+			<Desc.School.4.Name>มรดกอารามเมฆาม่วง</Desc.School.4.Name>
+			<Desc.School.5.Name>มรดกสำนักเอกลี้ลับ</Desc.School.5.Name>
+			<Desc.School.6.Name>มรดกอารามบัวสีคราม</Desc.School.6.Name>
+			<Desc.School.7.Name>มรดกนิกายแสงราตรี</Desc.School.7.Name>
+			<Desc.School.8.Name>มรดกภูเขาร้อยแมลง</Desc.School.8.Name>
+			<Desc.School.9.Name>มรดกนิกายหลุมอเวจี</Desc.School.9.Name>
+			<Desc.School.10.Name>มรดกสำนักเจ็ดวิถีสังหาร</Desc.School.10.Name>
+			<Desc.School.11.Name>มรดกสำนักสราญรมย์</Desc.School.11.Name>
+			<Desc.School.12.Name>มรดกอารามหมื่นอสูร</Desc.School.12.Name>
+		</Text>
+	</List>
+</Texts>

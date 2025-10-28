@@ -1,0 +1,27 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_2">
+			<DisplayName>เทพวิชาวิถีฟ้าแปดสวรรค์</DisplayName>
+			<Desc>วิธีการบ่มเพาะพลังแห่งเทพที่หายสาบสูบไปนานตั้งแต่สมัยครั้งบรรพกาล มันคือวิธีการบำเพ็ญตนโดยการรับความศรัทธาของสิ่งมีชีวิตเข้ามาเพื่อเปลี่ยนมันเป็นพลังเทวะ หลากหลายสำนักที่ฝึกฝนการบำเพ็ญตนวิถีเทพนั้นต่างก็มีแนวทางการฝึกฝนที่คล้ายๆ กัน จะต่างกันก็แค่เพียงกรรมวิธีในการเปลี่ยนพลังแห่งความศรัทธาให้แปรเปลี่ยนพลังเทวะและใช้พลังเทวะนั้นเป็นสื่อกลางในการอัญเชิญเทพผู้พิทักษ์ที่แตกต่างกัน เทพวิชาวิถีฟ้าแปดสวรรค์นั้นเป็นมรดกของเทพสวรรค์แห่งปัจฉิม การฝึกฝนวิชานี้ผู้ฝึกจะสามารถใช้ปราณเทวะเป็นสื่อกลางในการอัญเชิญเทพผู้พิทักษ์แห่งสวรรค์ทั้งแปดได้ ซึ่งวิชานี้มีความโดดเด่นในด้านการใช้ปราณเวทเข้าโจมตีศัตรูเป็นอย่างมาก</Desc>
+			<SelectDesc>ผู้ฝึกตนวิถีเทพนั้นแตกต่างจากผู้ฝึกตนวิถีเซียนก็ตรงที่พวกเขานั้นล้วนอาศัยศรัทธาของสิ่งมีชีวิตในการบำเพ็ญตน และถึงแม้ว่าจะไม่มีข้อกำหนดของพรสวรรค์ในการฝึกตนวิถีเทพ แต่เจ้าก็ยังจำเป็นต้องมีสติปัญญาในระดับที่สูงมากถ้าหากเจ้าต้องการไปให้ถึงจุดสูงสุด เมื่อรู้เช่นนี้แล้วเจ้ายังต้องการก้าวเข้าสู่วิถีการบ่มเพาะแห่งเทพอีกหรือไม่?</SelectDesc>
+			<Stages.0.DisplayName>นักพรต</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>การเสียสละ</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>ขัดเกลาจิต</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>การสรรค์สร้าง</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>จาตุมหาราชิกา</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>บัญญัติ: กานต๋าโป๋</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>บัญญัติ: จิ๋นน่าโหลว</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>บัญญัติ: เจียโหลวหลัว</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>ดาวดึงส์</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>บัญญัติ: โม่หูหลัวเจีย</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>บัญญัติ: เย่ชา</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>บัญญัติ: อาชิวหลัว</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>นิมมานรดี</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>บัญญัติ: หลงหวัง</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>บัญญัติ: เทียนเหริน</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>แดนเทวะ</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>นิพพาน</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>เหนือถพ</Stages.5.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

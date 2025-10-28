@@ -1,0 +1,156 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_2_1">
+			<Prefix>เท้าซ้าย</Prefix>
+			<Suffix>เขย่าอเวจี</Suffix>
+			<Desc>กายาเร้นลับพื้นฐานที่มีชื่อเสียงด้านการโจมตีอย่างดุเดือด ความสามารถเฉพาะตัวของวิชานี้นั่นก็คือความสามารถในการโจมตีทะลุเกราะปราณ</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มประสิทธิภาพในการโจมตีของกายาเร้นลับเล็กน้อย</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มความแม่นยำในการโจมตีของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มฐานพลังของกายาเร้นลับเล็กน้อย</Levels.2.Desc>
+			<Levels.3.Title>ชั้นที่สี่</Levels.3.Title>
+			<Levels.3.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับปานกลาง</Levels.3.Desc>
+			<Levels.4.Title>ชั้นที่ห้า</Levels.4.Title>
+			<Levels.4.Desc>เพิ่มฐานพลังของกายาเร้นลับปานกลาง</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_1_1">
+			<Prefix>เท้าขวา</Prefix>
+			<Suffix>เขย่าอเวจี</Suffix>
+			<Desc>กายาเร้นลับพื้นฐานที่มีชื่อเสียงด้านการโจมตีอย่างดุเดือด ความสามารถเฉพาะตัวของวิชานี้นั่นก็คือความสามารถในการโจมตีทะลุเกราะปราณ</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มประสิทธิภาพในการโจมตีของกายาเร้นลับเล็กน้อย</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มความแม่นยำในการโจมตีของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มฐานพลังของกายาเร้นลับเล็กน้อย</Levels.2.Desc>
+			<Levels.3.Title>ชั้นที่สี่</Levels.3.Title>
+			<Levels.3.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับปานกลาง</Levels.3.Desc>
+			<Levels.4.Title>ชั้นที่ห้า</Levels.4.Title>
+			<Levels.4.Desc>เพิ่มฐานพลังของกายาเร้นลับปานกลาง</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2">
+			<Prefix>หัตถ์ซ้าย</Prefix>
+			<Suffix>สองภพ</Suffix>
+			<Desc>หล่อหลอมมือด้วยพลังอสูรเพื่อจนก่อให้เกินพลังที่เหนือจินตนาการ ความสามารถเฉพาะตัวของวิชานี้นั่นก็คือความสามารถในการโจมตีทะลุเกราะปราณ</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับเล็กน้อย</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับเป็นอย่างมาก</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2_1">
+			<Prefix>หัตถ์ขวา</Prefix>
+			<Suffix>สองภพ</Suffix>
+			<Desc>หล่อหลอมมือด้วยพลังอสูรเพื่อจนก่อให้เกินพลังที่เหนือจินตนาการ ความสามารถเฉพาะตัวของวิชานี้นั่นก็คือความสามารถในการโจมตีทะลุเกราะปราณ</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับเล็กน้อย</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับเป็นอย่างมาก</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_3">
+			<Prefix>เท้า</Prefix>
+			<Suffix>เก้าสวรรค์</Suffix>
+			<Desc>ดึงพลังงานจากโลกด้วยเท้าทั้งสองข้างและใช้ร่างกายเป็นสะพานเชื่อมไปจนถึงส่วนบนของศีรษะ ผู้ที่บรรลุวิชานี้จะมีพลังในการโจมตีสูงเป็นอย่างมาก</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มฐานพลังของกายาเร้นลับเล็กน้อย</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มฐานพลังของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มฐานพลังของกายาเร้นลับเป็นอย่างมาก</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4">
+			<Prefix>เท้าซ้าย</Prefix>
+			<Suffix>โล่สวรรค์</Suffix>
+			<Desc>หลอมกระดูกหน้าแข้งด้วยเทคนิคลับเพื่อให้ทนทานต่อความเสียหาย อีกทั้งยังทำให้โจมตีและป้องกันได้อย่างรวดเร็ว</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มประสิทธิภาพของกายาเร้นลับปานกลาง</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มโอกาสสำเร็จในการป้องกันของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มฐานความทนทานของกายาเร้นลับปานกลาง</Levels.2.Desc>
+			<Levels.3.Title>ชั้นที่สี่</Levels.3.Title>
+			<Levels.3.Desc>เพิ่มโอกาสสำเร็จในการป้องกันของกายาเร้นลับเป็นอย่างมาก</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4_1">
+			<Prefix>เท้าขวา</Prefix>
+			<Suffix>โล่สวรรค์</Suffix>
+			<Desc>หลอมกระดูกหน้าแข้งด้วยเทคนิคลับเพื่อให้ทนทานต่อความเสียหาย อีกทั้งยังทำให้โจมตีและป้องกันได้อย่างรวดเร็ว</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มประสิทธิภาพของกายาเร้นลับปานกลาง</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มโอกาสสำเร็จในการป้องกันของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มฐานความทนทานของกายาเร้นลับปานกลาง</Levels.2.Desc>
+			<Levels.3.Title>ชั้นที่สี่</Levels.3.Title>
+			<Levels.3.Desc>เพิ่มโอกาสสำเร็จในการป้องกันของกายาเร้นลับเป็นอย่างมาก</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_5">
+			<Prefix>หัตถ์</Prefix>
+			<Suffix>กลืนวิญญาณ</Suffix>
+			<Desc>หลอมกระดูกมือให้มีความสามารถในการกลืนกินปราณธาตุต่างๆ กายาเร้นลับนี้มีเชี่ยวชาญในการโจมตีทะลุเกราะปราณ</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับเป็นอย่างมาก</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>ลดความเสียหายธาตุที่ได้รับจากการถูกโจมตีปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับเป็นอย่างมาก\n ลดความเสียหายธาตุที่ได้รับจากการถูกโจมตีปานกลาง</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_6">
+			<Prefix>กายา</Prefix>
+			<Suffix>ไร้สูญ</Suffix>
+			<Desc>หลอมกระดูกหลักภายในร่างกายออกเป็นส่วนๆ เพื่อกระจายความเสียหายที่ได้รับจากการต่อสู้ ว่ากันว่าผู้ที่บรรลุวิชานี้นั้นจะมีร่างกายที่แทบจะทำลายไม่ได้</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มฐานความทนทานของกายาเร้นลับเล็กน้อย</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มฐานความทนทานของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มฐานความทนทานของกายาเร้นลับเป็นอย่างมาก</Levels.2.Desc>
+			<Levels.3.Title>ชั้นที่สี่</Levels.3.Title>
+			<Levels.3.Desc>เพิ่มฐานความทนทานของกายาเร้นลับเป็นอย่างมาก</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_7">
+			<Prefix>โลหิต</Prefix>
+			<Suffix>เก้าสุริยัน</Suffix>
+			<Desc>หลอมหัวใจด้วยวิชาลับเพื่อเป็นโลหิตภายในร่างให้มีพลังของดวงอาทิตย์เก้าดวง หากใช้วิธีนี้ในการปั้นกระดูกสันหลัง มีโอกาสไม่มากที่กระดูกสันหลังจะเกิดการเปลี่ยนแปลงลึกลับและพัฒนาศักยภาพในการวิวัฒนาการของกระดูกทั้งหมด</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เรียนรู้เวทหลอมกายา: หลอมกายาตะวัน</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_8">
+			<Prefix>หัวใจ</Prefix>
+			<Suffix>เทพสงคราม</Suffix>
+			<Desc>หลอมหัวใจให้อยู่ในรูปแบบปฐมภูมิเพื่อเพิ่มอัตราการฟื้นฟูของปราณแท้</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของกายาเร้นลับเล็กน้อย</Levels.0.Desc>
+			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
+			<Levels.1.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของกายาเร้นลับปานกลาง</Levels.1.Desc>
+			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
+			<Levels.2.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของกายาเร้นลับเป็นอย่างมาก</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_9">
+			<Prefix>เจตจำนง</Prefix>
+			<Suffix>เทพสงคราม</Suffix>
+			<Desc>หล่อหลอมสมองที่ช่วยให้ผู้ฝึกได้รับทักษะจิตวิญญาณนักสู้ ซึ่งจะช่วยเพิ่มความสามารถในการโจมตีเป็นอย่างมาก</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เรียนรู้ท่าร่างต่อสู้: จิตวิญญาณนักสู้</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_10">
+			<Prefix>ดวงตา</Prefix>
+			<Suffix>แปดทิศ</Suffix>
+			<Desc>หล่อหลอมดวงตาด้วยวิชาลับเพื่อเชื่อมต่อพวกมันเข้ากับขั้วทั้งแปดของสวรรค์และโลก มีความสามารถในการคาดการณ์การเคลื่อนไหวของศัตรูและเพิ่มความแม่นยำในการโจมตีเป็นอย่างมาก</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เพิ่มความแม่นยำในการโจมตีของกายาเร้นลับเป็นอย่างมาก</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_11">
+			<Prefix>กลืนกิน</Prefix>
+			<Suffix>ชีพ</Suffix>
+			<Desc>กายาเร้นลับที่เกิดขึ้นจากการเลียนแบบปากของมังกรแห่งความตะกละ การใช้กายาเร้นลับนี้จะทำให้สามารถดูดพลังงานของระหว่างสวรรค์และโลกเพื่อนำมันมาเติมพลังงานได้แก่ตัวเองได้</Desc>
+			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
+			<Levels.0.Desc>เรียนรู้คาถา: กลืนกินชีพ</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

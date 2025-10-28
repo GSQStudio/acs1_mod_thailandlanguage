@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_13_None">
+			<DisplayName>วิชาบ่มเพาะหยินหยางผันแปร</DisplayName>
+			<Desc>วิชาการบ่มเพาะขั้นสูงที่ถูกคิดค้นโดยจักรพรรดิเทพสงคราม เมื่อฝึกฝนวิชานี้ คนผู้นั้นจะสามารถสร้างกระแสปราณแห่งหยินและหยางขึ้นมาภายในร่างได้ สร้างแก่นคำทองคำหยินหยางเพื่อใช้มันเป็นรากฐานของวิญญาณปฐมกาลหยินหยาง ยามเมื่อฝึกฝนวิญญาณย่อยผู้ฝึกจะได้รับผลลัพธ์สองเท่าในโดยการใช้พยายามเพียงครึ่งเดียว มันเป็นวิชาการบ่มเพาะที่มีชื่อเสียงที่สุดของจักรพรรดิเทพสงครามแหงภูเขาบู๊ตึ้ง</Desc>
+			<SelectDesc>เมื่อฝึกฝนวิชานี้ เมล็ดเต๋าจะได้รับโดยการเข้าใจในหยินและหยางที่แยกออกจากกัน แม้ว่ามันจะสามารถยกระดับขีดจำกัดสูงสุดของความแข็งแกร่งของผู้ฝึกฝนได้เป็นอย่างมาก ทว่าสัดส่วนของเมล็ดเต๋าระหว่างหยินและหยางก็จะส่งผลต่อรากฐานและความสำเร็จในอนาคตของผู้ฝึกฝนเช่นกัน วิธีการของวิชานี้จะเป็นการขโมยความลึกลับของหยินและหยางมาจากสวรรค์และโลก ทำให้เป็นที่อิจฉาของสวรรค์เป็นอย่างมาก ดังนั้นความเกรี้ยวกราดและความทรงพลังของทัณฑ์สวรรค์ที่ผู้ฝึกจะต้องเผชิญจึงทรงพลังอย่างถึงที่สุด</SelectDesc>
+			<Stages.0.DisplayName>ความโกลาหล</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>ความว่างเปล่า</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>ต้นกำเนิด</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>การก่อรูปร่าง</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าความอึดที่ต่ำ[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>กำเนิดปราณ</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>ภายในสู่ภายนอก</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>กำเนิดร่าง</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>ผสานสองรวมหนึ่ง</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>ภายนอกสู่ภายใน</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>กำเนิดชีวิต</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>ควบแน่นหมุนเวียน</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>อ่อนสยบแข็ง</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>หยินหยาง</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>สรรพสิ่ง</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

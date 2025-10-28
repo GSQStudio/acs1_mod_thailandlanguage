@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Normal">
+			<Events.0.Story>ไม่รู้ว่าเกิดอะไรขึ้นแต่จู่ๆ [name] ก็ตกกอยู่ในภวังค์จิตอย่างไม่มีเหตุผล</Events.0.Story>
+			<Events.1.Story>[name] [rand_string=จู่ๆ ก็จาม,จู่ๆ ก็สะอึก,จู่ๆ ก็ทรายเข้าตา,หาว,เริ่มพึมพำกับตัวเอง,ลูบท้องตัวเอง,เกาตัวเอง,จู่ๆ ก็รู้สึกเบื่อ,หวีผมด้วยนิ้ว,จู่ๆ ก็มีบางอย่างอยู่ในรองเท้า,เหยียบโดนอะไรบางอย่าง,จัดระเบียบเสื้อผ้า,ถอนหายใจ,อ้าปากค้าง,เลียริมฝีปาก,เดาะลิ้น,ปัดฝุ่นตามร่าง,ฮัมเพลง,ต้องการพูดคุยกับใครซักคน,อยากลองแต่งกลอน,รู้สึกคันคอ,แค่นเสียงออกมา]</Events.1.Story>
+			<Events.2.Story>[name] [rand_string=หมุนเวียบปราณตนเอง,ท่องคาถาหลายครั้ง,ระลึกวิถีแห่งเต๋า]</Events.2.Story>
+			<Events.3.Story>[name] จู่ๆ ก็รู้สึกว่า[rand_string=ตาขวา,ตาซ้าย]นั้นกระตุกเล็กน้อย</Events.3.Story>
+			<Events.4.Story>[name] ดูเหมือนจะได้ยินใครเรียกชื่อของ[IT]</Events.4.Story>
+			<Events.5.Story>[name] ต้องการคุยกับใครสักคนเกี่ยวกับ[rand_lable=obj_friend,obj_nearthing,other=obj,obj_action].</Events.5.Story>
+			<Events.6.Story>[name] ชอบ[rand_lable=obj_weather,obj_action]มากๆ</Events.6.Story>
+			<Events.7.Story>[name] จ้องมองไปยัง[rand_lable=obj_friend,obj_nearthing]ที่อยู่ใกล้ๆ [rand_string=ด้วยความเหม่อลอย,แล้วหัวเราะเบาๆ,อย่างครุ่นคิด]</Events.7.Story>
+			<Events.8.Story>[name] ต้องการใช้[obj_equip][rand_string=ปรับเปลี่ยน,ทำความสะอาด,จัดระเบียบ]</Events.8.Story>
+		</Text>
+	</List>
+</Texts>

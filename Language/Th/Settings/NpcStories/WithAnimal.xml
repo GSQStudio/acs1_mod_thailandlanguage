@@ -1,0 +1,65 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Animal_EatLikeFood">
+			<Events.0.Story>[name] พบว่า [hename] ชอบสิ่งๆ นี้มาก</Events.0.Story>
+		</Text>
+		<Text Name="Animal_EatDisLikeFood">
+			<Events.0.Story>[name] พบว่า [hename] ไม่ค่อยชอบสิ่งๆ นี้เท่าไรนัก</Events.0.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story">
+			<Events.0.Story>[name] ลูบหัวของ [hename] และ [hename] กระพริบตาด้วยความชอบใจ</Events.0.Story>
+			<Events.1.Story>[name] ลูบหัวของ [hename] และ [hename] ก็ดิ้นออกด้วยความประหม่า</Events.1.Story>
+			<Events.2.Story>[name] มองเห็นว่า [hename] กำลังนอนอยู่บนพื้นอย่างสบายอารมณ์ ดังนั้นจึงเข้าไปแหย่มันเล็กน้อย</Events.2.Story>
+			<Events.3.Story>[name] เดินเข้าไปเล่นกับ [hename] แต่ [hename] ชำเลืองมอง [name] เล็กน้อย ก่อนที่จะเดินจากไปอย่างไม่สนใจ</Events.3.Story>
+			<Events.4.Story>[name] มองเห็นว่า [hename] จู่ๆ ก็รู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ ต่อมามันจึงเข้าไปดมและเลียเจ้าสิ่งนั้นสองสามครั้ง</Events.4.Story>
+			<Events.5.Story>[hename] ได้เดินเข้ามาดม [name] แต่ก็พบกลิ่นที่ไม่ประทับใจ มันจึงเดินจากไป</Events.5.Story>
+			<Events.6.Story>[hename] วิ่งวนไปรอบๆ [name] ด้วยความตื่นเต้น</Events.6.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Rabbit">
+			<Events.0.Story>[name] ได้อุ้ม [hename] มาไว้ในอ้อมแขนและเล่นมันอย่างสนุกสนาน</Events.0.Story>
+			<Events.1.Story>[name] ลูบหัวของ [hename] และพบว่าขนของมันนุ่มมาก</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Chicken">
+			<Events.0.Story>[name] ได้อุ้ม [hename] มาไว้ในอ้อมแขนและได้โยนมันขึ้นไปบนท้องฟ้า [hename] กระพือปีกด้วยความตกใจ ทำให้ขนบางส่วนของมันร่วงลงบนพื้น</Events.0.Story>
+			<Events.1.Story>เมื่อเห็น [name] ดูเหมือนว่า [hename] จะคิดถึงบางสิ่งบางอย่างขึ้นมาได้และเริ่มพึมพำกับตัวเอง</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Wolf">
+			<Events.0.Story>[name] ลูบหัวของ [hename] และ [hename] เห่าออกมาเบาๆ เพื่อแสดงความขอบคุณ</Events.0.Story>
+			<Events.1.Story>[hename] วิ่งวนไปรอบๆ [name] และเห่าออกมาอย่างดีใจ</Events.1.Story>
+			<Events.2.Story>[hename] หมอบตต่ำไปกับพื้นและได้จ้องไปยัว [ชื่อ] ด้วยแววตาที่ดุร้าย</Events.2.Story>
+			<Events.3.Story>[hename] กระดิกหางขอบมันเมื่อมันมองเห็น [name]</Events.3.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Snake">
+			<Events.0.Story>เมื่อเห็น [name] เข้าไปใกล้ [hename] จึงชูคอขึ้นสูงแล้วแลบลิ้นของมันออกมา</Events.0.Story>
+			<Events.1.Story>[name] ได้อุ้ม [hename] มาไว้ในอ้อมแขนและเล่นมันอย่างสนุกสนาน</Events.1.Story>
+			<Events.2.Story>[name] มองไปด้วยความอยากรู้อยากเห็นในขณะที่ [hename] กำลังกลืนหนูตัวใหญ่เข้าไปในคำเดียว</Events.2.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Boar">
+			<Events.0.Story>[hename] กระแทกเข้าใส่ [name] อย่างโกรธเคืองด้วยจมูกของมัน</Events.0.Story>
+			<Events.1.Story>[name] มองเห็นว่า [hename] นอนอยู่บนพื้นและส่งเสียงร้องออกมาราวกับว่ามันกำลังพูดอยู่กับตัวเอง ดังนั้น[IT]ขว้างหินเพื่อแกล้งมัน</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Bear">
+			<Events.0.Story>เมื่อเห็น [name] [hename] ก็กางแขนของมันออกและรีบวิ่งเข้าไปหาด้วยความตื่นเต้น [name] รู้สึกตกใจ จึงได้รีบวิ่งหนีไปอย่างรวดเร็ว</Events.0.Story>
+			<Events.1.Story>[name] ได้เหลือบมองไปยัง [hename] ดูเหมือนว่า [hename] มันจะโกรธอะไรบางอย่างจึงได้กระทืบเท้าไปมาบนพื้น</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Turtle">
+			<Events.0.Story>[name] ลูบหัวของ [hename] และ [hename] ก็ได้หดหัวเข้าไปซ่อนในกระดองของมันอย่างรวดเร็ว</Events.0.Story>
+			<Events.1.Story>[name] พบว่า [hename] กำลังนอนอยู่บนพื้นอย่างสบานอารมณ์โดยไม่สนโลก ดังนั้นพวก[IT]แกล้งแหย่มัน นี่จึงทำให้ [hename] หดหัวเข้าไปซ่อนในกระดองของมันอย่างรวดเร็ว</Events.1.Story>
+			<Events.2.Story>[name] เดินเข้าไปเล่นกับ [hename] ทว่า [hename] ทำแค่เพียงเหลือบมองไปยัง [name] เล็กน้อยก่อนที่มันจะค่อยๆ หดหัวของมันกลับเข้าไปในกระดองของมัน</Events.2.Story>
+			<Events.3.Story>[hename] จู่ๆ ก็รู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ ดังนั้นมันจึงเดินเข้าไปดมอย่างช้าๆ</Events.3.Story>
+			<Events.4.Story>[name] เดินเข้าไปเล่นกับ [hename] และ [hename] ก็ได้เงยหัวของมันขึ้นมาอย่างช้าๆ</Events.4.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Frog">
+			<Events.0.Story>[name] รู้สึกว่า [hename] กำลังคิดเกี่ยวอะไรบางอย่างที่มันสำคัญอยู่ แต่เมื่อ[IT]หันกลับมามองอีกครั้ง มันก็กระโดดไปมาตามปกติของมัน</Events.0.Story>
+			<Events.1.Story>[name] จับ [hename] ขึ้นมาวางไว้บนมือของ[IT] [hename] พ่นน้ำใส่หน้าของ [name] ก่อนที่มันจะกระโดดโลดเต้นด้วยความยินดี</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Fei">
+			<Events.0.Story>[name] ลูบหัวของ [hename] และ [hename] ก็เปล่งเสียงร้องอันไพเราะออกมาอย่างแผ่วเบา</Events.0.Story>
+			<Events.1.Story>[hename]จ้องมองไปที่ [name] ด้วยความสนใจในระยะไกล</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Lushu">
+			<Events.0.Story>[name] ลูบหัวของ [hename] และ [hename] ก็สะบัดหัวของมันไปมาด้วยความโกรธ</Events.0.Story>
+			<Events.1.Story>[hename] มองเห็นว่า [name] กำลังเดินมาหามัน ดังนั้นจึงรีบนอนลงไปบนพื้นและทำแกล้งทำเป็นหลับ</Events.1.Story>
+		</Text>
+	</List>
+</Texts>

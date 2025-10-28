@@ -1,0 +1,9 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_MakeHorse">
+			<DisplayName>สัญญาวิญญาณ</DisplayName>
+			<Desc>ร่ายคาถาใส่สัตว์อสูรระดับล่างและผนึกมันไว้ในสัญญา</Desc>
+			<TargetDesc>เลือกสัตว์อสูรที่หมดสติ</TargetDesc>
+		</Text>
+	</List>
+</Texts>

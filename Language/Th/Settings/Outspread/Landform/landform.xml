@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Forest">
+			<DisplayName>ป่า</DisplayName>
+		</Text>
+		<Text Name="Plain">
+			<DisplayName>ทุ่งราบ</DisplayName>
+		</Text>
+		<Text Name="Mountain">
+			<DisplayName>ภูเขา</DisplayName>
+		</Text>
+		<Text Name="Aqua">
+			<DisplayName>แม่น้ำ</DisplayName>
+		</Text>
+	</List>
+</Texts>

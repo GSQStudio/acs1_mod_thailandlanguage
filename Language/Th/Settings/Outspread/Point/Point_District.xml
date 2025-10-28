@@ -1,0 +1,85 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Point_FarmBase">
+			<DisplayName>ทุ่งนา</DisplayName>
+		</Text>
+		<Text Name="Point_MineBase">
+			<DisplayName>เหมือง</DisplayName>
+		</Text>
+		<Text Name="Point_LumberBase">
+			<DisplayName>โรงไม้</DisplayName>
+		</Text>
+		<Text Name="Point_LingBase">
+			<DisplayName>เหมืองหินวิญญาณ</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains4">
+			<DisplayName>ทุ่งบุปผาโรย</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains2">
+			<DisplayName>ยอดเขาโอสถ</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains5">
+			<DisplayName>หมู่บ้านต้นอ้อ</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains1">
+			<DisplayName>ภูเขาแตะฟ้า</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains3">
+			<DisplayName>ภูเขาผิงติง</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace12">
+			<DisplayName>ภูเขาจันทร์เพ็ญ</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace14">
+			<DisplayName>ภูเขาถงหลิง</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace15">
+			<DisplayName>ซากปรักหักพักไท้อี้</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace13">
+			<DisplayName>ภูเขาลังกาน้อย</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace11">
+			<DisplayName>หมู่บ้านหนานปิง</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField3">
+			<DisplayName>หมู่บ้านต้าเซียง</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField4">
+			<DisplayName>ภูเขากุ่ย</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField5">
+			<DisplayName>ภูเขาลู่</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField1">
+			<DisplayName>เมื่องหานซาน</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField2">
+			<DisplayName>เมืองหยุดตะวัน</DisplayName>
+		</Text>
+		<Text Name="Point_Desert2">
+			<DisplayName>ทะเลทรายกระจก</DisplayName>
+		</Text>
+		<Text Name="Point_Desert4">
+			<DisplayName>หมู่บ้านเนินทรายครวญ</DisplayName>
+		</Text>
+		<Text Name="Point_Desert3">
+			<DisplayName>ถ้ำอัคคี</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield1">
+			<DisplayName>หุบเขาหิมะ</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield3">
+			<DisplayName>ทุ่งพายุหิมะ</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield2">
+			<DisplayName>ทะเลสาบศิลาหยก</DisplayName>
+		</Text>
+		<Text Name="Point_SouthForest1">
+			<DisplayName>ป่าดอกท้อไร้โรย</DisplayName>
+		</Text>
+		<Text Name="Point_SouthForest3">
+			<DisplayName>หุบเขาแห่งหนอน</DisplayName>
+		</Text>
+	</List>
+</Texts>

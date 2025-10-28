@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LcSchoolPanda">
+			<DisplayName>ทูตแห่งเซียน</DisplayName>
+			<Desc>ส่งมันไปยังสำนักเป้าหมายเพื่อปรับปรุงความสัมพันธ์ระหว่างสำนัก</Desc>
+			<sParam2>แพนด้า</sParam2>
+		</Text>
+		<Text Name="PandaLingXi">
+			<DisplayName>เพื่อนธรรมชาติ</DisplayName>
+			<Desc>ทำให้สัตว์ป่าเชื่อง</Desc>
+			<TargetDesc>เลือกสัตว์ป่าที่ไม่ใช่พันธมิตร</TargetDesc>
+		</Text>
+		<Text Name="Magic_YG_RealYinYang">
+			<DisplayName>พลังต้นกำเนิด (ผสม)</DisplayName>
+			<Desc>เผาผลาญแหล่งกำเนิดชีวิตอย่างรวดเร็วในการกระตุ้นพลังดั้งเดิมของเผ่าอสูร เพิ่มทักษะอาวุธวิเศษเป็นอย่างมาก, เพิ่มทักษะเกราะปราณเป็นอย่างมาก, เพิ่มพลังกายาเร้นลับเป็นอย่างมาก, เพิ่มความทนทานของกายาเร้นลับเป็นอย่างมาก Rหากต้องการยกเลิกคาถาให้กดใช้คาถาซ้ำอีกครั้ง</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Other_BuryObject">
+			<TargetDesc>เลือกพื้นที่ว่างบนพื้นดิน</TargetDesc>
+		</Text>
+		<Text Name="Other_CreateLingPlant">
+			<TargetDesc>เลือกพื้นที่ว่างบนพื้นดิน</TargetDesc>
+		</Text>
+		<Text Name="Other_BuildMine">
+			<DisplayName>สร้างระบบภูเขา</DisplayName>
+			<TargetDesc>เลือกพื้นที่ว่างบนพื้นดิน</TargetDesc>
+		</Text>
+		<Text Name="Item_TrackNpc">
+			<DisplayName>ติดตาม</DisplayName>
+			<TargetDesc>เลือกตัวละครที่ต้องการติดตาม</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_Firecracker">
+			<DisplayName>จุดพลุไฟ</DisplayName>
+			<TargetDesc>เลือกตำแหน่งที่จะจุดไฟ</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_FirecrackerShit">
+			<DisplayName>ยิงพลุไฟ</DisplayName>
+			<TargetDesc>เลือกตำแหน่งที่จะจุดไฟ</TargetDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,95 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Cooking">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj] จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj] จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj] จู่ๆ [name] ก็อยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj]อยู่อย่างเงียบๆ จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj]อยู่อยู่เพียงลำพัง ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj] จู่ๆ [name] ก็น้ำตาไหล</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj] จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังปรุง[obj] จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าอารมณ์จะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ยังคงพยายามปรุง[obj]ให้ดีที่สุด </Events.10.Story>
+			<Events.11.Story>[name] รู้สึกร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood]และอดไม่ได้ที่จะปรุง[obj]อย่างมีความสุข</Events.11.Story>
+		</Text>
+		<Text Name="CookingFailed">
+			<Events.1.Story>[name] ชิม[obj]ที่ทำการปรุงออกมาด้วยตัวเอง แต่หลังจากนั้นก็โยนมันทิ้งไปในทันที รสชาติของมันโครตห่วยแตก</Events.1.Story>
+			<Events.2.Story>ในขณะที่กำลังปรุง[obj] [name] ก็บังเอิญเติมเกลือทั้งหมดลงในหม้อโดยไม่ได้ตั้งใจ! หลังจากนั้นก็...</Events.2.Story>
+			<Events.3.Story>ในขณะที่กำลังปรุง[obj] จิตใจของ [name] ก็คิดฟุ้งซ่านไปเรื่อย หลังจากรู้สึกตัวก็พบว่าอาหารมันได้กลายเป็นซากดำๆ ไปแล้ว</Events.3.Story>
+			<Events.4.Story>เนื่องจากอารมณ์จะได้รับผลกระทบจาก[obj_badmood] ดังนัน[obj] ที่ [name] ปรุงออกมานั้นจึงรสชาติห่วยแตกสุดๆ</Events.4.Story>
+			<Events.5.Story>[name] รู้สึกร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood]และอดไม่ได้ที่จะ[obj]อย่างมีความสุข แม้ว่าผลลัพธ์ของ[obj]จะออกมาค่อนข้างย่ำแย่ก็ตาม</Events.5.Story>
+		</Text>
+		<Text Name="CookingSucceed">
+			<Events.1.Story>[name] รู้สึกพึงพอใจใน[obj]ที่ตนเองได้ปรุงออกมาเป็นอย่างมาก</Events.1.Story>
+			<Events.2.Story>[name] มองไปยัง[obj]ที่ปรุงเองกับมือและอดไม่ได้ที่จะตักมันเข้าปาก แล้วพบว่ามันอร่อยอย่างไม่น่าเชื่อ!</Events.2.Story>
+			<Events.3.Story>แม้ว่าอารมณ์จะได้รับผลกระทบจาก[obj_badmood] แต่[obj] ที่ [name] ปรุงออกมานั้นก็ยังคงมีรสชาติที่อร่อยสุดๆ</Events.3.Story>
+			<Events.4.Story>[name] รู้สึกร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood]และอดไม่ได้ที่จะ[obj]อย่างมีความสุข และแน่นอนว่า[obj]ที่ทำออกมานั้นมีรสชาติอร่อยแบบสุดๆ</Events.4.Story>
+		</Text>
+		<Text Name="DrugProduct">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ </Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็อยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj]อยู่อย่างเงียบๆ จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj]อยู่เพียงลำพัง ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็น้ำตาไหล</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังหลอม[obj]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าอารมณ์จะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ยังคงพยายามหลอม[obj]ให้ดีที่สุด </Events.10.Story>
+			<Events.11.Story>ในขณะที่กำลังหลอม[obj] [name] รู้สึกรู้สึกร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood]และช่วยไม่ได้ที่จะฮัมเพลงออกมาอย่างอารมณ์ดี</Events.11.Story>
+		</Text>
+		<Text Name="Handwork">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ </Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj]จู่ๆ [name] ก็อยากกิน[obj_food]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj]อยู่อย่างเงียบๆ จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj]อยู่เพียงลำพัง ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj]จู่ๆ [name] ก็น้ำตาไหล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังประดิษฐ์[obj]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>แม้ว่าอารมณ์จะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ยังคงพยายามประดิษฐ์[obj]ให้ดีที่สุด </Events.11.Story>
+			<Events.12.Story>ในขณะที่กำลังประดิษฐ์[obj] [name] รู้สึกร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood]และช่วยไม่ได้ที่จะฮัมเพลงออกมาอย่างอารมณ์ดี</Events.12.Story>
+		</Text>
+		<Text Name="Smithing">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ </Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj]จู่ๆ [name] ก็อยากกิน[obj_food]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj]อยู่อย่างเงียบๆ จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj]อยู่เพียงลำพัง ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj]จู่ๆ [name] ก็น้ำตาไหล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังสร้าง[obj]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>แม้ว่าอารมณ์จะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ยังคงพยายามสร้าง[obj]ให้ดีที่สุด </Events.11.Story>
+			<Events.12.Story>ในขณะที่กำลังสร้าง[obj] [name] รู้สึกร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood]และช่วยไม่ได้ที่จะฮัมเพลงออกมาอย่างอารมณ์ดี</Events.12.Story>
+		</Text>
+		<Text Name="StoneWork">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ </Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj]จู่ๆ [name] ก็อยากกิน[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj]อยู่อย่างเงียบๆ จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj]อยู่เพียงลำพัง ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj]จู่ๆ [name] ก็น้ำตาไหล</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังขัด[obj]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>แม้ว่าอารมณ์จะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ยังคงพยายามขัด[obj]ให้ดีที่สุด </Events.10.Story>
+			<Events.11.Story>ในขณะที่กำลังขัด[obj] [name] รู้สึกร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood]และช่วยไม่ได้ที่จะฮัมเพลงออกมาอย่างอารมณ์ดี</Events.11.Story>
+		</Text>
+		<Text Name="Sew">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj]จู่ๆ [name] ก็รู้สึกคิดถึงบ้าน</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj] จิตใจของ [name] ก็เริ่มล่องลอยและคิดถึง [obj_friend] สหายของ[IT]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj]จู่ๆ [name] ก็เริ่มรู้สึกสนใจ[obj_nearthing]ที่อยู่ใกล้ๆ </Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj]จู่ๆ [name] ก็อยากกิน[obj_food]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj]อยู่อย่างเงียบๆ จู่ๆ [name] ก็รู้สึกคิดคะนึงถึง [obj_relation]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj]อยู่เพียงลำพัง ทันใดนั้นความคิดและความรู้สึกมากมายก็เริ่มเข้ามาในจิตใจของ [name]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj]จู่ๆ [name] ก็น้ำตาไหล</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj]จู่ๆ [name] ก็รู้สึกวิตกกังวล</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather] ในขณะที่กำลังตัดเย็บ[obj]จู่ๆ [name] ก็รู้สึกอยากไปเที่ยว[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>แม้ว่าอารมณ์จะได้รับผลกระทบจาก[obj_badmood] แต่ [name] ยังคงพยายามตัดเย็บ[obj]ให้ดีที่สุด </Events.11.Story>
+			<Events.12.Story>ในขณะที่กำลังตัดเย็บ[obj] [name] รู้สึกร่าเริงเป็นอย่างมากเนื่องจาก[obj_goodmood]และช่วยไม่ได้ที่จะฮัมเพลงออกมาอย่างอารมณ์ดี</Events.12.Story>
+		</Text>
+	</List>
+</Texts>

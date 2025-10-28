@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Farm">
+			<DisplayName>ทุ่งนา</DisplayName>
+			<Desc>สถานที่ที่ใช้ในการทำไร่ทำนาเพื่อผลิตข้าวสาลี</Desc>
+		</Text>
+		<Text Name="Mine">
+			<DisplayName>เหมือง</DisplayName>
+			<Desc>[color=#0000FF]ขุดแร่[/color]([keycode]Mine[/keycode])\nขุดแร่จากเหมืองเพื่อรับหินและแร่ \nประเภทงาน: งานเหมือง</Desc>
+		</Text>
+		<Text Name="Lumber">
+			<DisplayName>โรงไม้</DisplayName>
+			<Desc>สถานที่ที่ใช้ในการจัดหาไม้</Desc>
+		</Text>
+		<Text Name="LingMine">
+			<DisplayName>เหมืองหินวิญญาณ</DisplayName>
+			<Desc>สถานที่ที่ใช้ในการทำเหมืองเพื่อขุดหาหินวิญญาณ</Desc>
+		</Text>
+		<Text Name="Statue">
+			<DisplayName>รูปปั้นเทพ</DisplayName>
+			<Desc>รูปปั้นของเทพเจ้า เมื่อสร้างเสร็จแล้ว หากศิษย์ผู้ฝึกฝนวิธีการฝึกตนวิถีเทพสร้างวิหารแห่งปาฏิหาริย์ในแดนเทวะได้สำเร็จ ท่านจะสามารถกำหนดศิษย์ให้ครอบครองที่นี่ได้</Desc>
+		</Text>
+		<Text Name="Arena">
+			<DisplayName>โรงฝึก</DisplayName>
+			<Desc>เมื่อสร้างโรงฝึกเสร็จแล้ว สามารถใช้สถานที่แห่งนี้เพื่อฝึกฝนเหล่าศิษย์ได้</Desc>
+		</Text>
+	</List>
+</Texts>

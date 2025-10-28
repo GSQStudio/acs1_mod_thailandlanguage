@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Diaster_Drought">
+			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
+			<Desc>สถานที่แห่งนี้เกิดภัยแล้ง อาหารจึงเป็นสิ่งจำเป็นเพื่อป้องกันปัญหาความอดอยากเนื่องจากการเก็บเกี่ยวผลผลิตที่ไม่ดี</Desc>
+		</Text>
+		<Text Name="Diaster_Flood">
+			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
+			<Desc>สถานที่แห่งนี้เกิดน้ำท่วม หินจึงเป็นสิ่งจำเป็นในการช่วยเหลือชาวบ้านสร้างฝายกั้นน้ำ</Desc>
+		</Text>
+		<Text Name="Diaster_Siberia">
+			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
+			<Desc>สถานที่แห่งนี้เกิดภัยหนาว ไม้จึงเป็นสิ่งจำเป็นในการช่วยเหลือชาวบ้านก่อกองไฟให้ความอบอุ่น</Desc>
+		</Text>
+		<Text Name="Diaster_EarthQuake">
+			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
+			<Desc>สถานที่แห่งนี้เกิดแผ่นดินไหว หินจึงเป็นสิ่งจำเป็นในการช่วยเหลือชาวบ้านสร้างและซ่อมแซมบ้านของพวกเขาขึ้นมาใหม่</Desc>
+		</Text>
+	</List>
+</Texts>

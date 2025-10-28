@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_LingShou">
+			<DisplayName>วิชาอสูรวิญญาณ</DisplayName>
+			<Desc>วิชาการบ่มเพาะที่อสูรวิญญาณใช้ในการฝึกฝน</Desc>
+			<Stages.0.DisplayName>ขั้นที่ 1</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>ขั้นที่ 1</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>ขั้นที่ 2</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>ขั้นที่ 2</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>ขั้นที่ 3</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>ขั้นที่ 3</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>ขั้นที่ 4</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>ขั้นที่ 4</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>ขั้นที่ 5</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>ขั้นที่ 5</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>ขั้นที่ 6</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>ขั้นที่ 6</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>ขั้นที่ 7</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>ขั้นที่ 7</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>ขั้นที่ 8</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>ขั้นที่ 8</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>ขั้นที่ 9</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>ขั้นที่ 9</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>ขั้นที่ 10</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>ขั้นที่ 10</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>ขั้นที่ 11</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>ขั้นที่ 11</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>ขั้นที่ 12</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>ขั้นที่ 12</Stages.11.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
