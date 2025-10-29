@@ -1,2 +1,0 @@
-Group	Area	Name
-所属组	Belonging Area	Plant Name
