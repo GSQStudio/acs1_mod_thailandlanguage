@@ -1,0 +1,320 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Fight">
+			<Type>Advanced</Type>
+			<DisplayName>Basic Battle</DisplayName>
+			<Desc>Learn the basic battle system and controls in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Battle Controls</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kill and Defeat mode</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Auto Defense Mode</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Escape Battle</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Multi-person Battles</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Select Multiple People to Attack</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Move &amp; Attack</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Switch Fighters</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Tap and select an inner disciple.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Check the Defeat mode on the left of the panel below.</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Check the Escape Battle on the left of the panel below.</Tasks.5.TaskDesc>
+			<Tasks.7.TipsData.Desc>These are the most common modes of controls during battle. Of course there are other modes waiting for the player to explore in the game.</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>Use queue function to select all the disciples.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Use queue function to select all the disciples.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Tap and select a disciple.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Tap and select a disciple.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Tap and select a disciple.</Tasks.13.TaskDesc>
+			<Tasks.15.TaskDesc>Tap Confirm.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Enter the attack state by the Attack button</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Issue the Attack order on the Monster.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Confirm to attack</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Enter the move state by the Move button</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Tap and move to the designated location.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Wait for them to move.</Tasks.23.TaskDesc>
+			<Tasks.24.TipsData.Desc>The player can use move and attack at the same time to draw out the battle and sometimes it can even turn the tide.</Tasks.24.TipsData.Desc>
+			<Tasks.26.TaskDesc>Tap the injured disciple in battle.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Tap Flee.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Enter the move state by the Move button</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Move to a safer place in the sect.</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>The player can use Flee to make injured disciples leave the battle and retreat to a safer place to ensure that no one dies.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Tap and select an inner disciple not in battle. </Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Enter the attack state by the Attack button</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Issue the Attack order on the Monster.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Confirm to attack</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>The player can replace the disciples in the team during battle to continue the fight. Of course the player can arrange multiple teams to take turns to fight or receive supplies.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>In battle, the player can change controls in response to different situations to get an advantage over the enemy and prevent the sect from being destroyed.</Tasks.38.TipsData.Desc>
+		</Text>
+		<Text Name="ZhenFa">
+			<Type>Advanced</Type>
+			<DisplayName>Formation</DisplayName>
+			<Desc>Learn how to edit a formation and set members for the formation in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Formation Edit</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Create a New Formation</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Formation Configuration</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Formation Assessment &amp; Members</Chapters.1.Tasks.0>
+			<Chapters.2.DisplayName>Formation Operation</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Form Formation</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Formation Menu</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Tap the Sect button</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>Once a formation, auxiliary or pillar is obtained through any other method in the game, the player can create or check the formation here.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Tap Formation.</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Here's all the formations the player owns. Click to check or modify any formation configuration.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Click Create.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Click to select an auxiliary circle.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Tap the configuration to select</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Click the configuration to confirm your selection</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>When editing a formation, the player needs to set up a pillar first, which can connect to other auxiliaries. There can only be one pillar.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Tap to select the auxiliary Sword.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Tap the configuration to select</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Click the configuration to confirm your selection</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>If an edited formation has an auxiliary that is not correctly connected, it will be shown as incomplete, and an incomplete formation cannot be formed.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>Once an edited formation meets the requirements for Truth of Formations, it will obtain bonus effects. Different pillars have different Truth of Formations.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TipsData.Desc>Once the player has finished editing a formation, tap Save to save the newly created formation.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TipsData.Desc>Once the player has finished editing a formation, click Save to save the newly created formation.</Tasks.19.TipsData.Desc>
+			<Tasks.20.TaskDesc>Tap to confirm</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Tap to confirm</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Once a complete formation has been edited and saved, the player can appoint characters to this formation and be prepared to form it.</Tasks.23.TipsData.Desc>
+			<Tasks.25.TaskDesc>Tap the Edit button</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Tap the Config button in the right.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Tap to select the first one: Tutorial.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Click to select the first one: Tutorial.</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>The player can allocate an inner disciple to each pillar and auxiliary. Along the route from an auxiliary to the pillar, each time an element begets the next element, the auxiliary links will enjoy amplified special effects, and vice versa.</Tasks.29.TipsData.Desc>
+			<Tasks.30.TaskDesc>Tap the Pillar button</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Tap and select a disciple.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Tap and select a disciple.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Click Confirm.</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>A formation has nine different related stats. The player can check them through the Formation Assessment in the left.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Close the config panel</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Close the Formation panel</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Close the Sect panel</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Once the formation is complete and members have been allocated, the player can form the formation to activate it.</Tasks.39.TipsData.Desc>
+			<Tasks.41.TaskDesc>Tap and select a disciple.</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>Only the disciple at the pillar is able to form the formation. When all the disciples at the other auxiliaries are healthy and in the same area, the formation can be formed following the configuration.</Tasks.42.TipsData.Desc>
+			<Tasks.43.TaskDesc>Tap Form Formation.</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>Before forming the formation, the player can check the details to confirm the actual bonus effects and stats after the formation is formed.</Tasks.44.TipsData.Desc>
+			<Tasks.45.TaskDesc>Tap Form Formation.</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>Wait for the formation to be formed.</Tasks.46.TaskDesc>
+			<Tasks.48.TipsData.Desc>Here's all the formation skills of the current formation, each of which has different uses.</Tasks.48.TipsData.Desc>
+			<Tasks.49.TipsData.Desc>Here's the spell skills of the disciples in the formation.</Tasks.49.TipsData.Desc>
+			<Tasks.50.TaskDesc>Tap to check Focus.</Tasks.50.TaskDesc>
+			<Tasks.51.TipsData.Desc>The player can check Focus to pay close attention to the operation of the formation, which helps to adjust the formation anytime in the battle.</Tasks.51.TipsData.Desc>
+			<Tasks.53.TipsData.Desc>The player can arrange and combine different features to form a more suitable and powerful formation, and even master an ancient formation. Different formations have different effects, waiting for the player to explore, so this tutorial will not explain how to edit any other formations.</Tasks.53.TipsData.Desc>
+		</Text>
+		<Text Name="DragonHole">
+			<Type>Advanced</Type>
+			<DisplayName>Mysterious Cavern</DisplayName>
+			<Desc>In this tutorial, learn the influence of mysterious caverns and how to use Feng Shui relics to suppress them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Flood Dragon Cave</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Mysterious Cavern</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Suppress Mysterious Caverns</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Place Feng Shui Relics</Chapters.1.Tasks.0>
+			<Tasks.2.TaskDesc>Tap OK.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>When a certain period of time has passed in the game, a special secret will happen where a mysterious cavern will appear at a random spot in the location of the player's sect, and a Flood Dragon will be sleeping inside it. The player can use different methods to handle the situation, one of which is to use Feng Shui relics that make rooms very auspicious to suppress the cavern.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>There are many ways to handle a mysterious cavern, but for late-stage players who are still not sure what to do, choose Feng Shui relics to suppress it. As the other methods requires deeper understanding of the game, this tutorial will not go into details.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>An identified Feng Shui relic will have a detailed description. The player needs to refer to the description and place it in the right spot to correctly activate the relic. Once it is activated, it will instantaneously make the room very auspicious.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Tap to select the Feng Shui relic Spirit Crystal.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Tap Place.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Place</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Tap to select Display.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Select the room by clicking the empty area in it.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>When placing a Feng Shui relic, the player can observe the Feng Shui change in the room here.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Wait for them to be placed.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>When a Feng Shui relic is in an environment that meets the description, it will be a match that makes the room very auspicious, which can suppress the mysterious cavern.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>When the player successfully suppresses the mysterious cavern, the Flood Dragon in slumber will also be effectively subdued, and the player can use this window of time to improve the disciples' ability in order to destroy it sooner.</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="DragonFight">
+			<Type>Advanced</Type>
+			<DisplayName>Boss Battle</DisplayName>
+			<Desc>In this tutorial, learn how to inspect the basic info on ancient beasts and use it to engage in battle with these beasts.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Learn About Ancient Beast</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Learn About Ancient Beast</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Flood Dragon Body Parts in Battle</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check Each Body Part</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Stats of Disciple's Artifact</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Tap the Sect button</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Open the Secret menu in the right.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Tap Flood Dragon.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Click Flood Dragon.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Here shows that the Flood Dragon is of Water element that is more suspectable to Earth damage.</Tasks.6.TipsData.Desc>
+			<Tasks.7.TipsData.Desc>Here shows that the Flood Dragon is of Water element that is more suspectable to Earth damage.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Close the Sect panel</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>You can get informations about other ancient beasts through other methods.</Tasks.10.TipsData.Desc>
+			<Tasks.12.TaskDesc>Tap Flood Dragon.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Tap the Focus button</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>You can keep track of Qi status of the Jiao-dragon's each body part through setting focus, and develop your strategy accordingly.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Tap to cancel focus</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Close the information panel</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Tap and select an inner disciple.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Tap to open the character panel</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Tap the Equip tab</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>According to the info above, we can wear an artifact of Earth element to attack the Flood Dragon.</Tasks.21.TipsData.Desc>
+			<Tasks.22.TaskDesc>Tap to close the Item &amp; Equipment menu.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Tap the attack button on the right.</Tasks.23.TaskDesc>
+			<Tasks.24.TipsData.Desc>The player can focus the attack on a specific body part to quickly destroy this part of the Flood Dragon.</Tasks.24.TipsData.Desc>
+			<Tasks.26.TipsData.Desc>Each player uses different controls and strategies in battle, so this tutorial will not go into detail about battles, which the player can experience in the game. Once the boss is defeated, there will be different remains from its body, which can be searched for spoils. More body parts destroyed means more spoils to be obtained.</Tasks.26.TipsData.Desc>
+		</Text>
+		<Text Name="GetFood">
+			<Type>Advanced</Type>
+			<DisplayName>Emergency Food Acquisition</DisplayName>
+			<Desc>In this tutorial, learn how to quickly acquire food in an extremely difficult environment.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Lack of Food Notification</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Notification</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Emergency Handling</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use Repeat Adventure for Food</Chapters.1.Tasks.0>
+			<Tasks.1.TaskDesc>Tap the Message botton</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>When the player's food storage is insufficient, this notification will pop up.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Close the message panel</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>If the food storage is insufficient, the disciples in the player's sect may slowly starve to death, so the player needs to respond to this emergency, like going on adventures to obtain food.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Tap to open World Map.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Click to open World Map.</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>Click Nanping Village.</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>Nanping Village is the nearest location with food resources.</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>Tap and select a disciple.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Tap and select a disciple.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Tap and select a disciple.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Tap and select a disciple.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Tap Confirm.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Click Confirm.</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Use the slider to adjust the times of repeat adventure.</Tasks.20.TipsData.Desc>
+			<Tasks.21.TaskDesc>Click Okay.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>The player can simultaneously send multiple disciples on adventure and use repeat adventure to both lower the need for food in the sect and increase the output of food by adventure in a period of time. The player can then wait for the disciples to bring back food.</Tasks.23.TipsData.Desc>
+		</Text>
+		<Text Name="CombatWeather">
+			<Type>Advanced</Type>
+			<DisplayName>Extreme Weather Handling</DisplayName>
+			<Desc>In this tutorial, learn some of the extreme weather in the game and how to handle them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Influence of Extreme Weather</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Weather</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Temperature</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>How to Handle</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Equip Talisman of Supreme Yang</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Inspect Heat Source</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>When extreme weather happens in the player's sect, the player can check the Weather icon in the top to see its duration. The player needs to adjust their strategy in time to handle the situation.ã€‚</Tasks.1.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>When extreme weather happens, it will change the current temperature.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Tap and select a disciple.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Tap to open the character panel</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>The temperature stats of the disciples in the sect decide whether they will be affected by extreme weather.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>When a disciple in the player's sect is uncomfortable due to the extreme weather, it may cause injuries, and the disciple may die if the injuries are too severe.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Tap Equip Item.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Equip</Tasks.10.UiData.Name>
+			<Tasks.12.TaskDesc>Tap to equip Talisman of Supreme Yang.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Tap to add the amount</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Confirm to select</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Wait for it to be equipped.</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>A disciple can equip a talisman or use other methods to increase their temperature, which is the most direct way to deal with extreme weather.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Tap to close the General Stats menu.</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Select the room by clicking the empty area in it.</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>There are many buildings or items that can increase the temperature in an area. The player can use them smartly to deal with extreme weather.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TipsData.Desc>There are more than one types of extreme weather. The player needs to use the items in the game wisely to better handle the other types of extreme weather.</Tasks.22.TipsData.Desc>
+		</Text>
+		<Text Name="Prestige">
+			<Type>Advanced</Type>
+			<DisplayName>Management &amp; Control of Reputation</DisplayName>
+			<Desc>In this tutorial, learn what Talisman of Invisibility is used for and how to use it to lower reputation.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Use of Talisman of Invisibility</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Sect's Reputation</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Inspect Talisman of Invisibility</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Equip Talisman of Invisibility</Chapters.0.Tasks.2>
+			<Tasks.1.TaskDesc>Tap the sect button on the left</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>In the game, more reputation will invite stronger enemies to attack, so the player needs to utilize the items in the game to lower the obtained reputation.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Tap to close the Sect menu.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Click to close the Sect menu.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>The player can obtain the Talisman of Invisibility by drawing. When an inner disciple goes on adventure with an activated Talisman of Invisibility, it can effectively lower the obtained reputation.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Tap and select a disciple.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click Equip Item.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Equip</Tasks.9.UiData.Name>
+			<Tasks.11.TaskDesc>Tap to add the amount</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Confirm to select</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Wait for it to be equipped.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Wait for it to be equipped.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>Reputation to some extent affects the player's sect, so the player can make use of the Talisman of Invisibility to lower the obtained reputation in order to manage the sect's reputation.</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="ShortcutKey">
+			<Type>Advanced</Type>
+			<DisplayName>Hotkeys</DisplayName>
+			<Desc>Learn about the common hotkeys and how to customize hotkeys in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Setting Hotkeys</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check the Hotkeys Menu</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Use Hotkeys</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use Interactive Hotkeys</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Use Hotkeys to Organize a Team</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Use Hotkeys to Move and Attack</Chapters.1.Tasks.2>
+			<Tasks.2.TipsData.Desc>The player can tap System and then Hotkeys to check the Hotkeys menu, where hotkeys can be customized and reset.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Tap to close the Hotkeys menu.</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>The player can adjust the hotkeys to suit their habit and use them accordingly.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Tap and select a disciple.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Use the hotkey F1 for Eat.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Tap to select.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Use the hotkey F2 for Equip Item.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Tap to select.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Hold down the left mouse button and drag to select all the disciples in the room.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Use Left Ctrl and the key 1 to organize them into Team 1.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Right-tap to cancel.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Use the key 1 to choose Team 1.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Use the hotkey {0} for Attack.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Issue the Attack order on the Monster.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Use the hotkey {0} for Move.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Issue a Move order to move to the designated location.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>There are many controls that can be done by hotkeys. The player can adjust them according to their habit. The player can place the cursor on the buttons to check the other hotkeys, so this tutorial will not go into detail about them.</Tasks.23.TipsData.Desc>
+		</Text>
+		<Text Name="Batch">
+			<Type>Advanced</Type>
+			<DisplayName>Batch Task</DisplayName>
+			<Desc>In this tutorial, learn some of the common batch tasks in the game and how to issue them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Basic Batch Tasks</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Eat Elixirs in Batch</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Ban &amp; Cancel Ban in Batch</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Rebuild in Batch</Chapters.0.Tasks.2>
+			<Tasks.4.TipsData.Desc>The player can use Ban in batch to ban some of the items that are not currently needed.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Drag in the target area to issue batch ban command.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Tap the confirm button</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Drag in the target area to issue batch demolish command.</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>The player can use Cancel Ban in batch to cancel the ban on some of the banned items.</Tasks.9.TipsData.Desc>
+			<Tasks.11.TaskDesc>Tap the confirm button</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Drag in the target area to issue batch cancellation</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Drag in the target area to issue batch demolish command.</Tasks.13.TaskDesc>
+			<Tasks.16.TipsData.Desc>The player can use Rebuild in batch to rebuild the damaged buildings.</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Click the rebuild button</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Tap Demolish in the bottom menu.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Drag in the target area to issue batch demolish command.</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>Once the player uses Rebuild in batch, the outer disciples scheduled for construction will automatically go to the damaged buildings and rebuild them.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Click Demolish in the bottom menu.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Drag in the target area to issue batch demolition</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Drag in the target area to issue batch demolish command.</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>Players can demolish buildings in batches using the batch demolition function.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TipsData.Desc>There are other forms of batch tasks in the game, waiting for the player to explore.</Tasks.28.TipsData.Desc>
+		</Text>
+		<Text Name="AreaExpand">
+			<Type>Advanced</Type>
+			<DisplayName>Area Expansion</DisplayName>
+			<Desc>In this tutorial, learn how to quickly expand the various areas in buildings and use area expansion to inherit the area stats.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Area Expansion</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Expand Storage</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Expand Field</Chapters.0.Tasks.1>
+			<Tasks.1.TipsData.Desc>When the storage hits full capacity, the player can expand the area of storage to increase its capacity.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Tap the Build button on the down-left corner to open the Build panel.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Tap the Area page.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Drag to expand the storage.</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Area</Tasks.5.UiData.Name>
+			<Tasks.6.TaskDesc>Exit build mode</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Drag to Resize Storehouse</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Close the build panel</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Select the storage.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Select the storage.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Close the Storage menu.</Tasks.13.TaskDesc>
+			<Tasks.13.UiData.Name>Filter</Tasks.13.UiData.Name>
+			<Tasks.14.TipsData.Desc>An expanded storage will keep the filter settings of the original storage.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Close the Storage menu.</Tasks.15.TaskDesc>
+			<Tasks.17.TipsData.Desc>When the area of the field can no longer satisfy the inner disciples' needs, the player can expand the field to increase the acreage of the area for plants.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Tap Field to begin field planning.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Expand the field by drag.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Exit build mode</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Area</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Click Field to begin field planning.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Close the build panel</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Tap Censer.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Select a workstation to show its status below.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Select the field.</Tasks.27.TaskDesc>
+			<Tasks.28.TipsData.Desc>An expanded field will keep the plant settings of the original field.</Tasks.28.TipsData.Desc>
+			<Tasks.28.TipsData.Name>Grow Plants</Tasks.28.TipsData.Name>
+			<Tasks.30.TipsData.Desc>There are similar areas in the game that can be expanded in this way, so this tutorial will not go into detail about them.</Tasks.30.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>

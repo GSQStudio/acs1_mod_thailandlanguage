@@ -1,0 +1,381 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="CollectionAndProcessing">
+			<Type>Basic</Type>
+			<DisplayName>Material Acquisition and Processing</DisplayName>
+			<Desc>Learn basic material acquisition and processing in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Lumber Collection</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Use a Chop order</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Issue Chop on a Target</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Batch Chop</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Material Processing</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Create a workstation</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Process Materials</Chapters.1.Tasks.1>
+			<Tasks.2.TaskDesc>Tap the target tree and issue a Chop order.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Tap the cancel button to leave the chop selection state.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Click the Cancel button to deselect the chopping target</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Wait until chopping is complete.</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Tap Chop and begin chopping down the tree.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Wait until chopping is complete.</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Chop</Tasks.12.UiData.Name>
+			<Tasks.13.TaskDesc>Wait until chopping is complete.</Tasks.13.TaskDesc>
+			<Tasks.17.TaskDesc>Tap Confirm to issue the order</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Drag and select a target area to issue Chop in batch.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Wait until chopping is complete.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Wait until chopping is complete.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>The tutorial uses lumber collection as an example, and other materials such as ores, metal, food, etc. are collected in a similar way, which the player will experience in the game.</Tasks.23.TipsData.Desc>
+			<Tasks.25.TaskDesc>Tap Workstation to begin the placing mode.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Place the workstation at the designated location.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Confirm build</Tasks.27.TaskDesc>
+			<Tasks.27.UiData.Name>Work</Tasks.27.UiData.Name>
+			<Tasks.28.TaskDesc>Exit build mode</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Place the workstation at the designated location.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Close the build panel</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Tap Censer.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Select a workstation to show its status below.</Tasks.33.TaskDesc>
+			<Tasks.36.TaskDesc>Tap Loop 10x</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Tap Close to close the Produce page.</Tasks.37.TaskDesc>
+			<Tasks.37.UiData.Name>Produce</Tasks.37.UiData.Name>
+			<Tasks.38.TaskDesc>Wait until the production is complete.</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Click Loop 10x</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Click Close to close the Produce page.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Wait until the production is complete.</Tasks.41.TaskDesc>
+			<Tasks.43.TipsData.Desc>Material processing is normally done in corresponding buildings, and Workstation in this tutorial is only the basic material processing station. As the game progresses, the player will unlock more specific material processing stations such as Wood Processing Station, Stone Processing Station, Furnace, etc. for more efficient material processing.</Tasks.43.TipsData.Desc>
+		</Text>
+		<Text Name="BuildRoom">
+			<Type>Basic</Type>
+			<DisplayName>Room Construction</DisplayName>
+			<Desc>Learn basic room construction in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Room Planning</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Construct a Room</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Set an Entrance for the Room</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Place Furniture</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Place Decorations</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Wait until the construction is complete.</Chapters.0.Tasks.4>
+			<Chapters.1.DisplayName>Room Arrangement &amp; Related Stats</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Select a Resident</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Room Stats</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Tap the Target button</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Select the Material tab and check all the materials</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Material</Tasks.2.UiData.Name>
+			<Tasks.3.TipsData.Desc>We have enough resources, now let's use them to build a room for characters to live in.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Close the Target panel</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Tap Build in the bottom left corner to open the Build page.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Tap Wall to begin the placing mode.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Drag and place the wall at the designated location.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Build the wall at the designated position through Point mode.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Select the eraser mode to erase a wall and leave a place for the door.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Tap to erase the wall</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Tap to erase the wall</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Confirm Erase</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Confirm Deletion</Tasks.13.TaskDesc>
+			<Tasks.16.TaskDesc>Put the door on the right place through the point mode.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Place the door at the specified location indicated by the system by clicking.</Tasks.17.TaskDesc>
+			<Tasks.20.TaskDesc>Tap Bed to begin the placing mode.</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Life</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Place the bed at the designated location.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Place the bed at the designated location.</Tasks.22.TaskDesc>
+			<Tasks.25.TaskDesc>Tap Oil Lamp to begin the placing mode.</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Decoration</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>Place the Oil Lamp at the designated location.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Place the Oil Lamp at the designated location.</Tasks.27.TaskDesc>
+			<Tasks.32.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>Wait until the construction is complete.</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>After the tutorial for room planning, the player can plan other rooms according to their needs, but remember that the largest size of a room is 400 and the smallest is 3.</Tasks.37.TipsData.Desc>
+			<Tasks.39.TaskDesc>Tap to assign ownership.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Tap the first character and arrange the bed for him.</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>Assign</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>Confirm the arrangement.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Confirm the arrangement.</Tasks.42.TaskDesc>
+			<Tasks.44.TaskDesc>Select the room by clicking the empty area in it.</Tasks.44.TaskDesc>
+			<Tasks.45.TipsData.Desc>The player can use this to check the current temperature in the room.</Tasks.45.TipsData.Desc>
+			<Tasks.46.TipsData.Desc>The player can use this to check the effect of the room.</Tasks.46.TipsData.Desc>
+			<Tasks.47.TipsData.Desc>The player can use this to check the layout of the room.</Tasks.47.TipsData.Desc>
+			<Tasks.48.TipsData.Desc>The player can use this to check the attractiveness of the room.</Tasks.48.TipsData.Desc>
+			<Tasks.49.TipsData.Desc>Having a room is one of the most basic needs for disciples. It is important to provide a comfortable room for disciples.</Tasks.49.TipsData.Desc>
+			<Tasks.50.TipsData.Desc>Having a room is one of the most basic needs for disciples. It is important to provide a comfortable room for disciples.</Tasks.50.TipsData.Desc>
+		</Text>
+		<Text Name="ExploreMap">
+			<Type>Basic</Type>
+			<DisplayName>Exploration</DisplayName>
+			<Desc>Learn basic exploration in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>First Exploration</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Issue an Explore Order</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Inspect the Creature and Box Found</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Second Exploration</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Keep Exploring</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Inspect the Soil and Ores Found</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Third Exploration</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Keep Exploring</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Inspect the Plant Found</Chapters.2.Tasks.1>
+			<Tasks.2.TaskDesc>Tap the fogged in the bottom left corner to issue an Explore task.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Click the fogged in the bottom left corner to issue an Explore task.</Tasks.3.TaskDesc>
+			<Tasks.6.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Wait until the exploration is complete.</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Click the cargo box found in the exploration.</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Resources are found during exploration. Open them using the interactive button.</Tasks.12.TipsData.Desc>
+			<Tasks.12.TipsData.Name>Search</Tasks.12.TipsData.Name>
+			<Tasks.13.TaskDesc>Click the rabbit found in the exploration.</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Some wild animal is found. Hunt or tame it to obtain resources.</Tasks.14.TipsData.Desc>
+			<Tasks.16.TipsData.Desc>Useful resources and animals can be found during exploration. The player can acquire these resources in the early stages and the animals can be used to hunt or farm.</Tasks.16.TipsData.Desc>
+			<Tasks.20.TaskDesc>Wait until the exploration is complete.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Wait until the exploration is complete.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Tap the ore vein found in the exploration.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Check the tile information.</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>This is a fertile soil that can be used for farming.</Tasks.26.TipsData.Desc>
+			<Tasks.27.TaskDesc>View Land Information.</Tasks.27.TaskDesc>
+			<Tasks.28.TipsData.Desc>Ore veins and fertile soils can be found during exploration. The player can use them for mining and farming if needed.</Tasks.28.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>Ore veins and fertile soils can be found during exploration. The player can use them for mining and farming if needed.</Tasks.30.TipsData.Desc>
+			<Tasks.34.TaskDesc>Wait until the exploration is complete.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Click the fogged area in the top left corner to issue an Explore task.</Tasks.35.TaskDesc>
+			<Tasks.37.TaskDesc>Tap the giant ginkgo found in the exploration.</Tasks.37.TaskDesc>
+			<Tasks.40.TaskDesc>Click the giant ginkgo found in the exploration.</Tasks.40.TaskDesc>
+			<Tasks.41.TipsData.Desc>Giant ginkgo is not only beautiful but can also gather Qi. It is a helpful and rare resource for the early stage of training.</Tasks.41.TipsData.Desc>
+			<Tasks.42.TaskDesc>Click the lotus found in the exploration.</Tasks.42.TaskDesc>
+			<Tasks.43.TipsData.Desc>In the early stages, lotus is an affordable resource for food.</Tasks.43.TipsData.Desc>
+			<Tasks.45.TipsData.Desc>The player can use Explore to gradually search all the areas in the map and discover new resources, soils, animals, etc.</Tasks.45.TipsData.Desc>
+		</Text>
+		<Text Name="BaseSave">
+			<Type>Basic</Type>
+			<DisplayName>Basic Survival</DisplayName>
+			<Desc>Learn basic survival in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Obtain Water</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Build Wells</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>How to Hunt</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use Hunt Order in Character Menu</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Use Hunt Order in Prey's Menu</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Post batch Hunt command</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>How to Farm</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Select a Field</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Select Crops</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Tap Build in the bottom left corner to open the Build page.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Tap Work to open the Work Buildings page.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Tap Well.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Work</Tasks.3.UiData.Name>
+			<Tasks.4.TaskDesc>Place the well at the designated location.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Confirm build</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Exit build mode</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Tap Censer.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Select a workstation to show its status below.</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Wait until the construction is complete.</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>Wells can provide a source of clean water for characters. Water can also be stored in a water vat for contingencies.</Tasks.13.TipsData.Desc>
+			<Tasks.16.TaskDesc>Click the hunting button below</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Click the hen in the top right corner to hunt it.</Tasks.17.TaskDesc>
+			<Tasks.20.TaskDesc>Click the rabbit nearby.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Click to select an animal to be Hunted.</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Hunt</Tasks.21.UiData.Name>
+			<Tasks.25.TaskDesc>Click the hunting button below</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Wait until hunting is complete.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.30.TaskDesc>
+			<Tasks.32.TaskDesc>Wait until hunting is complete.</Tasks.32.TaskDesc>
+			<Tasks.34.TipsData.Desc>Use Hunt to quickly obtain food. But the number of animals is limited and their breeding rate is slow, so farming is necessary for constant resources of food.</Tasks.34.TipsData.Desc>
+			<Tasks.36.TaskDesc>Select a field in the designated fertile soil.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Exit build mode</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Click the Area page.</Tasks.38.TaskDesc>
+			<Tasks.38.UiData.Name>Area</Tasks.38.UiData.Name>
+			<Tasks.39.TaskDesc>Close the build panel</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Select a field in the designated fertile soil.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Tap Censer.</Tasks.41.TaskDesc>
+			<Tasks.43.TaskDesc>Tap the interactive button Grow Plants.</Tasks.43.TaskDesc>
+			<Tasks.46.TaskDesc>Select a plant and tap the confirm button.</Tasks.46.TaskDesc>
+			<Tasks.47.TaskDesc>Click the interactive button Grow Plants.</Tasks.47.TaskDesc>
+			<Tasks.47.UiData.Name>Grow Plants</Tasks.47.UiData.Name>
+			<Tasks.48.TaskDesc>Players can click on wheat to view information about wheat farming.</Tasks.48.TaskDesc>
+			<Tasks.49.TipsData.Desc>View information about wheat</Tasks.49.TipsData.Desc>
+			<Tasks.50.TaskDesc>Select a plant and then click confirm</Tasks.50.TaskDesc>
+			<Tasks.52.TipsData.Desc>There are many kinds of food in the game. Not only can crops grow in soil, they can also grow in water.</Tasks.52.TipsData.Desc>
+		</Text>
+		<Text Name="StrongArea">
+			<Type>Basic</Type>
+			<DisplayName>Storage Planning</DisplayName>
+			<Desc>Learn basic storage planning in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Plan the First Storage</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Select a Storage</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Filter</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Plan the Second Storage</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Plan a Storage</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Filter</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Set a Low Temperature Storage</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Check Temperature of Storage</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Place a Temperature-lowering Item</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Check Temperature of Storage Again</Chapters.2.Tasks.2>
+			<Tasks.1.TipsData.Desc>Different resources are located in different areas, and as their number increases, it will be inconvenient for the player to access them, so storage is used to categorize and manage resources.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TipsData.Desc>First, let's plan an area for materials and tools in the middle, so it will be easy to access them as your sect expands to all directions.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Tap Build in the bottom left corner to open the Build page.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Tap the Area page.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Tap Storage to begin storage planning.</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Area</Tasks.5.UiData.Name>
+			<Tasks.6.TaskDesc>Select a storage in the designated area.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Exit build mode</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Tap Censer.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Select a workstation to show its status below.</Tasks.10.TaskDesc>
+			<Tasks.13.TaskDesc>Tap the Filter button to open the storage panel.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Click the Storage Filter button to open the Storage Filter page</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Filter</Tasks.14.UiData.Name>
+			<Tasks.15.TipsData.Desc>Filter can be used to plan a detailed storage that allows items to be stored according to their type, elemental attribute, tier and quality. Remember, when multiple storages are put together, the filter of a single storage will not be applied to the others.</Tasks.15.TipsData.Desc>
+			<Tasks.16.TaskDesc>Tap Close to close this panel</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>Some resources will spoil as time progresses, so we need a low temperature storage for this type of resources.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TipsData.Desc>Next, we will plan a storage area for food near the kitchen for more efficient access while cooking, and a closed room helps to adjust the temperature for better storage of food.</Tasks.21.TipsData.Desc>
+			<Tasks.22.TaskDesc>Tap the Area page.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Tap Storage to begin storage planning.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Drag and select a storage in the designated area.</Tasks.24.TaskDesc>
+			<Tasks.24.UiData.Name>Area</Tasks.24.UiData.Name>
+			<Tasks.25.TaskDesc>Exit build mode</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Drag and select a storage in the designated area.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Close the build panel</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Select a workstation to show its status below.</Tasks.29.TaskDesc>
+			<Tasks.32.TaskDesc>Tap Tool to leave out all tools.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Tap Misc. to leave out miscellaneous resources.</Tasks.33.TaskDesc>
+			<Tasks.33.UiData.Name>Filter</Tasks.33.UiData.Name>
+			<Tasks.34.TaskDesc>Tap Material to leave out all materials.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Tap Equipment to leave out all equipment.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Tap Cultivation to leave out cultivation-related resources.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Tap Close to close this panel</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>After a while, the disciples will store the items according to their category.</Tasks.41.TaskDesc>
+			<Tasks.43.TaskDesc>After a while, the disciples will store the items according to their category.</Tasks.43.TaskDesc>
+			<Tasks.45.TipsData.Desc>Once there are too many items in store, the player can expand and plan other storages for more detailed management and easier access to the info of resources.</Tasks.45.TipsData.Desc>
+			<Tasks.47.TaskDesc>Double-click to select the room containing Warehouse 2</Tasks.47.TaskDesc>
+			<Tasks.48.TipsData.Desc>Because a room is a closed area, room temperature can be adjusted by placing a source of heat.</Tasks.48.TipsData.Desc>
+			<Tasks.50.TaskDesc>Tap Ice Crystal Ore.</Tasks.50.TaskDesc>
+			<Tasks.51.TaskDesc>Confirm build</Tasks.51.TaskDesc>
+			<Tasks.51.UiData.Name>Place Item</Tasks.51.UiData.Name>
+			<Tasks.52.TaskDesc>Select another Display.</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Tap Place.</Tasks.53.TaskDesc>
+			<Tasks.54.TaskDesc>Tap Ice Crystal Ore.</Tasks.54.TaskDesc>
+			<Tasks.55.TaskDesc>Confirm build</Tasks.55.TaskDesc>
+			<Tasks.55.UiData.Name>Place Item</Tasks.55.UiData.Name>
+			<Tasks.56.TaskDesc>Wait for them to be placed.</Tasks.56.TaskDesc>
+			<Tasks.57.TaskDesc>Tap Place.</Tasks.57.TaskDesc>
+			<Tasks.58.TaskDesc>Tap twice to select the room where the Storage 2 is in.</Tasks.58.TaskDesc>
+			<Tasks.60.TaskDesc>Double-click to select the room containing Warehouse 2</Tasks.60.TaskDesc>
+			<Tasks.61.TaskDesc>Wait for 5 seconds, observe the change in room temperature</Tasks.61.TaskDesc>
+			<Tasks.62.TipsData.Desc>Now we've secured food and other materials in separate storages. As the game progresses, it may require more detailed categorization, which can be realized by Filter.</Tasks.62.TipsData.Desc>
+			<Tasks.64.TipsData.Desc>Now we've secured food and other materials in separate storages. As the game progresses, it may require more detailed categorization, which can be realized by Filter.</Tasks.64.TipsData.Desc>
+		</Text>
+		<Text Name="MemberExpansion">
+			<Type>Basic</Type>
+			<DisplayName>Expanding</DisplayName>
+			<Desc>Learn basic expanding in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Accept a New Member</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check the Event for Refugees</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Issue an Accept Order</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Arrange Work for the New Member</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Assign a Suitable Job</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Provide Tools</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Equip Tools</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Meet the New Member's Needs</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Inspect Needs</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Select a Bed and Room</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Wait for the event for accepting refugees to pop up.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Tap Confirm.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>In the game, there will be refugees asking to join the sect. It is a good opportunity for expansion, but growing too fast will put pressure on infrastructure and food provision, so please consider carefully.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Select the refugee.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Tap the adopt on the character panel.</Tasks.6.TaskDesc>
+			<Tasks.6.UiData.Name>Accept</Tasks.6.UiData.Name>
+			<Tasks.7.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Wait until your people accept this character.</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>You've gained a new character. Each character excels at a type of work. Open the Work Schedule menu and arrange suitable work for each character.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TaskDesc>Tap to open the Work Schedule menu.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Long press to see the character's ablity for this job. Try to pick the best one to do the job.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Because the first character has the best ability to be a healer, tap the third character's healer position to cancel it.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Because the third character has the best ability to be a miner, tap the first character's miner position to cancel it. </Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Because the third character has the best ability to be a miner, click the first character's miner position to cancel it.</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Close this page.</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>You've assigned work for the characters, and providing a suitable tool can greatly improve their work efficiency.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Tap Produce.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Make a pickaxe.</Tasks.24.TaskDesc>
+			<Tasks.24.UiData.Name>Produce</Tasks.24.UiData.Name>
+			<Tasks.25.TaskDesc>Make a pickaxe.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Close the Produce page.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Wait until the production is complete.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Wait until the production is complete.</Tasks.28.TaskDesc>
+			<Tasks.30.TaskDesc>Select a character that needs the pickaxe.</Tasks.30.TaskDesc>
+			<Tasks.32.TaskDesc>Tap Pickaxe.</Tasks.32.TaskDesc>
+			<Tasks.32.UiData.Name>Equip</Tasks.32.UiData.Name>
+			<Tasks.33.TaskDesc>Tap to increase the amount</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Confirm to equip</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Wait until the character equips the pickaxe.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Wait until the character equips the pickaxe.</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>Assigning a suitable job to a new disciple helps improve work efficiency for the whole sect. When arranging different jobs, different tools should be provided to disciples to increase their individual efficiency.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>If a character's needs are not met, their moods will be negatively affected, which lowers their work efficiency and even makes them slack in work. Now let's see what the new character needs.</Tasks.40.TipsData.Desc>
+			<Tasks.41.TaskDesc>Tap to open the character panel</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Open the mood tab</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Click the Mood tab</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>The character needs a room. Arrange a spare room for him.</Tasks.44.TipsData.Desc>
+			<Tasks.44.TipsData.Name>Room Needed</Tasks.44.TipsData.Name>
+			<Tasks.45.TaskDesc>Close Character Panel</Tasks.45.TaskDesc>
+			<Tasks.47.TaskDesc>Tap to assign ownership.</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Tap the first character and arrange the bed for him.</Tasks.48.TaskDesc>
+			<Tasks.48.UiData.Name>Assign</Tasks.48.UiData.Name>
+			<Tasks.49.TaskDesc>Confirm the arrangement.</Tasks.49.TaskDesc>
+			<Tasks.50.TaskDesc>Confirm the arrangement.</Tasks.50.TaskDesc>
+			<Tasks.52.TipsData.Desc>Pay careful attention to the characters' moods and satisfy their needs to ensure that the sect runs more efficiently. Besides waiting for refugees to join, the player can send inner disciples out to find new characters to join or participate in special events to recruit new disciples after establishing the sect. The player can explore these advanced contents while playing the game.</Tasks.52.TipsData.Desc>
+		</Text>
+		<Text Name="Treatment">
+			<Type>Basic</Type>
+			<DisplayName>Healing for Outer Disciples</DisplayName>
+			<Desc>Learn basic healing in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Making and Storage of Medicine</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Medical Supplies</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Arrange a Healer</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Make Medicine</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Heal an Injured Disciple</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Inspect the Injury</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Set Special Priority</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Inspect the Injury Again</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Tap the Target button</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Select medicine tab to see details</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Medicine</Tasks.2.UiData.Name>
+			<Tasks.3.TipsData.Desc>Each medicine in the game has its own effect, for example, Healing Balm treats wounds, Bone Healing Balm treats bone fractures, Healing Pill treats internal organs, etc. When the medical supplies are insufficient, injured disciples might not be treated in time, so please pay close attention to the storage of medicine.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Close the Target menu</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Tap to open the Work Schedule menu.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Players can see skill requirements and works of a healer through long press the Healer Work.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Because the second disciple has the best ability to be a healer, select the disciple to be a healer and tap to activate.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Close this page. </Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Close this page.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Tap the interactive button Produce on the table.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Tap the Healing Balm</Tasks.13.TaskDesc>
+			<Tasks.13.UiData.Name>Produce</Tasks.13.UiData.Name>
+			<Tasks.14.TaskDesc>Click on Healing Balm</Tasks.14.TaskDesc>
+			<Tasks.15.TipsData.Desc>View the production instructions and effects of Healing Balm.</Tasks.15.TipsData.Desc>
+			<Tasks.16.TaskDesc>Tap to close the Produce page on the table.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Tap the speed switch in the bottom-right corner, and switch to the highest speed.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Wait until the Healing Balm is made.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>There are not many herbs in the wild, so the player can plan a herb garden in advance to ensure a steady supply of herbs.</Tasks.23.TipsData.Desc>
+			<Tasks.26.TaskDesc>Tap the message that someone injured</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Click the message about the character being injured</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Tap to opend the injured guy's character panel.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Tap the health tab</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>You can check changes of the wound by long pressing the Infection area.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>You can tap the "Left thigh bone" area to check the injury type and effects.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Tap to close the Health menu.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Click to close the Health menu.</Tasks.34.TaskDesc>
+			<Tasks.36.TaskDesc>Tap and activate the position Healer.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Tap Top Priority to open the drop-down list.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Tap Healer to set the position as top priority. </Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Close this page. </Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Wait until healing is complete. </Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Close this page.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Wait until healing is complete.</Tasks.42.TaskDesc>
+			<Tasks.43.TipsData.Desc>When a disciple set as the healer is injured, it is possible that no character will treat the disciple. The player can assign the healer's job to another disciple and adjust the work schedule and priority, or interrupt any disciple's current action, in order to treat the injured disciple.</Tasks.43.TipsData.Desc>
+			<Tasks.45.TaskDesc>Tap the health tab</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>We can see that the injury is healing, which means the disciple has been effectively treated.</Tasks.46.TaskDesc>
+			<Tasks.47.TaskDesc>You can check changes of the wound by long pressing the Infection area.</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>We can see that the injury is healing, which means the disciple has been effectively treated.</Tasks.48.TaskDesc>
+			<Tasks.50.TipsData.Desc>There are other items in the game that improve healing effects, such as talismans and acupuncture, waiting for the player to explore.</Tasks.50.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>
