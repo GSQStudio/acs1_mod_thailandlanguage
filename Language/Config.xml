@@ -1,7 +1,7 @@
 <Languages><List>
-	<Language Name="OfficialThailand">
+	<Language Name="Th">
 		<DisplayName>ภาษาไทย</DisplayName>
-		<Icon>thflag</Icon>
+		<Icon>thflag.png</Icon>
 		<!--0:CNMODE 1:ENMODE-->
 		<UIMode>1</UIMode>
 		<Desc>Language Example</Desc>
