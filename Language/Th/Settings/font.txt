@@ -1,1 +1,1 @@
-Droid Sans Fallback,LTHYSZK,Helvetica-Bold,Microsoft YaHei,SimHei,SourceHanSerifSC-Bold
+Microsoft YaHei,Droid Sans Fallback,LTHYSZK,Helvetica-Bold,SimHei,SourceHanSerifSC-Bold
