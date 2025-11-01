@@ -1,1 +1,1 @@
-Microsoft YaHei,Droid Sans Fallback,LTHYSZK,Helvetica-Bold,SimHei,SourceHanSerifSC-Bold
+NotoSansThai-VariableFont_wdth,wght.
